@@ -42,6 +42,13 @@ body {
   align-items: center;
   margin-bottom: 0.8rem;
 }
+.badge-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
 .badge {
   font-weight: 700;
   color: #134e4a;
@@ -49,6 +56,14 @@ body {
   border-radius: 999px;
   padding: 0.35rem 0.7rem;
   font-size: 0.84rem;
+}
+.source-badge {
+  font-size: 0.78rem;
+  color: #40515f;
+  border: 1px solid #d2dce6;
+  background: #f4f8fc;
+  border-radius: 999px;
+  padding: 0.3rem 0.62rem;
 }
 .controls-panel { padding: 1.1rem; }
 .choice-list {
@@ -77,6 +92,10 @@ body {
   border-radius: 9px;
   padding: 0.45rem 0.72rem;
   cursor: pointer;
+}
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
 }
 .path {
   margin-top: 1rem;

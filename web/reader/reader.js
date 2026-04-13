@@ -17,6 +17,7 @@ function ReaderApp() {
   const [currentPage, setCurrentPage] = useState(2);
   const [path, setPath] = useState([2]);
   const [error, setError] = useState("");
+  const [sourceLabel, setSourceLabel] = useState("web/data");
 
   useEffect(() => {
     const localRaw = localStorage.getItem(AUTHORED_STORAGE_KEY);
@@ -36,6 +37,7 @@ function ReaderApp() {
           const start = normalizedPages.pages[2] ? 2 : normalizedPages.pageIds[0];
           setCurrentPage(start);
           setPath([start]);
+          setSourceLabel("local draft");
           return;
         }
       } catch {
@@ -50,6 +52,7 @@ function ReaderApp() {
         const start = pages.pages[2] ? 2 : pages.pageIds[0];
         setCurrentPage(start);
         setPath([start]);
+        setSourceLabel("web/data");
       })
       .catch(() => {
         setError("Could not load story data. Rebuild web/data or clear invalid local draft.");
@@ -78,6 +81,13 @@ function ReaderApp() {
     setPath([start]);
   }
 
+  function stepBack() {
+    if (path.length <= 1) return;
+    const nextPath = path.slice(0, -1);
+    setPath(nextPath);
+    setCurrentPage(nextPath[nextPath.length - 1]);
+  }
+
   if (error) {
     return <div className="reader-layout"><div className="panel story-panel"><div className="error">{error}</div></div></div>;
   }
@@ -87,7 +97,10 @@ function ReaderApp() {
       <section className="panel story-panel">
         <div className="meta-row">
           <h1>The Cave of Time Reader</h1>
-          <span className="badge">Page {currentPage}</span>
+          <div className="badge-wrap">
+            <span className="badge">Page {currentPage}</span>
+            <span className="source-badge">Source: {sourceLabel}</span>
+          </div>
         </div>
         <div className="story-text">{currentText}</div>
       </section>
@@ -108,7 +121,7 @@ function ReaderApp() {
 
         <div className="actions">
           <button className="btn" onClick={restart}>Restart</button>
-          <button className="btn" onClick={() => history.back()}>Back</button>
+          <button className="btn" onClick={stepBack} disabled={path.length <= 1}>Back One Choice</button>
         </div>
 
         <div className="path">

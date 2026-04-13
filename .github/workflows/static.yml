@@ -1,12 +1,8 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+# Legacy fallback workflow for manual static deployment.
+name: Deploy static content to Pages (Legacy Manual)
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+  # Legacy fallback only; primary deploy pipeline is deploy-pages.yml.
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages

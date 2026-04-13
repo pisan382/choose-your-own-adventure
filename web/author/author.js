@@ -1,4 +1,4 @@
-const { useEffect, useMemo, useState } = React;
+const { useEffect, useMemo, useRef, useState } = React;
 
 const AUTHORED_STORAGE_KEY = "cya.authoredStory.v1";
 
@@ -69,12 +69,15 @@ function graphFromPages(pages) {
     adjacency[id] = [];
     incoming[id] = [];
   }
+  const idSet = new Set(ids);
+
   for (const id of ids) {
     const choices = pages[id].choices || [];
     for (const c of choices) {
-      if (!ids.includes(Number(c.target))) continue;
-      if (!adjacency[id].includes(Number(c.target))) {
-        adjacency[id].push(Number(c.target));
+      const target = Number(c.target);
+      if (!idSet.has(target)) continue;
+      if (!adjacency[id].includes(target)) {
+        adjacency[id].push(target);
       }
     }
   }
@@ -123,6 +126,11 @@ function AuthorApp() {
   const [targetDraft, setTargetDraft] = useState("");
   const [statusMsg, setStatusMsg] = useState("");
   const [pdfMode, setPdfMode] = useState("extension");
+  const [zoom, setZoom] = useState(0.78);
+  const [pan, setPan] = useState({ x: 44, y: 44 });
+  const [isPanning, setIsPanning] = useState(false);
+  const graphWrapRef = useRef(null);
+  const panStartRef = useRef(null);
 
   useEffect(() => {
     Promise.all([
@@ -142,7 +150,11 @@ function AuthorApp() {
         }
 
         let nextPages = basePages;
-        let nextGraph = { nodeIds: graphData.nodeIds.map(Number), adjacency: graphData.adjacency, incoming: graphData.incoming };
+        let nextGraph = {
+          nodeIds: graphData.nodeIds.map(Number),
+          adjacency: graphData.adjacency,
+          incoming: graphData.incoming,
+        };
 
         const savedRaw = localStorage.getItem(AUTHORED_STORAGE_KEY);
         if (savedRaw) {
@@ -192,7 +204,14 @@ function AuthorApp() {
         }
       }
     }
-    return { unfinished, terminals, converge, similarEndings };
+
+    const overlapEndingSet = new Set();
+    for (const pair of similarEndings) {
+      overlapEndingSet.add(pair.a);
+      overlapEndingSet.add(pair.b);
+    }
+
+    return { unfinished, terminals, converge, similarEndings, overlapEndingSet };
   }, [graph, pages]);
 
   const layout = useMemo(() => {
@@ -203,18 +222,61 @@ function AuthorApp() {
       if (!byLevel[lv]) byLevel[lv] = [];
       byLevel[lv].push(id);
     }
+
     const pos = {};
     const levelKeys = Object.keys(byLevel).map(Number).sort((a, b) => a - b);
-    const xGap = 170;
-    const yGap = 78;
+    const xGap = 210;
+    const yGap = 92;
     for (const lv of levelKeys) {
       const ids = byLevel[lv].sort((a, b) => a - b);
       ids.forEach((id, idx) => {
-        pos[id] = { x: 80 + lv * xGap, y: 50 + idx * yGap };
+        pos[id] = { x: 100 + lv * xGap, y: 70 + idx * yGap };
       });
     }
-    return pos;
+
+    const maxRows = Math.max(...Object.values(byLevel).map((ids) => ids.length), 1);
+    const width = Math.max(2800, 280 + levelKeys.length * xGap + 320);
+    const height = Math.max(1700, 220 + maxRows * yGap + 280);
+    return { pos, width, height };
   }, [graph]);
+
+  function fitGraph() {
+    const host = graphWrapRef.current;
+    if (!host || !layout.width || !layout.height) return;
+    const usableW = Math.max(host.clientWidth - 36, 220);
+    const usableH = Math.max(host.clientHeight - 36, 220);
+    const nextZoom = Math.min(2.2, Math.max(0.45, Math.min(usableW / layout.width, usableH / layout.height)));
+    setZoom(Number(nextZoom.toFixed(3)));
+    setPan({ x: 18, y: 18 });
+  }
+
+  function zoomBy(factor) {
+    setZoom((z) => Number(Math.min(3.5, Math.max(0.45, z * factor)).toFixed(3)));
+  }
+
+  function beginPan(e) {
+    if (e.button !== 0) return;
+    setIsPanning(true);
+    panStartRef.current = { x: e.clientX, y: e.clientY };
+  }
+
+  function movePan(e) {
+    if (!isPanning || !panStartRef.current) return;
+    const dx = (e.clientX - panStartRef.current.x) / Math.max(zoom, 0.01);
+    const dy = (e.clientY - panStartRef.current.y) / Math.max(zoom, 0.01);
+    setPan((prev) => ({ x: prev.x + dx, y: prev.y + dy }));
+    panStartRef.current = { x: e.clientX, y: e.clientY };
+  }
+
+  function endPan() {
+    setIsPanning(false);
+    panStartRef.current = null;
+  }
+
+  function handleWheelZoom(e) {
+    e.preventDefault();
+    zoomBy(e.deltaY < 0 ? 1.11 : 0.9);
+  }
 
   function syncGraph(updatedPages) {
     const nextGraph = graphFromPages(updatedPages);
@@ -303,6 +365,22 @@ function AuthorApp() {
     }
   }
 
+  async function saveToServer() {
+    try {
+      const res = await fetch("/api/author/save", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ pages, graph, savedAt: new Date().toISOString() }),
+      });
+      if (!res.ok) {
+        throw new Error(`Server returned ${res.status}`);
+      }
+      setStatusMsg("Saved to backend at web/data/authored-story.json.");
+    } catch {
+      setStatusMsg("Backend save failed. Run the Node server for /api/author/save or use Export/Save Local.");
+    }
+  }
+
   function clearLocalDraft() {
     localStorage.removeItem(AUTHORED_STORAGE_KEY);
     setStatusMsg("Cleared local draft. Reader will use default web/data files.");
@@ -330,6 +408,21 @@ function AuthorApp() {
     }
 
     pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.4.168/pdf.worker.min.mjs";
+
+    let uploadSuffix = "";
+    try {
+      const form = new FormData();
+      form.append("pdf", file);
+      const uploadRes = await fetch("/api/upload/pdf", { method: "POST", body: form });
+      if (uploadRes.ok) {
+        const uploaded = await uploadRes.json();
+        uploadSuffix = ` Uploaded to server as ${uploaded.fileName}.`;
+      } else {
+        uploadSuffix = " Server upload unavailable in static mode.";
+      }
+    } catch {
+      uploadSuffix = " Server upload unavailable in static mode.";
+    }
 
     const data = await file.arrayBuffer();
     const pdf = await pdfjsLib.getDocument({ data }).promise;
@@ -359,7 +452,7 @@ function AuthorApp() {
     const first = Object.keys(next).map(Number).sort((a, b) => a - b)[0] || null;
     setSelectedId(first);
     localStorage.setItem(AUTHORED_STORAGE_KEY, JSON.stringify({ pages: next, graph: rebuilt, savedAt: new Date().toISOString() }));
-    setStatusMsg(`Imported ${pdf.numPages} PDF pages in ${pdfMode} mode and saved locally.`);
+    setStatusMsg(`Imported ${pdf.numPages} PDF pages in ${pdfMode} mode and saved locally.${uploadSuffix}`);
   }
 
   return (
@@ -381,6 +474,7 @@ function AuthorApp() {
                   {c.unfinished && <span className="pill unfinished">unfinished</span>}
                   {c.terminal && <span className="pill terminal">terminal</span>}
                   {c.converge && <span className="pill converge">converge</span>}
+                  {grouped.overlapEndingSet.has(id) && <span className="pill overlap">overlap</span>}
                 </div>
               </div>
             );
@@ -403,6 +497,9 @@ function AuthorApp() {
           <button className="btn" onClick={saveLocally}>Save Local</button>
         </div>
         <div className="row">
+          <button className="btn" onClick={saveToServer}>Save To Server</button>
+        </div>
+        <div className="row">
           <button className="btn ghost" onClick={clearLocalDraft}>Clear Local Draft</button>
         </div>
         <p className="small">{statusMsg}</p>
@@ -410,37 +507,66 @@ function AuthorApp() {
 
       <section className="panel">
         <h2>Live Graph</h2>
-        <div className="graph-wrap">
-          <svg viewBox="0 0 1800 1000">
-            {graph.nodeIds.map((src) => (graph.adjacency[src] || []).map((dst) => {
-              const a = layout[src];
-              const b = layout[dst];
-              if (!a || !b) return null;
-              return <line key={`${src}-${dst}`} x1={a.x + 40} y1={a.y + 20} x2={b.x} y2={b.y + 20} stroke="#94a3b8" strokeWidth="1.8" />;
-            }))}
+        <div className="row graph-controls">
+          <button className="btn" onClick={() => zoomBy(1.15)}>Zoom In</button>
+          <button className="btn" onClick={() => zoomBy(0.87)}>Zoom Out</button>
+          <button className="btn" onClick={() => { setZoom(1); setPan({ x: 24, y: 24 }); }}>Reset</button>
+          <button className="btn" onClick={fitGraph}>Fit All Nodes</button>
+          <span className="small graph-meta">Zoom: {(zoom * 100).toFixed(0)}%</span>
+        </div>
+        <div className="graph-wrap" ref={graphWrapRef}>
+          <svg
+            viewBox={`0 0 ${layout.width} ${layout.height}`}
+            onMouseDown={beginPan}
+            onMouseMove={movePan}
+            onMouseUp={endPan}
+            onMouseLeave={endPan}
+            onWheel={handleWheelZoom}
+            style={{ cursor: isPanning ? "grabbing" : "grab" }}
+          >
+            <g transform={`translate(${pan.x} ${pan.y}) scale(${zoom})`}>
+              {graph.nodeIds.map((src) => (graph.adjacency[src] || []).map((dst) => {
+                const a = layout.pos[src];
+                const b = layout.pos[dst];
+                if (!a || !b) return null;
+                return <line key={`${src}-${dst}`} x1={a.x + 40} y1={a.y + 20} x2={b.x} y2={b.y + 20} stroke="#94a3b8" strokeWidth="1.8" />;
+              }))}
 
-            {graph.nodeIds.map((id) => {
-              const p = layout[id];
-              if (!p) return null;
-              const c = classifyNode(id, graph, pages);
-              let fill = "#dbeafe";
-              if (c.unfinished) fill = "#fde68a";
-              if (c.terminal) fill = "#bbf7d0";
-              if (c.converge) fill = "#ddd6fe";
+              {graph.nodeIds.map((id) => {
+                const p = layout.pos[id];
+                if (!p) return null;
+                const c = classifyNode(id, graph, pages);
+                let fill = "#dbeafe";
+                if (c.unfinished) fill = "#fde68a";
+                if (c.terminal) fill = "#bbf7d0";
+                if (c.converge) fill = "#ddd6fe";
+                if (grouped.overlapEndingSet.has(id)) fill = "#fecdd3";
 
-              return (
-                <g key={id} onClick={() => setSelectedId(id)} style={{ cursor: "pointer" }}>
-                  <rect x={p.x} y={p.y} width="80" height="40" rx="8" fill={fill} stroke={id === selectedId ? "#0f172a" : "#64748b"} strokeWidth={id === selectedId ? "2.2" : "1.1"} />
-                  <text x={p.x + 40} y={p.y + 25} textAnchor="middle" fontSize="13">{id}</text>
-                </g>
-              );
-            })}
+                return (
+                  <g key={id} onClick={() => setSelectedId(id)} style={{ cursor: "pointer" }}>
+                    <rect
+                      x={p.x}
+                      y={p.y}
+                      width="80"
+                      height="40"
+                      rx="8"
+                      fill={fill}
+                      stroke={id === selectedId ? "#0f172a" : grouped.overlapEndingSet.has(id) ? "#be123c" : "#64748b"}
+                      strokeWidth={id === selectedId ? "2.2" : grouped.overlapEndingSet.has(id) ? "1.8" : "1.1"}
+                    />
+                    <text x={p.x + 40} y={p.y + 25} textAnchor="middle" fontSize="13">{id}</text>
+                  </g>
+                );
+              })}
+            </g>
           </svg>
         </div>
+        <p className="small graph-help">Drag to pan. Mouse wheel or buttons to zoom.</p>
         <div className="legend">
           <span><span className="dot" style={{ background: "#fde68a" }}></span>Unfinished</span>
           <span><span className="dot" style={{ background: "#bbf7d0" }}></span>Terminal</span>
           <span><span className="dot" style={{ background: "#ddd6fe" }}></span>Converge</span>
+          <span><span className="dot" style={{ background: "#fecdd3" }}></span>Overlapping endings</span>
         </div>
       </section>
 
@@ -484,8 +610,9 @@ function AuthorApp() {
         <h3>Insights</h3>
         <p className="small">Unfinished: {grouped.unfinished.join(", ") || "None"}</p>
         <p className="small">Converge: {grouped.converge.join(", ") || "None"}</p>
+        <p className="small">Overlapping endings: {[...grouped.overlapEndingSet].join(", ") || "None"}</p>
         <p className="small">Similar endings:</p>
-        {(grouped.similarEndings.length === 0) ? (
+        {grouped.similarEndings.length === 0 ? (
           <p className="small">No close ending pairs detected.</p>
         ) : (
           grouped.similarEndings.slice(0, 8).map((x, i) => (

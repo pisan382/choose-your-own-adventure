@@ -23,3 +23,12 @@ One of the requiements was the ability to make changes to the story as an author
 
 ## 5:50pm
 If the backend server no longer exists in the same capacity, remove features related to it from the UI like the save to server button.
+
+## April 13 2026, 3:28pm
+create a new list in ToDo.md to replace the old list. add increasing the size of the live graph in the editor page so all nodes are viewable, create a zoom feature since the nodes are pretty small, and organize all the md documents into one documents folder. also, read through Codebase.md and add any suggestions to ToDo.md
+
+## 4:03pm
+complete all features in ToDo.md. Update Codebase.md with what you changed with the project architecture and approach in mind.
+
+## 4:17pm
+remove changes from README.md and add them to Codebase.md, remember this relates to the project architecture and approach

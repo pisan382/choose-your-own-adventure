@@ -1,0 +1,15 @@
+{
+  "name": "choose-your-own-adventure-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CYOA Reader + Authoring Tool",
+  "main": "backend/server.js",
+  "scripts": {
+    "build:data": "node scripts/build_web_data.js",
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^2.0.2"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+web/uploads/
+.DS_Store
+Thumbs.db

@@ -144,3 +144,109 @@ When resuming work:
 2. Treat output/cot-pages-ocr-v2 as the current source text.
 3. If extraction quality needs improvement, update reextract_cot_ocr_split.py rather than rebuilding older workflows.
 4. If graph or story outputs need regeneration, rerun build_story_graph.py, write_all_stories.py, and render_story_graph_svg.py in that order.
+
+## Web Architecture Update (Apr 12, 2026)
+
+The project now has a web product with two parts:
+- Story Reader: play through The Cave of Time in browser.
+- Authoring Tool: create/edit branching stories with a live graph.
+
+### Architecture
+
+- Frontend:
+  - React apps (via CDN + Babel) under web/.
+  - Landing page at web/index.html.
+  - Reader app at web/reader/.
+  - Authoring app at web/author/.
+- Backend:
+  - Node.js + Express server at backend/server.js.
+  - Serves static files from web/.
+  - Provides JSON APIs for pages/graph and author save.
+  - Provides a PDF upload endpoint.
+- Data flow:
+  - Source inputs remain read-only in output/.
+  - Web runtime uses derived files in web/data/.
+  - Conversion script: scripts/build_web_data.js.
+
+### Web Data Contract
+
+- web/data/pages.json
+  - Contains all page text keyed by page number.
+  - Includes parsed choices where detectable.
+- web/data/graph.json
+  - Contains adjacency and incoming-edge maps.
+  - Drives reader navigation and author graph rendering.
+- web/data/validation-report.json
+  - Reports graph/page mismatches.
+
+### APIs (Backend)
+
+- GET /api/pages
+  - Returns pages.json.
+- GET /api/graph
+  - Returns graph.json.
+- POST /api/author/save
+  - Saves authored state to web/data/authored-story.json.
+- POST /api/upload/pdf
+  - Uploads PDF to web/uploads/ for author workflows.
+
+### Reader Strategy
+
+- Start from page 2 when available.
+- Show current page text.
+- Pull next options from graph adjacency.
+- Render choices as buttons.
+- Track in-session path history.
+- Handle dead ends and missing pages gracefully.
+
+### Authoring Strategy
+
+- In-browser model of nodes (id/title/text/choices).
+- Node CRUD and choice CRUD.
+- Live graph rendering with click-to-edit node selection.
+- Node state analysis:
+  - unfinished: no outgoing edges and not marked ending.
+  - terminal: ending node with no outgoing edges.
+  - convergence: multiple incoming edges.
+- Similar ending grouping via text overlap (Jaccard-like heuristic).
+- JSON import/export for portability.
+- PDF import using client-side PDF.js text extraction (start/extension modes).
+
+### Implementation Approach Used
+
+1. Build deterministic converter first so both apps share one data contract.
+2. Implement Reader first as a quick functional vertical slice.
+3. Implement Authoring with graph-first UX and node insight panel.
+4. Add backend persistence/upload endpoints to satisfy Node backend requirement.
+5. Keep output/ artifacts untouched and derive web/data outputs from them.
+6. Add deployment automation for static web publishing.
+
+### New/Updated Files (Web Stack)
+
+- package.json
+- package-lock.json
+- .gitignore
+- backend/server.js
+- scripts/build_web_data.js
+- web/index.html
+- web/reader/index.html
+- web/reader/reader.js
+- web/reader/style.css
+- web/author/index.html
+- web/author/author.js
+- web/author/style.css
+- web/data/pages.json
+- web/data/graph.json
+- web/data/validation-report.json
+- .github/workflows/deploy-pages.yml
+
+### Verification Snapshot
+
+- node scripts/build_web_data.js:
+  - pages: 111
+  - graph nodes: 111
+  - graph edges: 108
+  - validation: no missing references
+- Backend smoke test:
+  - /api/pages -> 200
+  - /api/graph -> 200

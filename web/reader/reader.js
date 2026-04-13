@@ -1,5 +1,7 @@
 const { useEffect, useMemo, useState } = React;
 
+const AUTHORED_STORAGE_KEY = "cya.authoredStory.v1";
+
 function choiceLabel(fromPage, toPage, pagesData) {
   const page = pagesData.pages[fromPage];
   if (!page || !Array.isArray(page.choices)) {
@@ -17,10 +19,31 @@ function ReaderApp() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    Promise.all([
-      fetch("../data/pages.json").then((r) => r.json()),
-      fetch("../data/graph.json").then((r) => r.json()),
-    ])
+    const localRaw = localStorage.getItem(AUTHORED_STORAGE_KEY);
+    if (localRaw) {
+      try {
+        const localDraft = JSON.parse(localRaw);
+        if (localDraft?.pages && localDraft?.graph) {
+          const localIds = Object.keys(localDraft.pages).map(Number).sort((a, b) => a - b);
+          const normalizedPages = {
+            source: "localStorage",
+            pageCount: localIds.length,
+            pageIds: localIds,
+            pages: localDraft.pages,
+          };
+          setPagesData(normalizedPages);
+          setGraphData(localDraft.graph);
+          const start = normalizedPages.pages[2] ? 2 : normalizedPages.pageIds[0];
+          setCurrentPage(start);
+          setPath([start]);
+          return;
+        }
+      } catch {
+        localStorage.removeItem(AUTHORED_STORAGE_KEY);
+      }
+    }
+
+    Promise.all([fetch("../data/pages.json").then((r) => r.json()), fetch("../data/graph.json").then((r) => r.json())])
       .then(([pages, graph]) => {
         setPagesData(pages);
         setGraphData(graph);
@@ -29,7 +52,7 @@ function ReaderApp() {
         setPath([start]);
       })
       .catch(() => {
-        setError("Could not load story data. Run npm run build:data and refresh.");
+        setError("Could not load story data. Rebuild web/data or clear invalid local draft.");
       });
   }, []);
 

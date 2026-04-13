@@ -1,5 +1,7 @@
 const { useEffect, useMemo, useState } = React;
 
+const AUTHORED_STORAGE_KEY = "cya.authoredStory.v1";
+
 function clone(obj) {
   return JSON.parse(JSON.stringify(obj));
 }
@@ -90,6 +92,29 @@ function graphFromPages(pages) {
   };
 }
 
+function normalizeImportedPages(rawPages) {
+  const normalized = {};
+  for (const [rawId, page] of Object.entries(rawPages || {})) {
+    const id = Number(rawId);
+    if (!Number.isFinite(id)) continue;
+    normalized[id] = {
+      id,
+      title: page?.title || `Page ${id}`,
+      text: page?.text || "",
+      choices: Array.isArray(page?.choices)
+        ? page.choices
+            .map((c) => ({
+              label: (c?.label || `Go to page ${Number(c?.target) || id}`).trim(),
+              target: Number(c?.target),
+            }))
+            .filter((c) => Number.isFinite(c.target))
+        : [],
+      isEnding: !!page?.isEnding,
+    };
+  }
+  return normalized;
+}
+
 function AuthorApp() {
   const [pages, setPages] = useState({});
   const [graph, setGraph] = useState({ nodeIds: [], adjacency: {}, incoming: {} });
@@ -115,9 +140,27 @@ function AuthorApp() {
             isEnding: false,
           };
         }
-        setPages(basePages);
-        setGraph({ nodeIds: graphData.nodeIds.map(Number), adjacency: graphData.adjacency, incoming: graphData.incoming });
-        setSelectedId(graphData.nodeIds.includes(2) ? 2 : graphData.nodeIds[0]);
+
+        let nextPages = basePages;
+        let nextGraph = { nodeIds: graphData.nodeIds.map(Number), adjacency: graphData.adjacency, incoming: graphData.incoming };
+
+        const savedRaw = localStorage.getItem(AUTHORED_STORAGE_KEY);
+        if (savedRaw) {
+          try {
+            const saved = JSON.parse(savedRaw);
+            if (saved?.pages) {
+              nextPages = normalizeImportedPages(saved.pages);
+              nextGraph = saved.graph || graphFromPages(nextPages);
+              setStatusMsg("Loaded local draft from browser storage.");
+            }
+          } catch {
+            setStatusMsg("Saved local draft was invalid and was ignored.");
+          }
+        }
+
+        setPages(nextPages);
+        setGraph(nextGraph);
+        setSelectedId(nextGraph.nodeIds.includes(2) ? 2 : nextGraph.nodeIds[0]);
       })
       .catch(() => setStatusMsg("Failed to load source data."));
   }, []);
@@ -251,30 +294,32 @@ function AuthorApp() {
     setStatusMsg("Story exported.");
   }
 
-  async function saveToServer() {
+  function saveLocally() {
     try {
-      const res = await fetch("/api/author/save", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ pages, graph }),
-      });
-      if (!res.ok) throw new Error();
-      setStatusMsg("Saved to web/data/authored-story.json");
+      localStorage.setItem(AUTHORED_STORAGE_KEY, JSON.stringify({ pages, graph, savedAt: new Date().toISOString() }));
+      setStatusMsg("Saved locally in browser storage. Reader will use this draft.");
     } catch {
-      setStatusMsg("Save failed. Is Node server running?");
+      setStatusMsg("Local save failed (storage full or blocked). Export JSON as backup.");
     }
+  }
+
+  function clearLocalDraft() {
+    localStorage.removeItem(AUTHORED_STORAGE_KEY);
+    setStatusMsg("Cleared local draft. Reader will use default web/data files.");
   }
 
   async function importStoryJson(file) {
     const text = await file.text();
     const parsed = JSON.parse(text);
     if (!parsed.pages) throw new Error("Invalid JSON format");
-    setPages(parsed.pages);
-    const rebuilt = parsed.graph || graphFromPages(parsed.pages);
+    const normalizedPages = normalizeImportedPages(parsed.pages);
+    setPages(normalizedPages);
+    const rebuilt = parsed.graph || graphFromPages(normalizedPages);
     setGraph(rebuilt);
-    const first = Object.keys(parsed.pages).map(Number).sort((a, b) => a - b)[0];
+    const first = Object.keys(normalizedPages).map(Number).sort((a, b) => a - b)[0];
     setSelectedId(first || null);
-    setStatusMsg("Story JSON loaded.");
+    localStorage.setItem(AUTHORED_STORAGE_KEY, JSON.stringify({ pages: normalizedPages, graph: rebuilt, savedAt: new Date().toISOString() }));
+    setStatusMsg("Story JSON loaded and saved locally.");
   }
 
   async function importPdf(file) {
@@ -309,10 +354,12 @@ function AuthorApp() {
     }
 
     setPages(next);
-    syncGraph(next);
+    const rebuilt = graphFromPages(next);
+    setGraph(rebuilt);
     const first = Object.keys(next).map(Number).sort((a, b) => a - b)[0] || null;
     setSelectedId(first);
-    setStatusMsg(`Imported ${pdf.numPages} PDF pages in ${pdfMode} mode.`);
+    localStorage.setItem(AUTHORED_STORAGE_KEY, JSON.stringify({ pages: next, graph: rebuilt, savedAt: new Date().toISOString() }));
+    setStatusMsg(`Imported ${pdf.numPages} PDF pages in ${pdfMode} mode and saved locally.`);
   }
 
   return (
@@ -353,7 +400,10 @@ function AuthorApp() {
 
         <div className="row">
           <button className="btn" onClick={exportStory}>Export JSON</button>
-          <button className="btn" onClick={saveToServer}>Save to Server</button>
+          <button className="btn" onClick={saveLocally}>Save Local</button>
+        </div>
+        <div className="row">
+          <button className="btn ghost" onClick={clearLocalDraft}>Clear Local Draft</button>
         </div>
         <p className="small">{statusMsg}</p>
       </section>

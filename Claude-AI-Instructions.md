@@ -1,5 +1,9 @@
 ## My GitHub Education license is still processing (it's been three days) so I (Kylie) used Claude to start. These are the instructions I gave to kick off the project outside of GitHub Copilot.
 
+AI is not allowed to edit this file
+
+Only the repository owner, the human, is allowed to edit this file
+
 ## April 10; 4:08PM
 I have a group assignment but I'm not sure what I'm supposed to do. can you look through this repository's files and tell me what the objective of the assignment is
 https://github.com/angelwing888/choose-your-own-adventure/tree/main

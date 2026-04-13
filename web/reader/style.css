@@ -1,0 +1,97 @@
+:root {
+  --bg: #faf6ef;
+  --panel: #fffdf9;
+  --line: #d6cab8;
+  --ink: #1b2733;
+  --muted: #5f6770;
+  --accent: #0b6e4f;
+  --accent-soft: #d9f3e9;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--ink);
+  background: linear-gradient(145deg, #fffaf3 0%, var(--bg) 55%, #ece0d1 100%);
+}
+.reader-layout {
+  width: min(1100px, 94vw);
+  margin: 1.5rem auto;
+  display: grid;
+  grid-template-columns: 1.7fr 1fr;
+  gap: 1rem;
+}
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: 0 24px 50px rgba(46, 35, 24, 0.08);
+}
+.story-panel { padding: 1.2rem 1.3rem; }
+.story-text {
+  white-space: pre-wrap;
+  line-height: 1.55;
+  font-size: 1rem;
+  max-height: 64vh;
+  overflow: auto;
+  padding-right: 0.5rem;
+}
+.meta-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+.badge {
+  font-weight: 700;
+  color: #134e4a;
+  background: #d5f0ec;
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.84rem;
+}
+.controls-panel { padding: 1.1rem; }
+.choice-list {
+  display: grid;
+  gap: 0.6rem;
+}
+.choice-btn {
+  text-align: left;
+  border: 1px solid #9ac8b8;
+  background: var(--accent-soft);
+  color: #11463c;
+  border-radius: 10px;
+  padding: 0.7rem 0.8rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+.choice-btn:hover { background: #c7eadc; }
+.actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+.btn {
+  border: 1px solid var(--line);
+  background: #fff;
+  border-radius: 9px;
+  padding: 0.45rem 0.72rem;
+  cursor: pointer;
+}
+.path {
+  margin-top: 1rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+.error {
+  color: #9b1c1c;
+  background: #fee2e2;
+  border: 1px solid #fecaca;
+  border-radius: 10px;
+  padding: 0.8rem;
+}
+@media (max-width: 900px) {
+  .reader-layout { grid-template-columns: 1fr; }
+  .story-text { max-height: none; }
+}

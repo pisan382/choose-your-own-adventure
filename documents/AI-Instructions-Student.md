@@ -32,3 +32,9 @@ complete all features in ToDo.md. Update Codebase.md with what you changed with 
 
 ## 4:17pm
 remove changes from README.md and add them to Codebase.md, remember this relates to the project architecture and approach
+
+## April 14 2026, 1:55pm
+there is an issue with running the website that causes me to only see the README.md, explain to me where the error is, why it is happening, and how to fix it
+
+## 2:05pm
+add a top-level index.html that redirects into web/index.html as you suggested

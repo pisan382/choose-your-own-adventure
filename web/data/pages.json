@@ -1,0 +1,686 @@
+{
+  "source": "output/cot-pages-ocr-v2",
+  "pageCount": 111,
+  "pageIds": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    117,
+    119
+  ],
+  "pages": {
+    "2": {
+      "id": 2,
+      "text": "Page 2\r\n\r\nYou've hiked through Snake Canyon once be-\r\nfore while visiting your Uncle Howard at Red\r\nCreek Ranch, but you never noticed any cave\r\nentrance. It looks as though a recent rock slide has\r\nuncovered it.\r\n\r\nThough the late afternoon sun is striking the\r\nopening of the cave, the interior remains in total\r\ndarkness. You step inside a few feet, trying to get\r\nan idea of how big it is. As your eyes become used\r\ntothe dark, you see what looks like a tunnel ahead,\r\ndimly lit by some kind of phosphorescent material\r\nOn its walls. The tunnel walls are smooth. as if they",
+      "choices": []
+    },
+    "3": {
+      "id": 3,
+      "text": "Page 3\r\n\r\nwere shaped by running water. After twenty feet or\r\nso, the tunnel curves. You wonder where it leads.\r\nYou venture in a bit further, but you feel nervous\r\nbeing alone in such a strange place. You turn and\r\nhurry out.\r\n\r\nA thunderstorm may be coming, judging by\r\nhow dark it looks outside. Suddenly you realize the\r\nsun has long since set, and the landscape is lit only\r\nby the pale light of the full moon. You must have\r\nfallen asleep and woken up hours later. But then\r\nyou remember something even more strange. Just\r\nlast evening, the moon was only a slim crescent in\r\nthe sky.\r\n\r\nYou wonder how long you’ ve been in the cave.\r\nYouare not hungry. You don’t feel you have been 4\r\nsleeping. You wonder whether to try to walk back\r\nhome by moonlight or whether to wait for dawn,\r\nrather than risk losing your footing on the steep\r\nand rocky trail.\r\n\r\nIf you decide to start back home,\r\ntum to page 4.\r\n\r\nIf you decide to wait,\r\ntum to page 5.",
+      "choices": []
+    },
+    "4": {
+      "id": 4,
+      "text": "Page 4\r\n\r\nAs you start walking back toward the ranch, you\r\nnotice the trail seems very different than you re-\r\nmember it, though of course moonlight can play\r\ntricks on your eyes. But you suddenly realize you\r\nare not walking on the trail at all, but on what\r\nseems to be a dried-up river bed. You hurry back\r\nto the cave entrance. You look around you and\r\nrealize the whole landscape has changed. While\r\nyou were in the cave, torrents of water have\r\nwashed out the trail; yet there is not so much as a\r\npuddle left. You shiver. Itis cold, much colder than\r\nit should be at this time of year. You take a jacket\r\nout of your backpack and putit on, but you are still\r\nfreezing.\r\n\r\nAtleast the world about you seems brighter. It’s\r\ngetting light in the east. The sun will soon be up.\r\nYou look at your watch. It has run down, though\r\nyou wound it only a few hours ago. Nothing seems\r\n% make sense anymore.\r\n\r\nYou know you should get back to the ranch as\r\nquickly as possible; yet somehow you feel the only\r\nway to change things back to the way they were is\r\nto re-enter the cave.\r\n\r\nIf you continue toward the ranch,\r\ntum to page 8.\r\n\r\nIf you go back into the cave,\r\ntum to page 10.",
+      "choices": []
+    },
+    "5": {
+      "id": 5,
+      "text": "Page 5\r\n\r\nYou wait until morning, but, as the rosy wisps of\r\ndawn begin to light the eastern sky, a chill and\r\nforbidding wind begins to blow.\r\n\r\nIf you seek shelter, turn to page 6.\r\n\r\nIf you brave the freezing wind to\r\nsee more of the coed abou you,\r\ntum to page 16.",
+      "choices": [
+        {
+          "label": "If you seek shelter,",
+          "target": 6,
+          "sourceLine": "If you seek shelter, turn to page 6."
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "text": "Page 6\r\n\r\n=\"\r\n\r\n6\r\n\r\nYou step into a niche in the rocks to escape the\r\nmerciless blast of wind and lean back against the\r\nrock wall. Suddenly it crumbles under your\r\nweight, causing you to fall backward down a\r\nmuddy slope and into a pond.\r\n\r\nThe sun shines brightly down on youas you pick\r\nyourself up, dripping wet, and wade to the grassy\r\nshore. You look back at the rock, rising out of the\r\npond, but you can’t see where you fell through.\r\n\r\nWhile you are collecting your senses, a horse\r\ncomes prancing up, its rider dressed in tin\r\narmor—a knight out of the history books—\r\nenough to make you laugh. The horseman lifts off\r\nhis helmet and laughs himself.\r\n\r\n“What a place for a bath!” he calls out. “Well, it\r\nwas worth it—you re cleaner than a pig!’ He al-\r\nmost falls off his horse, he is laughing so hard. “But\r\nclimb on and I'll take you back to the castle,”’ he\r\nsays. ‘We'll see if we can’t make a human out of\r\nyou yet.”\r\n\r\nIf you accept the ride back to\r\nthe castle, tun to page 22.\r\n\r\nIf you decline the invitation and\r\ntry to find your way back into the\r\nCave of Time, tum to page 114.",
+      "choices": []
+    },
+    "8": {
+      "id": 8,
+      "text": "Page 8\r\n\r\nAs it gets lighter, you realize you can’t be on the\r\nright track. The canyon seems shallower than it\r\nwas. The river bed is strewn with boulders that\r\nwere never there before. The cold wind chills you\r\nto the bone; yet it’s the middle of summer. As you\r\nclimb to higher ground to get a better view, you\r\nnotice patches of snow. From the top of a ridge\r\nyou survey a barren plain, frozen lakes, and, in the }\r\ndistance, a massive range of snow-covered moun-\r\ntains. You begin to realize you are not merely\r\nlost—you are lost in time, and you have somehow\r\nbeen transported to an Ice Age that occurred many\r\nthousands of years ago.",
+      "choices": []
+    },
+    "9": {
+      "id": 9,
+      "text": "Page 9\r\n\r\nYou walk toward one of the cliffs that borders\r\nthe canyon, seeking shelter from the wind, and\r\nnotice an entrance to another cave. You are\r\ntempted to go inside, but you feel you should keep\r\nmoving in hopes of somehow reaching familiar\r\ncountry.\r\n\r\nIf you enter the cave,\r\ntum to page 17.\r\n\r\nIf you continue on,\r\ntum to page 18.",
+      "choices": []
+    },
+    "10": {
+      "id": 10,
+      "text": "Page 10\r\n\r\nYou walk into the interior of the strange cavern;\r\nthen wait while your eyes become accustomed to\r\nthe dim, amber light. Gradually you can make out\r\n\r\n} the two tunnels. One curves downward to the\r\n4 right; the other leads upward to the left.\r\n\r\n| It occurs to you that the one leading down may\r\nq go to the pastand the one leading up may go to the\r\n4 future.\r\n\r\nIf you take the tunnel leading to the left,\r\nturn to page 20.\r\n\r\nIf you take the tunnel leading to the right,\r\nturn to page 61.\r\n\r\nIf you walk outside the cave again,\r\ntum to page 21.",
+      "choices": []
+    },
+    "11": {
+      "id": 11,
+      "text": "Page 11\r\n\r\n“Off to the tower,”’ the King shouts. Two knights\r\nleap forward, drag you out of the chamber, and,\r\nwith spears at your back, force you to climb forty-\r\neight stone steps to the tower prison—a tiny cylin-\r\ndrical room with one small window looking out\r\nover the moat and pasture land beyond. The only\r\nfurniture is a bed of straw.\r\n\r\nYou realize you are back in the early days of\r\nfeudal Europe, where the only laws are the King’s\r\nwhims. You have no idea how long he intends to\r\nkeep you in the tower. There is one possibility of\r\nescape. The water in the moat, about twenty-five\r\nfeet almost directly below your window, is quite\r\ndeep. If youjump out far enough, you should land\r\nin the deep water and not be hurt.\r\n\r\nIf you jump, tum to page 12.\r\n\r\nIf not, tum to page 13.",
+      "choices": []
+    },
+    "12": {
+      "id": 12,
+      "text": "Page 12\r\n\r\nYou jump far out and fall faster and faster. You\r\nenter the water feet first and hit bottom, but the soft\r\nmud receives you gently. In a few seconds you\r\nreach the surface. You swim to the outer banks of\r\nthe moat, shaken but unharmed. You scramble up\r\nthe bank and run for the.cover of the forest.\r\n\r\nYou walk along the edge of the forest until well\r\nout of sight of the castle, then head across the open\r\ncountryside. You stop a peasant to ask him where\r\nyou might stay for the night.\r\n\r\n“Walk up that hill and you'll see before you the\r\nwaters of Loch Ness,” he says. “You'll find a place\r\nthere.”\r\n\r\nYou follow his directions and, seeing some little\r\nhouses near the lake, proceed toward them. Dark-\r\nness is setting in, and you are glad when you meet\r\na fisherman who says he will give you shelter for\r\nthe night. He and his wife are kindly people; they\r\ninvite you to stay and earn your keep by helping\r\nthem fish.\r\n\r\nIf you accept, tum to page 66.\r\n\r\nIf you decide to travel on,\r\nturn to page 78.",
+      "choices": []
+    },
+    "13": {
+      "id": 13,
+      "text": "Page 13\r\n\r\nYou decide to wait, but soon regret it. A guard\r\nvisits you twice a day and brings you only black\r\nbread and water. In a few days you feel almost too\r\nweak to escape even if you have the chance.\r\n\r\nBut just as you are beginning to despair of ever\r\nregaining your freedom, the guard walks in, smil-\r\n\r\ning.\r\n\r\n“The King has ordered you out of here,” he\r\nsays. ‘“‘We have a much more important\r\nprisoner—a man who insulted the King’s horse.”\r\nHe laughs in your face. You don’t know whether\r\nhe is telling the truth or not, but he holds the door\r\nand waves you out. You walk down the long flight\r\nof stone steps to the main courtyard, free again—\r\nat least for the moment. The drawbridge is down\r\nand there seems to be nothing in the way of your\r\nleaving the castle.\r\n\r\nThere is a splendid black horse tied up near you,\r\nprobably owned by one of the knights. It occurs to\r\nyou that you could cover a lot of ground on that\r\nhorse before anyone realizes what happened.\r\n\r\nIf you mount the horse and ride off,\r\ntum to page 14.\r\n\r\nIf you ask the King for refuge,\r\ntum to page 15.",
+      "choices": []
+    },
+    "14": {
+      "id": 14,
+      "text": "Page 14\r\n\r\nIn a moment you are across the bridge and\r\ngalloping over the countryside, feeling a good deal\r\nsmarter than the King and his knights. When you\r\npass some shepherds and wave, they wave back.\r\n\r\nYou stop to rest at the cottage of a friendly\r\ngoatherd, who feeds you a good dinner. ‘‘Do not\r\nfear the King,” he says. “‘He is a fool who sits and\r\ndrinks grog all day. His only concern is deciding\r\nwho to put in the tower. His own knights laugh at\r\nhim, and he is more likely to fall from his throne\r\nthan you from your horse. Be off now and on to\r\nMerrie England, for great things await you there.\r\nGod speed and good fortune!’\r\n\r\nYour energies are renewed by good food and\r\ndrink, and your horse too is ready to ride. You\r\nthank your host warmly and ride off to new adven-\r\ntures and a new life—almost a thousand years\r\nbefore you are bom.\r\n\r\nThe End",
+      "choices": []
+    },
+    "15": {
+      "id": 15,
+      "text": "Page 15\r\n\r\nYou gain entrance to the King and thank him for\r\nletting you out of the tower.\r\n\r\n“Think nothing of it,” the King replies. “We\r\nwould do as much for any villain. We like your\r\nspirit and, though your story makes as much sense\r\nas a dancing mule, it brought laughter to our eyes.\r\nYou have, without meaning it we are sure, per-\r\nformed a service for your King. We thank you.\r\n\r\n“We'll see that you have a horse and some\r\npieces of gold,”’ the King continues. “‘Go and\r\nmake your fortune. We command you though—\r\ncome once a year and tell us a story no less amus-\r\ning than what we have heard from your lips.”\r\n\r\n“My lord,”” you say.\r\n\r\n“My excellent vassal,” he replies.\r\n\r\nYou ride off, somewhat apprehensive, but in-\r\ntent upon making as much of your life as is possible\r\nin the year 982.\r\n\r\nThe End",
+      "choices": []
+    },
+    "16": {
+      "id": 16,
+      "text": "Page 16\r\n\r\nYou resolutely trudge along a rocky ridge. It has\r\nbeen cleared of whirling snow by the fierce wind,\r\nwhich bites and blows against your body.\r\n\r\nThe world seems transformed, and much for the\r\nworse. You must find a house or a cabin—people\r\nwho can help you—or you will die.\r\n\r\nAs you ponder your fate, you stumble and fall,\r\nplunging into a deep crevasse. You black out and\r\nlater awaken, still shivering, but in a warmer place\r\nat least. By the dim amber light, you can see that\r\nsomehow you have fallen back into one of the\r\nchambers in the Cave of Time. A passageway\r\nleads to the right, another to the left. Does one lead\r\nto the future and one to the past?\r\n\r\nIf you enter the left-hand passageway,\r\ntum to page 24.\r\n\r\nIf you enter the right-hand passageway,\r\ntum to page 25.",
+      "choices": []
+    },
+    "17": {
+      "id": 17,
+      "text": "Page 17\r\n\r\nAs you enter the cave, you see a flickering light\r\nahead and you smell smoke. You make your way\r\n; along a winding passageway and enter a large\r\nchamber. Fires rise out of earthen vessels.\r\n\r\nSeveral short, stocky people with straight black\r\nhair and primitive faces are painting pictures on the\r\n/ walls of the cave. They are dressed in animal skins.\r\n: In a comer of the cave are beds of straw.\r\n\r\nYou stand, slightly afraid, as the cave people\r\ndrop their work and run over and stare at you in\r\ndisbelief. The largest man is carrying a long vine.\r\nHe steps forward as though he might seize you and\r\n\r\n. tie you up.\r\n\r\nIf you stay and try to make friends,\r\ntum to page 26.\r\n\r\n: If you try to run for it,\r\ntum to page 28.",
+      "choices": []
+    },
+    "18": {
+      "id": 18,
+      "text": "Page 18\r\n\r\nYou continue on, following a trail leading up a\r\nsteep incline. You hear loud, trumpeting sounds\r\nfrom a nearby ravine—the sounds of a large ani-\r\nmal.You climb over some rocks and find yourself",
+      "choices": []
+    },
+    "19": {
+      "id": 19,
+      "text": "Page 19\r\n\r\nlooking down on one of the largest land mammals\r\nthat ever lived—the wooly mammoth. Huge as\r\nthis creature is, its size is exaggerated even more by\r\nits thick coat of wool.\r\n\r\nYou are cold, desperate, and tired. From your\r\nrock ledge, only a few feet over the mammoth, you\r\ncould drop down on its back, burrow into its warm\r\nwool, and ride where it takes you!\r\n\r\nIf you jump down on\r\n} the wooly mammoth,\r\nturn to page 29.\r\n\r\nIf you continue on foot,\r\ntum to page 30.",
+      "choices": []
+    },
+    "20": {
+      "id": 20,
+      "text": "Page 20\r\n\r\nThe tunnel to the left winds around like a spiral,\r\npassing several more tunnels. You turn down one\r\nof them, then climb steeply. In a few moments you\r\nclimb through a hole and emerge in a desert. The\r\nweather is extremely hot—certainly over 100 de-\r\ngrees, but the sun is just about to set, so it should\r\n\r\n| a be getting cooler. In the distance is a range of\r\ny | mountains. which look extremely high, yet are\r\n4 bare of snow. You have no idea whether youare in\r\ni the past, the future, or the present. Then you see\r\n\r\nsomething that fascinates and disturbs you. The\r\n\r\nsand seems to be fused into yellowish glass as if\r\n| heated in a furnace. As you examine the sand\r\n| more closely, you feel the air getting even hotter.\r\n| Suddenly you realize the sun is not setting, but\r\nrising! The noontime temperature must be more\r\ni than life can stand. As the sun rises higher, you feel\r\n| a blistering wave of heat. The light is almost blind-\r\ning. Could it be that you are witnessing the end of\r\nthe world?\r\n\r\nTum to page 93.",
+      "choices": []
+    },
+    "21": {
+      "id": 21,
+      "text": "Page 21\r\n\r\n; You turn and walk back out of the cave. It\r\n| should be dawn by now, but, as you grope your\r\nway toward the entrance, you can’t see any light\r\n: coming into the cave. You press against the walls,\r\nfeeling for an opening. Your hands pass across\r\nsomething cold, wet, and hard. Ice! The entrance\r\nis sealed by it. Blocks of ice protrude into the cave.\r\nYou step back, feeling confused and helpless.\r\nYou wish it were just a dream. You retrace your\r\nsteps a way, trying to think clearly. You know that\r\nyour only chance to get out of the cave is to follow\r\none of the two branches before you.\r\n\r\nIf you follow the right branch,\r\ntum to page 33.\r\n\r\nIf you follow the left branch,\r\ntum to page 35.",
+      "choices": []
+    },
+    "22": {
+      "id": 22,
+      "text": "Page 22\r\n\r\n, 22\r\n\r\nThe laughing knight helps you up on his horse\r\nand you sit uncomfortably as it canters over the\r\ncountryside. After traveling a mile or so, you come\r\nto a great, stone castle. The horse trots across the\r\ndrawbridge and into the stable.\r\n“Jump,” the knight calls to you, and you slide\r\n7 off the rear of the horse. The knight escorts you\r\n! into the grand chamber of the castle. All about you\r\n4 are stewards, attendants, and knights. A few min-\r\ni utes later you find yourself bowing before the King\r\nif himself.\r\n| After hearing your story, the King looks gravely\r\n| H at his advisors and knights and stewards. “Does\r\n| anyone believe this tale?” he asks.\r\n| Everyone cries back, “No, Your Majesty,” or\r\n‘ “Certainly not, Your Majesty.”\r\n| “Then tell us the truth!” the King roars at you.",
+      "choices": []
+    },
+    "23": {
+      "id": 23,
+      "text": "Page 23\r\n\r\nIf you insist you are telling\r\nthe truth, turn to page 36.\r\n\r\nIf you try to make up a plausible\r\nstory, tum to page 37.",
+      "choices": []
+    },
+    "24": {
+      "id": 24,
+      "text": "Page 24\r\n\r\nYou follow the left passageway. It leads upward\r\nto the surface. Before you, a grassy meadow\r\nslopes down to a clear, fast-flowing stream; be-\r\nyond it are pine-covered foothills stretching in the\r\ndistance toward snow-covered peaks. You might\r\nbe in Wyoming in your own time, but, whatever\r\n\r\n: time it is, the world you see appears to be a hospi-\r\ni table one.\r\ni You notice a herd of buffalo grazing. But\r\ni nowhere can you see a house, or fence, or road, or\r\n| any sign of human presence. It is possible you are\r\nliving hundreds, perhaps thousands, of years ago.\r\n| You gaze upward. One of the puffy, white\r\n| cumulus clouds is moving in a strange fashion. It is\r\n| descending! A spaceship is landing right before\r\nyour eyes, only a few hundred yards away!\r\n\r\nIf you hide from view,\r\ntum to page 38.\r\n\r\nTf you go up to the spaceship,\r\ntum to page 40.",
+      "choices": []
+    },
+    "25": {
+      "id": 25,
+      "text": "Page 25\r\n\r\nYou walk along the right-hand passageway fora\r\nlong distance, praying that you can find a tunnel\r\n: that will lead to your own time. You choose one of\r\nthe many tunnels you see and follow it. Instead of\r\nrising to the surface, you enter a brightly-lighted\r\n: chamber, in the center of which is a bearded, old\r\nman seated in a chair.\r\n“Welcome,” he says, as if he has been expect-\r\ning you.\r\n: “Thank you,” you reply. ‘‘Can you help me find\r\nmy way back to my own time?”\r\nThe old man smiles. ‘First of all,” he says, “‘teil\r\nme why you want to return to your own time\r\ninstead of another time.”\r\n\r\n) Tf you say, “Because I want\r\nto be back with my family and\r\nfriends,” tum to page 43.\r\n\r\nIf you say, “Because I don’t want\r\nto take a chance of being\r\nin a bad time,” turn to page 41.\r\n\r\nIf you say, “I would like to try\r\n\r\nanother time, but only if you can\r\n\r\nassure me that I will eventually get back to\r\nmy own time,” tum to page 44.\r\n\r\nIf you say, “Who are you?”\r\ntum to page 45.",
+      "choices": []
+    },
+    "26": {
+      "id": 26,
+      "text": "Page 26\r\n\r\nYou make friendly gestures. The man holding\r\nthe vine steps back and smiles. The people talk to\r\nyou in a friendly fashion, but you cannot under-\r\nstand what they are saying, nor can they under-\r\nstand you. You feel awkward, but happy to be safe\r\nand warm for the moment.\r\n\r\nSeveral people have gone back to working on\r\ntheir paintings. You decide to try communicating\r\nthrough drawing. You begin to draw a picture of\r\nyourself eating. The cave people laugh, but one of\r\nthem brings you a slice of half-cooked meat. It",
+      "choices": []
+    },
+    "27": {
+      "id": 27,
+      "text": "Page 27\r\n\r\ndon’t mind. -\r\n\r\nGradually you make friends and learn a few\r\nwords. Some of the people go hunting and come\r\nback with game. Others make clothing from ani-\r\nmal skins. You help with cleaning and cooking and\r\neach day paint a picture on the walls. The others «\r\nare fascinated by your drawings of airplanes, st\r\nand cars—things they see only as abstract designs,\r\nfor they have no way of knowing what function\r\nthey could serve.\r\n\r\nOne day a group of other people visit. You have\r\nnever seen them before, but your friends welcome\r\nthem warmly, holding a great feast in their honor.\r\nAfter everyone is through eating, the conversation\r\nintensifies. You can tell that the cave people are\r\ntalking about a serious problem. Then, one by\r\none, they drift off to sleep. You walk outside to see\r\nif you can learn anything. The ground is covered\r\nwith deep snow. A bitter cold wind blows the snow\r\nin whirling clouds.\r\n\r\nNext moming, the people pack up their belong-\r\nings and they urge you to do so also. Some migra-\r\ntion is obviously intended—no doubt to a warmer\r\nclimate. You feel you should go with the cave\r\npeople, but you have a great longing to return to\r\nyour own home, and your only hope of doing so is —\r\nto find your way back to the Cave of Time.\r\n\r\nIf you go with the cave people,\r\nturn to page 46.\r\n\r\nTf you try to find your way back to\r\nthe Cave of Time, tum to page 47.",
+      "choices": []
+    },
+    "28": {
+      "id": 28,
+      "text": "Page 28\r\n\r\nYou can see no future for yourself with these\r\nprimitive peopie, so you run back toward the Cave\r\nof Time. Fortunately, they do not follow you, and\r\nyou are able to find your way.\r\n\r\nBy the time you re-enter the cave, you are hun-\r\ngry and exhausted. The light is dimmer than be-\r\nfore and you grope your way along, looking for a\r\n: passageway. You stumble and fall headfirst down\r\n4 an embankment, bumping your head dis-\r\n{ agreeably. You look up and see daylight ahead. A\r\nminute later, you walk out of the cave into warm,\r\nmoist air near a forest of leafy trees. A bird flies by.\r\nYou don’t know when it is, but it looks pleasant\r\nenough.\r\n\r\nTum to page 51.",
+      "choices": []
+    },
+    "29": {
+      "id": 29,
+      "text": "Page 29\r\n\r\nAs you land, the mammoth shudders like a\r\nhorse shaking off flies. It begins lumbering along\r\nup the valley, apparently unaware you are siill\r\nclinging to its wooly back, keeping warm and en-\r\njoying the ride.\r\n\r\nThe mammoth reaches high ground, nibbles at\r\nsome bark, and then walks on. Perhaps it will carry\r\nyou near some cave men who will give you food\r\nand shelter.\r\n\r\nSuddenly the mammoth stops and turns its\r\nhead—listening for something. You look up and\r\nsee human figures approaching from two sides.\r\nThey are carrying spears and clubs. The mam-\r\nmoth begins to run. You hold on tight. The hunters\r\nfollow—screaming and yelling. You can’t see\r\nwhere the mammoth is heading, but you’re afraid\r\nthe hunters may drive it off a cliff. Yet, if youjump\r\noff while it’s running, you could be badly hurt.\r\n\r\nIf you jump to the ground,\r\nturn to page 52.\r\n\r\nIf you hang on, turn to page 53.",
+      "choices": [
+        {
+          "label": "If you hang on,",
+          "target": 53,
+          "sourceLine": "If you hang on, turn to page 53."
+        }
+      ]
+    },
+    "30": {
+      "id": 30,
+      "text": "Page 30\r\n\r\nRiding on a mammoth might be fun if you were\r\nnot cold and hungry and lost, but where would it\r\ntake you? You continue walking, your spirits sink-\r\ning. Just as you feel ready to sit down and cry, you\r\nsee an opening in the ground. You crawl in on\r\nyour hands and knees. It might provide some\r\nwarmth, and it might lead to the Cave of Time.\r\n\r\nYou find yourself in a tunnel. There are other\r\ntunnels branching off. You feel sure now you are in\r\nthe Cave of Time. You are eager to take the next\r\ntunnel to the surface, but you want to travel a long\r\nway forward in time. Maybe you should take a\r\ntunnel further on.\r\n\r\nIf you take the first tunnel\r\nthat you can, turn to page 54.\r\n\r\nIf you take a tunnel further on,\r\nturn to page 92.",
+      "choices": []
+    },
+    "31": {
+      "id": 31,
+      "text": "Page 31\r\n\r\nYou take the first tunnel and follow it on and on\r\nuntil you begin to wonder whether you are going\r\naround in circles. What can this mean? Perhaps\r\ntime itself is slowing. You are nearing the point of\r\nexhaustion, and begin to feel very cold. Yousee an\r\nopening up ahead and stars shining. You step\r\noutside on barren ground. It is bitter cold. Even\r\nthough there is no wind, you know you will freeze\r\nif you stay more than a few minutes—maybe not\r\nthat long, for the air seems very thin, as if you were\r\non top of a very high mountain. You find yourself\r\ngasping for breath. You look up at the clear, cold\r\n\r\n} night sky studded with thousands of stars. Among\r\nthe stars, you notice a disk the size of the sun that\r\ngives off a dim red light like a dying ember.\r\n\r\nThe End",
+      "choices": []
+    },
+    "32": {
+      "id": 32,
+      "text": "Page 32\r\n\r\n1g? 1\r\n\r\nAfter following the passageway for a consider-\r\nable distance, you enter a very large tunnel that\r\nseems as likely as any to lead you back to your own\r\ntime. You continue along and soon notice that the\r\nfloor of the tunnel is becoming sandier. Perhaps\r\nyou are coming to a beach. Then the sand gives\r\nway under your feet; you slide through sand and\r\nrising dust. You cannot stop yourself—it is too\r\n\r\n4 steep; then there is nothing under your feet, anda\r\n\r\n} moment later you land in deep water. You swim to\r\nthe surface and catch your breath. You are in an\r\nunderwater grotto, which seems completely\r\nsealed off except for a portion of its roof that is\r\nopen to the blue sky. You swim to a large, smooth\r\nrock sloping into the water.\r\n\r\nThe sand is white, and the water transparent.\r\nThe rocks are made of crystalline material of the\r\n\r\nfh most delicate shades of blue. For a moment you\r\n\r\n+ are overwhelmed by the beauty of the scene be-\r\n\r\n4 fore you, but you soon begin to wonder whether\r\nyoucan escape from it. There is no way of climbing\r\nout through the opening in the roof.\r\n\r\nYou dive down in hopes of finding an underwa-\r\nter passageway that might lead to freedom, and\r\nyou find one! But could you swim through it before\r\nrunning out of air?\r\n\r\n‘ If you try to swim through\r\nthe undenwater tunnel,\r\ntum to page 58.\r\n\r\nIf you decide to wait,\r\ntum to page 64.",
+      "choices": []
+    },
+    "33": {
+      "id": 33,
+      "text": "Page 33\r\n\r\nYou make your way along in the dim light.\r\nAhead of you is a ladder. You take hold of it and\r\nbegin to climb. Suddenly you hear a terrible grind-\r\ning, crunching noise. The ladder shudders. You\r\nhold on tight for a few minutes after the noise\r\nsubsides. Then you continue up the ladder and a\r\nmoment later pull yourself out into the crisp, cold\r\nnight air. Lights are glowing all around you. In\r\nfront of you is a large slab of ice. You feel a strange\r\nmotion as if the ground is moving. When you\r\ntouch the ground with your hand, you feel wood.\r\nNot far from you is a railing. Beyond it—the sea!\r\nAbove you are stars more numerous and brilliant\r\nthan you have seen before. You realize you are on\r\nthe deck of a very large ship.\r\n\r\nNot far from you, hanging on a hook, is an\r\nenormous life preserver. Stenciled on it in-black\r\nletters is the word TITANIC. You know there was\r\nonly one ship that ever bore that name, that it\r\nmade only one voyage, that it struck a huge\r\niceberg, and that three hours later it was resting on\r\nthe bottom of the Atlantic.\r\n\r\nAs you walk along the deck of the Titanic, you\r\nrealize that below the water line thousands of gal-\r\nlons of water per minute are pouring into the for-\r\nward compartments. The people don’t seem to\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "34": {
+      "id": 34,
+      "text": "Page 34\r\n\r\nrealize what's happening. The sea is as calm as\r\nglass. The band on the deck below youis playinga\r\nwaltz. Several men in long black coats and women\r\nin fur jackets are walking close by.\r\n; “Goodness,” one woman says, “I can’t under-\r\nstand why the captain has stopped the ship. If we\r\nare late docking in New York, I’m going to lodge a\r\ncomplaint with the owners.”\r\n\r\nIf you try to find the captain and\r\nwam him that the ship will sink,\r\ntum to page 68.\r\n\r\nIf you go back down the ladder\r\nand try to retum to the cave,\r\n| tum to page 79.",
+      "choices": []
+    },
+    "35": {
+      "id": 35,
+      "text": "Page 35\r\n\r\nYou walk along the left-hand passageway, pass-\r\ning tunnels from time to time, none of which looks\r\nlike a particularly appealing route. You decide to\r\nsee if you can reach the end of the passageway.\r\n\r\nYou walk on and on, hour after hour. Then, in\r\nthe distance, you see a figure approaching—a girl\r\nwearing blue jeans and a red sweater and carrying\r\na backpack. She tells you that her name is Louisa\r\nand that she was exploring a cave and got lost. She\r\ndoes not know she is in the Cave of Time.\r\n\r\nIf you try to help Louisa find the way\r\nback to where she entered the cave,\r\n= tum to page 76.\r\n\r\nIf you suggest she try one of\r\nthe tunnels with you as a way out,\r\ntum to page 80.",
+      "choices": []
+    },
+    "36": {
+      "id": 36,
+      "text": "Page 36\r\n\r\n“I know it sounds strange, Your Majesty,” you\r\nsay, “but I have no reason to incur your wrath by\r\nmaking up a false story.”\r\n\r\nThe King looks around at his courtiers. They all\r\nhave grave expressions on their faces, as if you\r\nhave committed some unpardonable sin.\r\n\r\nTum to page 11.",
+      "choices": []
+    },
+    "37": {
+      "id": 37,
+      "text": "Page 37\r\n\r\n: ater\r\n\r\n“Tm sorry to have intruded upon your royal\r\ndomain, Your Majesty.” you say humbly, trying to\r\nthink up a good story as fast as you can. “‘It is true,\r\nsire, I have been badly mistreated by my wicked\r\nstepfather, with whom I live, and I place myself\r\nunder your wise and just protection.”\r\n\r\n“Who is this wicked stepfather and where does\r\nhe live?”’ the King asks. “If he is wicked enough,\r\nwe may want him to be one of our knights,” he\r\nadds, laughing, as do all the courtiers.\r\n\r\n“He lives beyond that hill,”” you say, pointing\r\ntoward a high wooded ridge, ‘“‘and his name is\r\nSmith.”\r\n\r\nThe King laughs once again. ““Then your step-\r\nfather must be a fish,” he says, “for beyond yon-\r\nder hill is Loch Ness.”\r\n\r\nTum to page 11.",
+      "choices": []
+    },
+    "38": {
+      "id": 38,
+      "text": "Page 38\r\n\r\nYou feel you must be far in the future. Are you :\r\nreally looking at an alien spaceship? If so, you\r\nwould rather watch from a safe distance. You\r\nclimb rapidly up the hill—wondering how you got\r\nto this strange time.\r\n\r\nAhead of you is a niche in the rocks. You step\r\ninside. You realize you are in the bottom of the\r\ncrevasse you fell into from the Ice Age. Even if you\r\nwanted to get back to that time, there is no way\r\n\r\n: you could do so. You keep walking. Eventually\r\n| your approach open ground on the opposite side\r\nof the hill.\r\n\r\nNow you can see a vast stretch of open\r\ncountry—hilly, rocky, and mostly barren. Yet\r\nthousands of people are constructing a huge wall!\r\nAll over the landscape you see oxen pulling carts\r\nfilled with rocks. The wallis at least twenty feet high\r\nand extends as far as the eye can see.\r\n\r\nLadders are strung up against the wall, and on\r\nevery rung a man or woman is stationed. They\r\nhand rocks up one to another to the top of the wall.",
+      "choices": []
+    },
+    "39": {
+      "id": 39,
+      "text": "Page 39\r\n\r\nYou find this sight hardly less amazing than the\r\nsight of the alien spaceship, for it appears that you\r\nare witnessing the building of the Great Wall of\r\nChina.\r\n\r\nIf you go up to the wall builders,\r\ntum to page 82.\r\n\r\nIf you return to the crevasse,\r\ntum to page 87.",
+      "choices": []
+    },
+    "40": {
+      "id": 40,
+      "text": "Page 40\r\n\r\nYou cautiously approach the spaceship and, to\r\nyour amazement, see that it is resting a foot or so\r\nabove the ground, without any visible mechanism\r\nkeeping it aloft. There are no engines, rocket\r\nexhausts, port holes, landing gear, antennae, or\r\nany equipment you might imagine a spaceship\r\nwould need. You realize it must be the product ofa\r\nsupremely advanced civilization.\r\n\r\nTrusting that such people have leamed to be\r\nloving toward others, you approach the ship. A\r\nportal slides open, but all you can see within is\r\nshimmering blue light. A large cube is thrust out\r\nthrough the portal and lowered to the ground by\r\nmechanical arms. The top of the cube is with-\r\ndrawn, leaving a pallet on which lie the sleeping\r\nforms of three men and three women, dressed in\r\nshrouds of animal skin. Their bodies and features\r\nremind you of pictures you have seen depicting\r\nthe earliest men on earth. You have an impulse to\r\nup aboard the spaceship before the portal\r\ncloses.\r\n\r\nIf you do, tum to page 115.\r\n\r\nIf not, tum to page 83.",
+      "choices": []
+    },
+    "41": {
+      "id": 41,
+      "text": "Page 41\r\n\r\n“T can understand,” the old man replies, “why\r\nyou don’t want to take a chance with another time,\r\nfor other times are perilous and filled with evil\r\npeople and evil deeds.\r\n\r\n“You are wise to avoid them, and I will gladly\r\ndirect you back to your own time, which, you\r\nshould know, is no better and no worse.”\r\n\r\nThe End",
+      "choices": []
+    },
+    "43": {
+      "id": 43,
+      "text": "Page 43\r\n\r\n“And why do you want to be back with your\r\nfamily and friends?” the old man asks.\r\n\r\n“Because I will miss them and could hardly bear\r\nnot to see them again. And my family and friends\r\nwould be sad not to see me.”\r\n\r\n“You think of others, and you think of yourself\r\ntoo,” he replies. “‘That is a good reason to be in\r\nyour own time. Take the next tunnel to your right,\r\nand you will find your way there. You have chosen\r\nto have only one time, have you not?”\r\n\r\n“That is true,” you reply.\r\n\r\n“Then make the most of it,” he says, with one\r\nhand outstretched to wish you well.\r\n\r\nThe End",
+      "choices": []
+    },
+    "44": {
+      "id": 44,
+      "text": "Page 44\r\n\r\n“Ah, you are a shrewd one,” the old man says.\r\n“You'll try to get two loaves of bread, rather than\r\nSettle for one. Well, I'll show you one other time,\r\nand, if you don’t like it, just say so, and I'll return\r\nyou to your own time, if there is time to do so. Take\r\nthe tunnel to your left.”\r\n\r\nYou follow his direction, walk through the tun-\r\nnel, and come out onto a tity street. Instantly you\r\nrealize there is a war going on. Bombs and rockets\r\nare exploding all around you. You cry out to the\r\nold man, asking to be returned to the Cave of\r\nTime, but there is no time left.\r\n\r\nThe End",
+      "choices": []
+    },
+    "45": {
+      "id": 45,
+      "text": "Page 45\r\n\r\nA 45\r\n\r\n“Tam a philosopher,” the old man says, “who,\r\nwhen asked to choose a time, instead chose\r\ntimelessness, so that, although nothing would ever ;\r\nhappen in my life, I would have all the time in the :\r\nworld to think about it.”\r\n\r\n“Are you happy with your decision?”\r\n\r\n“No, because philosophy is nothing outside of\r\ntime. Take the tunnel to your right. Return to your\r\nown time, and let your life be your philosophy.”\r\n\r\nThe End",
+      "choices": []
+    },
+    "46": {
+      "id": 46,
+      "text": "Page 46\r\n\r\nDressed as warmly as possible in your crude\r\nboots and coat of animal skins, you leave shortly\r\nafter sunup with the others, a ragged band of thirty\r\nmen, women, and children. Luckily there are no\r\nbabies; they could never survive the migration.\r\nThe sun shows briefly through the clouds, the wind\r\nabates, and you make good progress on your\r\nsouthward journey.\r\n\r\nAfter only a few days of travel, everyone is\r\nnearing exhaustion. The hunters have not been\r\nable to find enough game. There is no way to light\r\na fire at night and the only way to keep from\r\nfreezing is to sleep huddled together.\r\n\r\nAfter a week though, you notice the sun shines\r\nmore warmly at midday and the snow is not quite\r\nso deep. It begins to look as though you will sur-\r\nvive, though you must give up hope of ever retum-\r\ning to your own time.\r\n\r\nThe End",
+      "choices": []
+    },
+    "47": {
+      "id": 47,
+      "text": "Page 47\r\n\r\nYou pack up your few belongings. The one you\r\nprize most is a knife carved from the tusk of a\r\nwooly mammoth. You wave goodbye to your\r\nfriends and trudge through the snow, trying to\r\nretrace your steps back to the Cave of Time.\r\nThough the wind is colder than ever, the bright sun\r\nstirs your hopes.\r\n\r\nYou have become much more rugged from liv-\r\ning with the cave people, and your crude animal-\r\nskin clothes keep you surprisingly warm. You find\r\nyour way down into the canyon and in a few hours",
+      "choices": []
+    },
+    "48": {
+      "id": 48,
+      "text": "Page 48\r\n\r\nreach the entrance to the cave, now almost cov-\r\nered with blowing snow.\r\n\r\nYou are exhausted from the long trek, and your\r\neyes are watering from the cold wind. You hardly\r\nnotice the large, gray shape only a few yards from\r\nthe entrance to the cave until you hear the deep,\r\nguttural growl of a wolf. Now you stare directly into\r\nits cold, cruel eyes. You feel that at your slightest\r\nmovement it will spring at you. You must think\r\nwhat to do before you move. You probably could\r\noutrun the wolf to the cave. It might hesitate before\r\nfollowing you—and give you enough time to\r\nescape—or you could try to knife the wolf in the\r\nthroat as it leaps at you.\r\n\r\nIf you run for the cave,\r\ntum to page 49.\r\n\r\nIf you prepare to fight,\r\nturn to page 50.",
+      "choices": []
+    },
+    "49": {
+      "id": 49,
+      "text": "Page 49\r\n\r\nSlowly you unsheath your knife and then run for i\r\nthe entrance. The wolf is after you like a shot. It ,\r\nleaps and tears your bearskin coat. While the wolf H\r\nis regaining its balance, you run into the cave and\r\ntoward the left tunnel. The wolf runs after you.\r\nYou look over your shoulder and lose your foot-\r\ning. Instead of falling on the ground, you feel H\r\nyourself sliding down a long, steep chute. Far\r\nabove, the wolf howls with frustration. You land in\r\na heap at the bottom of a pit—shaken but un-\r\nharmed. There is a dark passageway to the left.\r\nYou toss in a stone and, after what seems like a long\r\ntime, you hear a splash far below. Fortunately, :\r\nthere is another passageway to the right, which is\r\ndimly lit by phosphorescent light.\r\n\r\nTum to page 25.",
+      "choices": []
+    },
+    "50": {
+      "id": 50,
+      "text": "Page 50\r\n\r\nfF 50\r\n\r\nHolding your knife with its long ivory blade\r\npointing upward, you advance very slowly, step by\r\nstep, toward the wolf, which stands growling softly,\r\napparently confused by your boldness.\r\n\r\nThen it springs. You lunge with your knife, twist-\r\ning your body to avoid its awesome fangs. Your\r\nknife cuts through nothing but air, but the wolf\r\nsucceeds only in tearing off your bearskin coat. It\r\nstops for an instantto sniff at the coat, and you tum\r\nand plunge your knife into its neck. The wolf twists,\r\nlooks at you with hate in its eyes, and falls limp, its\r\nspinal cord severed.\r\n\r\nNow you are a true Stone Age hunter. You skin\r\nthe wolf and walk into the cave.\r\n\r\nYou follow the right-hand tunnel, thinking you\r\nmay find your way back to your own time, but\r\nsuddenly you feel yourself falling—faster and fast-\r\ner into what seems a bottomless pit.\r\n\r\nTum to page 81.",
+      "choices": []
+    },
+    "51": {
+      "id": 51,
+      "text": "Page 51\r\n\r\nSuddenly you hear voices shouting. You hide in\r\nathicket. An animal crashes through the brush. In\r\na moment some men rush by in pursuit, carrying\r\nspears and slings. You imagine that you must be in\r\nan era long before the advent of civilization. You\r\nfollow an animal trail; it soon leads to a clearing,\r\nand you lie down in the grass to rest. Looking up in\r\nthe sky, you see a long, thin, white streak. You rub\r\nyour eyes and look again. It seems to be a vapor\r\ntrail from a jet plane! You may be living in the\r\npresent time after all.\r\n\r\nAfter several days of wandering through the\r\njungle, you reach a settlement on the banks of a\r\nlarge river. There is an airfield nearby, and within a ‘\r\nfew weeks you are able to obtain a ride back to\r\n\r\ncivilization and retum to your family—just a month t\r\nafter you first entered the Cave of Time. You are \\\r\nhappy to be back home, but shocked at how much ‘\r\nolder everyone looks. And they express the\r\n\r\ngreatest surprise that after eleven years you }\r\n\r\nhaven’t changed a bit!\r\nThe End",
+      "choices": []
+    },
+    "52": {
+      "id": 52,
+      "text": "Page 52\r\n\r\nYou work your way back to the mammoth’s\r\nrump and slide down, landing hard on the icy\r\nground, where you lie aching and bruised, while\r\nthe mammoth lumbers on. Suddenly it disap-\r\npears, driven off the cliff. The hunters are shouting\r\nand cheering. Some of them come up to you.\r\nThey are short and muscular, their jaws jut out,\r\nand they have bright squinting eyes. Their black\r\nhair hangs down to their shoulders. They are\r\ndressed in animal skins\r\n\r\nYou look up helplessly, wondering what they\r\nwill do to you, but in an instant you can see they\r\nwill not hurt you. They help you up and carry you\r\nback to their cave and feed you steaming broth. It\r\ntastes awful, but makes you feel much better. You\r\nsoon learn that the cave people will accept you as\r\none of them, because you have—without realizing\r\nit—performed the sacred rite of their culture by\r\nriding bravely on the back of a mammoth.\r\n\r\nLife is harsh and simple with the cave people,\r\n\r\ni and sometimes you long for your family, your\r\nfriends, and your own time again; yet your new life\r\nis as exciting and happy as you could wish for.\r\n\r\nThe End",
+      "choices": []
+    },
+    "53": {
+      "id": 53,
+      "text": "Page 53\r\n\r\n] 53\r\n\r\nYou hold tightly to tufts of wool, hoping the\r\nmammoth will slow down enough so you can :\r\nsafely slide off. But suddenly it pitches forward,\r\nmaking a terrible bellowing. In an instant you\r\nrealize you are falling through space. You cry out\r\nhelplessly as you lose your grip, falling faster and\r\n‘aster.\r\n\r\nThousands of years later when Dr. Carleton\r\nFrisbee, the famous paleontologist, finds your\r\nbones next to those of a wooly mammoth in the\r\nRed Creek excavation, he is amazed at how\r\nclosely you resemble a twentieth-century human\r\nbeing.\r\n\r\nThe End",
+      "choices": []
+    },
+    "54": {
+      "id": 54,
+      "text": "Page 54\r\n\r\nYou enter the next tunnel you come to. It be-\r\ncomes smaller and smaller until you must crawl.\r\nYou continue this way for almost an hour. Finally,\r\nyour faith is justified, for you smell a fresh breeze\r\nblowing across a field of new-mown hay.\r\n\r\nAmomentlater you are blinking your eyes in the\r\nbright sunlight, looking at a beautiful meadow nes-\r\ntled between gentle hills. A dozen or more cows\r\nare grazing near a meandering stream. In the dis-\r\ntance isa dirt road. A farmer is sitting on a cart filled\r\nwith hay. A dapple-gray horse is pulling the cart\r\ntoward a big red barn in the distance. From the\r\nother direction you hear the mournful hooting of a\r\ntrain whistle.\r\n\r\nYou tum around and see that you are only a few\r\nhundred feet from the railroad tracks. A train is\r\nchugging around the bend, puffs of black smoke\r\ntising from its coal-fired steam engine. You are out\r\n\r\nof the Ice Age, all right, but not exactly in your own\r\ntime.\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "55": {
+      "id": 55,
+      "text": "Page 55\r\n\r\nThe train slows down as it approaches you, and\r\nyou smile as you see the reason why—a cow is\r\nstanding on the tracks just ahead, looking as if it\r\nwould not move for anything. The train pulls to a\r\nstop, and a manjumps down from the cab, waving\r\na coal shovel at the cow, which waits almost until\r\nthe man is upon her before strolling back into the\r\npasture. At that moment you realize you could\r\neasily climb onto the back of the train.\r\n\r\ni\r\n\r\n»\r\n\r\n= a= nds = See :\r\nIf you climb on the train, N\r\n\r\ntum to page 94. i\r\n\r\nIf you go to the farm, L\r\n\r\nturn to page 98. {\r\n\r\nIf you go back into the tunnel\r\nin hopes of finding your way back to\r\nyour own time, tum to page 101.",
+      "choices": []
+    },
+    "56": {
+      "id": 56,
+      "text": "Page 56\r\n\r\n| 56\r\n\r\nThrough computer instruction you are able to\r\nlearn the language, which you find is similar to\r\nEnglish, so you are soon able to communicate with\r\nyour hosts.\r\n\r\nThey are not at all surprised to hear that you\r\narrived through the Cave of Time.\r\n\r\n“You are not the first,”’ the head of the house-\r\nhold tells you, “‘but we have visitors from other\r\ntimes only once in a great while. When someone\r\ncomes, we are always glad to leam about life in\r\nanother era, because here we have achieved a sort\r\nof paradise—we do not work, and the world is at\r\npeace. It is a perfect society. That is why primitive\r\nepochs, such as yours, interest us so much.”\r\n\r\nIf you stay in “the perfect society,”\r\ntum to page 57.\r\n\r\nIf you try to retum to the Cave of Time,\r\ntum to page 60.",
+      "choices": []
+    },
+    "57": {
+      "id": 57,
+      "text": "Page 57\r\n\r\nYour hosts give you a fine bedroom with large !\r\nwindows overlooking the park on one side. On I\r\nanother wall is a beautiful painting of the California f\r\nseacoast. When you push a button, the painting |\r\nfolds up to the ceiling, revealing a large screen.\r\nYour room contains a computer terminal that en-\r\nables you to select any movie or other program\r\nyou desire from over 10,000 possibilities. There\r\nare even films where you are the main character\r\nand you can make choices as to what will happen\r\nnextin the story. Then, if you don’ tlike the way the\r\nplot is working out, you can go back to an earlier\r\npoint and make different choices from then on.\r\n\r\nOn your terminal you can also play games and s\r\nflash pages of books or magazines on the screen.\r\nYou can live quite well without even getting out of\r\nbed. 5\r\n\r\nEventually you go exploring. You meet other ‘\r\npeople, but you find none of them very interesting,\r\nso you spend most of your time watching the iN\r\ngreatest movies of all time. Gradually you settle\r\ninto your new life. One thing disturbs you. No one N\r\n\r\nhas made any new movies in the last 300 years.\r\n\r\nThe End",
+      "choices": []
+    },
+    "58": {
+      "id": 58,
+      "text": "Page 58\r\n\r\nYou take a deep breath, dive down, and swim\r\nthrough the tunnel. There is light ahead. In a mo-\r\nment you surface in a beautiful lagoon. Thatched\r\ncottages are nestled among the palm trees that rim\r\nthe white sand beach. A warm, soft breeze brings\r\nthe scent of jasmine and the sound of strange\r\nmelodies from sonorous drums. Looking out to\r\nthe inlet from the sea, you can see a fleet of outrig-\r\nger skiffs with multi-colored sails running into the\r\nlagoons before the wind, their owners leaning\r\nagainst the booms to hold the sails out.\r\n\r\nYou walk toward the village. Several hand-\r\nsome, brown-skinned people see you. Some of\r\nthem run away, but others walk toward you with\r\nhands held up in salute. Two children, holding\r\ngarlands of flowers, run up to you. Someone\r\ncalls—‘‘Aloha!”’\r\n\r\nSoon you are sitting in front of a huge beach fire,\r\ncooking crabs and eating buana cake. Having\r\nnever had a visitor before, your hosts are happy to\r\nsee you. They welcome you into their society.\r\nGradually you learn their language. The boys tell\r\nyou they are your brothers; the girls that they are\r\nyour sisters.\r\n\r\nYou enjoy life in this new paradise, but you still\r\nwonder whether there might be a way to get back",
+      "choices": []
+    },
+    "59": {
+      "id": 59,
+      "text": "Page 59\r\n\r\nto the Cave of Time. Your new friends are unable\r\nto help. Perhaps if you journeyed inland you could\r\nfind some who could. Your friends warn you\r\nagainst trying, however. They tell you that you will\r\nfind only terrible jungles and rivers filled with\r\ncrocodiles.\r\n\r\nIf you remain with your new friends,\r\ntum to page 62.\r\n\r\nIf you joumey inland, tum to page 63.",
+      "choices": []
+    },
+    "60": {
+      "id": 60,
+      "text": "Page 60\r\n\r\nThere is something deadening about the perfect\r\nfuture society that makes you want to return to\r\nyour own time as quickly as possible. With a brief\r\nword of farewell, you hurry back to the tunnel,\r\nclimb down, and find a fork to the right that you\r\nhope will take you toward the right time. Soon you\r\nare climbing up toward the surface, excited about\r\nthe discovery you are about to make.\r\n\r\nWhen you reach the surface, it is completely\r\ndark. A chill wind is blowing. You sit resolutely\r\nwaiting for dawn so that you can see what kind of a\r\n\r\nworld you are in. Meanwhile, there is no way of\r\ntelling what time itis, either by your watch or by the\r\nstars.\r\n\r\nYou hear loud, clicking sounds all around you,\r\n\r\nmostly in the distance, but some quite close. As the\r\norange-pink glow of oncoming dawn lightens the\r\n\r\n| eastern sky, you see nearby the shape of a creature\r\nthat is the size of a sheep but has a very different\r\nappearance.\r\n\r\nThe End",
+      "choices": []
+    },
+    "61": {
+      "id": 61,
+      "text": "Page 61\r\n\r\nYou follow the tunnel downward a short dis-\r\ntance, suddenly you are sliding. Your head strikes\r\nsomething and you are knocked unconscious.\r\n\r\nWhen you wake up, you find yourself by a small\r\nlake, bordered by woods. A boy about twelve\r\nyears old is fishing nearby, but there is no one else\r\nin sight. You go up and introduce yourself, hoping\r\nyou can find out what year it is without sounding\r\ncrazy.\r\n\r\nFortunately, the boy is friendly and good na-\r\ntured. He tells you his name is Nick Tyler and that\r\nhe lives on Birch Street. He works in his father’s\r\nbusiness making candles and soap—the best in the\r\nColonies, he says.\r\n\r\nIf you tell him you come from\r\na future time, tum to page 104. 2\r\n\r\nIf you try to make up a\r\nbelievable story, tum to page 106.",
+      "choices": []
+    },
+    "62": {
+      "id": 62,
+      "text": "Page 62\r\n\r\nYour friends are understanding about your wish\r\nto find the way back to your own time, but they tell\r\nyou they can show you something you never\r\ndreamed of. Since their society is very primitive,\r\nyou wonder what they could have in mind.\r\n\r\nNext day they lead you to another cove where\r\nthe waves roll in, rise up against the cliff and then\r\nroll out again. Sometimes the waves clap against\r\neach other and senda foamy spray of water high in\r\nthe air. You see some young people on tiny\r\nrafts—nothing more than surfboards—riding in on\r\nthe crests of the waves and then riding them out on\r\nthe rebound. In a few hours you have learned a\r\nsport that brings excitement and fascination for\r\nhour after hour.\r\n\r\nWith such delights as this, it is not long before\r\nyou lose interest in returning to your own time.\r\nSometimes you wonder, but you never learn,\r\nwhether this paradise lies in the future or the past.\r\n\r\nThe End",
+      "choices": []
+    },
+    "63": {
+      "id": 63,
+      "text": "Page 63\r\n\r\nYou hug your friends good-bye and climb the\r\nridge bordering the jungle. You soon find an ani- ]\r\nmal trail leading through the dense undergrowth\r\ninto a tropical rain forest. The green canopy of\r\ntreetops is far overhead and only an occasional\r\ndapple of sunlight reaches the spongy, dark\r\nground. You walk on and on, hoping to reach the\r\nmountains, where you might find another en-\r\ntrance to the Cave of Time.\r\n\r\nNight falls and you make yourself a crude bed.\r\nYour mattress is the mossy floor of the forest. You\r\nspread out fem leaves for a sheet. Early the next\r\nmoming, as the birds are beginning their moming\r\nsongs, you are awakened by the boa constrictor~\r\nwrapped around your neck.\r\n\r\nThe End",
+      "choices": []
+    },
+    "64": {
+      "id": 64,
+      "text": "Page 64\r\n\r\nSwimming through the underwater tunnel may\r\nbe the only way to get out of the grotto, but the risk\r\nof drowning seems too great. You explore the\r\nrocks in the grotto and think about how you might\r\npossibly get up through the roof.\r\n\r\nSuddenly a voice calls, “Hello.” You whirl\r\naround and notice for the first time, huddled in the\r\ncomer, a woman with sparkling blue eyes and a\r\nmysterious smile. She is sitting crosslegged,\r\npropped against a rock which is shaped in a way\r\nthat gives her a comfortable seat. In her hands she\r\nis holding a flute, and as you stare in amazement\r\nshe plays an unfamiliar melody with a sweetness\r\nand purity of tone such as you have never heard.\r\n\r\n“Hello,” you reply. ““Tell me—who are you and\r\nhow can we get out of here?”\r\n\r\n“Sit down,” she says, “‘and relax. You have all\r\nthe time in the world.”\r\n\r\n“What do you mean?” you reply. “I am\r\ntrapped. I slid down from the Cave of Time and I\r\nwant to get out.”\r\n\r\n“Believe me,’’ the woman says, ‘‘there’s no way",
+      "choices": []
+    },
+    "65": {
+      "id": 65,
+      "text": "Page 65\r\n\r\nto get out; but do not be concerned. It is a beautiful\r\nplace and you can be very happy here.”\r\n\r\n“But we'll starve. How long have you been\r\nhere?” you exclaim.\r\n\r\n“Forever and not at all,” she replies, “for this is\r\nthe part of the cave which leads neither to the past\r\nnor to the future. Here, time does not exist, so, of\r\ncourse, you will never be hungry or bored, and,\r\nalthough you can never get out, you will be here\r\nfor no time at all.”\r\n\r\nTurn to page 102.",
+      "choices": []
+    },
+    "66": {
+      "id": 66,
+      "text": "Page 66\r\n\r\n66 i\r\n\r\nYouaccept the offer, for you can hardly expecta i\r\nbetter life at this point, and soon you begin to enjoy 4\r\nrowing out in the early morning mists and spread- t\r\ning your nets with the neighboring fishermen. }\r\n\r\nOne afternoon, as the people are pulling up j\r\ntheir boats for the night, your friend, Angus i\r\nMcPhee, raises a cry and points at the water. You i\r\nlook out and see the great head and neck of a sea i\r\nmonster—a huge dragon of the lake. Nearby, ;\r\nsplinters of wood are floating in the water.\r\n\r\n“That was Sutherland’s boat,” Angus cries out. i\r\n“‘If's been a hundred years since the monster has j\r\nbeen seen, but now it has returned!” |\r\n\r\nThe monster swims away and soon is lost from\r\nview in the mists. ; |\r\n\r\n“How could the monster be gone for a hundred\r\nyears and then return?” you ask Angus. i\r\n\r\n“Somewhere near Beatty’s Point,” he replies,\r\n“there is an underwater cave where the monster {\r\nstays as long as it pleases—because it is a Cave of '\r\nTime.” i\r\n\r\nIfonly you could find your way back to the Cave\r\nof Time! But chances seem slim, and the risks\r\nseem great.\r\n\r\nIf you try, tum to page 70. |\r\n\r\nIf you do not try, tum to page 74.",
+      "choices": []
+    },
+    "68": {
+      "id": 68,
+      "text": "Page 68\r\n\r\nCould you change history and save hundreds of\r\nlives by warning the captain that the “unsinkable”’\r\nTitanic is destined for the bottom of the Atlantic?\r\nYou see some stairs leading to a higher deck, and\r\nyou run up them.\r\n\r\nA steward is standing near the top. “You can’t\r\ncome up here,” he cries. But you dart past him and\r\nrun toward the forward part of the ship. You dash\r\nup another set of stairs, where you find yourself at\r\nthe starboard wing of the bridge. The gray-\r\nbearded captain is standing only a few feet away,\r\nlooking out to sea through his binoculars at a ship\r\non the horizon.\r\n\r\n“Captain,” you call out. “You may not realize it,\r\nbut this ship will sink in only two or three hours.”\r\n\r\nHe turns and looks at you gravely. “I know,” he\r\nsays softly. “But we are going to fire distress rock-\r\nets. That ship out there—the Califomian—should\r\nrespond to help us.”\r\n\r\n“They will not respond, Captain,” you tell him.\r\n“They can’t believe the Titanic could be in trouble,\r\neven though they see your rockets. Your only\r\nhope is to put your strongest men in a lifeboat and\r\nhave them row toward the Califomian at top\r\nspeed—firing rockets as they approach.”\r\n\r\n“Great heavens, you have bold ideas,” the cap-\r\ntain replies, ‘‘but I need every man I have to lower\r\nour lifeboats and keep order among the passen-\r\ngers. I can’t believe the Californian will not come\r\nwhen they see our rockets.",
+      "choices": []
+    },
+    "69": {
+      "id": 69,
+      "text": "Page 69\r\n\r\n“Now go to the deck below. Mr. Lightoller will\r\nsee that you have a place in a lifeboat.”\r\n\r\nWith that the captain turns and strides away,\r\ngiving orders to an officer nearby. You sadly retum\r\ndown the stairs and wait in line for one of the\r\nplaces in a lifeboat.\r\n\r\nTwo hours later, you sit huddled in the crowded\r\nboat, shivering in the cold breeze, and watch the\r\ngreat Titanic slip beneath the waves—with 1,500\r\npeople still aboard—together with your only hope\r\nof finding your way back to the Cave of Time.\r\n\r\nThe End",
+      "choices": []
+    },
+    "70": {
+      "id": 70,
+      "text": "Page 70\r\n\r\nOne day when the sun is bright and the water as\r\nwarm as it’s likely to get, you take an old skiff and\r\nrow to Beatty’s Point. You pull your boat upon the\r\nrocky shoal that marks the cave. You dive again\r\nand again along the rock wall that drops into the\r\ndepths until you find the entrance. You swim a few\r\nfeet inside and find you can get up to the surface\r\ninside an enormous cavern, most of it filled by an\r\nunderground lake.\r\n\r\nYou reach the shore and walk along the\r\nlakeside, deeper and deeper into the cavern,\r\nwhich is lit by a mysterious blue light. Then, ahead,\r\nyou see what you had hoped to find—a tunnel that\r\nsurely must lead to the Cave of Time. Nearby in\r\nthe sand are three eggs as large as footballs. You\r\npick one up and carry it into the tunnel. After\r\nwalking awhile, the air becomes hard to breathe.\r\n\r\nYou begin to feel dizzy and fall unconscious to the\r\nground, still clutching the enormous egg.\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "71": {
+      "id": 71,
+      "text": "Page 71\r\n\r\nYou are awakened by a fresh breeze blowing\r\ntoward you. You dizzily get to your feet, pick up\r\nthe egg, and hurry toward the fresh air—outdoors\r\nagain in Snake Canyon! Everything is as you re-\r\nmember it and in a few hours you are walking up to\r\nthe ranch, where your uncle says he is surprised\r\nyou got back so quickly!\r\n\r\nWhen you tell what has happened to you, no\r\none at the ranch believes it, though they are fasci-\r\nnated by your enormous egg.\r\n\r\n“Maybe we'll believe that egg is real—and be-\r\nlieve your story—if it will hatch a monster,” your\r\nuncle says, ‘“‘or if you break it open to show us\r\nwhat's inside.”\r\n\r\nIf you decide to break the egg open,\r\ntum to page 72.\r\n\r\nIf you keep it in your closet until\r\nyou have a chance to get\r\nscientific advice, tum to page 103.",
+      "choices": []
+    },
+    "72": {
+      "id": 72,
+      "text": "Page 72\r\n\r\n72-\r\n\r\nWith your aunt and uncle and some ranch\r\nhands standing by, you very gently tap the egg\r\nwith an axe, hoping it will split open without frag-\r\nmenting.\r\n\r\n“Wait a minute!’”’ Uncle Howard cries out. “I'm\r\nready to believe you, but I think we better get a\r\nnaturalist down from the University to see this\r\nfirst.”\r\n\r\nYou are relieved that your uncle feels this way,\r\nbecause it seems like a terrible responsibility—\r\ncracking open an egg like that and possibly killinga\r\nrare monster before it is born.\r\n\r\nUncle Howard calls the naturalist, a famous pro-\r\nfessor of paleontology, who agrees to come down\r\nthe following Saturday. You place the egg in a\r\nlarge bowl in the middle of the dining room table.",
+      "choices": []
+    },
+    "73": {
+      "id": 73,
+      "text": "Page 73\r\n\r\nThe next day is Friday, and that evening the\r\nwhole family goes out to the movies. When you\r\nreturn, you find the house has been broken into\r\nand the egg is missing:\r\n\r\nNeither you, your aunt and uncle, nor any of the\r\nranch hands, nor the police are ever able to find\r\nthe egg. Most people you tell your story to just\r\nsmile and say, “Sure.” But Uncle Howard, even\r\nthough he is a skeptical man, tells you he knows\r\nyou were telling the truth.\r\n\r\nThe End",
+      "choices": []
+    },
+    "74": {
+      "id": 74,
+      "text": "Page 74\r\n\r\nThe idea that the Loch Ness monster goes into\r\nthe Cave of Time for a hundred years or so before\r\nreturning seems preposterous. And, even ifit does,\r\nit seems very doubtful you could dive down deep\r\nenough to find the underwater entrance. So you\r\nresign yourself to making a living fishing the waters\r\nof Loch Ness.\r\n\r\nYou find it a tolerable, though not very interest-\r\ning, life. You particularly like rowing out in your\r\nskiff in the early morning mists and watching the\r\npale, red sun struggling to shine through the haze.\r\nThat's what you are doing one day when you feela\r\ntremendous thump under your boat, the stern is\r\nheaved high into the air, and you are hurled over\r\nthe bow and into the jaws of the monster.\r\n\r\nSome of your friends find the wreckage of your\r\nboat later in the day and, throughout the village,\r\npeople say to each other—“The monster has re-\r\nturned again.”\r\n\r\nThe End",
+      "choices": []
+    },
+    "76": {
+      "id": 76,
+      "text": "Page 76\r\n\r\nAfter hearing of the forbidding world you've\r\nwitnessed at your end of the Cave of Time, Louisa\r\nis agreeable to your helping her try to find the way\r\nback to her entrance.\r\n\r\n“Tell me about the world outside your entrance\r\nto the Cave of Time. Is itin America? What year is it\r\nthere?” you ask, as the two of you walk along.\r\n\r\n“The year 2022, of course,” she replies.\r\n\r\n“You mean people are still wearing blue jeans\r\nthen?” you ask.\r\n\r\n“They've come back into style lately,” she\r\nlaughs.\r\n\r\n“You must have some new inventions that we\r\ndid not have in my time. Tell me about your most\r\nmodern things.”\r\n\r\n“T think the best things are the bicycle trails.\r\nSince 1997 they’ve allowed no new roads to be\r\nbuilt—only bike trials—and now there are as many\r\nmiles of bike trails as there are of roads for cars.\r\n\r\n“So you can really bike all over the country?”",
+      "choices": []
+    },
+    "77": {
+      "id": 77,
+      "text": "Page 77\r\n\r\n“Sure—and not alongside buses and trucks and +f\r\ncrazy drivers, but through forests and across plains  % |\r\nand deserts and along rivers and streams. Isome-\r\ntimes feel like biking forever that way, and there\r\nare hostels for bikers where you can sleep in com-\r\nfort for almost nothing. Most of the cost is paid for\r\nby taxes on gasoline.”\r\n\r\nSuddenly you feel the ground giving way be-\r\nneath your feet. You and Louisa are falling. The\r\ntwo of you land at the base of a steep bluff, shaken\r\nbut unharmed, alongside a road. You wonder\r\nwhat year you have arrived in. Then, nearby, you\r\nsee a billboard that says, ““CADILLAC—the Car of\r\nthe Year, every Year!”\r\n\r\n“What's a Cadillac?” Louisa asks.\r\n\r\nThe End",
+      "choices": []
+    },
+    "78": {
+      "id": 78,
+      "text": "Page 78\r\n\r\nYou'd rather spend the rest of your life search-\r\ning for an entrance to the Cave of Time than settle\r\nfor the placid life of a fishing village. So you bid\r\nyour new friends farewell and set out over the\r\ncountryside, headed south for London. Your goal\r\nis to find a ship to take you to America, though you\r\nknow America hasn’t been discovered yet, for\r\nsomehow you must find your way back to Red\r\nCreek Canyon and the Cave of Time\r\n\r\nA few hours later, as you are walking on a road\r\nalong the edge of the forest, some burly men ride\r\nout from behind a clump of trees.\r\n\r\n“We've got you,” one shouts. “You're the one\r\nwho escaped from the tower, aren’t you?” They\r\nforce you upon a horse and ride at top speed\r\ntoward the castle.\r\n\r\n“The penalty for escaping from the tower is\r\nhanging,” one of them tells you.\r\n\r\nYou find out he is right.\r\n\r\nThe End",
+      "choices": []
+    },
+    "79": {
+      "id": 79,
+      "text": "Page 79\r\n\r\nYou have no wish to risk sinking with the Titanic,\r\nso you climb back down the ladder into the hold of\r\nthe ship—hoping that somehow you will find your\r\nway back to the cave. In your haste, you lose your\r\ngripand fall. You reach out, but too late. You land\r\nso hard you are knocked out. When you awaken,\r\nyou are in one of the passageways of the cave.\r\n\r\nIf you explore the passageway,\r\ntum to page 86.\r\n\r\nIf you decide to check out\r\nthe outer entrance to the\r\ncave again, turn to page 88.",
+      "choices": []
+    },
+    "80": {
+      "id": 80,
+      "text": "Page 80\r\n\r\n“Since you can’t find your way to your own\r\ntime,” you say, “perhaps we can find my time.”\r\nYou lead her back a short distance, until you\r\ncome to an unusually wide tunnel. You stop, and\r\nLouisa looks at you inquiringly. ‘‘Let’s try this\r\none,” you say.\r\n\r\nAfter traveling almost an hour, the two of you\r\nsmile with joy to see light ahead, and you soon\r\ncome out of the tunnel and stand on reddish\r\nsandy ground, surveying a saucer-shaped terrain.\r\nThe air is as fresh and clear as on a crisp, fall day.\r\nYou guess that you may be in the crater of an\r\nextinct volcano. Suddenly, there is a thundering\r\nroar behind you. Louisa and you run from a\r\nlandslide that buries the tunnel leading back to\r\nthe Cave of Time.\r\n\r\n“T wonder what year it is?”’ Louisa asks, after\r\nthe two of you have collected your wits.\r\n\r\nFor the first time you look up at the sun. It is\r\nfour times as large as the sun you knew, though\r\nnot as bright. It is almost directly overhead, yet its\r\ncolor is a rusty red.\r\n\r\n“T don’t know the answer,” you reply, “but\r\nfrom what I’ve read about astronomy, I would\r\nguess it’s the year 2,000—plus about four billion\r\nyears.”\r\n\r\nThe End",
+      "choices": []
+    },
+    "81": {
+      "id": 81,
+      "text": "Page 81\r\n\r\nYou feel yourself slowly regaining conscious-\r\nness. You are in your bed at Red Creek Ranch,\r\nlooking up at Uncle Howard. Standing nearby is a\r\nfriend of his who is a doctor.\r\n\r\n“You took quite a bad fall climbing on those\r\nrocks up in the canyon,” Uncle Howard says.\r\n“Doc Parsons tells me he doesn’t know why you\r\ndidn’t break any bones. We were real worried\r\nabout you—thought you got lost in one of those\r\ncaves up there.”\r\n\r\nYou feel a bit dizzy and weak, so you just smile\r\nand say nothing. Probably no one would believe\r\nyou anyway. Years later, though, you write a book\r\nabout your adventures in the Cave of Time.\r\n\r\nThe End",
+      "choices": []
+    },
+    "82": {
+      "id": 82,
+      "text": "Page 82\r\n\r\nYou go up to the base of the wall where the |\r\npeople are working. When they see you, they\r\nimagine you are a spy from some unknown tribe.\r\nSome guards capture you and force you to sit on a\r\npile of rocks while they talk about you.\r\n\r\nAfter a while they point to one of the ladders.\r\nTwo other people force you to start handing up\r\nrocks. You realize that you have been conscripted\r\nto work building a wall twenty feet high, twelve feet\r\nwide, and 1,400 miles long. You calculate it will\r\ntake about ten billion rocks to build the wall. You\r\nwonder how many of them you will lift before you\r\ncan escape—if you ever do.\r\n\r\nThe End",
+      "choices": []
+    },
+    "83": {
+      "id": 83,
+      "text": "Page 83\r\n\r\nMuch as you would like to see the inside of the\r\nalien ship, you have no desire to be whisked off\r\ninto space. You step back to what you hope is a\r\nsafe distance and watch what happens. In a mo-\r\nment the portal closes, and almost instantly the\r\nship rises, silently, straight up. Within a few min-\r\nutes it is lost from view. You walk over to look\r\nmore closely at the primitive looking people sleep-\r\ning on the pallet. They begin to stir and stretch and\r\nrub their eyes as if waking from a long sleep.\r\n\r\nIf you stay and try to make\r\nfriends with the primitive people,\r\ntum to page 85.\r\n\r\nIf you retum to the hill and try\r\nto find your way back to the\r\nCave of Time, tum to page 84.",
+      "choices": []
+    },
+    "84": {
+      "id": 84,
+      "text": "Page 84\r\n\r\nYou run up the hill and out of sight before any of\r\nthe primitive people awaken. You must find an\r\nentrance to the Cave of Time. You search in the\r\nhigh rocky ground for some opening. Hours go by;\r\ndusk is fast approaching. Just as you are about to\r\ngive up hope, you spy the entrance to a cave under\r\na rock ledge. You eagerly step inside and have\r\nonly a moment's awareness that it is the den of a\r\nsaber-toothed tiger.\r\n\r\nThe End",
+      "choices": []
+    },
+    "85": {
+      "id": 85,
+      "text": "Page 85\r\n\r\nThe people look around curiously. They hardly\r\nseem to notice your presence. One by one they get\r\nup and walk around. One of them drinks from the\r\nstream. They make grunting and clicking noises,\r\nbut do not seem to be actually talking among\r\nthemselves. The largest of the group picks up a\r\nstick from the ground and begins prying up the\r\nroots of plants along the edge of the stream. He\r\nbites at each one. Finally he smiles and passes the\r\nroot around to the others. One woman claps her\r\nhands. The others begin to find sticks. One of the\r\nmen hands you a piece of root. You bite at it. It\r\ntastes like a dirty carrot. The women smile at you.\r\nYou are accepted in the group.\r\n\r\nThe next morning you wake up in the soft mossy\r\nbank in Snake Cavern, a few dozen yards from the\r\nentrance to the cave, wondering how much of\r\nwhat has been happening to you has been a\r\ndream and how much has been reality. But you\r\nhave no desire to go into the Cave of Time again.\r\n\r\nThe End",
+      "choices": []
+    },
+    "86": {
+      "id": 86,
+      "text": "Page 86\r\n\r\nYou walk on and on, hoping the passageway\r\nwill lead you to your own time. You soon come to\r\na tunnel that leads into a dark, musty room re-\r\nsembling the cellar of a large house. There are a\r\ngreat many people huddled in groups, sitting on\r\nblankets in complete darkness save for the light of\r\na few flickering candles. You hear the dismal wail\r\nof a siren, Near the center of the room an old-\r\nfashioned radio sits on the table playing a mixture\r\nof classical music and static. Then the sirens stop,\r\nthe ground shakes, and you hear a tremendous\r\nexplosion nearby, then another further away, then\r\nanother so close that a wall and half the ceiling\r\ncome crashing down in a pile of rubble, blocking\r\nthe tunnel. You and the others scramble to the\r\n| opposite side of the room, coughing and gasping\r\nin the dust-filled air.\r\n\r\nYou are about to begin a new life. The year is\r\n1940; the place, London.\r\n\r\nThe End",
+      "choices": []
+    },
+    "87": {
+      "id": 87,
+      "text": "Page 87\r\n\r\nYou have no desire to be involved in building\r\nthe Great Wall of China, or, for that matter, to be\r\ntaken to another planet by aliens. You walk back |\r\ninto the crevasse, hoping to find a tunnel that |\r\nmight lead to another time. You walk along the\r\nbottom of the crevasse and reach an opening on\r\nthe other side of the ridge, where you half expect\r\nto see the rolling countryside, the stream and the\r\nspace ship that were there before.\r\n\r\n; Instead, the crevasse leads to the ocean! Like a\r\n\r\n/ bad dream, where the scene suddenly changes\r\n\r\n| into something entirely different, you find that the\r\nhills have become waves, which surround you so\r\nthat the rock you are standing on is only a reef\r\n\r\n; protruding a few yards above the wind-swept seas.\r\n\r\nAnd there seems to be no escape, because, for all\r\n\r\nyou can tell, you are standing on the only land in\r\n\r\nthe world.\r\n\r\n: The End",
+      "choices": []
+    },
+    "88": {
+      "id": 88,
+      "text": "Page 88\r\n\r\nYou walk back through the cavern, wondering if\r\nthe entrance will still be blocked by ice. This time,\r\nthough, you are greeted by a warm breeze. Sun-\r\nlight is shining on the ground near the entrance,\r\nand you walk outside.\r\n\r\nSquinting your eyes in the bright light, you see a\r\nworld totally different from the one you know. You\r\nare on a hillside. For miles and miles you can see\r\ngrassy plains speckled with lakes. Nearby isa forest\r\nof towering fers, swaying in the wind. The world\r\nbefore you seems strangely quiet, except for the\r\nfaint rumbling of distant thunder. Suddenly, the\r\nthunder seems much closer—and louder. The\r\nthundering sound is moving through the ferns.\r\nYou run up the hill looking for a place to hide. A\r\nhuge shadow passes on the ground. Above you,\r\nsoaring through the air, is a creature larger than\r\nany bird you have seen.\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "89": {
+      "id": 89,
+      "text": "Page 89\r\n\r\nNow it is clear what has been happening. The\r\ncave is a crack in the universe—a place outside\r\nspace-time. Once inside its tunnels you could find\r\nyourself at any place, at any time. If you enter\r\nagain you might be sent to a place from which you\r\ncould never escape. Yet that is your only hope of\r\nreturning to your own place and time.\r\n\r\nIf you go back into the cave,\r\ntur to page 90.\r\n\r\nIf you remain outside,\r\nturn to page 91.",
+      "choices": []
+    },
+    "90": {
+      "id": 90,
+      "text": "Page 90\r\n\r\nInside the cave again, you feel depressed and\r\nconfused. Your eyes do not seem to be getting\r\nused to the dim light. You cannot find any pas-\r\n\r\n| sageways leading to other times. You feel increas-\r\ningly drowsy. Soon you fall asleep on the cold clay\r\n\r\n| floor of the cave.\r\n. Sometime later you awaken. The cave is pitch\r\n\r\ndark, but the bright light at the opening tells you\r\n| the sun is shining brightly outside. You walk out\r\ninto the daylight and, to your surprise and delight,\r\nyou see Snake Canyon, the trail, the grove of pine\r\ntrees nearby—everything just as it was when you\r\nentered the cave. Even the sun is in the same\r\nplace, just about to pass behind the rim of the\r\ncanyon. Somehow you have returned to your own\r\ntime—or more precisely, the time it was before\r\nyou fell asleep in the cave.\r\nYou rub your eyes and start down the path back\r\nto the Red Creek Ranch with a story to tell that no\r\none will believe, but that you will never forget.\r\n\r\nThe End",
+      "choices": []
+    },
+    "91": {
+      "id": 91,
+      "text": "Page 91\r\n\r\nReasoning that you can always find your way\r\nback into the cave when you want to, you decide\r\nto explore the world in which you have found\r\nyourself.\r\n\r\nYou make your way along a rock ledge over-\r\nlooking the plains and lakes, taking care to keep\r\nyour bearings so you can find your way back to the\r\ncave.\r\n\r\nBy now you are getting very hungry. You know\r\nthat you are in the age of reptiles—at least 100\r\nmillion years ago—and that mammals may not yet\r\nhave appeared on earth. There will be no rabbits\r\nor deer to hunt, though the lakes may contain fish.\r\nYou wonder how dinosaur eggs taste.\r\n\r\nYou follow a wide path through the fern trees.\r\nWhen you round the first bend, you find yourself\r\nface to face with the horrible Triceratops, a great\r\ngray monster almost hidden behind its shields and\r\nhorns. It looks at you curiously with dull brown\r\neyes. You tum, run, and crash into a tree trunk—\r\none that wasn’t there before!\r\n\r\nThe bark feels like leather. You look up to see\r\nhow high it is—into the jaws of Tyrannosaurus\r\nRex.",
+      "choices": []
+    },
+    "92": {
+      "id": 92,
+      "text": "Page 92\r\n\r\nYoucontinue a long distance until you come to\r\nthe next tunnel. From there it is only a short dis-\r\ntance until you reach the surface. An amazing sight\r\nmeets your eyes.\r\n\r\n‘As far as you can see, the land looks like a\r\nbeautiful park, with soft, feathery grass and tower-\r\ning trees. Here and there are clusters of multi-\r\ncolored, dome-shaped buildings, connected by\r\nramps, terraces and walkways. Some people\r\ndressed in simple khaki pants and shirts and tan\r\nsneakers walk up to you. They do not understand\r\nyour language, nor you theirs They look much\r\nlike the people of your time except that they are\r\nunusually trim, muscular, and healthy looking,\r\nand they are a good deal smaller than your own\r\npeople.\r\n\r\nThey take you inside a dome-shaped building\r\nand show you electronic equipment that looks like\r\nacomputer. You notice a typewriter, so you sit at it\r\nand type a message.\r\n\r\nThe computer prints out a reply. It apparently\r\nhas access to memory banks containing your lan-\r\nguage. You soon discover you are livingin the year\r\n3742.\r\n\r\nTur to page 56.",
+      "choices": []
+    },
+    "93": {
+      "id": 93,
+      "text": "Page 93\r\n\r\nYou dive down into the tunnel, hoping you can\r\nt make it back to an earlier time. Gratefully, you feel\r\n? cool, damp air coming up from the cave. You are\r\ncurious to try the next tunnel you come to, thinking\r\n: that it may show the state of the world just before it\r\n; began to burn up from the intensifying heat of the\r\n: dying sun, or that it might show what happened\r\nafterward! But you suspect that a tunnel further on\r\nmight be more likely to lead you back to your own\r\n\r\ntime.\r\n\r\nIf you take the first tunnel,\r\ntum to page 31.\r\n\r\nIf you take a tunnel further along\r\nthe way, turn to page 32",
+      "choices": []
+    },
+    "94": {
+      "id": 94,
+      "text": "Page 94\r\n\r\nYou climb up the steps between the last car and\r\nthe caboose just as the train begins to start up\r\nagain. When you open the door to the car, you are\r\nsurprised to see soldiers in blue uniforms holding\r\nold-fashioned rifles. They advance upon you. One\r\nof them strides past you to see if anyone else\r\nfollowed you.\r\n\r\n“How did you know this was the President’s\r\ncar?”’ the first soldier asks you.\r\n\r\n“What President?” you reply.\r\n\r\nThen, to your amazement, you get the answer\r\nto your question, for the very tall bearded man\r\nwalking down the aisle could be no one else but\r\nAbraham Lincoln.\r\n\r\n“That’s all right,” the President tells the soldiers,\r\n“T could use some company right now. You may\r\nstay until we reach Gettysburg,” he says to you.\r\n“But maybe you should get off at Parkersville. I\r\nknow of some good people there who will help\r\nyou out.”\r\n\r\nIf you stay on until Gettysburg,\r\ntum to page 96.\r\n\r\nIf you get off at Parkersville,\r\ntur to page 100.",
+      "choices": []
+    },
+    "96": {
+      "id": 96,
+      "text": "Page 96\r\n\r\n“Td like to stay on till Gettysburg,” you say.\r\n\r\n“Well, that’s fine,” the President replies. “Why\r\ndon’t you sit across from me? I have to write outa\r\nlittle talk ['m giving there, and, while ['m doing\r\nthat, you think about what you re going to make of\r\nyour life, because you can’t spend all your time\r\nriding on trains, after all.”\r\n\r\nYou nod in.agreement and sit quietly watching\r\nthe President scribbling some lines on an en-\r\nvelope. After awhile he looks up from his writing\r\nand you look each other in the eyes.\r\n\r\n“You have a great future,”’ he says abruptly.\r\n\r\n“How can you tell,” you ask.\r\n\r\n“By looking at your face.”\r\n\r\n“Just by that?”\r\n\r\n“Just so.”\r\n\r\nAs you are talking, you notice two elaborately\r\ndressed men approaching from the end of the car.\r\nThey whisper a few words to the President. He\r\nexcuses himself, shakes hands with you, and tells\r\none of his soldiers to see that you are provided for\r\nin Gettysburg.\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "97": {
+      "id": 97,
+      "text": "Page 97\r\n\r\nWhen you arrive at Gettysburg, one of the sol-\r\ndiers takes you to a family who welcomes you\r\nwarmly and agrees to put you up for awhile, if you\r\nwill help them out with their farm.\r\n\r\nYou find it amazing to be living in a time with no\r\ncars, radios, television, record players, or even\r\ntelephones. It’s peaceful—at least when there is\r\nnot a war going on—but you feel homesick. You\r\nfeel the great future the President predicted for you\r\nlies in your own time, and you resolve to find your\r\nway back to the Cave of Time.\r\n\r\nThe End",
+      "choices": []
+    },
+    "98": {
+      "id": 98,
+      "text": "Page 98\r\n\r\nIf you take the train, it may ruin your chance to\r\nreturn to the Cave of Time. It seems best to stay\r\nclose to the tunnel. At any rate, you decide you will\r\nbe able to think better after getting something to\r\neat, so you walk over to the farmhouse.\r\n\r\nThe farmer’s wife gives you a bowl of soup, but\r\nshe won't believe the story you make up to explain\r\nyour presence there. You soon get the idea you\r\nare not welcome, so you trudge on into town,\r\nwhere the innkeeper lets you have a room for the\r\nnight.\r\n\r\nThe next morning you get a ride on a coach to\r\nPhiladelphia. A Quaker family takes you in and\r\nhelps you get work as a carpenter’s apprentice.\r\nYou don’t like the job, and soon you leave\r\n\r\nii",
+      "choices": []
+    },
+    "99": {
+      "id": 99,
+      "text": "Page 99\r\n\r\nPhiladelphia to go to New York, where you are\r\nable to find a job working for a newspaper. Even-\r\ntually you travel all over the world. You live along\r\nand wonderful life, dying just a few years before\r\nyou are born.\r\n\r\nThe End",
+      "choices": []
+    },
+    "100": {
+      "id": 100,
+      "text": "Page 100\r\n\r\nIt’s less than a mile to Parkersville, and the Pres-\r\nident shakes your hand and wishes you luck. One\r\nof the soldiers arranges with the station agent for a\r\ncarriage to take you to a farm owned by an old\r\nfriend of his.\r\n\r\nYou soon become amember of the family. They\r\nare good people and make you feel very much at\r\nhome. You are surprised to learn, however, that\r\nthey plan to sell their farm and move to California\r\nThe new life in the West they describe is so appeal-\r\ning that you decide to go with them.\r\n\r\nYou never regret it, except, sometimes, you\r\nwish you could see your own time again.\r\n\r\nThe End",
+      "choices": []
+    },
+    "101": {
+      "id": 101,
+      "text": "Page 101\r\n\r\nWith considerable trepidation you slide down\r\nthe tunnel. You mean to turn off at one of the side\r\npassageways that might take you back to your own\r\ntime, but you are too exhausted to search for the\r\nentrance. You half slide, half climb down the\r\ntunnel—further back into time—then you lose\r\nyour balance. You fall a great distance, land in\r\ndeep water, and sink a long ways.\r\n\r\nYou are barely able to surface and, when you\r\ndo, you find that the air is filled with dense fog. The\r\nwater is warm, but the fog is so thick you can\r\nhardly breathe. The air smells slightly of sulphur.\r\nGasping for breath, you realize you must be sev-\r\neral billion years in the past and that oxygen has\r\nnot yet been released into the atmosphere.\r\n\r\nThe End",
+      "choices": []
+    },
+    "102": {
+      "id": 102,
+      "text": "Page 102\r\n\r\nYou sit down and rest your chin in your hands,\r\nunable to believe the fate that has befallen you. To\r\nlive forever in a timeless world seems worse than\r\ndeath.\r\n\r\n“Well, to tell the truth, there is a way to get back\r\nto your own time,” the woman finally says, “but, if\r\nyou follow it, you will not be able to live forever.”\r\n\r\n“1 don’t care,” you say. “Show me the way.”\r\n\r\n“Very well,” she says, shaking her head in dis-\r\nbelief. ‘‘Dive under the rock ledge beneath me and\r\nswim through the tunnel you will find there. You\r\nwill come up in your own time. Don’t worry, it’s\r\nonly a few yards. You can make it.”\r\n\r\nYou take a last look around, wave good-bye\r\nand dive. A few seconds later you surface in a\r\npond just inside the entrance of the Cave of Time.\r\nYou swim to shore and run out through the cave\r\nentrance into the open air, almost crashing into\r\nyour Uncle Howard, who has come looking for\r\nyou.\r\n\r\n“You're late for dinner,” he says. “We won-\r\ndered what happened to you. You ought to keep\r\nbetter track of the time.”\r\n\r\nThe End\r\n\r\n|",
+      "choices": []
+    },
+    "103": {
+      "id": 103,
+      "text": "Page 103\r\n\r\nThe next day you call the Department of Zool-\r\nogy at a nearby university, where you are referred\r\nto Dr. Henry Kam, a specialist in large reptiles. Dr.\r\nKarn is skeptical about the egg but agrees to drive\r\nto Red Creek Ranch immediately to see it.\r\n\r\nBy the time he arrives, you are feeling very\r\nnervous. Suppose the egg is just made of plastic?\r\nYour concem is heightened by his stern appear-\r\nance. He shakes hands brusquely with you and\r\nyour uncle and immediately asks to see the egg.\r\n\r\nWhen you hand it to him, he says nothing while\r\nhe stares intently at it, holds it up to the light, taps it\r\nand scratches it with a pen knife. Then he holds it\r\nto his ear.\r\n\r\nFinally he smiles at you and gently puts the egg\r\ndown. “It’s quite possible this is the egg of a\r\nPlesiosaurus, an aquatic dinosaur of the late Juras-\r\nsic period. It is highly unlikely it will ever hatch.\r\nEven so, | would want to keep it in an incubator at\r\nthe University for at least a year before breaking it\r\nopen. ll + you know, of course, if anything de-\r\nvelops.””\r\n\r\nA few wecks have passed since then and\r\nwhenever the phone rings you wonder if Dr. Karn\r\nis calling.\r\n\r\nThe End",
+      "choices": []
+    },
+    "104": {
+      "id": 104,
+      "text": "Page 104\r\n\r\nij When you tell him you come from theTwentieth\r\nCentury through the Cave of Time, Nick smiles.\r\nThen you tell him a little about life in your own\r\ntime—about cars and planes, telephones and tele-\r\nvision. He listens intently, with a big grin on his\r\nface, as if youare telling th funniest story ever told\r\n“Pm so glad to meet you,” Nick says. “Tve\r\nalways wanted to know about life in the Twentieth\r\nCentury.” He tries to look serious, but begins to\r\nlaugh, thinking it’s all a joke.\r\n“Seriously,” you say, (since you know he will\r\ni 4 never believe you) “Ihave no home Do you know\r\nof a place where I can stay?”",
+      "choices": []
+    },
+    "105": {
+      "id": 105,
+      "text": "Page 105\r\n\r\n“Tm sure you can stay at our house,” he says\r\nwarmly. ““We have such a big family, one more\r\nwon't matter, but you must be willing to work in\r\nthe shop with the rest of us.”\r\n\r\nSince you feel you hardly have any other\r\nchoice, you accept his offer and feel grateful when\r\nhis parents give you a good dinner and a comfort-\r\nable bed. Nick tells you, with much seriousness,\r\nthat you are living in the year 1718 in Boston, the\r\nprincipal town in the British colony of Mas-\r\nsachusetts.\r\n\r\nYou soon become one of the family. They are\r\ngood people and treat you well. But each day you\r\nhave to work long hours boiling soap and pouring\r\nit into molds, waiting on customers and doing\r\nerrands for Nick’s father, whom you have come to\r\nknow as Uncle Ted.\r\n\r\nYour neighbor, Mr. Nelson, is a printer. He re-\r\ncently returned from England with a printing press\r\nand letter type he bought there. The business in-\r\nterests you, and you consider working as his ap-\r\nprentice, but to do so you would have to sign\r\npapers indenturing yourself to work faithfully for\r\nhim for six full years.\r\n\r\nIf you decide to stay at home and\r\ncontinue to work for Uncle Ted,\r\ntum to page 107.\r\n\r\nIf you decide to be indentured\r\nto be an apprentice in Mr. Nelson’s\r\nprinting business, turn to page 109.",
+      "choices": []
+    },
+    "106": {
+      "id": 106,
+      "text": "Page 106\r\n\r\nYou do your best to make up a story about how\r\nyou ran away from home, but Nick sees that you\r\nare not telling him the truth. While you’re talking,\r\nhe packs up his fishing gear, says goodbye, and\r\nwalks off.\r\n\r\nOnce he is out of sight, you start down the road\r\nand, after a mile or so, reach a settled area. While\r\nyouare standing near a church, wondering what to\r\ndo next, a constable approaches and asks where\r\nyou're from. This time you try to explain what\r\nreally happened. After listening awhile, he arrests\r\nyou for disorderly conduct and locks you up in the\r\n\r\nlocal jail.\r\nLater in the day, a big, stupid-looking guard\r\ni comes to bring you a ration of soup and bread. He\r\n4 is fascinated by your strange clothes and by the\r\n\r\ni rumors he has heard about you. After opening the\r\ndoor to your cell, he hands you your food and\r\ni stands back and looks at you curiously.\r\n“They say you're in league with the devil,” he\r\nsays. “Is it so?”\r\n\r\nIf you try to run past the guard\r\nand escape, tum to page 111.\r\n\r\n7) If you tell him you are innocent,\r\nturn to page 113.",
+      "choices": []
+    },
+    "107": {
+      "id": 107,
+      "text": "Page 107\r\n\r\nAlthough you feel you would probably enjoy\r\nthe printing business more than a career as a soap\r\nmaker, you wish to remain free to take advantage\r\nof some other opportunity.\r\n\r\nThe work with Uncle Ted is tedious. You feel\r\nyou could not bear life devoted to making candles\r\nand soap. You spend most of your spare time\r\nreading what books you can lay hold of, but you\r\nare anxious to travel and see the world.\r\n\r\nNot long afterwards, you sign up on the brigan-\r\ntine, Nina, as a deck hand. The ship is owned by a\r\ntich merchant, and it is bound for Barbados in the\r\nWest Indies with a load of lumber and then on to\r\nEngland.\r\n\r\nYou find life at sea much harder than you ex-",
+      "choices": []
+    },
+    "108": {
+      "id": 108,
+      "text": "Page 108\r\n\r\npected, especially when you are required to climb\r\nthe rigging in a howling gale, but eventually you\r\nbecome captain of your own ship. In every place\r\nyou visit you ask the people you meet whether\r\nthey have ever heard of the Cave of Time.\r\n\r\nThe End",
+      "choices": []
+    },
+    "109": {
+      "id": 109,
+      "text": "Page 109\r\n\r\nYou go to work in Mr. Nelson’s shop and soon\r\nbecome proficient in the art of printing. But after\r\nawhile, you become increasingly unhappy. Mr.\r\nNelson refuses to raise your wages or give you a\r\nchance to own part of the business. There are no\r\njobs available for you in Boston, so you decide to\r\nmove to Philadelphia, where you have heard there\r\nis a greater demand for printing.\r\n\r\nHappily, Mr. Nelson agrees to release you from\r\nyour indenture, and by selling almost all your pos-\r\nsessions, you are able to raise enough money to\r\nengage passage on a coastal schooner. After along\r\nand stormy voyage down the coast, your ship\r\ndocks early on a Sunday morning at the Market\r\nStreet wharf in Philadelphia.\r\n\r\nYou are tired and hungry and you use some of\r\nyour last money to buy a loaf of bread. Out of\r\ncuriosity, you follow some well-dressed people\r\ninto the Quaker meeting house. The people seat\r\nthemselves, but, following custom, no one speaks.\r\nIt is so peaceful you fall sound asleep. When you\r\nawaken, the Quakers welcome you. One family\r\ngives you lodging and, fortunately, you are able to\r\nget a job with one of the two printers in the town.\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "110": {
+      "id": 110,
+      "text": "Page 110\r\n\r\n1 110\r\n\r\nYou work hard to improve your skills as a\r\nprinter. Within a few years, with the help of some\r\nfriends, you are able to raise enough money to go\r\ninto business on your own.\r\n\r\nYour printing business thrives, and after awhile\r\nyou start your own newspaper. It begins to look as\r\nif the Eighteenth Century is a pretty good time for\r\nyou to be alive.\r\n\r\nThe End",
+      "choices": []
+    },
+    "111": {
+      "id": 111,
+      "text": "Page 111\r\n\r\nThe guard is too startled, and maybe even too\r\nafraid, to stop you as you dart past him and out of\r\nthe jail house. You run down the street as fast as\r\nyou can. As you stop to catch your breath, a thin,\r\nbearded man drivinga coach pulls up next to you.\r\n\r\n“You seem to be in some trouble,” he calls out.\r\n“Can I be of help?”\r\n\r\nToo tired to make up any story, you begin to tell\r\nhim everything that has happened to you. He is\r\nvery excited by your story and invites you to a\r\nnearby tavern, where you have your first good\r\nmeal since you left Red Creek ranch. Your host\r\nhardly eats anything. He looks pale and seems to\r\nhave a bad cough.\r\n\r\nGo on to the next page.",
+      "choices": []
+    },
+    "112": {
+      "id": 112,
+      "text": "Page 112\r\n\r\nWhen you finish recounting your tale, he says,\r\n“tis strange that we have met. I have tuberculosis,\r\nand no doctor in Boston can help me. My only\r\nhope is to reach a future time.”\r\n\r\n“T think it’s my only hope too,” you say.\r\n\r\n“Tf we help each other, I think we can find our\r\nway back to your time—my new time,” he replies.\r\n\r\nThe two of you shake hands on it and set out on\r\nyour quest the next day at sunrise.\r\n\r\nTogether, you are successful in finding your way\r\nto the present time. Your friend from the past is\r\ncured with the help of modern medicines and later\r\nbecomes a history teacher who is known through-\r\nout the country for his amazing knowledge of life in\r\ncolonial America.\r\n\r\nThe End",
+      "choices": []
+    },
+    "113": {
+      "id": 113,
+      "text": "Page 113\r\n\r\n: When you tell the guard you are innocent, he\r\nscowls and slams shut the door of the cell. “You'll\r\nnot take me to the devil with you!” he calls back as\r\nhe walks away.\r\n\r\nThe next day you are brought into a courtroom\r\nbefore a stern looking judge. After hearing the\r\ncharges against you and listening to what you have\r\nto say, he shakes his head and scowls angrily.\r\nThen he looks at the prosecutor and pounds his fist\r\non the bench.\r\n\r\n“Your charge against this person is for disor-\r\nderly conduct, but the specifications you give are\r\n‘strange clothes and telling stories invented by the\r\ndevil.” What you really are charging is witchcraft!\r\nThere will be no such madness in my court and let\r\nme have none of it again from you! Case dis-\r\nmissed.”\r\n\r\nThe judge not only sets you free, but afterwards\r\ngives you a home to live in and helps you on your\r\n\r\nway to a good and happy life in the Eighteenth\r\nCentury.\r\n\r\nThe End",
+      "choices": []
+    },
+    "114": {
+      "id": 114,
+      "text": "Page 114\r\n\r\nThere is a certain tone in the knight’s laughter\r\nthat does not inspire your trust, so you thank him\r\ngraciously and tell him you have other business to\r\n\r\nattend to,\r\n“Then go toit,” the knight replies. “Take care to\r\n\r\nkeep your business drier than yourself!”\r\nHe gallops off in a rush. You are glad to be rid of\r\nhim.\r\nEager to find the entrance to the Cave of Time,\r\nyou climb up behind the rock wall that slopes into\r\nthe pond. After searching for an hour, you find a\r\ntunnel leading underground.\r\n\r\nTum to page 61.",
+      "choices": []
+    },
+    "115": {
+      "id": 115,
+      "text": "Page 115\r\n\r\nYou jump aboard and find yourself in a sealed\r\nchamber. The walls surrounding you remind you\r\nof the inside of a bathtub. It occurs to you that the\r\nbeings who control this spaceship have some\r\nmeans of manipulating time. Could it be that the\r\nCave of Time is their creation? As you are thinking\r\nthese thoughts, you become increasingly drowsy.\r\nIn a moment you are asleep.\r\n\r\nYou awaken in darkness, wondering if you may\r\nbe traveling through space in the alien ship. There\r\nis light coming toward you from one direction and\r\nyou get up and walk toward it. Then you realize\r\nyou are looking through the opening of your cave.\r\nYou huny out and, to your joy, find Snake Can-\r\nyon just as you remembered it. You are back in\r\nyour own time.\r\n\r\nIt's a long while before you feel like visiting\r\nSnake Canyon again. When you do, you find the\r\nopening to the Cave of Time has been covered\r\nover by a massive rock slide, and, you think to\r\nyourself that may be just as well.\r\n\r\nThe End",
+      "choices": []
+    },
+    "117": {
+      "id": 117,
+      "text": "Page 117\r\n\r\nABOUT THE AUTHOR\r\n\r\nA graduate of Princeton University and Columbia\r\n' Law School, EDWARD PACKARD lives in New\r\n; York City, where he is a practicing lawyer. Mr.\r\nPackard conceived of the idea for the Choose\r\nYour Own Adventure® series in the course of\r\ntelling bedtime stories to his children, Caroline,\r\nAndrea, and Wells.\r\n\r\nABOUT THE ILLUSTRATOR\r\n\r\nPAUL GRANGER is a prize-winning illustrator\r\nand painter.",
+      "choices": []
+    },
+    "119": {
+      "id": 119,
+      "text": "Page 119\r\n\r\nOWN\r\n\r\nTREASURE DIVER #32\r\n\r\nTHE DRAGON'S DEN #33\r\n\r\nTHE MYSTERY OF HIGHLAND CREST #34\r\nJOURNEY TO STONEHENGE, #35\r\n\r\nTHE SECRI EASURE OF TIBET #36\r\nWAR WITH THE EVIL POWER MASTER #37\r\nSUPERCOMPUTER #\r\n\r\nTHE THRONE OF Z|\r\nSEARCH FOR MOU}\r\n\r\n26522\r\n\r\nTHE DEADLY SHADO’\r\nOUTLAWS OF SHERWOOD “FORE St, #47\r\nSPY FOR GEORGE WASHIN\r\nDANGER AT ANCHOR MI\r\n\r\nTe AY.\r\n\r\nGHOST HUNTER 45:\r\n\r\nCASE OF THE SICK KING #53\r\n\r\nFOREST OF FEAR #54\r\n\r\nTRUMPET OF TERROR #\r\nINCHANTED KINGDO!\r\n\r\nTHE ANTIMATIBR FORMULA #57\r\n\r\nSTATUE OF LIBERTY ADVENTUR)\r\n\r\nTERROR ISLAND #5\r\n\r\nVANISHED! #60.\r\n\r\nBEYOND ESCAPE! #61\r\n\r\nSUGARCANE ISLAND #62\r\n\r\nMYSTERY OF THE SECRET ROOM #63\r\n\r\nVOLCANO #64\r\n\r\nMARDI GRAS MYSTERY #65\r\n\r\nTHE SECRET OF NINTA #66\r\n\r\nSEASIDE MYSTERY #67\r\n\r\nSECRET OF THE SUN GOD #68\r\n\r\nROCK & ROLL MYSTERY #69\r\n\r\nINVADERS OF THE PLANET EARTH #70\r\n\r\nSPACE VAMPIRE #71\r\n\r\nGHOST HUNTER #72\r\n\r\nBEYOND THE GREAT WALL #73\r\n\r\nLONGHORN TERRITORY #74\r\n\r\nPLANET OF DRAGONS #75,\r\n\r\nTHE MONA LISA Ts MISSING #76\r\n\r\nTHE FIRST OLYMPICS #77\r\n\r\nRETURN TO ATLANTIS #78\r\n\r\n26950 MYSTERY OF THE SACRED STONES #79\r\n\r\nPrices and availability subject to change without notice.\r\n\r\nBantam Books, Dept. AV, 414 East Golf Road, Des Plaines, IL 60016\r\n\r\nPlease send me the books | have checked above. | am enclosing $_\r\n(please add $2.00 to cover postage and handling). Send check or money order\r\n—no cash or C.0.D.s please.\r\n\r\nMr/Ms\r\nAddress.\r\nCity/State\r\n\r\nZip —\r\n\r\nAV—5/88\r\nPlease allow four to six Weeks for delivery. This offer expires 11/88",
+      "choices": []
+    }
+  }
+}

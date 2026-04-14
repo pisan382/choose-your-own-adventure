@@ -61,4 +61,144 @@ Reader Mode SPA — a clean, book-like interface with clickable choices, history
 Split-Pane Authoring UI — text editor on the left, live graph on the right.
 Handling Non-Story Pages — filtering out metadata pages like "About the Author" (page 117) and book lists (page 119).
 Export & Publishing Pipeline — static HTML generation plus re-running the canonical Python scripts.
+<<<<<<< HEAD
 It also ends with a recommended implementation path and open questions for the next phase. Take a look at Brainstorm.md and let me know which ideas you'd like to pursue!
+=======
+It also ends with a recommended implementation path and open questions for the next phase. Take a look at Brainstorm.md and let me know which ideas you'd like to pursue!
+
+Update brainstorm.md to account for the following: Sometimes it says tum to page 4, sometimes it says turn to page 4, sometime it says go to page 4, and sometimes it says end story. Are all of these properly accounted for?
+
+K
+Kimi
+Thinking
+
+Grep
+
+Grep
+Thinking
+
+ReadFile
+14-CoT.txt
+
+ReadFile
+41-CoT.txt
+
+ReadFile
+51-CoT.txt
+
+ReadFile
+90-CoT.txt
+Thinking
+
+Grep
+
+Grep
+Thinking
+
+ReadFile
+Brainstorm.md
+Thinking
+
+StrReplaceFile
+Brainstorm.md
+Thinking
+
+ReadFile
+Brainstorm.md
+Thinking
+Done! I've updated Brainstorm.md with a new section "Idea 1b: Handling Variations in Choice Phrasing and Endings" that directly addresses your concern.
+
+Here's what's now covered:
+
+Link phrasings — The existing regex already handles turn, tum, go, follow, take, and return (plus OCR artifacts like tun). The brainstorm now recommends exposing this regex in a configurable settings panel so authors can add new verbs easily.
+Terminal markers — The current script only looks for The End. The updated brainstorm calls for expanding detection to also catch End Story, Story Ends, End., and THE END.
+Manual override — Authors can tick a "Mark as Ending" checkbox in the authoring tool, so even if the auto-detector misses an unconventional ending, the graph still treats it as terminal.
+Reader Mode fallback — If a page has no choices and isn't marked as an ending, it falls back to the sequential next-page logic, with a "Dead end — page missing" message if the next page doesn't exist.
+Save-time feedback — When authors save a page, the UI flashes what the parser detected (e.g., "Detected 2 choices: Page 4, Page 5" or "Detected ending marker") so typos are caught immediately.
+Append to the bottom of brainstorm.md. We like the interactive graph view for idea 2. It should handle the many variations. This should be an html based website. Define an implementation plan. Do not implement.
+
+K
+Kimi
+Thinking
+
+ReadFile
+Brainstorm.md
+Thinking
+
+WriteFile
+Brainstorm.md
+Thinking
+Done! I've appended a detailed Implementation Plan to the bottom of Brainstorm.md.
+
+The plan breaks the HTML-based website into 5 phases:
+
+Backend API & Parser Refactoring — FastAPI backend, reusable parser module, expanded terminal/choice detection, and a metadata JSON file for layout positions and manual overrides.
+Reader Mode — A lightweight, static-friendly SPA that auto-linkifies choices (turn, tum, go, etc.) and handles endings gracefully.
+Interactive Graph Authoring Tool — The centerpiece: Cytoscape.js graph view with a side-panel editor, node/edge manipulation, drag-to-save layout, upload diff reporting, and a configurable regex settings modal.
+Polish, Export, and Integration — Cross-linking between reader and graph, static export zip generation, Path Explorer, and tests.
+Deployment Options — Dev server setup and static vs. full-stack hosting notes.
+No code was written — it's all planning in the markdown file, ready for when you want to start building.
+
+Adjust the plan, there is cot-story-graph.mmd, and it should prioritize it for the links, and use the parsing as a last resort.
+
+K
+Kimi
+Thinking
+
+ReadFile
+Brainstorm.md
+IN
+Brainstorm.md
+:L248
+OUT
+248	
+   249	---
+   250	
+   251	## Implementation Plan: HTML-Based CYOA Web Interface
+   252	
+   253	This plan focuses on delivering an **HTML-based website** with a strong emphasis on **Idea 2 (Interactive Graph View)**, fully accounting for the phrasing and ending variations described in Idea 1b. The stack is intentionally lightweight: a Python backend serving a vanilla-JS (or petite-vue/Alpine.js) frontend, keeping deployment simple and the graph fast.
+   254	
+   255	### Tech Stack Decisions
+   256	
+   257	| Layer | Choice | Rationale |
+   258	|-------|--------|-----------|
+   259	| **Backend** | Python **FastAPI** (or Flask) | Reuses existing `build_story_graph.py` logic directly; easy JSON API; single-file or small-module deployment. |
+   260	| **Frontend** | Vanilla ES6+ JavaScript modules, optional **Petite Vue** or **Alpine.js** for reactivity | No build step required; works as a pure HTML site; easy to statically export later. |
+   261	| **Graph Engine** | **Cytoscape.js** | Handles 100+ nodes smoothly, excellent built-in layouts (Dagre for hierarchical graphs), pure JS, no React dependency. |
+   262	| **Styling** | Plain CSS + a tiny normalize sheet | Keeps the project framework-agnostic and easy to theme. |
+...
+Expand +153
+Thinking
+
+StrReplaceFile
+Brainstorm.md
+Thinking
+
+ReadFile
+Brainstorm.md
+Thinking
+
+Shell
+head -n 248 Brainstorm.md > /tmp/brainstorm_top.md
+Thinking
+
+ReadFile
+brainstorm_top.md
+Thinking
+
+WriteFile
+Brainstorm.md
+Thinking
+Done! I've completely rewritten the Implementation Plan section in Brainstorm.md to prioritize cot-story-graph.mmd as the canonical source of truth for all links and edges.
+
+Key changes to the architecture:
+
+Phase 1 now introduces mmd_loader.py — a dedicated MMD parser/reader/writer — and treats story_parser.py as a suggestion engine only.
+/api/graph returns edges parsed directly from cot-story-graph.mmd, not from text parsing.
+Saving text (POST /api/pages/{page_num}) only writes the .txt file — it never auto-updates the graph.
+New endpoints like GET /api/pages/{page_num}/suggestions and POST /api/graph/rebuild let authors see parser hints and explicitly confirm before the MMD is ever overwritten.
+Reader Mode linkifies choices only if the MMD confirms the edge exists, falling back to sequential continuation otherwise.
+Graph UI shows both "MMD Outgoing Edges" and "Parser Suggestions" in the side panel, with individual "Add Edge" buttons for manual approval.
+Parsing is now strictly advisory; the MMD file is only mutated by explicit author actions.
+
+>>>>>>> 72e9818 (First iteration of the website)

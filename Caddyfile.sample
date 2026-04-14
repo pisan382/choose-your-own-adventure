@@ -1,0 +1,19 @@
+# Sample Caddyfile for deploying the CYOA web interface
+# Place this file in the project root and run: caddy run
+
+:80 {
+    root * /home/cssuwbstudent/vincent/CYOA/choose-your-own-adventure/web/static
+    file_server
+
+    # Reverse proxy API and dynamic routes to uvicorn
+    reverse_proxy /api/* 127.0.0.1:8000
+    reverse_proxy /docs 127.0.0.1:8000
+    reverse_proxy /openapi.json 127.0.0.1:8000
+
+    # Fallback to index.html for SPA routes if needed
+    try_files {path} {path}/ /index.html
+}
+
+# To run:
+# 1. Start uvicorn: uvicorn web.main:app --host 127.0.0.1 --port 8000
+# 2. Start caddy: caddy run --config Caddyfile.sample

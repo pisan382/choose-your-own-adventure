@@ -183,3 +183,305 @@ Open `http://localhost:8000/static/index.html`.
 | 5 | README with run instructions, sample deployment configs |
 
 This plan keeps the implementation **simple, HTML-centric, and tightly integrated** with the existing Python extraction pipeline, while making `cot-story-graph.mmd` the immutable backbone of the interactive graph experience.
+<<<<<<< HEAD
+=======
+
+---
+
+## Tests to Add and Pass (By Phase)
+
+This section documents the required tests for each phase. They should be added as the phase is implemented (or retroactively for already-implemented phases) and must all pass before moving to the next phase.
+
+---
+
+### Phase 1: Backend API — Tests
+
+*Phase 1 is already implemented; these tests should be added now to lock in behavior.*
+
+#### `tests/test_mmd_loader.py`
+
+1. **`test_load_graph_parses_existing_mmd()`**
+   - Load `output/cot-story-graph.mmd`.
+   - Assert that the returned dict contains at least 100 nodes and 100 edges.
+   - Assert every node has keys: `id`, `label`, `page`.
+   - Assert every edge has keys: `source`, `target`.
+
+2. **`test_save_graph_roundtrip()`**
+   - Create a temp MMD file with a known graph (e.g. nodes `P2`, `P3`; edge `P2 --> P3`).
+   - Save it with `save_graph()`, reload it with `load_graph()`.
+   - Assert the reloaded graph matches the original exactly.
+
+3. **`test_load_graph_missing_file()`**
+   - Call `load_graph()` on a non-existent path.
+   - Assert it returns `{"nodes": [], "edges": []}` (or raises a clean exception handled by the caller).
+
+#### `tests/test_story_parser.py`
+
+4. **`test_extract_links_variations()`**
+   - Feed texts containing `tum to page 4`, `turn to page 22`, `go to page 5`, `return to page 12`, `follow her to page 8`.
+   - Assert `extract_links()` returns the correct page numbers for each.
+
+5. **`test_extract_links_ocr_errors()`**
+   - Feed texts with OCR-corrupted digits: `page O1` (should be 01), `page l2` (should be 12), `page S3` (should be 53).
+   - Assert `normalize_page_token()` maps them correctly and `extract_links()` returns the normalized integers.
+
+6. **`test_is_terminal_variations()`**
+   - Assert `is_terminal("The End")` is `True`.
+   - Assert `is_terminal("END STORY")` is `True`.
+   - Assert `is_terminal("Story Ends")` is `True`.
+   - Assert `is_terminal("The end of the car.")` is `False` (non-terminal context).
+
+7. **`test_suggest_graph_delta()`**
+   - Build a mock current graph with one known edge (`2 -> 3`).
+   - Create a temp `cot-pages-ocr-v2/` with pages 2, 3, 4 where page 2 text says `turn to page 4` (no edge to 3 in text).
+   - Assert `suggest_graph_delta()` reports:
+     - `suggested_new_edges` contains `(2, 4)`.
+     - `orphan_edges` contains `(2, 3)`.
+
+#### `tests/test_main_api.py` (FastAPI integration tests using `TestClient`)
+
+8. **`test_get_graph_returns_mmd_data()`**
+   - `GET /api/graph`.
+   - Assert status 200, `nodes` list has >100 items, `edges` list has >100 items.
+   - Assert node `P2` exists and `hasText` is `True`.
+
+9. **`test_get_pages_returns_all_pages()`**
+   - `GET /api/pages`.
+   - Assert status 200 and length equals the number of files in `cot-pages-ocr-v2/`.
+
+10. **`test_get_page_text_and_suggestions()`**
+    - `GET /api/pages/3` → assert status 200, `text` contains `"Page 3"`.
+    - `GET /api/pages/3/suggestions` → assert `suggested_edges` is `[4, 5]` and `is_terminal` is `False`.
+
+11. **`test_save_page_does_not_mutate_mmd()`**
+    - Save a copy of the current MMD file content.
+    - `POST /api/pages/999` with arbitrary text containing `turn to page 998`.
+    - Assert status 200.
+    - Assert the MMD file content is **identical** to the saved copy (no new edge was added).
+
+12. **`test_add_and_remove_edge_mutates_mmd()`**
+    - `POST /api/graph/edges {"source": 999, "target": 998}` → assert 200.
+    - `GET /api/graph` → assert an edge `P999 -> P998` exists.
+    - `DELETE /api/graph/edges {"source": 999, "target": 998}` → assert 200.
+    - `GET /api/graph` → assert the edge no longer exists.
+
+13. **`test_rebuild_preview_vs_confirm()`**
+    - `POST /api/graph/rebuild {"confirm": false}` → assert `confirmed` is `False`, `delta` present.
+    - Note the current MMD file size or checksum.
+    - `POST /api/graph/rebuild {"confirm": true}` → assert `confirmed` is `True`.
+    - Assert the MMD file was overwritten (size/checksum changed) and still parses cleanly.
+
+14. **`test_import_returns_diff_without_mmd_mutation()`**
+    - Create a temp `.txt` file (e.g. `999-CoT.txt`) with text `turn to page 2`.
+    - `POST /api/import` with the file.
+    - Assert response contains `saved` and `delta`.
+    - Assert the current MMD does **not** contain `P999` (unless it already did).
+
+15. **`test_meta_crud()`**
+    - `POST /api/pages/3/meta {"isEnding": true, "x": 50.0, "y": 100.0, "tags": ["foo"]}` → assert 200.
+    - `GET /api/graph` → find node `P3` and assert `isEnding` is `True`, `x` is 50.0, `tags` contains `"foo"`.
+    - `POST /api/pages/3/meta {"isEnding": false}` to reset.
+
+---
+
+### Phase 2: Reader Mode — Tests
+
+#### `tests/test_reader_api.py`
+
+16. **`test_reader_page_has_clickable_links_for_mmd_edges_only()`**
+    - Ensure page 3 has MMD edges to pages 4 and 5.
+    - Fetch the rendered reader HTML/JSON for page 3.
+    - Assert that only links to 4 and 5 are present, and that the raw text phrase `tum to page 5` was linkified.
+
+17. **`test_reader_terminal_page_shows_ending_overlay()`**
+    - Pick a known terminal page (e.g. page 14 which says `The End`).
+    - Fetch its reader render.
+    - Assert the response contains an ending indicator (e.g. a class `terminal-page` or text `"The End"`).
+
+18. **`test_reader_sequential_fallback()`**
+    - Temporarily create a page 998 with no choices and no ending.
+    - Ensure the MMD has no outgoing edges for 998.
+    - Fetch reader render for 998.
+    - Assert it contains a link or button to page 999 (the sequential next page).
+    - Clean up temp pages after test.
+
+#### `tests/test_static_export.py`
+
+19. **`test_static_export_generates_dist()`**
+    - Call `POST /api/export`.
+    - Assert `output/dist/` exists and contains at least an `index.html`.
+    - Assert `output/cot-story-graph.svg` was regenerated and exists.
+
+20. **`test_static_reader_html_has_verified_links_only()`**
+    - After export, open a generated static HTML file for page 3.
+    - Assert all `<a>` tags point to pages that are confirmed edges in the MMD.
+
+---
+
+### Phase 3: Interactive Graph Authoring Tool — Tests
+
+#### `tests/test_graph_frontend.py` (Playwright or similar)
+
+21. **`test_graph_loads_all_nodes()`**
+    - Open `/graph.html`.
+    - Wait for Cytoscape to initialize.
+    - Assert the canvas contains at least 100 nodes (query Cytoscape via injected JS).
+
+22. **`test_click_node_opens_side_panel()`**
+    - Click node `P3`.
+    - Assert the side panel is visible and contains the text of page 3.
+    - Assert the panel shows the MMD outgoing edges list with targets 4 and 5.
+
+23. **`test_save_text_does_not_auto_add_edge()`**
+    - In the side panel for page 3, append a fake choice `turn to page 999`.
+    - Click Save.
+    - Assert the suggestion section appears with page 999 listed.
+    - Assert node `P999` does **not** appear in the graph and no new edge is drawn.
+
+24. **`test_manual_add_edge_in_graph()`**
+    - Select node `P3`, shift-click a placeholder node `P999` (or type target in side panel), click Add Edge.
+    - Assert an edge `3 -> 999` appears in Cytoscape.
+    - Refresh the page and assert the edge persists (loaded from MMD).
+
+25. **`test_manual_terminal_toggle()`**
+    - Click node `P3`, check the "Mark as Ending" checkbox, save meta.
+    - Assert the node turns red in Cytoscape.
+    - Uncheck it, save meta, assert it returns to gray/blue.
+
+26. **`test_upload_diff_modal()`**
+    - Simulate a drag-and-drop of a new `.txt` file.
+    - Assert a modal/toast appears showing `saved` and `delta` counts.
+    - Click "Apply Suggestion" for one edge.
+    - Assert the edge is added to the graph and to the MMD.
+
+27. **`test_rebuild_preview_modal()`**
+    - Click "Rebuild from Text".
+    - Assert a preview modal appears showing the diff (do not confirm).
+    - Click Cancel.
+    - Assert the MMD graph in Cytoscape is unchanged.
+    - Re-open preview, click Confirm.
+    - Assert the graph updates to match the parser output.
+
+---
+
+### Phase 4: Polish, Export, and Integration — Tests
+
+#### `tests/test_integration.py`
+
+28. **`test_graph_to_reader_navigation()`**
+    - In the graph, double-click node `P3`.
+    - Assert a new tab/window opens at `/read/3` and displays the correct page text.
+    - Click "Edit in Graph" in Reader Mode.
+    - Assert the graph view loads with node `P3` selected.
+
+29. **`test_export_runs_canonical_scripts()`**
+    - Call `POST /api/export`.
+    - Assert `output/cot-stories/` contains story files.
+    - Assert `output/cot-story-graph.svg` is newer than before the call.
+
+30. **`test_path_explorer_lists_stories()`**
+    - Open `/paths`.
+    - Assert the page lists at least one complete path (e.g. starting with `2`).
+    - Click a path.
+    - Assert Reader Mode opens and auto-advances through the sequence (or at least loads the first page).
+
+31. **`test_round_trip_mmd_preserve_after_edits()`**
+    - Record the initial MMD checksum.
+    - Add an edge via `/api/graph/edges`, delete it, then run Rebuild Confirm.
+    - Parse the final MMD with `mmd_loader.load_graph()`.
+    - Assert no duplicate nodes, no malformed lines, and the graph is structurally valid.
+
+---
+
+### Phase 5: Deployment — Tests
+
+32. **`test_dev_server_starts_and_serves_static()`**
+    - Run `uvicorn web.main:app --reload` in a subprocess.
+    - `GET http://localhost:8000/` (or `/static/index.html` once it exists).
+    - Assert status 200 and valid HTML.
+    - Terminate the subprocess cleanly.
+
+33. **`test_static_dist_no_server_needed()`**
+    - After `POST /api/export`, open `output/dist/index.html` directly with `file://` (or a simple `python -m http.server` on the dist folder).
+    - Navigate to a generated page.
+    - Assert all links work and no external API calls are required for reading.
+>>>>>>> 72e9818 (First iteration of the website)
+
+---
+
+## Post-Implementation UI/UX Fixes
+
+### Issue: "Not Found" when proceeding between the different pages
+
+**Root cause:** `reader.html`, `graph.html`, and `paths.html` do not share a consistent navigation bar. Users must manually type URLs or rely on the browser back button to switch modes, which feels like hitting a dead end.
+
+**Fix:** Add a persistent top navigation bar to **all three** HTML files so users can always reach the other views.
+
+```html
+<!-- Add inside <body> of reader.html, graph.html, and paths.html -->
+<nav class="top-nav">
+  <a href="/reader.html">📖 Reader</a>
+  <a href="/graph.html">🕸️ Graph</a>
+  <a href="/paths.html">🛤️ Paths</a>
+</nav>
+```
+
+- In `reader.css`, `graph.css`, and `paths.css`, style `.top-nav` with a subtle background (`#f1f5f9`), horizontal flex layout, and active-page highlighting.
+- Remove the ad-hoc "Edit in Graph" footer from `reader.html` once the top nav is present (keep it as an extra convenience if desired, but the nav is the primary fix).
+
+---
+
+### Issue: No back button for the node editor / "How do I edit the nodes?"
+
+**Root causes:**
+1. The graph canvas has no onboarding hint; first-time users do not know they must **click a node** to open the side-panel editor.
+2. When arriving from Reader via the "Edit in Graph" link (`graph.html#page=3`), the target node is **not auto-selected**, so the side panel stays hidden and the page appears broken.
+3. The side panel only has a small "×" close button; there is no obvious "Back / Clear selection" action.
+
+**Fixes:**
+
+#### 1. Auto-select node from URL hash
+In `graph.js`, after `initGraph()` finishes loading, parse `location.hash` and programmatically open the matching node:
+
+```javascript
+function handleIncomingHash() {
+  const m = location.hash.match(/^#page=(\d+)$/);
+  if (m && cy) {
+    const node = cy.getElementById(`P${m[1]}`);
+    if (node.length) {
+      selectNode(node);
+      cy.animate({ fit: { eles: node, padding: 80 }, duration: 300 });
+    }
+  }
+}
+```
+
+Call `handleIncomingHash()` at the end of `initGraph()`.
+
+#### 2. Onboarding / empty-state hint
+When the side panel is closed, show a small floating hint in the top-right or center of the canvas:
+
+> **Tip:** Click a node to edit text & edges. Double-click to open in Reader. Shift-click another node to connect them.
+
+Implementation: add a `<div id="graph-hint">` in `graph.html`. Toggle its visibility in `selectNode()` (hide) and `closePanel()` (show).
+
+#### 3. Clearer side-panel controls
+- Keep the existing "×" close button, but also add a secondary **"Clear Selection"** text link at the bottom of the side panel that simply calls `closePanel()`.
+- In the empty-state hint, add a sentence: *"Select a page node on the left to begin editing."*
+
+#### 4. (Optional but recommended) Toolbar search box
+Add a small `<input type="number">` to the graph toolbar labeled **"Jump to page"**. On Enter, find the node, center it, and select it. This is especially helpful now that the graph contains 100+ nodes.
+
+---
+
+## Summary of Required File Changes
+
+| File | Change |
+|------|--------|
+| `web/static/reader.html` | Add `.top-nav` after `<body>` |
+| `web/static/reader.css` | Style `.top-nav` |
+| `web/static/graph.html` | Add `.top-nav`; add `#graph-hint` div; add "Jump to page" input in toolbar |
+| `web/static/graph.css` | Style `.top-nav`, `#graph-hint`, toolbar input |
+| `web/static/graph.js` | Parse `#page=X` hash; show/hide hint; add jump-to-page logic |
+| `web/static/paths.html` | Add `.top-nav` |
+| `web/static/paths.css` | Style `.top-nav` |

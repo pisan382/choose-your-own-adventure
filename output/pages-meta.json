@@ -1,0 +1,347 @@
+{
+  "2": {
+    "isEnding": false
+  },
+  "3": {
+    "isEnding": false,
+    "isEndingAuto": false,
+    "x": 100.5,
+    "y": 200.0,
+    "tags": [
+      "test"
+    ]
+  },
+  "4": {
+    "isEnding": false
+  },
+  "5": {
+    "isEnding": false
+  },
+  "6": {
+    "isEnding": false
+  },
+  "8": {
+    "isEnding": false
+  },
+  "9": {
+    "isEnding": false
+  },
+  "10": {
+    "isEnding": false
+  },
+  "100": {
+    "isEnding": true
+  },
+  "101": {
+    "isEnding": true
+  },
+  "102": {
+    "isEnding": true
+  },
+  "103": {
+    "isEnding": true
+  },
+  "104": {
+    "isEnding": false
+  },
+  "105": {
+    "isEnding": false
+  },
+  "106": {
+    "isEnding": false
+  },
+  "107": {
+    "isEnding": false
+  },
+  "108": {
+    "isEnding": true
+  },
+  "109": {
+    "isEnding": false
+  },
+  "11": {
+    "isEnding": false
+  },
+  "110": {
+    "isEnding": true
+  },
+  "111": {
+    "isEnding": false
+  },
+  "112": {
+    "isEnding": true
+  },
+  "113": {
+    "isEnding": true
+  },
+  "114": {
+    "isEnding": false
+  },
+  "115": {
+    "isEnding": true
+  },
+  "117": {
+    "isEnding": false
+  },
+  "119": {
+    "isEnding": false
+  },
+  "12": {
+    "isEnding": false
+  },
+  "13": {
+    "isEnding": false
+  },
+  "14": {
+    "isEnding": true
+  },
+  "15": {
+    "isEnding": true
+  },
+  "16": {
+    "isEnding": false
+  },
+  "17": {
+    "isEnding": false
+  },
+  "18": {
+    "isEnding": false
+  },
+  "19": {
+    "isEnding": false
+  },
+  "20": {
+    "isEnding": true
+  },
+  "21": {
+    "isEnding": false
+  },
+  "22": {
+    "isEnding": false
+  },
+  "23": {
+    "isEnding": false
+  },
+  "24": {
+    "isEnding": false
+  },
+  "25": {
+    "isEnding": false
+  },
+  "26": {
+    "isEnding": false
+  },
+  "27": {
+    "isEnding": false
+  },
+  "28": {
+    "isEnding": false
+  },
+  "29": {
+    "isEnding": false
+  },
+  "30": {
+    "isEnding": false
+  },
+  "31": {
+    "isEnding": true
+  },
+  "32": {
+    "isEnding": false
+  },
+  "33": {
+    "isEnding": false
+  },
+  "34": {
+    "isEnding": false
+  },
+  "35": {
+    "isEnding": true
+  },
+  "36": {
+    "isEnding": false
+  },
+  "37": {
+    "isEnding": false
+  },
+  "38": {
+    "isEnding": false
+  },
+  "39": {
+    "isEnding": false
+  },
+  "40": {
+    "isEnding": false
+  },
+  "41": {
+    "isEnding": true
+  },
+  "43": {
+    "isEnding": true
+  },
+  "44": {
+    "isEnding": true
+  },
+  "45": {
+    "isEnding": true
+  },
+  "46": {
+    "isEnding": true
+  },
+  "47": {
+    "isEnding": false
+  },
+  "48": {
+    "isEnding": false
+  },
+  "49": {
+    "isEnding": false
+  },
+  "50": {
+    "isEnding": false
+  },
+  "51": {
+    "isEnding": true
+  },
+  "52": {
+    "isEnding": true
+  },
+  "53": {
+    "isEnding": true
+  },
+  "54": {
+    "isEnding": false
+  },
+  "55": {
+    "isEnding": false
+  },
+  "56": {
+    "isEnding": false
+  },
+  "57": {
+    "isEnding": true
+  },
+  "58": {
+    "isEnding": false
+  },
+  "59": {
+    "isEnding": false
+  },
+  "60": {
+    "isEnding": true
+  },
+  "61": {
+    "isEnding": false
+  },
+  "62": {
+    "isEnding": true
+  },
+  "63": {
+    "isEnding": true
+  },
+  "64": {
+    "isEnding": false
+  },
+  "65": {
+    "isEnding": false
+  },
+  "66": {
+    "isEnding": false
+  },
+  "68": {
+    "isEnding": false
+  },
+  "69": {
+    "isEnding": true
+  },
+  "70": {
+    "isEnding": false
+  },
+  "71": {
+    "isEnding": false
+  },
+  "72": {
+    "isEnding": false
+  },
+  "73": {
+    "isEnding": true
+  },
+  "74": {
+    "isEnding": true
+  },
+  "76": {
+    "isEnding": false
+  },
+  "77": {
+    "isEnding": true
+  },
+  "78": {
+    "isEnding": true
+  },
+  "79": {
+    "isEnding": false
+  },
+  "80": {
+    "isEnding": true
+  },
+  "81": {
+    "isEnding": true
+  },
+  "82": {
+    "isEnding": true
+  },
+  "83": {
+    "isEnding": false
+  },
+  "84": {
+    "isEnding": true
+  },
+  "85": {
+    "isEnding": true
+  },
+  "86": {
+    "isEnding": true
+  },
+  "87": {
+    "isEnding": true
+  },
+  "88": {
+    "isEnding": false
+  },
+  "89": {
+    "isEnding": false
+  },
+  "90": {
+    "isEnding": true
+  },
+  "91": {
+    "isEnding": false
+  },
+  "92": {
+    "isEnding": false
+  },
+  "93": {
+    "isEnding": false
+  },
+  "94": {
+    "isEnding": false
+  },
+  "96": {
+    "isEnding": true
+  },
+  "97": {
+    "isEnding": true
+  },
+  "98": {
+    "isEnding": false
+  },
+  "99": {
+    "isEnding": true
+  },
+  "998": {
+    "isEnding": false
+  },
+  "999": {
+    "isEnding": true
+  }
+}

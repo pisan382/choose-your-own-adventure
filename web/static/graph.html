@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CYOA Graph Editor</title>
+  <link rel="stylesheet" href="/graph.css">
+  <script src="https://unpkg.com/cytoscape@3.26.0/dist/cytoscape.min.js"></script>
+  <script src="https://unpkg.com/dagre@0.8.5/dist/dagre.min.js"></script>
+  <script src="https://unpkg.com/cytoscape-dagre@2.5.0/cytoscape-dagre.js"></script>
+</head>
+<body>
+  <nav class="top-nav">
+    <a href="/reader.html">📖 Reader</a>
+    <a href="/graph.html">🕸️ Graph</a>
+    <a href="/paths.html">🛤️ Paths</a>
+  </nav>
+
+  <div id="toolbar">
+    <button id="btn-layout">Re-layout</button>
+    <button id="btn-save-pos">Save Positions</button>
+    <button id="btn-add-node">Add Node</button>
+    <button id="btn-rebuild">Rebuild from Text</button>
+    <button id="btn-export">Export</button>
+    <input type="number" id="jump-to-page" placeholder="Jump to page">
+  </div>
+
+  <div id="upload-overlay">Drop pages here to import</div>
+
+  <div id="graph-hint">
+    <strong>Tip:</strong> Click a node to edit text &amp; edges.
+    Double-click to open in Reader.
+    Shift-click another node to connect them.
+  </div>
+
+  <div id="side-panel" class="hidden">
+    <div class="panel-header">
+      <h2>Page <span id="panel-page"></span></h2>
+      <button id="panel-close">×</button>
+    </div>
+
+    <label>Text</label>
+    <textarea id="panel-text"></textarea>
+    <button id="btn-save-text">Save Text</button>
+    <div id="save-feedback"></div>
+
+    <div class="section">
+      <h3>MMD Outgoing Edges</h3>
+      <div id="panel-edges"></div>
+      <div class="edge-add-row">
+        <input type="number" id="new-edge-target" placeholder="Target page">
+        <button id="btn-add-edge">Add Edge</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>Parser Suggestions</h3>
+      <div id="panel-suggestions"></div>
+    </div>
+
+    <div class="section">
+      <label><input type="checkbox" id="chk-ending"> Mark as Ending</label>
+    </div>
+
+    <div class="section">
+      <label>Tags (comma-separated)</label>
+      <input type="text" id="input-tags">
+    </div>
+
+    <button id="btn-save-meta">Save Meta</button>
+    <div style="margin-top:10px;">
+      <a href="#" id="btn-clear-selection" style="font-size:12px;color:#64748b;">Clear Selection</a>
+    </div>
+  </div>
+
+  <div id="import-modal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Import Results</h3>
+      <div id="import-body"></div>
+      <button class="modal-close">Close</button>
+    </div>
+  </div>
+
+  <div id="rebuild-modal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Rebuild Preview</h3>
+      <div id="rebuild-body"></div>
+      <button id="btn-rebuild-cancel">Cancel</button>
+      <button id="btn-rebuild-confirm" class="primary">Confirm Rebuild</button>
+    </div>
+  </div>
+
+  <div id="cy"></div>
+
+  <script src="/graph.js"></script>
+</body>
+</html>

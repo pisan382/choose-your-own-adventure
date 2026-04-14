@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --color-bg: #0f0e0c;
+  --color-surface: #1a1816;
+  --color-surface-2: #242220;
+  --color-border: #3a3530;
+  --color-border-light: #4a4540;
+  --color-text: #e8e0d4;
+  --color-text-dim: #9a9080;
+  --color-accent: #d4a44a;
+  --color-accent-hover: #e8bb60;
+  --color-accent-dim: #8a7040;
+  --color-danger: #c44;
+  --color-success: #4a8;
+  --color-ending: #a45;
+  --font-display: 'Crimson Text', Georgia, serif;
+  --font-ui: 'DM Sans', system-ui, sans-serif;
+}
+
+[data-theme="light"] {
+  --color-bg: #f5f2ec;
+  --color-surface: #ede9e0;
+  --color-surface-2: #e2ddd3;
+  --color-border: #b8b0a0;
+  --color-border-light: #a89f90;
+  --color-text: #1a1610;
+  --color-text-dim: #4a4238;
+  --color-accent: #8a5e20;
+  --color-accent-hover: #a07030;
+  --color-accent-dim: #7a5218;
+  --color-danger: #a02020;
+  --color-success: #1a6040;
+  --color-ending: #8a2828;
+}
+
+/* Light mode: graph node text and edge labels */
+[data-theme="light"] .react-flow__node { color: #1a1610 !important; }
+[data-theme="light"] .react-flow__edge-textbg { fill: rgba(235,230,220,0.85) !important; }
+[data-theme="light"] .react-flow__edge-text { fill: #2a2218 !important; }
+
+/* Light mode: author toolbar buttons */
+[data-theme="light"] .cyoa-toolbtn {
+  background: rgba(240,236,228,0.95) !important;
+  border-color: #b8b0a0 !important;
+  color: #1a1610 !important;
+}
+[data-theme="light"] .cyoa-toolbtn:hover { border-color: #8a5e20 !important; }
+
+/* ── ReactFlow Controls: dark mode (default) ── */
+.react-flow__controls {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+.react-flow__controls-button {
+  background: rgba(20,18,16,0.78) !important;
+  border: 1px solid rgba(74,69,64,0.5) !important;
+  color: rgba(200,190,175,0.65) !important;
+  fill: rgba(200,190,175,0.65) !important;
+  backdrop-filter: blur(4px) !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 4px !important;
+}
+.react-flow__controls-button:hover {
+  background: rgba(40,36,32,0.88) !important;
+  color: rgba(212,164,74,0.9) !important;
+  fill: rgba(212,164,74,0.9) !important;
+  border-color: rgba(212,164,74,0.45) !important;
+}
+.react-flow__controls-button svg { fill: inherit !important; }
+
+/* ── ReactFlow Controls: light mode ── */
+[data-theme="light"] .react-flow__controls-button {
+  background: rgba(237,233,224,0.95) !important;
+  border: 1px solid #b8b0a0 !important;
+  color: #1a1610 !important;
+  fill: #1a1610 !important;
+  backdrop-filter: none !important;
+}
+[data-theme="light"] .react-flow__controls-button:hover {
+  background: rgba(220,215,205,1) !important;
+  color: #8a5e20 !important;
+  fill: #8a5e20 !important;
+  border-color: #8a5e20 !important;
+}
+[data-theme="light"] .react-flow__controls-button svg { fill: inherit !important; }
+
+/* Light mode: minimap */
+[data-theme="light"] .react-flow__minimap { background: #ede9e0 !important; }
+[data-theme="light"] .react-flow__minimap-mask { fill: rgba(235,230,220,0.6) !important; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-ui);
+  background: var(--color-bg);
+  color: var(--color-text);
+  min-height: 100vh;
+}
+
+#root { min-height: 100vh; }
+
+.story-text {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  line-height: 1.8;
+  white-space: pre-wrap;
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--color-surface); }
+::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-border-light); }
+
+.react-flow__node { font-family: var(--font-ui) !important; }
+.react-flow__background { background: var(--color-bg) !important; }
+.react-flow__minimap { background: var(--color-surface) !important; }

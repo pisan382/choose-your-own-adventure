@@ -1,0 +1,9 @@
+# Claude Code internals
+.claude/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

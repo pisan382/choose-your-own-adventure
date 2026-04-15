@@ -1,0 +1,22 @@
+[build]
+  publish = "web/static"
+
+[functions]
+  directory = "netlify/functions"
+  included_files = [
+    "output/**",
+    "scripts/**",
+    "web/**"
+  ]
+
+[[redirects]]
+  from = "/api"
+  to = "/.netlify/functions/api"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+  force = true

@@ -1,0 +1,2 @@
+# Netlify build-time Python dependencies.
+# Keep this minimal; runtime API is served by netlify/functions/api.js.

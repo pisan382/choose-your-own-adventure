@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CYOA Reader</title>
+  <link rel="stylesheet" href="/reader.css">
+</head>
+<body>
+  <nav class="top-nav">
+    <a href="/reader.html">📖 Reader</a>
+    <a href="/graph.html">🕸️ Graph</a>
+    <a href="/paths.html">🛤️ Paths</a>
+  </nav>
+
+  <header>
+    <h1>The Cave of Time</h1>
+    <div class="controls">
+      <button id="back-btn">← Back</button>
+      <span id="page-num"></span>
+      <a id="edit-graph-btn" class="choice-link" href="/graph.html" style="margin-left: auto;">Edit in Graph</a>
+    </div>
+  </header>
+
+  <main>
+    <article id="page-content"></article>
+    <div id="choices"></div>
+    <div id="terminal-overlay" class="hidden">
+      <h2>The End</h2>
+      <button id="restart-btn">Start Over</button>
+    </div>
+    <div id="sequential-fallback" class="hidden">
+      <a class="choice-link" href="#">Continue to next page</a>
+    </div>
+  </main>
+
+  <footer>
+    <div id="breadcrumb"></div>
+    <a id="edit-graph-link" href="/graph.html">Edit in Graph</a>
+  </footer>
+
+  <script src="/reader.js"></script>
+</body>
+</html>

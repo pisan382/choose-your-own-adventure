@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Cave of Time — Choose Your Own Adventure</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <span class="site-title">The Cave of Time</span>
+      <div class="header-actions">
+        <button id="btn-history" class="btn btn-ghost" title="View history">&#9776; History</button>
+        <button id="btn-restart" class="btn btn-ghost" title="Restart story">&#8635; Restart</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main reader area -->
+  <main class="reader">
+
+    <!-- Loading state -->
+    <div id="loading" class="loading-state">
+      <p>Loading story&hellip;</p>
+    </div>
+
+    <!-- Story page -->
+    <article id="story-page" class="story-page hidden">
+      <div class="page-meta">
+        <span id="page-label" class="page-label"></span>
+        <span id="endings-found" class="endings-badge hidden"></span>
+      </div>
+      <div id="page-text" class="page-text"></div>
+      <div id="choices" class="choices"></div>
+    </article>
+
+    <!-- Ending screen -->
+    <article id="ending-screen" class="ending-screen hidden">
+      <div class="ending-icon">&#9632;</div>
+      <div id="ending-text" class="page-text"></div>
+      <div class="ending-actions">
+        <button id="btn-end-restart" class="btn btn-primary">Read Again from the Start</button>
+        <button id="btn-end-back" class="btn btn-secondary">&#8592; Back</button>
+      </div>
+      <p id="endings-count" class="endings-count"></p>
+    </article>
+
+    <!-- History panel (sidebar drawer) -->
+    <aside id="history-panel" class="history-panel hidden">
+      <div class="history-header">
+        <h2>Your Path</h2>
+        <button id="btn-close-history" class="btn btn-ghost">&times;</button>
+      </div>
+      <ol id="history-list" class="history-list"></ol>
+    </aside>
+
+    <!-- Error state -->
+    <div id="error-state" class="error-state hidden">
+      <p id="error-msg"></p>
+    </div>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

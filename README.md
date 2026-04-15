@@ -4,10 +4,10 @@ A web-based authoring tool and reader for branching CYOA stories. Built for *The
 
 ## Assignment Submission Info
 
-- **Due:** Midnight
-- **GitHub Repository URL:** https://github.com/pisan382/choose-your-own-adventure
-- **Deployed Website URL:** https://cyoagroup2.netlify.app
-- **Team Members (all must contribute):** Timothy So, Vincent Huang, Shreyas Sundar Ganesh
+- **Due:** 4/14/26 11:59pm
+- **GitHub Repository URL:** https://github.com/Yhtomitos/choose-your-own-adventure
+- **Deployed Website URL:** https://cyoa-21324.netlify.app/reader
+- **Team Members:** Timothy So, Vincent Huang, Shreyas Sundar Ganesh
 
 ## Class Workflow Checklist
 

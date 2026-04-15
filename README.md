@@ -4,11 +4,11 @@ A web-based reader for the classic CYOA story *The Cave of Time*, built as a CSS
 
 ## Live Site
 
-🌐 **[Add deployed URL after Vercel deployment]**
+https://yuqirichiechen.github.io/choose-your-own-adventure/
 
 ## Repository
 
-📁 **[Add GitHub repository URL here]**
+https://github.com/yuqirichiechen/choose-your-own-adventure
 
 ## Team
 

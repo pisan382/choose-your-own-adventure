@@ -51,12 +51,17 @@ Mark done when `output/books/<slug>/` has pages, graph, stories, meta.
 - [x] Path history / breadcrumb
 - [x] Copy `output/books/` → `webapp/public/data/` at build time
 - [x] `netlify.toml` for deployment
+- [x] Client-side routing wired (react-router-dom)
+- [x] Deep-link fallback (redirect /* to index.html)
+- [x] `npm run build` passes clean
+- [ ] Netlify deploy verified at https://cyoa-reader.netlify.app/
 
 ## Phase 5 — Polish
 
-- [ ] README updated with new workflow
-- [x] Keep Codebase.md accurate for future sessions
-- [ ] Commit + push everything
+- [x] README updated with new workflow
+- [ ] Codebase.md refresh (still CoT-only)
+- [ ] Final commit + push
+- [ ] Rotate GitHub PAT and Netlify key (have been in multiple chat sessions)
 
 ## Notes from the current session
 

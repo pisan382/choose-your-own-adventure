@@ -1,0 +1,40 @@
+# Netlify build configuration.
+#
+# The site is a Vite-built React app in webapp/. The data it serves is
+# generated from the per-book output under output/books/ by
+# scripts/stage_webapp_data.py. That staging step runs before `npm run build`
+# so the production bundle always reflects the latest graphs.
+
+[build]
+  base    = "webapp/"
+  publish = "dist"
+  command = "python3 ../scripts/stage_webapp_data.py && npm ci && npm run build"
+
+[build.environment]
+  NODE_VERSION = "20"
+  PYTHON_VERSION = "3.11"
+
+# The app uses client-side routing (react-router). Every unknown path needs to
+# serve index.html so the router can take over. Keeps deep links like
+# /b/the-cave-of-time/read/12 working on direct page load and refresh.
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
+
+# Long-cache versioned assets, short-cache the HTML shell so router + data
+# stay fresh on new deploys.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300, must-revalidate"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

@@ -1,0 +1,971 @@
+[
+  {
+    "file": "01 - The Warlock of Firetop Mountain.pdf",
+    "slug": "01-the-warlock-of-firetop-mountain",
+    "size_mb": 30.45,
+    "page_count": 191,
+    "total_text_chars": 557,
+    "chars_per_page": 2.9,
+    "has_text_layer": true,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 292.79998779296875,
+        "height": 488.1600036621094,
+        "aspect": 0.6,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 292.79998779296875,
+        "height": 488.1600036621094,
+        "aspect": 0.6,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 95,
+        "width": 292.79998779296875,
+        "height": 488.1600036621094,
+        "aspect": 0.6,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 190,
+        "width": 650.4000244140625,
+        "height": 509.2799987792969,
+        "aspect": 1.277,
+        "text_chars": 235,
+        "first_chars": "r].1{  ; I T'IING FANTASY BOOKS tlrIr  {{} rnillion copies soltl norldu'idel u.K.  c2.99 cAN.  34.96 N.Z.  53.95 {incl.  GSrl z= t: z> z= I j \u20ac ? l ;= E: f r s1r. a-'| -1I-;33 : jill[till  l]illlil  fltllI  i {i ,AGKSONeN\" rVII{GSTONE "
+      }
+    ]
+  },
+  {
+    "file": "A Magic Micro Adventure - Captain Kid and the Pirates (1985).pdf",
+    "slug": "a-magic-micro-adventure-captain-kid-and-the-pirates-1985",
+    "size_mb": 5.68,
+    "page_count": 83,
+    "total_text_chars": 52712,
+    "chars_per_page": 635.1,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 2
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 383.5,
+        "height": 546.0,
+        "aspect": 0.702,
+        "text_chars": 29,
+        "first_chars": "Captain Kid  and the Pirates "
+      },
+      {
+        "page_index": 1,
+        "width": 549.8499755859375,
+        "height": 20.149999618530273,
+        "aspect": 27.288,
+        "text_chars": 36,
+        "first_chars": "Click / Buckholtz  0-590-33476-X  1 "
+      },
+      {
+        "page_index": 41,
+        "width": 401.5,
+        "height": 554.4000244140625,
+        "aspect": 0.724,
+        "text_chars": 997,
+        "first_chars": "\u201cIt looks like it,\u201d Hal concedes. \u201cBut I  always heard Parrot Island was guarded  by some sort of sea monsters.\u201d Now he tells you! \u201cLet\u2019s hope you\u2019re wrong,\u201d you mutter. At that moment, the water on both sides  of The Raven begins to bubble"
+      },
+      {
+        "page_index": 82,
+        "width": 377.29998779296875,
+        "height": 549.8500366210938,
+        "aspect": 0.686,
+        "text_chars": 678,
+        "first_chars": "Ready for magic and  adventure? In this story, YOU are the leader of  the pirate crew. You sail to the  mysterious Parrot Island to find  buried treasure. But there are dangers  all along the way \u2014 a bunch of angry  pirates, giant snapping "
+      }
+    ]
+  },
+  {
+    "file": "AMagicMicroAdventure-TheCatsOfCastleMountain.pdf",
+    "slug": "amagicmicroadventure-thecatsofcastlemountain",
+    "size_mb": 6.94,
+    "page_count": 83,
+    "total_text_chars": 56636,
+    "chars_per_page": 682.4,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 3
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 379.45001220703125,
+        "height": 547.4500122070312,
+        "aspect": 0.693,
+        "text_chars": 99,
+        "first_chars": "Scholastic 0-590-33479-4/$1.95 US/S2.25 CAN Cateof Castle Mountain Eileen Buckholtz and Ruth Glick "
+      },
+      {
+        "page_index": 1,
+        "width": 547.4500122070312,
+        "height": 18.0,
+        "aspect": 30.414,
+        "text_chars": 76,
+        "first_chars": "MAGIC MICRO\u2122  THE CATS OF CASTLE MOUNTAIN  Buckholtz/Glick  0-590-33479-4 J "
+      },
+      {
+        "page_index": 41,
+        "width": 389.75,
+        "height": 554.6500244140625,
+        "aspect": 0.703,
+        "text_chars": 912,
+        "first_chars": "\u201cOh, would you please? I\u2019d be so grate\u00ad ful,\u201d Victoria tells her. Cassandra crouches down, wraps her tail  around her body, and closes her eyes.  When she starts to speak, her voice seems  to be coming from far away. \u201cI see a field.  It\u2019s t"
+      },
+      {
+        "page_index": 82,
+        "width": 379.45001220703125,
+        "height": 547.4500122070312,
+        "aspect": 0.693,
+        "text_chars": 804,
+        "first_chars": ". . . When you travel to an enchanted  land and meet the amazing cats of  Castle Mountain. These clever, talking  cats are in trouble and they need your  help. A wicked queen is plotting to  capture them and make them her  slaves! YOU must "
+      }
+    ]
+  },
+  {
+    "file": "ArcadeExplorers-SaveTheVenturians1985.pdf",
+    "slug": "arcadeexplorers-savetheventurians1985",
+    "size_mb": 3.06,
+    "page_count": 180,
+    "total_text_chars": 183839,
+    "chars_per_page": 1021.3,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 52,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 13,
+      "the_end": 6
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 359.2799987792969,
+        "height": 540.719970703125,
+        "aspect": 0.664,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 360.7200012207031,
+        "height": 543.5999755859375,
+        "aspect": 0.664,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 90,
+        "width": 358.1199951171875,
+        "height": 549.1199951171875,
+        "aspect": 0.652,
+        "text_chars": 1809,
+        "first_chars": "SA VE THE VENTURIANSI  81  opments have made them smarter and more efficient, but  we know they were better off before technology polluted  their lives ~\"  He jerks the controls and the FX-cruiser dives to the  ground. It lands with a jolt "
+      },
+      {
+        "page_index": 179,
+        "width": 357.1199951171875,
+        "height": 544.3200073242188,
+        "aspect": 0.656,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "Child of the Chaos (2004).pdf",
+    "slug": "child-of-the-chaos-2004",
+    "size_mb": 0.35,
+    "page_count": 28,
+    "total_text_chars": 120045,
+    "chars_per_page": 4287.3,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 6
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 344.0,
+        "height": 518.0,
+        "aspect": 0.664,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 792.0,
+        "height": 612.0,
+        "aspect": 1.294,
+        "text_chars": 677,
+        "first_chars": "3 Child of The Chaos By Rhianna Pratchett 2 To Mike with love and thanks This novel is entirely a work of fiction. The names, characters and incidents portrayed in it are the work of the author\u2019s imagination. Any resemblance to actual perso"
+      },
+      {
+        "page_index": 14,
+        "width": 792.0,
+        "height": 612.0,
+        "aspect": 1.294,
+        "text_chars": 5831,
+        "first_chars": "29 to approach this door until I say so, do you understand?\u2019 \u2018As you wish, Sir!\u2019 Ygerna was seated on a chair, with her arms and legs securely bound to stop her casting any spells. Nevertheless, Lucian cast a protection net over himself and"
+      },
+      {
+        "page_index": 27,
+        "width": 356.0,
+        "height": 514.0,
+        "aspect": 0.693,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "KatieAndTheComputer1979.pdf",
+    "slug": "katieandthecomputer1979",
+    "size_mb": 16.72,
+    "page_count": 46,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 2226.0,
+        "height": 1663.0,
+        "aspect": 1.339,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 2272.0,
+        "height": 1616.0,
+        "aspect": 1.406,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 23,
+        "width": 2171.0,
+        "height": 1608.0,
+        "aspect": 1.35,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 45,
+        "width": 2238.0,
+        "height": 1660.0,
+        "aspect": 1.348,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "MicroAdventureNo.7-DoomStalker.pdf",
+    "slug": "microadventureno-7-doomstalker",
+    "size_mb": 1.72,
+    "page_count": 132,
+    "total_text_chars": 121667,
+    "chars_per_page": 921.7,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 8
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 293.0400085449219,
+        "height": 497.0400085449219,
+        "aspect": 0.59,
+        "text_chars": 123,
+        "first_chars": "More Than An Action-Packed Novel!  Includes 7 exciting Programs  For Your Computerl o  by Ruth Glick and Eileen Buckholtz  "
+      },
+      {
+        "page_index": 1,
+        "width": 292.55999755859375,
+        "height": 499.20001220703125,
+        "aspect": 0.586,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 66,
+        "width": 278.79998779296875,
+        "height": 489.79998779296875,
+        "aspect": 0.569,
+        "text_chars": 1242,
+        "first_chars": "to get back,\" Bronze says. \"How did you get  it, anyway?\"  \"It was a gift,\" Flint shoots back. Then  his expression grows thoughtful. \"Of course,  this could still be a trap,\" he muses. Then he  looks in your direction. \"Okay, shrimp, since"
+      },
+      {
+        "page_index": 131,
+        "width": 291.6000061035156,
+        "height": 498.7200012207031,
+        "aspect": 0.585,
+        "text_chars": 961,
+        "first_chars": "BED  Your code name is  .. L ...... Orion, and only you  ... .. I\" can stop the world  Doom Stalker Is more  than a great adventure  story. \" Is danger,  action, suspense- plus computer programs  for you to run.  from spinning  wildly out  "
+      }
+    ]
+  },
+  {
+    "file": "NintendoAdventureBooks02-LeapingLizards1991.pdf",
+    "slug": "nintendoadventurebooks02-leapinglizards1991",
+    "size_mb": 3.29,
+    "page_count": 63,
+    "total_text_chars": 79735,
+    "chars_per_page": 1265.6,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 8
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 555.0,
+        "height": 477.1520080566406,
+        "aspect": 1.163,
+        "text_chars": 2333,
+        "first_chars": "To Juana  and Kelly who inspired us to play  with power This book is a work of fiction. Names,  characters, places  and incidents are either the product of the author's imagination or are used fictitiously. Any resemblance to actual  events"
+      },
+      {
+        "page_index": 1,
+        "width": 555.0,
+        "height": 477.1520080566406,
+        "aspect": 1.163,
+        "text_chars": 826,
+        "first_chars": "\" Look out below!\u201d Luigi yells. He dives head- first into the Central Pipe that sticks up from the floor of the Mario Bros. plumbing work- shop. Tumbling through steamy darkness, he passes dripping faucets, hissing valves and the glowing re"
+      },
+      {
+        "page_index": 31,
+        "width": 559.0,
+        "height": 482.0,
+        "aspect": 1.16,
+        "text_chars": 468,
+        "first_chars": "dives into the water and swims frantically toward the next island. \u201cI resent that!\u201d says Luigi. \u201cAnd one of you has some explaining to do.\u201d He frowns as both reptiles start to escape. \u201cBut which brother should I go after?\u201d Solve this  puzzl"
+      },
+      {
+        "page_index": 62,
+        "width": 562.0,
+        "height": 485.0,
+        "aspect": 1.159,
+        "text_chars": 420,
+        "first_chars": "Will the Super Mario Bros. sort out the monster mix-up? When King Bowser Koopa unleashes his mega  monsters, it\u2019s up to the super plumbers, Mario and Luigi, to stop him before they get mixed up in a new way! All-new Super Mario Bros. storie"
+      }
+    ]
+  },
+  {
+    "file": "SpaceRogue-StarsOfOpportunity1989.pdf",
+    "slug": "spacerogue-starsofopportunity1989",
+    "size_mb": 2.27,
+    "page_count": 11,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 392.1600036621094,
+        "height": 612.0,
+        "aspect": 0.641,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 791.5199584960938,
+        "height": 609.1199951171875,
+        "aspect": 1.299,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 5,
+        "width": 783.3599853515625,
+        "height": 610.0799560546875,
+        "aspect": 1.284,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 10,
+        "width": 392.1600036621094,
+        "height": 607.6799926757812,
+        "aspect": 0.645,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "The Bard's Tale - The Chaos Gate (1994).pdf",
+    "slug": "the-bard-s-tale-the-chaos-gate-1994",
+    "size_mb": 0.32,
+    "page_count": 117,
+    "total_text_chars": 442362,
+    "chars_per_page": 3780.9,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 7
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 2803,
+        "first_chars": "The Chaos Gate by Josepha Sherman book 4 of the Bard's Tale Series copyright 1994 version 1.1 minor clean up Chapter I Old Friends Swords clashed together, the hard, clear sound cutting through the cool morning air, echoing off the castle w"
+      },
+      {
+        "page_index": 1,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 4347,
+        "first_chars": "\"Naitachal,\" he said suddenly, \"this isn't all some sort of elven jest, is it? Do you really believe we can turn my swordplay into a form of Bardic Magic?\" Naitachal shrugged. \"Why not? It's not any stranger than a Dark Elf turning Bard!\" K"
+      },
+      {
+        "page_index": 58,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 3992,
+        "first_chars": "Kevin hastily passed her the knife, thinking it wasn't going to be much use against Dark Elf swords, vowing he wasn't going to let a gently bred human lady fall into Nithathili hands. As the Dark Elves, smiling coldly, their slanted eyes gl"
+      },
+      {
+        "page_index": 116,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 2902,
+        "first_chars": "over to give her arm a pat. \"Hey, don't look so lost! I haven't forgotten about you. Are you still interested in apprenticing with D'Krikas in my castle?\" She quivered with sudden excitement. \"Yes. If\u2014if you really mean it.\" \"Of course I me"
+      }
+    ]
+  },
+  {
+    "file": "TheMysteryAndAdventureComputerStorybook1983 (1).pdf",
+    "slug": "themysteryandadventurecomputerstorybook1983-1",
+    "size_mb": 7.54,
+    "page_count": 132,
+    "total_text_chars": 103067,
+    "chars_per_page": 780.8,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 3
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 489.6000061035156,
+        "height": 716.760009765625,
+        "aspect": 0.683,
+        "text_chars": 120,
+        "first_chars": "TH\u20ac MVSTCRV RND RDV\u20acNTUR\u20ac COMPUTER STORYBOOK V* ' I / % \\ 20 Stories To Read and Program IN BASIC On Your Home Computer "
+      },
+      {
+        "page_index": 1,
+        "width": 488.1600036621094,
+        "height": 709.9199829101562,
+        "aspect": 0.688,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 66,
+        "width": 486.7200012207031,
+        "height": 712.0800170898438,
+        "aspect": 0.684,
+        "text_chars": 1127,
+        "first_chars": "THE COUSIN CONNECTION \u2022 53 NEW 10 12 20 25 30 50 60 65 67 70 90 105 110 115 120 130 140 150 155 160 170 175 180 200 210 220 230 240 300 310 320 330 340 350 360 370 410 420 430 440 450 RUN DIM A*(20) DIM B*<20> PRINT \"DO YOU THINK IT IS FELI"
+      },
+      {
+        "page_index": 131,
+        "width": 489.9599914550781,
+        "height": 720.0,
+        "aspect": 0.68,
+        "text_chars": 1203,
+        "first_chars": "STORKS AND COMPUTCR PROGRRMS THflT UJORK TOG\u20acTH\u20acR \u2014 IT'S BRSIC UIITH 1H\u20ac MVSTCRV AND RDV\u20acNTUR\u20ac COMPUTER STORVOOOK It's challenging, exciting, and educational! This book contains 20 stories and over 50 programs that can be used on Apple, Ata"
+      }
+    ]
+  },
+  {
+    "file": "TheMysteryAndAdventureComputerStorybook1983.pdf",
+    "slug": "themysteryandadventurecomputerstorybook1983",
+    "size_mb": 7.54,
+    "page_count": 132,
+    "total_text_chars": 103067,
+    "chars_per_page": 780.8,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 3
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 489.6000061035156,
+        "height": 716.760009765625,
+        "aspect": 0.683,
+        "text_chars": 120,
+        "first_chars": "TH\u20ac MVSTCRV RND RDV\u20acNTUR\u20ac COMPUTER STORYBOOK V* ' I / % \\ 20 Stories To Read and Program IN BASIC On Your Home Computer "
+      },
+      {
+        "page_index": 1,
+        "width": 488.1600036621094,
+        "height": 709.9199829101562,
+        "aspect": 0.688,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 66,
+        "width": 486.7200012207031,
+        "height": 712.0800170898438,
+        "aspect": 0.684,
+        "text_chars": 1127,
+        "first_chars": "THE COUSIN CONNECTION \u2022 53 NEW 10 12 20 25 30 50 60 65 67 70 90 105 110 115 120 130 140 150 155 160 170 175 180 200 210 220 230 240 300 310 320 330 340 350 360 370 410 420 430 440 450 RUN DIM A*(20) DIM B*<20> PRINT \"DO YOU THINK IT IS FELI"
+      },
+      {
+        "page_index": 131,
+        "width": 489.9599914550781,
+        "height": 720.0,
+        "aspect": 0.68,
+        "text_chars": 1203,
+        "first_chars": "STORKS AND COMPUTCR PROGRRMS THflT UJORK TOG\u20acTH\u20acR \u2014 IT'S BRSIC UIITH 1H\u20ac MVSTCRV AND RDV\u20acNTUR\u20ac COMPUTER STORVOOOK It's challenging, exciting, and educational! This book contains 20 stories and over 50 programs that can be used on Apple, Ata"
+      }
+    ]
+  },
+  {
+    "file": "TheUltimaSaga-TheForgeOfVirtue1991.pdf",
+    "slug": "theultimasaga-theforgeofvirtue1991",
+    "size_mb": 61.04,
+    "page_count": 322,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 290.3999938964844,
+        "height": 476.3999938964844,
+        "aspect": 0.61,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 275.0400085449219,
+        "height": 476.3999938964844,
+        "aspect": 0.577,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 161,
+        "width": 275.0400085449219,
+        "height": 476.3999938964844,
+        "aspect": 0.577,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 321,
+        "width": 288.4800109863281,
+        "height": 476.3999938964844,
+        "aspect": 0.606,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "Under a Killing Moon - A Tex Murphy Novel (1996).pdf",
+    "slug": "under-a-killing-moon-a-tex-murphy-novel-1996",
+    "size_mb": 0.46,
+    "page_count": 163,
+    "total_text_chars": 456529,
+    "chars_per_page": 2800.8,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 18
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 81,
+        "first_chars": "                    Aaron Conners\u2019  \u201cUnder A Killing Moon\u201d    A Tex Murphy Novel "
+      },
+      {
+        "page_index": 1,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 1836,
+        "first_chars": "\u2013\u2013 PROLOGUE \u2013\u2013    In the moonlight, New San Francisco sparkles like a chunk of cubic zirconium, an island of  hollow beauty surrounded by a red sea of radiation. Five million souls drowning in gamma  rays.    It\u2019s December 2042. Some optimi"
+      },
+      {
+        "page_index": 81,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 3089,
+        "first_chars": "And the police hadn't found anything. Where was it? A thought occurred to me. I pulled the  blue index card from my coat and handed it to Dubois. \"This mean anything to you?\"     DuBois looked the card over carefully, sounding out the lette"
+      },
+      {
+        "page_index": 162,
+        "width": 595.0,
+        "height": 842.0,
+        "aspect": 0.707,
+        "text_chars": 206,
+        "first_chars": "The woman looked up at me with large, hazel eyes. \"No. I have something I'd like to show  you.\"    She motioned for me to sit down, then opened her purse and handed me a -   Well, that's another story...   "
+      }
+    ]
+  },
+  {
+    "file": "Zork #1 - The Forces of Krill (1983).pdf",
+    "slug": "zork-1-the-forces-of-krill-1983",
+    "size_mb": 47.03,
+    "page_count": 64,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 550.031982421875,
+        "height": 476.87200927734375,
+        "aspect": 1.153,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 553.031982421875,
+        "height": 480.87200927734375,
+        "aspect": 1.15,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 32,
+        "width": 570.8479614257812,
+        "height": 476.73602294921875,
+        "aspect": 1.197,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 63,
+        "width": 577.8479614257812,
+        "height": 484.73602294921875,
+        "aspect": 1.192,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "Zork #2 - The Malifestro Quest (1983).pdf",
+    "slug": "zork-2-the-malifestro-quest-1983",
+    "size_mb": 44.95,
+    "page_count": 64,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 542.5999755859375,
+        "height": 474.40802001953125,
+        "aspect": 1.144,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 541.5999755859375,
+        "height": 473.40802001953125,
+        "aspect": 1.144,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 32,
+        "width": 539.5999755859375,
+        "height": 471.40802001953125,
+        "aspect": 1.145,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 63,
+        "width": 542.5999755859375,
+        "height": 475.40802001953125,
+        "aspect": 1.141,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "Zork #3 - The Cavern of Doom (1983).pdf",
+    "slug": "zork-3-the-cavern-of-doom-1983",
+    "size_mb": 46.07,
+    "page_count": 64,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 572.615966796875,
+        "height": 474.968017578125,
+        "aspect": 1.206,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 570.615966796875,
+        "height": 472.968017578125,
+        "aspect": 1.206,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 32,
+        "width": 568.615966796875,
+        "height": 469.968017578125,
+        "aspect": 1.21,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 63,
+        "width": 573.615966796875,
+        "height": 475.968017578125,
+        "aspect": 1.205,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "Zork #4 - Conquest at Quendor (1984).pdf",
+    "slug": "zork-4-conquest-at-quendor-1984",
+    "size_mb": 45.75,
+    "page_count": 64,
+    "total_text_chars": 0,
+    "chars_per_page": 0.0,
+    "has_text_layer": false,
+    "probably_scanned": true,
+    "patterns": {
+      "turn_to_page": 0,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 0,
+      "the_end": 0
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 589.0,
+        "height": 494.0,
+        "aspect": 1.192,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 1,
+        "width": 583.0,
+        "height": 487.0,
+        "aspect": 1.197,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 32,
+        "width": 585.0,
+        "height": 489.0,
+        "aspect": 1.196,
+        "text_chars": 0,
+        "first_chars": ""
+      },
+      {
+        "page_index": 63,
+        "width": 583.0,
+        "height": 487.0,
+        "aspect": 1.197,
+        "text_chars": 0,
+        "first_chars": ""
+      }
+    ]
+  },
+  {
+    "file": "the-cave-of-time.pdf",
+    "slug": "the-cave-of-time",
+    "size_mb": 6.46,
+    "page_count": 66,
+    "total_text_chars": 77131,
+    "chars_per_page": 1168.7,
+    "has_text_layer": true,
+    "probably_scanned": false,
+    "patterns": {
+      "turn_to_page": 3,
+      "turn_to_section": 0,
+      "go_to_page": 0,
+      "if_you_turn_to": 2,
+      "the_end": 43
+    },
+    "samples": [
+      {
+        "page_index": 0,
+        "width": 594.75,
+        "height": 498.3599853515625,
+        "aspect": 1.193,
+        "text_chars": 134,
+        "first_chars": "@ H = t N6l ztil .Ai rb E you'RE THE HERo oF THE sroRy =  cHoosE FRoM 59 POSSIBLE ENDINGS. It o -,( do \"  ILLUSTMTN,D BY PAUL CRANCER "
+      },
+      {
+        "page_index": 1,
+        "width": 598.9199829101562,
+        "height": 485.6099853515625,
+        "aspect": 1.233,
+        "text_chars": 1552,
+        "first_chars": "YOU'RE THE STAR! 40 THRILLINC ENDINCS! WILL YOU BECOME TRAPPED IN TIME,? You are hiking in Snake Canyon when you find yourself lost in the strange, dimly lit Cave o[Time. Cradually you can make out two passageways. One curves downward to th"
+      },
+      {
+        "page_index": 33,
+        "width": 571.7100219726562,
+        "height": 481.6199951171875,
+        "aspect": 1.187,
+        "text_chars": 504,
+        "first_chars": "54 You enter the next tunnel you come to. It be_ 55 The train slows down as it approaches you ani you smile as you see the reason why-a cow b standing on the hacks just ahead, looking as if it would not move for anything. The train pulls to"
+      },
+      {
+        "page_index": 65,
+        "width": 284.25,
+        "height": 486.21002197265625,
+        "aspect": 0.585,
+        "text_chars": 2232,
+        "first_chars": "D 25764 tr 25918 E 24344 0 2596r 4 24522 I 25778 tr 25818 a 26265 tr 26062 D 26313 I 26522 a 24892 E 26386 il 2499r E 26388 D 25134 a 25177 E 25296 a 25242 D 25488 i] 25489 d 25490 1_l 2549r D 2586r D 25741 tr 2s813 n 25885 ll 25941 n 26169"
+      }
+    ]
+  }
+]

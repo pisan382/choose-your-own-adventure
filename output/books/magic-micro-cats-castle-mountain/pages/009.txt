@@ -1,0 +1,24 @@
+Page 9
+
+You are the star of the story!
+You have the Magic Micro . . .
+Your computer is about to take you into
+a world of adventure and excitement. The
+power of the Magic Micro is at your fin­
+gertips. All you need is your computer, the
+programs in this book, and a sense of
+adventure!
+There are just a few rules. The pro­
+grams in the book are in BASIC. So make
+sure you know how to put your computer
+in BASIC before you begin.
+You must add a few lines to each pro­
+gram to make it run on your computer.
+When you come to a program in the story,
+type it just the way it appears. Then turn
+to the Magic Scroll section on page 64. You
+will have to add three or four more lines
+that are just for your computer. The Magic
+Scroll will tell you which lines to add —
+and sometimes there will be lines you have
+to take out.

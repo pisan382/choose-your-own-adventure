@@ -1,0 +1,21 @@
+Page 82
+
+PROGRAM 6
+If you have an Atari, add these lines to
+Program 6.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N V T -1,H T+1:R ETU R N
+9 2 0  WS=1 TO 2 0 0 : NEXT WS:RETURN
+About the program:
+The parrot told you to wash the map.
+Now “X” marks the spot — and the spot
+. . . and the spot. . . . But which one is the
+treasure really hidden under? The friendly
+parrot tells you it’s the one that will make
+him fly. Try feeding him the numbers be­
+side each “X on the map. Only one will
+make him leave his perch. You can simply
+keep trying numbers until you find the
+right one. Or, if you look at line 90 of the
+program, you’ll see that it’s the one that’s
+divisible by 7.

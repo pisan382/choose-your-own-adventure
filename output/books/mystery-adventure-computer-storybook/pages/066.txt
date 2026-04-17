@@ -1,0 +1,96 @@
+Page 66
+
+•
+MYSTERY AND ADVENTURE
+He peers out of the window. Type in the program to find out what
+he sees.
+NEW
+10
+PRINT
+"+++++++++++++++++++"
+20
+PRINT
+"+
++
++
++
++"
+30
+PRINT
+"+
++
++
++
++"
+40
+PRINT
+"+
++
++
++
++"
+50
+PRINT
+'
+60
+PRINT
+'
+70
+PRINT
+'
+80
+PRINT
+•
+90
+PRINT
+'
+100
+PRINT
+110
+PRINT
+"+
++
+'120
+PRINT
+"+
++
+130
+PRINT
+140
+PRINT
+150
+PRINT
+160
+PRINT
+170
+PRINT
+180
+PRINT
+190
+PRINT
+200
+PRINT
+RUN
+"What a wonderful view of the tennis fields!" He starts to talk
+about Wimbledon and his tennis career. "I could have won my last
+match. But the other guy kept me at the back of the field. He beat
+me in two straight quarters. It's too bad Uncle Jake couldn't have
+seen me win more often."
+Felix #3 also notices the view from the window. He talks about
+how he wished he could have spent more time with Uncle Jake. "I
+invited him to my matches on clay courts because I play best on that
+surface.
+Uncle
+Jake
+never wanted
+to
+go.
+I
+guess
+he
+was
+more
+interested in growing weird-shaped plants."
+Type in the program to figure out which caller
+is really your
+cousin, Felix Miros.

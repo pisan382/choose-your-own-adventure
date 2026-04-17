@@ -1,0 +1,32 @@
+Page 33
+
+the wideband. At first, there's only noise. But
+suddenly a burst of characters appears on the
+screen.
+TPURM WFII PMSED RSKZFS
+WFRDFK RMK DLUPQ
+WM WFII QMEUPM LPSEIM BLP TPURM
+"I think I've got something," you shout.
+"It looks as if it's in code, but I can tell that
+it's not in ACT format. "
+"Then what is it?" Bronze questions.
+"Do you think it could be generated from that
+specter?"
+"I don't think so," you reply. "Re-
+member, we didn't have any trouble under-
+standing that." You continue to study the
+groups of letters on the screen. Suddenly, you
+know where you've seen something like this
+before. Excitedly you turn to Frieda. "I'd bet
+my new optical disk that this is a BRUTE
+code."
+"Can you break it?" she asks.
+"With the new optical disk, ACT has
+been able to store seven million bytes of pre-
+viously used BRUTE codes. It ought to be
+around here somewhere," you say as you be-
+gin to search through the data base.
+After churning for several minutes, the
+computer supplies you with a decoder pro-
+gram that has a 75 percent match factor with
+the intercept.

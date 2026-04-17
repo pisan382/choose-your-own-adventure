@@ -1,0 +1,72 @@
+Page 117
+
+THE AUCTION
+•
+103
+Within weeks of working at Tipton's mansion, the cook had
+become an expert on the feeding habits of insects and mammals.
+The housekeeper, Gloria, became so involved in natural history
+that she often traveled on expeditions with Tipton.
+After hours, the groundskeeper lectured on rare animals at the
+local university.
+Tipton was a very careful man. He had
+installed the most
+elaborate alarm devices available to protect his rare collection. The
+alarms were wired to the police station and could be turned off only
+with the assistance of the police. This alarm system assured Tipton
+that no part of his collection could leave the house without his
+knowledge. Of course, people could come and go, but nothing
+could be removed from the house without blasting off the sirens.
+All of Tipton's employees knew where the safe was hidden and
+what was inside. They also knew all about the security system.
+But in spite of the alarm system, the diamonds disappeared from
+the
+safe just before the auction! The
+Society would
+lose a vast
+fortune; they would gain only the proceeds from the auction.
+As an alert detective from the police station, you figure that the
+diamonds must still be in the house, since no alarm went off.
+But where are they? You start to investigate.
+There are two major collections at the Tipton mansion. Type in
+the program to view THE RARE INSECT EXHIBIT. Then return
+to the book.
+NEW
+4
+20
+30
+50
+60
+65
+70
+80
+85
+90
+95
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"RARE
+INSECT
+EXHIBIT"
+ii +++++++++++++++++++ "
+"**$*<$>
+ANTS
+****"
+11—FLIES—"
+??
+BEETLES
+??"
+"(<
+<
+BEES
+)))"
+"...WASPS..."

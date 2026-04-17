@@ -1,0 +1,95 @@
+Page 96
+
+•
+MYSTERY AND ADVENTURE
+180
+PRINT
+190
+PRINT
+"FILMING
+FIRE
+STUNTS"
+200
+PRINT
+210
+PRINT
+"FILMING
+FIRE
+STUNTS'
+220
+PRINT
+"I
+230
+PRINT
+"FILMING
+CAR
+CHASE"
+240
+PRINT
+"STUNTS."
+RUN
+Afterward
+you
+go
+to
+the
+bank.
+There
+you
+interview
+bank
+employees who were on the job during the robbery. Not one of
+them had seen the face of the robber. All had seen the mask on his
+face. Two clerks had noticed that the robber was even taller than
+Gregory, the bank guard. Gregory's nickname is Stretch because he
+is so
+tall. Gregory fainted during the robbery, so he didn't recall
+anything.
+At last you interview Mrs. Joyce Charles. She still insists that she
+watched the robbery from outside the bank window. She saw a tall
+man, wearing a mask, enter and rob the bank. As soon as he walked
+out into the street again, he pulled off his mask. She recognized the
+face of Jonathan Andrews.
+"I didn't run for the police," she says. "I thought maybe he was
+rehearsing a part of the movie. I never forget a face. 1 just know the
+man was Jonathan Andrews."
+The police ask you if Jonathan Andrews should be considered as
+a suspect for the bank heist. Type in the program to help you decide.
+NEW
+5
+DIM
+A*(20)
+10
+PRINT
+"DID
+JONATHAN
+ANDREWS11
+20
+PRINT
+"HAVE
+TIME
+TO
+ROB"
+30
+PRINT
+"THE
+BANK?"
+45
+INPUT
+A*
+50
+PRINT
+"OH
+YES,
+HE
+CERTAINLY"
+60
+PRINT
+"HAD
+THE
+CHANCE"
+65
+PRINT
+67
+DIM
+B*(20)

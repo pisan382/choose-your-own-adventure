@@ -1,0 +1,20 @@
+Page 45
+
+CHAPTER
+7
+"Let me have a shot at it," you offer, looking
+for the serial port on the micro's chassis.
+Quickly, you plug in your own portable com-
+puter and run a diagnostic program.
+All the while, Bronze is dipping lower and
+lower toward certain death. But you try to work
+calmly as you analyze the program.
+Input the following program and run it.
+Lines 230, 290, 520, and 540 should be typed
+as one line on your computer. List the program
+and study it to find the bug that causes the
+pulley to move back and forth , rather than for-
+ward. Hint: Look for the line of the program
+that sends the program to the end -
+skipping
+the whole middle part. Change that line. Once

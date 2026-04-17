@@ -1,0 +1,25 @@
+Page 115
+
+180 IF M < 128 THEN RETURN
+190 V$=CHR$(M-128) :POKE -16368,0:
+200 RETURN
+Commodore 64 and VIC-20:
+30 PRINT CHR$(147) 1
+170 GET V$
+180 RETURN
+What the Program Does
+The specter has downloaded a program
+into your computer. The program continu-
+ously flashes lightning on the screen and de-
+mands. "Return the Magor Stone." You must
+examine the code and figure out what input will
+stop the loop. Also you must figure out what
+the Guardian Latch is.
+How the Program Works
+Lines I 0 through I 00 form a loop that will
+control your computer forever unless you press
+the letter that is checked for in line 50.
+Once you have stopped the lightning loop
+you are asked to provide the Guardian Latch.
+Here you'll need to key in the character whose
+I 11

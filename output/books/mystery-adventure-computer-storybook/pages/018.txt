@@ -1,0 +1,78 @@
+Page 18
+
+•
+MYSTERY AND ADVENTURE
+Next you try Evan's house.
+Evan's mother has just given him a haircut and his shoulders are
+covered with black hair.
+"Where is Sarelle?" you say.
+Evan shakes his head. "All I know is she slipped this letter in my
+mailbox the other day.
+It was raining and the paper got wet and
+smeary. See if you can read it," says Evan.
+NEW
+100
+110
+120
+130
+140
+150
+160
+170
+ISO
+185
+190
+195
+200
+210
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"DEAR
+EVAN"
+"I
+AM
+RUNNIN
+AWAY"
+"I
+W
+LL
+BE
+T"
+HOUSE
+IF
+YOU1
+"
+EED
+ME"
+"SAR
+LLE"
+"GO
+BACK
+TO
+THE
+BOOK"
+"AND
+SEE
+WHAT
+ELSE"
+"EVAN
+CAN
+TELL
+YOU"
+"Sure, 111 be able to read this note," you say.
+"Well, let me know what you find out," says Evan.
+He scribbles on a piece of paper.
+"Here's my name and telephone number," says Evan.

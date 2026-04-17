@@ -1,0 +1,13 @@
+Page 10
+
+Remember, you must type the pro­
+grams exactly right. Even an extra space
+can make a difference. If you have trou­
+ble, put the program on your screen by
+using the LIST command. Check that
+version against the program in the book.
+Also, remember to type NEW before you
+start a new program. That clears out any
+leftovers from old programs. That’s all
+there is to it.
+Now your adventure can begin.

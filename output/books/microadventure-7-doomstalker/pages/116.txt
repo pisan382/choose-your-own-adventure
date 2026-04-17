@@ -1,0 +1,27 @@
+Page 116
+
+ASCII value is 88 (see line 130). You can
+check the ASCII table in the back of this book
+to find the correct key to press. If you press
+the wrong key, the program will start again on
+the infinite loop.
+PROGRAM 3:
+DECODE BRUTE'S MESSAGE
+Modifications for Other Micros
+Atari 4001800:
+5 DIM B$(30) ,A$(30) ,M$(30),
+N $ (3 0) , R$ (1 )
+90 IF M${I,I)=A$(K,K) THEN 110
+110 N$(LEN(N$)+l)=B$(K,K)
+What the Program Does
+BRUTE has used a key substitution code
+to encode its message. Orion has one version
+of the BRUTE decoder program that uses the
+key "TEAMS." When the message is de-
+coded by this program, something strange
+happens. Some of the letters seem to be de-
+coded correctly, while others are still gar-
+bage. It looks as if Orion has the right program,
+but the wrong key. Can you transpose the let-
+ters in the key to make another key word and
+try decoding with that?

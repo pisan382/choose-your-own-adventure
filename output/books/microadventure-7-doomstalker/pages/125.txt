@@ -1,0 +1,39 @@
+Page 125
+
+the speed variable. The higher you set SP in
+line 60, the shorter the wait loop in line 580
+and the faster the floor rings move. If you set
+SP high enough, it will fling BRUTE into the
+strum.
+APPENDIX
+ASCII Code Character
+0-32
+Special system control characters
+32
+Space (will look blank)
+33
+!
+34
+"
+35
+#
+36
+$
+37
+%
+38
+&
+39
+40
+(
+41
+)
+42
+*
+43
++
+44
+45
+46
+47
+I

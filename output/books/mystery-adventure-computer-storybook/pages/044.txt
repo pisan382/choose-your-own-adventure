@@ -1,0 +1,148 @@
+Page 44
+
+•
+MYSTERY AND ADVENTURE
+cropped
+in an
+irregular
+pattern.
+Some
+blades
+are
+higher than
+others. On the left side, the grass hasn't been cropped at all and the
+blades are all the same length.
+Raines answers the door in a pleasant manner, but when you
+mention Frank Bridges's name, he gets angry. You tell him about
+the missing horse. "I haven't seen Bridges in almost six months, and
+I'd like to keep
+it that way.
+I made him a saddle for his horse,
+Samantha,
+but
+he
+didn't
+appreciate
+my
+fine
+work.
+That
+man
+doesn't know how to take care of anything," says Raines.
+Although you haven't seen any horse, you know who took Frank
+Bridges's horse. Can you guess who has Samantha?
+Type in the program.
+NEW
+2
+DIM
+F*<20>
+3
+DIM
+G*<20)
+4
+DIM
+C*(20)
+5
+PRINT
+"WHO
+IS
+THE
+HORSE"
+10
+PRINT
+"THIEF?"
+12
+PRINT
+"ROY
+ROGERS"
+14
+PRINT
+"ROY
+RAINES"
+20
+INPUT
+F*
+30
+LET
+C*
+=
+"ROY
+ROGERS"
+35
+LET
+G*
+»
+"ROY
+RAINES"
+40
+IF
+F*
+=
+G$
+THEN
+GOTO
+50
+42
+PRINT
+"WRONG
+PERSON"
+45
+GOTO
+5
+50
+PRINT
+"YOU
+FOUND
+HIM"
+52
+DIM
+A*(20)
+53
+DIM
+B*(20)
+54
+DIM
+D*(20)
+55
+PRINT
+"WHICH
+CLUES
+TOLD
+YOU?"
+60
+PRINT
+"SADDLE"
+65
+PRINT
+"HAY"
+70
+PRINT
+"FOOTPRINTS"
+SO
+INPUT
+A*
+90
+LET
+D*
+=
+"SADDLE"
+95
+LET
+B*
+=
+"FOOTPRINTS"
+100
+IF
+A*
+=
+B*
+THEN
+GOTO
+115
+105
+PRINT
+"WRONG.CHECK
+THE
+BOOK"
+110
+GOTO

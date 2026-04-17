@@ -1,0 +1,21 @@
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.

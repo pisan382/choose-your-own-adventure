@@ -1,0 +1,15 @@
+Page 79
+
+PROGRAM 4
+9 0 0  PRINT C H R $( 1 4 7 ) ; :PETURN
+9 1 0  POKE 7 8 2 ,H T -1 :P O K E  7 8 1 : V T - 1 :
+POKE 7 8 3 , 0 : SYS 6 5 5 2 0 :RETURN
+9 6 0  S W = 2 0 : S H = 2 4 : RETURN
+About the program:
+Use this program to lower Leo’s cage to
+the ground so he can escape. Just type in
+the lines, and the Magic Micro will do the
+rest.
+If you have a VIC-20, add these lines to
+Program 4. (Line 910 must be typed as
+one line.)

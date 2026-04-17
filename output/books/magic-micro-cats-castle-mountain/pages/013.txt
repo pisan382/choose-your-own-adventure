@@ -1,0 +1,28 @@
+Page 13
+
+PROGRAM 1
+10  REM MAGIC TRANSPORT PROGRAM
+20 PRINT "WHERE ARE WE GOING?"
+30 INPUT P$
+40 GOSUB 9 6 0 : GOSUB 9 0 0
+50  FOR 1= 1 TC 1 5 0
+60 RX=MU:GOSUB 9 3 0
+70  GOSUB 9 8 0
+80 RX=SH: GOSUB 93 0:V T = R D
+90 RX=SW: GOSUB 930:H T =R D
+1 0 0  GOSUB 9 1 0
+1 1 0  RX=AC:GOSUB 9 3 0
+1 2 0  PRINT C H R $( RD+AS)
+1 3 0  NEXT I
+1 4 0  V T =1:H T =1:G O SU B  9 1 0
+1 5 0  PRINT "YOU ARE NOW IN " ;P $
+1 6 0  END
+You are pulled into a world of eerie
+sounds and flashing lights, as your Magic
+Micro whisks you away to a strange new
+land.
+When the screen clears, you’re stand­
+ing in a grassy meadow. You pick up the
+Magic Micro beside you and put it inside
+your jacket. Behind yon is a pine forest that
+stretches into the distance. At the other

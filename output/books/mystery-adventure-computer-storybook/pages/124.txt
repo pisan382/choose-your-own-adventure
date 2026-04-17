@@ -1,0 +1,153 @@
+Page 124
+
+•
+MYSTERY AND ADVENTURE
+and fall. As you help to clean up the mess, you apologize. You feel
+embarrassed—who wouldn't?
+When
+Charles
+Chase
+answers
+the
+door
+he
+says,
+"Yes,
+I
+saw
+Marsha Cross—she stopped in to return some laundry detergent."
+Charles
+Chase
+doesn't
+seem
+surprised
+when
+you
+tell
+of
+the
+robbery. "The same thing happened
+last week when one
+of her
+friends went to
+the laundry room.
+It was the lady
+in 3B,
+Mary
+Astor," recalls Charles.
+Pat Lee says she knows nothing about the robbery, but she did
+notice Charles Chase talking to Marsha around two o'clock that
+day.
+One of these people is not telling the truth. Type in the program
+to find out, "Who Did It?"
+NEW
+5
+6
+7
+10
+20
+40
+60
+70
+SO
+90
+100
+110
+120
+130
+140
+142
+144
+146
+150
+170
+180
+190
+200
+210
+230
+DIM
+F*(20)
+DIM
+6*(20)
+DIM
+C*(20)
+PRINT
+PRINT
+INPUT
+LET
+C*
+LET
+G*
+IF
+F*
+PRINT
+PRINT
+PRINT
+GOTO
+PRINT
+PRINT
+"WHO
+DID
+NOT
+TELL
+THE"
+"TRUTH?"
+F*
+=
+"CHARLES
+CHASE"
+=
+"JERI
+FINTS"
+=
+G*
+THEN
+GOTO
+130
+"THAT
+WAS
+THE
+TRUTH,"
+"THE
+WHOLE
+TRUTH
+AND"
+"NOTHING
+BUT
+THE
+TRUTH."
+10
+"YOU
+GUESSED
+RIGHT"
+"THAT
+JERI
+FINTS
+LIED"
+DIM
+A*(20)
+DIM
+B*(20)
+DIM
+D*(20)
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+INPUT
+"WHAT
+WAS
+THE
+CLUE?"
+"TWO
+HOURS"
+"ICED
+TEA"
+"GOLD
+RING"
+"FLOOR"
+"COMPUTER"
+A*

@@ -1,0 +1,320 @@
+Path: 2 -> 3 -> 4 -> 8 -> 9 -> 17 -> 26 -> 27 -> 47 -> 48 -> 49 -> 25 -> 43
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 8 ===
+Page 8
+
+As it gets lighter, you realize you can’t be on the
+right track. The canyon seems shallower than it
+was. The river bed is strewn with boulders that
+were never there before. The cold wind chills you
+to the bone; yet it’s the middle of summer. As you
+climb to higher ground to get a better view, you
+notice patches of snow. From the top of a ridge
+you survey a barren plain, frozen lakes, and, in the }
+distance, a massive range of snow-covered moun-
+tains. You begin to realize you are not merely
+lost—you are lost in time, and you have somehow
+been transported to an Ice Age that occurred many
+thousands of years ago.
+
+=== Step 5: Page 9 ===
+Page 9
+
+You walk toward one of the cliffs that borders
+the canyon, seeking shelter from the wind, and
+notice an entrance to another cave. You are
+tempted to go inside, but you feel you should keep
+moving in hopes of somehow reaching familiar
+country.
+
+If you enter the cave,
+tum to page 17.
+
+If you continue on,
+tum to page 18.
+
+=== Step 6: Page 17 ===
+Page 17
+
+As you enter the cave, you see a flickering light
+ahead and you smell smoke. You make your way
+; along a winding passageway and enter a large
+chamber. Fires rise out of earthen vessels.
+
+Several short, stocky people with straight black
+hair and primitive faces are painting pictures on the
+/ walls of the cave. They are dressed in animal skins.
+: In a comer of the cave are beds of straw.
+
+You stand, slightly afraid, as the cave people
+drop their work and run over and stare at you in
+disbelief. The largest man is carrying a long vine.
+He steps forward as though he might seize you and
+
+. tie you up.
+
+If you stay and try to make friends,
+tum to page 26.
+
+: If you try to run for it,
+tum to page 28.
+
+=== Step 7: Page 26 ===
+Page 26
+
+You make friendly gestures. The man holding
+the vine steps back and smiles. The people talk to
+you in a friendly fashion, but you cannot under-
+stand what they are saying, nor can they under-
+stand you. You feel awkward, but happy to be safe
+and warm for the moment.
+
+Several people have gone back to working on
+their paintings. You decide to try communicating
+through drawing. You begin to draw a picture of
+yourself eating. The cave people laugh, but one of
+them brings you a slice of half-cooked meat. It
+
+=== Step 8: Page 27 ===
+Page 27
+
+don’t mind. -
+
+Gradually you make friends and learn a few
+words. Some of the people go hunting and come
+back with game. Others make clothing from ani-
+mal skins. You help with cleaning and cooking and
+each day paint a picture on the walls. The others «
+are fascinated by your drawings of airplanes, st
+and cars—things they see only as abstract designs,
+for they have no way of knowing what function
+they could serve.
+
+One day a group of other people visit. You have
+never seen them before, but your friends welcome
+them warmly, holding a great feast in their honor.
+After everyone is through eating, the conversation
+intensifies. You can tell that the cave people are
+talking about a serious problem. Then, one by
+one, they drift off to sleep. You walk outside to see
+if you can learn anything. The ground is covered
+with deep snow. A bitter cold wind blows the snow
+in whirling clouds.
+
+Next moming, the people pack up their belong-
+ings and they urge you to do so also. Some migra-
+tion is obviously intended—no doubt to a warmer
+climate. You feel you should go with the cave
+people, but you have a great longing to return to
+your own home, and your only hope of doing so is —
+to find your way back to the Cave of Time.
+
+If you go with the cave people,
+turn to page 46.
+
+Tf you try to find your way back to
+the Cave of Time, tum to page 47.
+
+=== Step 9: Page 47 ===
+Page 47
+
+You pack up your few belongings. The one you
+prize most is a knife carved from the tusk of a
+wooly mammoth. You wave goodbye to your
+friends and trudge through the snow, trying to
+retrace your steps back to the Cave of Time.
+Though the wind is colder than ever, the bright sun
+stirs your hopes.
+
+You have become much more rugged from liv-
+ing with the cave people, and your crude animal-
+skin clothes keep you surprisingly warm. You find
+your way down into the canyon and in a few hours
+
+=== Step 10: Page 48 ===
+Page 48
+
+reach the entrance to the cave, now almost cov-
+ered with blowing snow.
+
+You are exhausted from the long trek, and your
+eyes are watering from the cold wind. You hardly
+notice the large, gray shape only a few yards from
+the entrance to the cave until you hear the deep,
+guttural growl of a wolf. Now you stare directly into
+its cold, cruel eyes. You feel that at your slightest
+movement it will spring at you. You must think
+what to do before you move. You probably could
+outrun the wolf to the cave. It might hesitate before
+following you—and give you enough time to
+escape—or you could try to knife the wolf in the
+throat as it leaps at you.
+
+If you run for the cave,
+tum to page 49.
+
+If you prepare to fight,
+turn to page 50.
+
+=== Step 11: Page 49 ===
+Page 49
+
+Slowly you unsheath your knife and then run for i
+the entrance. The wolf is after you like a shot. It ,
+leaps and tears your bearskin coat. While the wolf H
+is regaining its balance, you run into the cave and
+toward the left tunnel. The wolf runs after you.
+You look over your shoulder and lose your foot-
+ing. Instead of falling on the ground, you feel H
+yourself sliding down a long, steep chute. Far
+above, the wolf howls with frustration. You land in
+a heap at the bottom of a pit—shaken but un-
+harmed. There is a dark passageway to the left.
+You toss in a stone and, after what seems like a long
+time, you hear a splash far below. Fortunately, :
+there is another passageway to the right, which is
+dimly lit by phosphorescent light.
+
+Tum to page 25.
+
+=== Step 12: Page 25 ===
+Page 25
+
+You walk along the right-hand passageway fora
+long distance, praying that you can find a tunnel
+: that will lead to your own time. You choose one of
+the many tunnels you see and follow it. Instead of
+rising to the surface, you enter a brightly-lighted
+: chamber, in the center of which is a bearded, old
+man seated in a chair.
+“Welcome,” he says, as if he has been expect-
+ing you.
+: “Thank you,” you reply. ‘‘Can you help me find
+my way back to my own time?”
+The old man smiles. ‘First of all,” he says, “‘teil
+me why you want to return to your own time
+instead of another time.”
+
+) Tf you say, “Because I want
+to be back with my family and
+friends,” tum to page 43.
+
+If you say, “Because I don’t want
+to take a chance of being
+in a bad time,” turn to page 41.
+
+If you say, “I would like to try
+
+another time, but only if you can
+
+assure me that I will eventually get back to
+my own time,” tum to page 44.
+
+If you say, “Who are you?”
+tum to page 45.
+
+=== Step 13: Page 43 ===
+Page 43
+
+“And why do you want to be back with your
+family and friends?” the old man asks.
+
+“Because I will miss them and could hardly bear
+not to see them again. And my family and friends
+would be sad not to see me.”
+
+“You think of others, and you think of yourself
+too,” he replies. “‘That is a good reason to be in
+your own time. Take the next tunnel to your right,
+and you will find your way there. You have chosen
+to have only one time, have you not?”
+
+“That is true,” you reply.
+
+“Then make the most of it,” he says, with one
+hand outstretched to wish you well.
+
+The End

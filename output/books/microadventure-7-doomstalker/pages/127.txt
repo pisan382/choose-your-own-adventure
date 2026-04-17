@@ -1,0 +1,43 @@
+Page 127
+
+ASCII Code
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97-122
+126-255
+Character
+Q
+R
+S
+T
+U
+V
+VI
+X
+Y
+Z
+[
+I
+]
+lower case letters
+alternate character set -
+on some
+computers these codes are used to
+represent graphic symbols. Check
+the ASCII chart in the back of your
+computer's user guide for what
+these codes mean on your system.

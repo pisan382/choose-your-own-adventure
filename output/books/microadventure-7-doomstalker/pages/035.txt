@@ -1,0 +1,35 @@
+Page 35
+
+IBM
+Apple
+Radio Shack
+Commodore
+Atarl
+PC& 11+
+lie TRS-80 Color
+64
+VIC-20 400/800
+PCjr
+./ V' ./ ./ V
+/
+./
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 112, for changes for
+Atari.
+The results are somewhat disappointing.
+Most of the words look like English, but some
+of the letters still seem to be jumbled.
+Bronze states the obvious: "I can almost
+read the text. But it doesn't make any sense."
+"Maybe they've modified the code from
+the version that I have on file," you muse,
+looking at the garbled output. "It can't be a
+completely new key because too many letters
+are coming out okay. Maybe they've just rear-
+ranged the letters of the key. Let me try."
+List the program and modify it by using
+another combination of the letters in the sub-
+stitution key. Keep trying until you come up with
+a key that will work. If you are stumped, there's
+help on page 113 of the Reference Manual.

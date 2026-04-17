@@ -1,0 +1,28 @@
+Page 72
+
+PROGRAM 2
+9 0 0  CLS-.RETURN
+9 1 0  H Z = IN T ( H T - 1 + ( V T - 1 ) * S W + 0 . 5 ) :
+PRINT @ H Z , R E T U R N
+9 3 0  R D = IN T ( RND(RX) ) : RETURN
+9 6 0  S W = 6 4 : S H = 1 6 : RETURN
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 2.
+(Line 910 must be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z = IN T ( H T - 1 + ( V T - 1 ) * S W + 0 . 5 ) :
+PRINT @HZ f " " ; : RETURN
+9 3 0  R D = IN T ( RND( RX) ) : RETURN
+9 6 0  S W = 3 2 : S H = 1 6 : RETURN
+If you have a Commodore 64, add these
+lines to Program 2. (Line 910 must be
+typed as one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE 7 8 2 , H T -1:PO K E 7 8 1 : V T - 1 :
+POKE 7 8 3 , 0 : SYS 6 5 5 2 0 : RETURN
+9 3 0  R D = I N T (R X * R N D (1 )+ 1 ) : RETURN
+9 6 0  S W = 4 0 : S H = 2 4 : RETURN
+9 7 0  RD =RND (-TI) : RETURN
+If you have a Radio Shack TRS- 80, add
+these lines to Program 2. (Line 910 must
+he typed as one line.)

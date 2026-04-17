@@ -1,0 +1,28 @@
+Page 75
+
+PROGRAM 3
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE 7 8 2 , H T - l : P O K E  7 8 1 : V T - 1 :
+POKE 7 8 3 , 0 :SY S 6 5 5 2 0 :RETURN
+9 3 0  R D = I N T (R X * R N D (1 )+ 1 ) : RETURN
+9 6 0  S W = 4 0 : SH=24:GOSUB 970:RETURN
+9 7 0  RD =R N D (-TI) : RETURN
+If you have a Commodore 64, add these
+lines to Program 3. (Line 910 must be
+typed as one line.)
+If you have a Radio Shack TRS-80, add
+these lines to Program 3. (Line 910 must
+be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z = IN T ( H T - 1 + ( V T - 1 ) * S W + 0 . 5 ) :
+PRINT @ H Z , : RETURN
+9 3 0  R D = IN T ( R N D (R X )) : RETURN
+9 6 0  SW = 64:SH =16:R E T U R N
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 3.
+(Line 910 must be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z = IN T ( H T - 1 + (V T - 1 ) * S W + 0 . 5 )  :
+PRINT @HZ,"  " ; : RETURN
+9 3 0  RD= I NT ( RND ( RX) ) : RETURN
+9 6 0  S W = 3 2 : S H = 1 6 : RETURN

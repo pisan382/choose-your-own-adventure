@@ -1,0 +1,71 @@
+Page 48
+
+•
+MYSTERY AND ADVENTURE
+NEW
+1
+FOR
+C
+=
+1
+TO
+5
+2
+LET
+C
+»
+C
++
+1
+10
+PRINT
+"
+20
+PRINT
+"
+30
+PRINT
+"
+40
+PRINT
+50
+PRINT
+60
+NEXT
+C
+RUN
+Racing toward it, you run up the steps. It feels good to be out of
+the street. With long strides you rush up to the first floor. It seems
+as if the building is deserted. You hope the stranger doesn't follow
+you.
+But
+once again you hear the tapping sound,
+this time on
+the
+stairs.
+Quickly you run up to the next floor. But you can still hear the
+tapping sound following you.
+You are terrified. You climb up to the top floor and onto the
+roof. Closing the roof door behind you, you wait. Minutes pass,
+and there is no tapping. He's left, you think, with a sigh of relief.
+Suddenly the roof door bursts open. The terrifying tapping starts
+again. You watch in horror as a large, shadowy form roams across
+the roof. You know that you'll be discovered in a matter of seconds,
+for there's nowhere to run to.
+Now the tapping is so close that you can hear the man's heavy
+breathing. Your back is pressed against the edge of the roof. As the
+man gets within reach, you make a grab for his cane and hold on
+tightly.
+"Give it back!" he says.
+"What are you going to do
+with
+it?" you
+say,
+shivering with
+terror.
+"It's going to rain! Give me back my umbrella!" he says.
+"Your umbrella!"you gasp. "Why are you carrying an umbrella?"
+"I always carry an umbrella," says the man.
+"It keeps
+off the
+rain."

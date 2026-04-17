@@ -1,0 +1,69 @@
+Page 145
+
+SAVE THE VENTURIANS!
+145
+__ 5-a __________________ _
+5U9
+REM
+USE BOIl1ERANG OR NET
+5188
+RETURN
+--5-b------ ____________ _
+5089
+REM
+USE BOCt1ERANG OR NET
+5308
+FOR 1 = 1 TO 4: FOR J = 1 TO 3:BN(I,J)
+= BtH I + 4, J): NEXT : NEX1 : BN ( 4 ,4) = BN ( 8
+,4): RETURI\I
+__ 5-c----------________ _
+5788
+REM
+RESCUE BOOMERANG OR NET
+5719 KL$ = I(H:KR$ = ")": IF BN(4,4) = 1 THEN
+KL$ = ·~·:KR$ = CHR$ (127)
+5715 C = BN(DX,3):KK = 3
+5728
+IF C = 1 THEN VD = - l:HD = 8
+5722
+IF C = 2 THEN VD = 9:HD = 1
+S7~~
+i~ E
+~ ~ t~~ ~8 ~ ~;~8 ~ '-
+S7~~ S~O~ ~:=Gbs~g 5~,~OSUB 5790
+5737
+IF C$ = .p. THEN EF = 4:HS$(VZ,HZ) = M
+":C_ =
+H
+": GOTO 5741
+5738
+IF C$ = ·5· THEN EF = 5:HS_(VZ,HZ) = "
+":C_ = HI: GOTO 5741
+5748
+IF C$ = • • THEN
+GOTO 5742
+5741
+HTAB HZ: VTAB VZ: PRINT
+I
+u;:KK = 1 - 1
+: I = 3: GOTO 5758
+5742
+HTAB HZ: VTAB VZ: PRINT KR$;
+5743
+FOR J = 1 TO 158: NEXT
+5744
+HTAB HZ: VTAB VZ: PRINT KL_j
+5758
+NEXT
+5769
+FOR I = KK TO 1 STEP
+-
+5763
+GOSUB 5790
+5765
+HTAB HZ: VTAB VZ: PRINT • ";
+577'
+NEXT : RETURN
+5799 I.JZ = W + Bt~(DX, 1) + « I -
+1) * VD)
+5772 HZ = HV + BN(DX,2) + «1 - 1) * HD)

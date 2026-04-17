@@ -1,0 +1,38 @@
+Page 107
+
+SAVE THE VEl\;TURIAl\;S!
+107
+The longer you type without resting, the more likely
+you are to make a mistake. Try not to type for more than
+an hour at a time. One of the reasons that Arcade Explor-
+ers is broken up into segments is so that you can type in
+each part separately and easily.
+As you type in each line, check to see that it isn't
+continued on the next line before you press RETURN.
+Get in the habit of looking at the next line number. If the
+next line is indented, it is part of the line before.
+You will need to use a joystick to play the game. Plug in
+your joystick (read the specific instructions for your com-
+puter's joystick in "How to Play the Game" on page 112.
+Once you have typed in the program correctly and it
+runs, feel free to experiment! However, the authors of
+this book take no responsibility for any program modifica-
+tions you may make. Remember, you can't hurt your
+computer by changing a program, so go ahead and
+experiment! By studying the way that the program changes
+as you type in different segments, you can learn how
+programs can be modified.
+In Case of £rrors _________ _
+If you get an error message after you type in your pro-
+gram and then RUN it, consult your computer's manual
+to see what the error might be and where it may occur in
+the listing. Be sure that you are typing in exactly what is
+on the printed pagel Double-check the numeral 0 and the
+letter 0, and the numeral 1 and the letter 1. They are
+easy to confuse.
+If all else fails, save everything to tape or disk and turn
+your computer off. Get a good night's sleep and come
+back the next day with fresh eyes. There are approxi-
+mately 8000 keystrokes in the program, and it is easy to
+make a typo! Take it slow and easy and you will have a
+game that you can modify again and again.

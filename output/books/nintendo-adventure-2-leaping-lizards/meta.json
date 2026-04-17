@@ -1,0 +1,14 @@
+{
+  "slug": "nintendo-adventure-2-leaping-lizards",
+  "title": "Nintendo Adventure Books #2: Leaping Lizards!",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/NintendoAdventureBooks02-LeapingLizards1991.pdf",
+  "format": "linear",
+  "reference_style": "none",
+  "layout": "single",
+  "pdf_start_page": 1,
+  "pdf_end_page": null,
+  "story_start_page": 1,
+  "pages_written": 63,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}

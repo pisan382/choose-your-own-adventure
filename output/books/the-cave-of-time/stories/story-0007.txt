@@ -1,0 +1,194 @@
+Path: 2 -> 3 -> 4 -> 8 -> 9 -> 17 -> 28 -> 51
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 8 ===
+Page 8
+
+As it gets lighter, you realize you can’t be on the
+right track. The canyon seems shallower than it
+was. The river bed is strewn with boulders that
+were never there before. The cold wind chills you
+to the bone; yet it’s the middle of summer. As you
+climb to higher ground to get a better view, you
+notice patches of snow. From the top of a ridge
+you survey a barren plain, frozen lakes, and, in the }
+distance, a massive range of snow-covered moun-
+tains. You begin to realize you are not merely
+lost—you are lost in time, and you have somehow
+been transported to an Ice Age that occurred many
+thousands of years ago.
+
+=== Step 5: Page 9 ===
+Page 9
+
+You walk toward one of the cliffs that borders
+the canyon, seeking shelter from the wind, and
+notice an entrance to another cave. You are
+tempted to go inside, but you feel you should keep
+moving in hopes of somehow reaching familiar
+country.
+
+If you enter the cave,
+tum to page 17.
+
+If you continue on,
+tum to page 18.
+
+=== Step 6: Page 17 ===
+Page 17
+
+As you enter the cave, you see a flickering light
+ahead and you smell smoke. You make your way
+; along a winding passageway and enter a large
+chamber. Fires rise out of earthen vessels.
+
+Several short, stocky people with straight black
+hair and primitive faces are painting pictures on the
+/ walls of the cave. They are dressed in animal skins.
+: In a comer of the cave are beds of straw.
+
+You stand, slightly afraid, as the cave people
+drop their work and run over and stare at you in
+disbelief. The largest man is carrying a long vine.
+He steps forward as though he might seize you and
+
+. tie you up.
+
+If you stay and try to make friends,
+tum to page 26.
+
+: If you try to run for it,
+tum to page 28.
+
+=== Step 7: Page 28 ===
+Page 28
+
+You can see no future for yourself with these
+primitive peopie, so you run back toward the Cave
+of Time. Fortunately, they do not follow you, and
+you are able to find your way.
+
+By the time you re-enter the cave, you are hun-
+gry and exhausted. The light is dimmer than be-
+fore and you grope your way along, looking for a
+: passageway. You stumble and fall headfirst down
+4 an embankment, bumping your head dis-
+{ agreeably. You look up and see daylight ahead. A
+minute later, you walk out of the cave into warm,
+moist air near a forest of leafy trees. A bird flies by.
+You don’t know when it is, but it looks pleasant
+enough.
+
+Tum to page 51.
+
+=== Step 8: Page 51 ===
+Page 51
+
+Suddenly you hear voices shouting. You hide in
+athicket. An animal crashes through the brush. In
+a moment some men rush by in pursuit, carrying
+spears and slings. You imagine that you must be in
+an era long before the advent of civilization. You
+follow an animal trail; it soon leads to a clearing,
+and you lie down in the grass to rest. Looking up in
+the sky, you see a long, thin, white streak. You rub
+your eyes and look again. It seems to be a vapor
+trail from a jet plane! You may be living in the
+present time after all.
+
+After several days of wandering through the
+jungle, you reach a settlement on the banks of a
+large river. There is an airfield nearby, and within a ‘
+few weeks you are able to obtain a ride back to
+
+civilization and retum to your family—just a month t
+after you first entered the Cave of Time. You are \
+happy to be back home, but shocked at how much ‘
+older everyone looks. And they express the
+
+greatest surprise that after eleven years you }
+
+haven’t changed a bit!
+The End

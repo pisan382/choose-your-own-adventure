@@ -1,0 +1,34 @@
+Page 24
+
+Input the following program and run it.
+You must find a way to interrupt the program
+or else you'll never gain control of your com-
+puter again. Hint: List the program and ex-
+amine the code to figure out what letter the
+program is checking for to break it out of the
+loop. If you , re completely stumped, check page
+J J J in the Reference Manual.
+Save the program. Once you've broken out
+of the repetitive loop, you'll be able to use it
+to get some more information about this mis-
+sion.
+PROGRAM 2
+10 PRINT "RETURN THE MAGOR STONE"
+20 FOR K=l TO 100: NEXT K
+30 CLS
+40 GOSUB 170
+50 IF V$="Q" THEN 110
+60 FOR 1=1 TO 15
+70 PRINT TAB(15-I+l) "I""
+I"
+SO NEXT I
+90 PRINT TAB(15) "BOOM!"
+100 GOTO 10
+110 PRINT "ENTER GUARDIAN LATCH"
+120 INPUT A$
+130 IF ASC(A$)<>SS THEN 10
+140 PRINT "BYMAK REMOVED THE STONE"
+150 PRINT "FROM TANZIA"
+160 END
+170 V$=INKEY$
+ISO RETURN

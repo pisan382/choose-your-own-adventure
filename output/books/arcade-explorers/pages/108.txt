@@ -1,0 +1,45 @@
+Page 108
+
+Index orListing Conventions
+For the Apple and CoCo listings, you can type in ex-
+actly what vou see. Some of the program lines are too
+long to fit on the page-they are continued on the line
+immediately below and are indented whenever possible.
+Ignore any spaces that are not in between quotes.
+For the Commodore 64, certain listing conventions are
+used. The following chart shows you what cursor and
+color keys to press:
+LISTING
+[BLK]
+[WHT]
+[RED]
+[CYAN]
+[PURP]
+[GRN]
+[BLUE]
+[yELD]
+[RVDN]
+[RVDF]
+[DRNG]
+[BRN]
+[LREO]
+[GRY 1]
+[GRY 2]
+[LGRN]
+You Type
+CTRL-l
+CTRL-2
+CTRL-3
+CTRL-4
+CTRL-S
+CTRL-6
+CTRL-7
+CTRL-8
+CTRL-9
+CTRL-O
+CMMO-l
+CMMO-2
+CMMO-3
+CMMO-4
+CMMO-S
+CMMO-6

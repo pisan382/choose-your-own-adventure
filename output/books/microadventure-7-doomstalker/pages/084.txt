@@ -1,0 +1,33 @@
+Page 84
+
+der "40," you get 40 points; "10," you get 10
+points. BUT if you stop the light under an ex-
+clamation point, you lose, and the world spins
+out of its orbit!
+PROGRAM 6
+10 DIM C(5)
+-20 CLS
+30 C(1)=20:C(3)=40:C(5)=10
+40 B$="ttttttttttttttttttttttttt"
+50 S$=" 20: 1: 40: 1: 10 :"
+60 GOSUB 500: PRINT B$
+70 LY=3: GOSUB 510: PRINT S$
+80 LY=5: GOSUB 510:PRINT B$
+90 X=1:Y=3
+100 PRINT "PRESS ANY KEY TO
+STOP STRUM"
+110 LY=4: GOSUB 510
+120 GOSUB 540
+130 IF Y > X THEN 160
+140 PRINT TAB(Y)
+"@"~ TAB (X) " "
+150 GOTO 170
+160 PRINT TAB(X) "
+"~TAB(Y) "@"~
+~170 C$=INKEY$
+/180 IF C$<>"" THEN 230
+190 X=Y
+200 Y=Y+5
+210 IF Y > 25 THEN Y=3
+220 GOTO 110
+230 Z=INT(Y/5+1)

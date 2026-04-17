@@ -1,0 +1,105 @@
+Page 43
+
+CASE OF THE MISSING HORSE
+•
+29
+NEW
+10
+PRINT
+"
+15
+PRINT
+"SEX-FEMALE11
+20
+PRINT
+"BROWN
+HORSE
+WITH"
+30
+PRINT
+"BLACK
+MANE.AGE
+10"
+40
+PRINT
+"WEIGHT-1000
+LBS
+"
+45
+PRINT
+"BLIND
+IN
+LEFT
+EYE."
+50
+GOTO
+80
+60
+PRINT
+"THINKS
+SHE
+IS
+A
+TREE"
+70
+PRINT
+"SMELLS
+LIKE
+ROTTEN
+EGGS1
+80
+PRINT
+"MISSING
+SEVERAL"
+90
+PRINT
+"FRONT
+TEETH."
+100
+PRINT
+"FRONT
+LEG
+INJURED."
+110
+PRINT
+"TAN
+SADDLE"
+120
+PRINT
+RUN
+Outside the Simmons' house you see deep prints in the ground.
+They could
+have been made by a
+horse. A
+large
+bale
+of hay
+is
+against the barn door. You know that Susan Simmons had once
+worked for Frank Bridges. She quit after they had a disagreement
+about the handling of one of Frank's horses.
+"I hope you don't mind if I ask you a few questions. I'm trying to
+find Frank Bridges's horse, Samantha. He thinks you may know
+something about the disappearance," you tell her.
+"Why me?" says Susan, surprised. "I haven't seen that miserable
+man in almost three months."
+"I understand that you didn't leave the job on good terms. Is that
+right?" you say.
+"Right," she answers. "He was constantly telling me what to do
+and what
+not
+to
+do.
+I
+told him
+to
+find another trainer to
+boss
+around."
+"I noticed that you have a bale of hay near the barn. Do you own
+a horse?" you ask.
+"No, I don't own one, but I'm training a horse for someone else,"
+says Susan. "My assistant is out riding it now."
+Ray Raines lives on a ranch that has a path leading up to the
+house. A series of three fresh, deep prints and one not-too-deep one
+are on the path. On the right side of the path the grass has been

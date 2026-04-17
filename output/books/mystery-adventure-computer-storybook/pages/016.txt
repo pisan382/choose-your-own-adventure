@@ -1,0 +1,85 @@
+Page 16
+
+•
+MYSTERY AND ADVENTURE
+Martin is hiding in one of our houses. You have to find her. We'll
+give you some clues. See how fast you can move!"
+Alice gives you a map showing where Sarelle's four friends live.
+Type in the program and see where they live.
+NEW
+5
+10
+15
+20
+25
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+100
+105
+110
+120
+130
+140
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"RIVER
+STREET1
+'HYDE
+PARK"
+"LEE
+"PLACE
+"IIIIIIIIIIIIIIIIIIII"
+MERRICK
+ROAD
+"IIIIIIIIIIIIIIIIIIII"
+"NOW
+60
+BACK
+TO
+THE
+BOOK1
+"AND
+VISIT
+A
+SUSPECT"
+And now you are off and running!
+You decide to go to A.J.'s house first.
+"I am looking for Sarelle," you say.
+"Sorry,
+I can't help you," says A.J. He seems to be in an awful
+hurry.
+But before he slams the door, you notice that there's a suitcase
+right beside him. The initials on the suitcase are "S.N."
+"H'm," you say. "Very suspicious behavior."

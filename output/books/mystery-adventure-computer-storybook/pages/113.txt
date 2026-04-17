@@ -1,0 +1,158 @@
+Page 113
+
+THE FIFTEENTH ROBBERY
+•
+99
+heard
+me.
+The man downstairs
+usually bangs a broom on the
+ceiling when he can't stand
+it any longer. But
+I just close my eyes
+and
+concentrate
+so
+deeply
+that
+I'm
+hardly
+aware
+of
+anything
+around me."
+Actor Aaron Lawrence is about to leave Apartment 57 when you
+ask him about the robbery. He invites you into his apartment. You
+notice two candles on the dining table. "I see you were prepared for
+the power failure," you say.
+Lawrence explains, "My wife and
+I
+were
+celebrating
+our
+anniversary
+that
+night
+with
+a
+candlelight
+dinner: cold chicken and potato salad! I didn't even find out about
+the electricity problem until I saw the papers the next morning. I'm
+late for a filming, must go now!"
+One of these people is not telling the truth. Type in the program
+to see who the burglar is.
+NEW
+100
+PRINT
+"SOMEONE
+SNEAKED
+OUT11
+200
+PRINT
+"TO
+ROB
+THE
+STONE11
+300
+PRINT
+"APARTMENT*11
+340
+DIM
+M$(20)
+345
+DIM
+N$<20>
+350
+PRINT
+"WHO
+IS
+THE
+THIEF?"
+500
+INPUT
+M*
+700
+LET
+N$
+=
+"JOSEPHINE
+MARCHE"
+800
+IF
+M*
+=
+N*
+THEN
+GOTO
+1600
+900
+PRINT
+"THAT
+IS
+NOT
+RIGHT."
+1000
+PRINT
+"HERE
+IS
+A
+CLUE,"
+1100
+PRINT
+"THINK
+OF
+THE
+FIDDLE"
+1200
+PRINT
+"MUSIC
+THAT
+STOPPED"
+1300
+PRINT
+"WHEN
+THE
+POWER"
+1400
+PRINT
+"FAILED."
+1500
+BOTO
+350
+1600
+PRINT
+"A
+FIDDLE
+DOES
+NOT"
+1650
+PRINT
+1700
+PRINT
+"USE
+ELECTRICITY.
+A"
+1800
+PRINT
+"MUSICIAN
+DOES
+NOT"
+1900
+PRINT
+"NEED
+TO
+SEE
+THE"
+2000
+PRINT
+"STRINGS."
+2100
+PRINT
+"IF
+MUSIC
+STOPPED"
+2200
+PRINT
+"WHEN
+THE
+POWER"

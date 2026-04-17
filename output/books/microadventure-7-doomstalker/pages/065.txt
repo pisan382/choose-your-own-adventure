@@ -1,0 +1,30 @@
+Page 65
+
+with solid rock has now become a heavy,
+translucent curtain. Dirk rushes over and tries
+to push his way through. But he simply bounces
+back onto the hard ground.
+"At least something's happened," Flint
+insists. "We've got to see this thing through -
+no matter how many ACT agents die in the
+attempt."
+The current has you too paralyzed to ar-
+gue. And then, to your amazement, you hear
+your computer start to beep. It's hard to make
+your body move, but somehow you reach in
+your pocket for your micro. The minute your
+fingers touch the familiar case, the electric
+current that's holding you captive snaps off.
+Incredulously, you look down at the port-
+able unit. The downline loading light is flash-
+ing. Just like the time the apparition sent you
+that program, something is being downloaded
+into your computer again.
+"What is it?" Frieda whispers.
+"I won't know until I run the program."
+Input the following program and try to run
+it. Lines 30, 50, and 70 must each be typed as
+one line. If you can, save the program.
+PROGRAM 5
+10 DPRINT "TO LEAVE THIS ROOM"
+20 GOTO 50

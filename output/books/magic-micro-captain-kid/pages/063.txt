@@ -1,0 +1,21 @@
+Page 63
+
+PROGRAM 1
+If you have an Atari, add these lines to
+Program 1. (Line 960 must be typed as
+one line.)
+900 PRINT CHR$(125):RETURN
+910 POSITION VT-1,HT+1:RETURN
+930 RD=INT(RND(0)*RX+1):RETURN
+960 SW=38:SH=24:AC=25:
+A S = 1 2 8 : M U = 2 5 5 : R E T U R N
+9 8 0  SOUND 0 , R D , 1 0 , 8
+9 8 5  SOUND 0 , 0 , 0 , 0 : R E T U R N
+If you have an Apple II + or Apple He,
+add these lines to Program 1. Also re­
+move line 60.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ):RETURN
+9 3 0  R D =INT(RN D( 1 ) * R X + 1 ) : RETURN
+9 6 0  SW= 3 8 : S H = 2 4 :A C = 3 0 :A S = 3 3 : RETURN
+9 8 0  PRINT C H R $( 7 ) : RETURN

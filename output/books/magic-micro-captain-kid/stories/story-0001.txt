@@ -1,0 +1,1837 @@
+Path: 4 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> 13 -> 15 -> 16 -> 17 -> 18 -> 19 -> 20 -> 21 -> 22 -> 23 -> 25 -> 26 -> 27 -> 28 -> 29 -> 30 -> 31 -> 32 -> 33 -> 34 -> 35 -> 36 -> 37 -> 38 -> 39 -> 40 -> 41 -> 42 -> 44 -> 45 -> 46 -> 47 -> 48 -> 49 -> 50 -> 51 -> 52 -> 54 -> 55 -> 56 -> 57 -> 59 -> 60 -> 62 -> 63 -> 64 -> 65 -> 66 -> 67 -> 68 -> 69 -> 70 -> 71 -> 72 -> 73 -> 74 -> 75 -> 76 -> 77 -> 78 -> 79 -> 80 -> 81 -> 82 -> 83
+
+=== Step 1: Page 4 ===
+Page 4
+
+A MAGIC MICRO ADVENTURE
+Captain Kid
+and the Pirates
+
+=== Step 2: Page 6 ===
+Page 6
+
+Captain Kid
+and the Pirates
+by
+Eileen Buckholtz
+and
+Ruth Glick
+Illustrations by Bert Dodson
+Cover by Bradley Clark
+A Parachute Press Book
+40
+Scholastic Inc.
+New York Toronto London Auckland Sydney Tokyo
+A MAGIC MICRO ADVENTURE
+
+=== Step 3: Page 7 ===
+Page 7
+
+To David, Elissa, Eathan, and Ryan
+No part of this publication may be reproduced
+in whole or in part, or stored in a retrieval
+system, or transmitted in any form or by any means,
+electronic, mechanical, photocopying, recording,
+or otherwise, without written permission of
+the publisher. For information regarding permission,
+write to Scholastic Inc., 730 Broadway,
+New York, NY 10003.
+ISBN 0-590-33476-X
+Copyright © 1985 by Parachute Press.
+All rights reserved. Published by Scholastic Inc.
+12 11 10 9 8 7 6 5 4 3 2 1
+4
+5 6 7 8 9 / 8  0/901
+Printed in the U.S.A.
+
+=== Step 4: Page 8 ===
+Page 8
+
+The programs in this book will run on
+these computers:
+‘IBM PC
+*IBM PCjr.
+‘APPLE 11 +
+‘APPLE lie
+‘COMMODORE 64
+‘VIC 20
+‘ATARI 400/800
+‘ RADIO SHACK COLOR COMPUTER
+‘ RADIO SHACK TRS-80
+
+=== Step 5: Page 9 ===
+Page 9
+
+You are the star of the story!
+You have the Magic Micro . . .
+Your computer is about to take you into
+a world of adventure and excitement. The
+power of the Magic Micro is at your fin­
+gertips. All you need is your computer, the
+programs in this book, and a sense of
+adventure!
+There are just a few rules. The pro­
+grams in the book are in BASIC. So make
+sure you know how to put your computer
+in BASIC before you begin.
+You must add a few lines to each pro­
+gram to make it run on your computer.
+When you come to a program in the story,
+type it just the way it appears. Then turn
+to the Magic Scroll section on page 59. You
+will have to add three or four more lines
+that are just for your computer. The Magic
+Scroll will tell you which lines to add —
+and sometimes there will be lines you have
+to take out.
+
+=== Step 6: Page 10 ===
+Page 10
+
+Remember, you must type the pro­
+grams exactly right. Even an extra space
+can make a difference. If you have trou­
+ble, put the program on your screen by
+using the LIST command. Check that
+version against the program in the book.
+Also, remember to type NEW before you
+start a new program. That clears out any
+leftovers from old programs. That’s all
+there is to it.
+Now your adventure can begin.
+
+=== Step 7: Page 11 ===
+Page 11
+
+Chapter 1
+You never know what strange message
+you’re going to find on the screen of your
+magic computer. Today it reads:
+Treasure maps. Pirate ships. Sail the
+Seven Seas. Are you ready?
+Excitement tingles up and down your
+spine. You answer, “Yes.”
+Carefully type the following program into
+your computer. When you have typed in these
+lines, turn to pages 59-63 and type in the lines
+listed for your computer. Then run the pro­
+gram.
+Answer The Raven when it asks, “Where are
+you going?”
+
+=== Step 8: Page 12 ===
+Page 12
+
+PROGRAM 1
+1 0  REM MAGIC TRANSPORT PROGRAM
+2 0  PRINT "WHERE ARE WE GOING?"
+3 0  INPUT P$
+4 0  GOSUB 9 6 0 :GOSUB 9 0 0
+5 0  FOR 1= 1 TO 1 5 0
+6 0  RX=MU:GOSUB 9 3 0
+7 0  GOSUB 9 8 0
+8 0  RX=SH: GOSUB 930:VT=RD
+9 0  RX=SW:GOSUB 930:H T=RD
+1 0 0  GOSUB 9 1 0
+1 1 0  RX=AC:GOSUB 9 3 0
+1 2 0  PRINT CHR$(RD+AS)
+1 3  0 NEXT I
+1 4 0  VT=1:HT=1:GOSUB 9 1 0
+1 5 0  PRINT "YOU ARE NOW ON " ; P $
+1 6 0  END
+The music stops and the screen clears.
+To your amazement, you’re standing on the
+deck of an old-time ship just like the ones
+you’ve seen in adventure movies. In front
+of you is a huge captain’s wheel. Above are
+a dozen billowing sails. The sea breeze
+ruffles your hair. You look up at the tall
+mast and see a black flag with a skull and
+crossbones flapping in the wind. A pirate
+
+=== Step 9: Page 13 ===
+Page 13
+
+flag! This must be a pirate ship, you think
+with a little shiver.
+But where’s the crew? As if to answer
+your question, a hatch opens and twenty
+rough-looking characters pour out onto the
+deck.
+“Three cheers for The Raven, the
+greatest pirate ship to sail the Seven Seas,’’
+someone shouts. Like everyone else, he’s
+wearing a white shirt open to the waist, a
+bright vest, and puffy pants. You notice
+from the tattoo over his heart that his name
+is Hal and he loves his mother.
+“Aye, aye, the rest of the crew shout
+their agreement.
+They seem to be getting ready for some
+kind of celebration. And they’re obviously
+dressed in their pirate finery One is
+wearing a diamond medallion around his
+neck. Another has a silk vest trimmed with
+gold bangles.
+A tall fellow with a red bandanna around
+his head sets a heavy wooden barrel down
+
+=== Step 10: Page 15 ===
+Page 15
+
+on the deck. Everybody dips a cup in and
+starts to drink.
+“We just dug up a treasure chest, so
+we’re having extra rations,” the guy next
+to him explains to you. “Come on and join
+the celebration. He hands you a dry bis­
+cuit that almost cracks your teeth when you
+try to take a bite.
+Hal, the one with the tattoo, intro­
+duces you around. You meet Bard, Peg
+Leg, Pete, and Darcy. They’re all pretty
+tough looking. As they give you the once­
+over, you have a few nervous moments.
+But, to your relief, they seem willing to
+accept you as one of the crew.
+While you munch on your biscuit, the
+pirate called Peg Leg starts to play the
+accordion.
+As he plays, he taps out the beat with
+his wooden leg. Others start to clap their
+hands in time with the music. Soon one
+pirate takes the center of the deck and does
+a lively jig. Then each of the others takes
+
+=== Step 11: Page 16 ===
+Page 16
+
+a turn. And when they push you to the
+center of the ring, it’s a command per­
+formance you can’t refuse. They seem to
+be impressed with your break dancing.
+And they won’t let you sit down until you
+collapse on the floor.
+Pete and Darcy haul you over to the side
+and prop you up against a coil of rope. By
+the time you catch your breath, it looks as
+if something important is about to happen.
+Peg Leg plays a fanfare and two men
+come out of the hatch, staggering under
+the weight of a huge trunk. They drag it
+to the center of the deck. It’s crusted with
+barnacles. It must have been at the bot­
+tom of the sea for years.
+“The treasure chest,” Hal tells you.
+“With my share of the loot I’m going to-
+buy my own ship.”
+“I’m getting a gold-handled dagger,”
+Darcy pipes up.
+“And I want the fanciest accordion
+money can buy,” Peg Leg adds.
+
+=== Step 12: Page 17 ===
+Page 17
+
+Just then, a hefty man steps onto the
+upper deck. He s wearing the same basic
+costume as everyone else, except his is
+much grander. From his admiral’s hat to
+his embroidered silk shirt and alligator
+boots, he looks every inch the captain of
+the ship.
+“Make a speech, Captain Robb,’’ Peg
+Leg urges. The rest of the crew clap and
+shout in agreement. As the captain strides
+forward, the crewmen step aside so he can
+get to the trunk.
+He looks at it thoughtfully for a mo­
+ment. “Mates, I don’t have to remind you
+that we’ve been searching for this trea­
+sure chest for twenty years,’’ he says.
+“Aye, aye,’’ everyone shouts loudly.
+“And now the time has come to open the
+box and share the wealth.’’
+“Aye! Aye! Open the treasure chest.’
+This is really exciting. Soon the chest
+will be open. You can just picture all the
+gold and jewels inside. Probably silver
+
+=== Step 13: Page 18 ===
+Page 18
+
+coins, too. You and the rest of the crew can
+hardly wait.
+You see that the lock is just as crusted
+as the rest of the chest. Two crew mem­
+bers wipe it off and polish it up. While they
+work, Captain Robb pulls a heavy silver
+chain out of his shirt. At the end is a shiny
+key. It looks as if the captain had polished
+it, along with his teeth, every night be­
+fore going to bed.
+When the crewmen step back, the cap­
+tain gets down on his knees, inserts the key
+in the lock, and tries to turn it. Nothing
+happens. You see his brow wrinkle as he
+fiddles with the key some more. Twenty
+men are holding their breath as they watch.
+But no matter how carefully he sticks the
+key in and turns it, the chest just won’t
+open.
+
+=== Step 14: Page 19 ===
+Page 19
+
+Chapter 2
+Captain Robb shakes his head sadly. “I’d
+bet my life that this is the right key. I won
+it in a card game — from old Black Beard
+himself. I’ve been carrying it around for
+twenty years. He took a pirate’s oath that
+it would open the chest. I just can’t un­
+derstand why it’s not working.”
+You can hear the crew growling and
+muttering all around you. They don’t seem
+too pleased with this development.
+“It’s a trick,” Darcy says. “Captain Robb
+wants to keep the treasure for himself!
+“Stand back,” Bard growls, pushing
+Captain Robb aside. “Who needs a key,
+anyway?’’ He picks up a heavy wooden
+hammer and whacks the trunk. It doesn’t
+open, but it makes a groaning noise.
+
+=== Step 15: Page 20 ===
+Page 20
+
+Bard jumps back in surprise, and so do
+the rest of the crew. That wasn’t just the
+groaning of old metal. It sounded like a
+voice.
+“Oh, no,” the captain mumbles. “I
+should have guessed it. There’s a spell on
+the trunk. I knew old Black Beard had a
+bunch of cards up his sleeve that night we
+played. But I didn’t know he had magic up
+his sleeve, too.’’
+“So what are we going to do?” Peg Leg
+asks. “Were tired of waiting!”
+Captain Robb looks very serious. “We
+have to figure out how to break the spell.
+Don’t try to force the chest open. It’s much
+too dangerous!”
+“Say, what about that magician we
+pressed into service last year? Isn’t he still
+in the brig?” Pete asks.
+“No. We made him walk the plank when
+he wouldn’t change our copper coins to
+gold.”
+That kind of talk gives you a funny feel­
+ing. When things aren’t going their way,
+these guys can get pretty rough.
+
+=== Step 16: Page 21 ===
+Page 21
+
+You can see the captain is looking nerv­
+ous, too. Maybe he’s afraid he’s going to
+have a mutiny on his hands. “We must fight
+magic with magic. Anyone who knows a
+spell to open the trunk will get first pick
+of the treasure,” he offers.
+Immediately, the crewmen get to work!
+And they have some ideas of their own.
+They try everything from accordion mu­
+sic to threats.
+You look on in amazement as one pirate
+even makes a magic charm — of mashed
+bananas and parrot feathers!?! He makes
+a big show of spreading it evenly over the
+chest and around the lock. Unfortunately,
+it doesn’t work. It just makes the chest
+sneeze!
+Everyone else takes a try at opening the
+chest and also fails. Then Captain Robb
+turns to you. “What can you do, mate?”
+he asks.
+That’s a good question, you think to
+yourself. And then you hear your Magic
+Micro beep. You know it wants your at­
+tention.
+
+=== Step 17: Page 22 ===
+Page 22
+
+“Give me a minute,” you stall. Putting
+your hand to your forehead as though
+you’re thinking deeply, you turn your back.
+You take the Magic Micro out of your
+pocket and look at the screen. It says:
+/ know the spell that’s on the trunk. It’s
+an old one. I have a copy of it in my mem­
+ory. But I’ll need your help to find it.
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 64—66 and type in the lines
+listed for your computer. When you have fin­
+ished typing, run the program.
+A change is needed to turn the spell off. Can
+you do this magic feat? Look at the program
+listing. It will give you a hint. If you need help,
+look at the Magic Scroll on page 66.
+PROGRAM 2
+1 0  S$="ON"
+2 0  GOSUB 9 0 0
+3 0 GOSUB 9 8 0
+4 0
+FOR 1 = 1  TO
+5 0 0 :  NEXT I
+5 0
+PRINT "HA! HA1 YOU CAN'T
+OPEN M E !"
+6 0
+I F  S$="ON" THEN 3 0
+7 0
+PRINT "YOU
+OPENED THE TREASURE CHEST"
+8 0  END
+
+=== Step 18: Page 23 ===
+Page 23
+
+This time, when Captain Robb inserts
+the key, it turns easily and the lock snaps
+open. Everyone cheers.
+“We’ve been waiting for twenty years
+to get into this chest,” Captain Robb ex­
+claims. “I can’t wait to get my hands on the
+gold and jewels inside. And I want to thank
+all the people who made this moment
+possible.”
+“Hip! Hip! Hooray!” the crew shouts.
+Hal steps forward and lifts the heavy lid.
+He bends over and peers into the trunk.
+First his head disappears, then his shoul­
+ders. Whatever he’s found must be way at
+the bottom of that trunk. When his head
+finally reappears, he doesn’t look as if he’s
+found the pot of gold at the end of the
+rainbow.
+“What do you see, Hal?”
+“What is it?”
+“What’s in the chest?”
+Hal shakes his head sadly. “Sorry, mates.
+There’s only this piece of paper.”
+
+=== Step 19: Page 25 ===
+Page 25
+
+Hal holds it up for everyone to see. It’s
+dirty and crumpled and torn around the
+edges.
+“Maybe it’s instructions for turning lead
+into gold,’’ Bard says hopefully.
+“Yeah, or maybe it’s a deed to a dia­
+mond mine,’’ Peg Leg mumbles.
+Everyone holds his breath as Hal care­
+fully unfolds the paper. “Odds Bodkins!”
+he mutters. “It’s another treasure map. All
+it says is that the treasure’s on Parrot
+Island. But it doesn’t say where!”
+Somebody in back of you stomps his foot
+angrily. And another pirate shouts, “This
+is all Captain Robb’s fault. Make him walk
+the plank.”
+Suddenly the crew is not very jolly
+“Yeah, make the captain pay for this,”
+Pete chimes in, drawing his sword. Its
+blade flashes in the sunlight. In the next
+moment, every pirate pulls out his
+weapon — everyone except the captain,
+that is. He’s gone!
+“We’ll get that no-good swamp rat,” Bard
+
+=== Step 20: Page 26 ===
+Page 26
+
+promises, “We’ll get him if it’s the last
+thing we do.’ Waving his sword, he runs
+madly along the deck. The rest of the crew
+scatters to look for poor old Captain Robb.
+They’re all swinging their swords and
+shouting loudly.
+This scene looks dangerous. You’d bet­
+ter get out of the way. You could get killed.
+Quickly you duck down behind a big coil
+of rope. But as you inch your way farther
+down toward the deck, you hear a voice
+c ry out, “Ouch!’’ Someone else is hiding
+here, too. It doesn’t take a genius to fig­
+ure out who it is. It’s Captain Robb.
+“You’re the only one who can get me out
+of this mess,’’ he whispers. “Use your magic
+to make me disappear.
+“I wish I could help,’’ you whisper back.
+“But I can only do certain things. I can’t
+make a person disappear.”
+Just then a message quietly flashes
+across the screen of your Magic Micro:
+Put him in a lifeboat and loiver him over
+the side.
+
+=== Step 21: Page 27 ===
+Page 27
+
+“Now, why didn’t I think of that,” the
+captain says, reading the message.
+Before you can make a move, he’s
+crawled across the deck to one of the life­
+boats. You’re surprised at how fast he can
+move. As you watch, he cuts the ropes and
+the little boat splashes into the water. At
+the sound of the splash, the men turn
+around. But they’re too late. The captain
+has already tossed his fancy hat onto the
+deck and done a perfect dive into the water.
+In a flash, he pulls himself into the boat
+and starts rowing as if his life depended
+on it.
+“Did you help him get away?” Hal asks,
+pointing a pistol at your face.
+
+=== Step 22: Page 28 ===
+Page 28
+
+Chapter 3
+“Not me.” You’re glad you can answer
+I mthfully.
+I 'll go after him,” Bard says, tugging at
+the ropes that hold the other lifeboat.
+“Why bother? Were better off without
+him,” Hal answers.
+“He was a mean old seadog anyway,”
+I He says. “He made us work too hard. And
+lie was the only one who ever got to sail the
+ship.”
+“Well, now you all can have a turn,” you
+suggest, hoping to cheer them up.
+“Yeah,” Hal agrees. But his broad smile
+quickly disappears. “You know, I don’t
+really know how to do it.”
+
+=== Step 23: Page 29 ===
+Page 29
+
+“Me, neither,” nineteen other voices
+chime in.
+“Gee,” Pete says, “we only have enough
+supplies for a few days. We were going to
+put in at port tomorrow. Captain Robb said
+it was due east. Does anyone know how to
+get us there?”
+You look around in all directions. All you
+can see is blue water and more blue water.
+You don’t have a clue about how to get out
+of here.
+You realize, suddenly, that this is no joke.
+If the crew can’t sail the ship, you ’ll all die
+out here in the ocean.
+Just then the light on your Magic Micro
+blinks. You look hopefully at the screen.
+Do you want to be a hero and save the
+day ? I f‘yes,’ follow these instructions, it
+says.
+Carefully type the following program into
+your computer. It will allow you to move the ship
+north, south, east, or west. When you have typed
+these lines, turn to pages 67-69 and type in the
+lines listed for your computer.
+
+=== Step 24: Page 30 ===
+Page 30
+
+PROGRAM 3
+1 0  GOSUB 9 6 0 : GOSUB 9 0 0
+2 0  HT=SW -1:VT=SH
+3 0 GOSUB 9 1 0
+4 0  PRINT " P I "
+5 0  HT=4:VT=4:GOSUB 9 1 0
+6 0  PRINT "START"
+/0  X l = 4 : Y l= 7
+8 0  N I= 0
+9 0  VT=1:HT=1:GOSUB 9 1 0
+1 0 0  PRINT "INPUT N , S , E , O R  W"
+1 1 0  INPUT D$
+1 2 0  I F  X1=SW AND Y1=SH THEN 1 5 0
+1 3 0  I F  X l O Y l  OR Y l > S H / 2  THEN 1 6 0
+1 4 0  PRINT "SEA MONSTER GOT Y A ": END
+1 5 0  PRINT "YOU'RE ON PARROT ISLAND":END
+1 60  VT=Y1:HT=X1:GOSUB 9 1 0
+1 7 0  PRINT "
+"
+1 8 0  I F  X l < 2
+THEN X l = 2 : GOSUB 3 0 0
+1 9 0  I F  X1>SW THEN Xl=SW:GOSUB 3 0 0
+2 0 0  I F  Y l < 2  THEN Yl=2:GOSUB 3 0 0
+2 1 0  I F  Y1>SH THEN Yl=SH:GOSUB 3 0 0
+2 2 0  I F  N I= 1  THEN 8 0
+2 3 0  I F  D $ = " E" THEN X1=X1+1
+2 4 0  I F  D$="W" THEN X 1 = X 1 -1
+2 5 0  I F  D$="N" THEN Y 1 = Y 1 -1
+2 6 0  I F  D $= "S" THEN Y1=Y1+1
+2 7 0  VT=Y1:HT=X1:GOSUB 9 1 0
+2 8 0  PRINT "__ %";
+2 9 0  GOTO 8 0
+3 0 0  PRINT "PICK ANOTHER DIRECTION"
+3 1 0  NI=1:RETURN
+
+=== Step 25: Page 31 ===
+Page 31
+
+Moments later you’re confident enough
+to clear your throat and raise your hand.
+“I’ve had some experience with sail­
+ing,” you say. “I think I can get the ship to
+Parrot Island.’
+All eyes turn toward you.
+“Oh, yeah?” Hal says. “Prove it.”
+Run the program to prove to the crew that you
+can steer the ship. You want to get to PI (Parrot
+Island).
+Decide which direction you want to sail first
+and press N if it’s north, S if it’s south, E for east
+and W for west. Each time you hit one of these
+keys the ship will move in that direction. But he
+careful! The shortest route may not be the saf­
+est. There are hidden sea monsters along
+the way.
+“Wow! That’s really something,” Hal
+exclaims.
+“We ought to make you captain of The
+Raven,” Bard suggests.
+“I don’t think . . .” you start to object,
+remembering what happened to good old
+Captain Robb.
+
+=== Step 26: Page 32 ===
+Page 32
+
+But nobody’s listening to you.
+“Make the kid captain,” Pete shouts.
+“Better yet,’’ Darcy adds, “make the kid
+Captain Kid.’
+Everybody is delighted with the idea.
+They hoist you on their shoulders, and
+inarch around the deck chanting a pirate
+victory song.
+You clutch your Magic Micro for dear
+life. Now you know you really need it —
+if you don’t want to end up like the last
+captain. But in the meantime, this is fun.
+^oii put on the admiral’s hat that Captain
+Kobb left behind and you even pick up a
+sword.
+“What do we do next, Captain Kid?’’ Hal
+asks when they finally put you down.
+You think for a few minutes. You don’t
+know much about pirate ships. It’s a cinch
+you’re going to need help. “First, I need
+a first mate,” you say, trying to sound like
+a captain.
+“Good idea,” Hal agrees. “But who are
+you going to choose?”
+
+=== Step 27: Page 33 ===
+Page 33
+
+“You, Pete, Darcy, Peg Leg, and Bard.”
+You wonder if it’s okay to have five first
+mates. But your new first mates think it’s
+a great idea. They don’t realize that if you
+walk the plank, they’ll be right behind you.
+Pete puffs up his chest and looks proud.
+“Let’s do something important,” he says.
+That sounds like a good idea, you think
+to yourself. But what? And then you re­
+member the map that was in the chest.
+“Why don’t we study the treasure map,’’
+you suggest.
+“Good idea!” Pete agrees.
+Carefully, you spread the map on the
+deck. Everybody looks over your shoulder
+as you kneel down and study it.
+“Tell us what it says,” Darcy requests.
+“Can’t you read? you ask.
+“No. None of us went to school.”
+“So what does the map say?’ Darcy
+prompts again.
+“It doesn t say much. Just that the trea­
+sure is on Parrot Island. You point to the
+right side of the map.
+
+=== Step 28: Page 34 ===
+Page 34
+
+‘What do you know about Parrot Is­
+land?” you ask Pete.
+“Not much. I don’t think anyone who’s
+ever been there has lived to tell the tale.”
+You feel the hair on the back of your neck
+stand up. You look at the map again. You
+see that it doesn’t give a clue about where
+I he treasure is hidden on the island. But
+when you tell the crew, they just shrug their
+shoulders.
+“How many places can you hide a trea­
+sure' on a little island like that?” Darcy
+asks.
+“Yeah. Once we get there, we ll find it,
+.ill right,” Peg Leg adds.
+You’re not so sure. But the crew has the
+majority vote. And as their leader, you go
+where they want to follow.
+First you’ve got to get The Raven to port
+so you can pick up those much-needed
+supplies. You navigate, and when you dock,
+I he crew all pitches in to carry on the boxes
+of biscuits, dried fruit, preserved meat,
+gunpowder, cannon balls, and other es­
+sentials.
+
+=== Step 29: Page 35 ===
+Page 35
+
+Before you have time to get your land
+legs, you’ve put out to sea again.
+Everything is going great. The sun is
+shining, the sea is calm, and the crew is
+in a good mood. This captain’s job is a
+breeze, you think, sitting back in a deck
+chair and sipping some delicious coconut
+milk right out of the shell.
+Everyone on board The Raven is in a
+great mood. Some of the crewmen play
+darts. Some sunbathe. Others fish. One
+even repairs the rail where it has
+splintered.
+You’re thinking how well-suited you are
+to command when it starts to rain, and
+rain, and rain.
+
+=== Step 30: Page 36 ===
+Page 36
+
+Chapter 4
+Everybody is cooped up below deck to
+get out of the rain. After sitting around
+cramped like sardines for hours, nobody
+is in a good mood anymore.
+Maybe, you think, you can cheer them
+up if you issue extra rations. But when you
+break into the supplies, your heart sinks.
+Half the boxes of biscuits turn out to be
+imported bubble bath instead.
+The crew is even angrier than you ex­
+pected. “We can’t eat that stuff. And we
+never take baths,’’ Bard growls. From the
+odor of the air below deck, you know he’s
+telling the truth.
+“You’re the captain. Think of some­
+thing we can do,” Pete snaps.
+
+=== Step 31: Page 37 ===
+Page 37
+
+“Yeah," the rest of your first mates
+chime in.
+While you’re trying to think of a good
+idea, somebody finds a ball of twine. Sev­
+eral of the crew start to toss it around. Be­
+fore you know it, the ball has knocked over
+the parrot’s cage and narrowly missed the
+lantern.
+“Cut it out,’’ Peg Leg yells. “You’ll set
+the ship on fire.’’
+“Okay,” Pete grumbles. He takes out his
+cutlass and flips it in the air.
+Everyone else thinks that looks like fun.
+Soon the whole area below deck is filled
+with pirates twirling swords. But that
+doesn’t keep them occupied for long.
+Before you know it, they’ve stopped
+twirling the swords and started to fight
+with them.
+You huddle in a comer, remembering the
+time they chased around the deck looking
+for the captain. The way these guys play,
+someone’s sure to get hurt. And it could
+be you.
+
+=== Step 32: Page 38 ===
+Page 38
+
+Then you remember your Magic Micro
+and activate the little machine. “Haven’t
+you got something else they can do?” you
+ask.
+Why don’t we design a computer game
+they can play? it answers.
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 70-73 and type in the lines
+listed for your computer. When you have fin­
+ished typing, run the program. It plays a trea­
+sure hunt game. Type in any letter to begin the
+game. Then keep guessing until you have found
+the treasure. Everytime you play, the treasure
+will be in a different place.
+PROGRAM 4
+1 0  GOSUB 9 0 0 : GOSUB 9 6 0
+2 0  R X = 2 5 :GOSUB 9 3 0 : P = R D + 6 4
+3 0  P $= C H R $( P)
+4 0  FOR 1= 0 TO 4
+5 0  FOR K=1 TO 5
+6 0  PRINT C H R $ ( 6 4 + I * 5 + K ) ;"
+";
+7 0  NEXT K
+8 0  PRINT: PRINT
+9 0  NEXT I
+Continued on the next page.
+
+=== Step 33: Page 39 ===
+Page 39
+
+1 0 0  PRINT "INPUT YOUR GUESS"
+1 1 0  INPUT G$
+1 2 0  Y 1 = I N T ( ( A S C ( G $ ) - 6 5 ) / 5 )
+1 3 0  X l = ( A S C ( G $ ) - 6 5 )  MOD 5
+1 4 0  V T = Y 1*2+ 1
+1 5 0  H T = ( X l * 4 ) +1
+1 6 0  FOR M=1 TO 1 0
+1 7 0  GOSUB 9 1 0
+1 8 0  PRINT " "
+1 9 0  GOSUB 9 2 0
+2 0 0  GOSUB 9 1 0
+2 1 0  PRINT G$
+2 2 0  NEXT M
+2 3 0  I F  P$=G$ THEN 2 8 0
+2 4 0  VT=10:HT=1:GOSUB 9 1 0
+2 5 0  PRINT "NO TREASURE UNDER T H E ", G$
+2 6 0  ZZ=ZZ+1
+2 7 0  GOTO 1 0 0
+2 8 0  PRINT "YOU'VE FOUND THE TREASURE"
+2 9 0  PRINT " IN "  ZZ "T R IE S"
+3 0 0  END
+“Hey, guys,” you shout above the din.
+“Come look at this. It’s a great new video
+game.”
+It takes a few minutes to get their at­
+tention.
+“What’s a video game?” Peg Leg asks.
+
+=== Step 34: Page 40 ===
+Page 40
+
+“Come on over and find out.”
+They put away their swords and come
+over. Phew! You quickly explain the rules
+and demonstrate how to play.
+“Hey, this looks like fun,” Pete ex­
+claims. “I’m first.”
+“No, me,” Darcy objects.
+“Everyone gets a turn,” you say. “As long
+as there’s no more fighting.”
+The treasure-hunt game keeps them
+busy until the weather clears.
+“Three cheers for Captain Kid!” Darcy
+yells. And the others yell, “Hooray!”
+
+=== Step 35: Page 41 ===
+Page 41
+
+Chapter 5
+Two days later, you spot land in the dis­
+tance.
+“Do you think that’s Parrot Island?’’ you
+ask Pete.
+He takes out a spyglass and squints
+through it. Then he hands it to you.
+“Take a look at that big rock,’’ he says,
+pointing toward the left side of the island.
+You do as he says. At the head of a bay,
+you see a big rock that looks just like a giant
+parrot.
+The ship sails slowly closer. You can now
+make out wide, sandy beaches, palm trees,
+and green mountains.
+“This has got to be the place,” Darcy
+says.
+
+=== Step 36: Page 42 ===
+Page 42
+
+“It looks like it,” Hal concedes. “But I
+always heard Parrot Island was guarded
+by some sort of sea monsters.”
+Now he tells you!
+“Let’s hope you’re wrong,” you mutter.
+At that moment, the water on both sides
+of The Raven begins to bubble and swell.
+What’s going on? Then you see them! Two
+of the largest, ugliest creatures you’ve ever
+seen rise out of the water. They have long
+necks and dinosaur heads. And when they
+open their mouths, you see that they both
+have huge sets of teeth.
+One of them leans down, takes a bite out
+of the ship’s railing, chomps it up, and
+swallows it. Splinters are flying every­
+where! Then you hear a tearing sound. The
+other monster is shredding the sails! If you
+don’t think of something soon, there’s not
+going to be any ship left.
+When one of the monsters grabs a life­
+boat in its claws and starts to snack on it,
+you know that you and the rest of the crew
+are done for. If only there were some way
+to make the ship invisible, you think. And
+
+=== Step 37: Page 44 ===
+Page 44
+
+then you get an idea. It may be crazy, but
+it’s your only hope.
+“Remember that bubble bath?” you
+shout.
+“Why are you bringing that up now?”
+Bard gasps. “Do you want us to die clean,
+or something?”
+“No, I think the bubbles can help us get
+away. Bring the stuff up on deck —
+hurry!”
+Moments later, the whole crew is emp­
+tying the bottles of sweet-smelling liquid
+over the side. The water is already churn­
+ing from the waves the huge monsters are
+making as they swim around the ship, and
+it doesn’t take long before The Raven is
+hidden in a mountain of bubbles. They
+foam up higher than the top of the mast.
+The sweet smell of the soap is every­
+where. And you can’t see the monster
+anymore. Even better, they can’t see you.
+“Steer toward shore,” you shout.
+“Where is it?”
+You don’t know. “All right,” you say, “just
+get us out of here.”
+
+=== Step 38: Page 45 ===
+Page 45
+
+When you break out into the sunlight,
+everybody is cleaner than they’ve been in
+months. But nobody minds. You’re safe and
+you can see Parrot Island ahead. Now it’s
+easy to set a straight course for shore.
+You anchor a hundred yards off the beach
+and lower a longboat. Everyone wants to
+be part of the landing party. But you choose
+your first mates — Pete, Hal, Darcy, Peg
+Leg, and Bard. The six of you row to shore.
+Even though the map doesn’t give any
+clues about where to find the treasure, you
+take it along anyway.
+As you get close, you see that the white,
+sandy beach is dotted with greenish-gray
+boulders. The big rocks are all about the
+same size and shape. And it looks as though
+someone has painted large colored letters
+on the side of each rock. But you’re so far
+away you can’t read the words. And you
+forget all about the rocks when the bot­
+tom of your longboat finally skids to a stop
+at the shore of the island.
+
+=== Step 39: Page 46 ===
+Page 46
+
+You and the crew step out into the shal­
+low water and pull the boat out of reach of
+the tide.
+It’s wonderful to be on dry land. You take
+off your shoes and wiggle your toes in the
+warm sand. Everywhere around you are
+coconut palms and banana trees and wild
+orchids growing on trailing vines. In the
+distance, you hear the sound of a water­
+fall. It must be coming down from a spring,
+in the mountains. Boy, will that be fun to
+splash in.
+It’s so peaceful here that even those big
+boulders on the beach are hardly moving.
+Hardly moving? Boulders aren’t sup­
+posed to move at all! What’s going on here?
+You take a closer look. Uh-oh. They aren’t
+rocks after all. They are giant snapping
+turtles! They’re still pretty far away. But
+it looks as if they’re getting into some sort
+of formation. As they lumber toward you,
+you can see now that the letters on their
+sides have combined into words. You gasp
+
+=== Step 40: Page 47 ===
+Page 47
+
+as you make out the message: NOBODY
+LEAVES PARROT ISLAND WITH THE
+TREASURE.
+The turtles are snapping their jaws open
+and closed. They move closer in and form
+a circle around you. There are dozens of
+them. They’ve cut off your escape to the
+boat.
+“Got any ideas?” Bard asks.
+“I wish I did,’’ you answer. “Those tur­
+tles are getting too close for comfort.”
+Just then your Magic Micro beeps, and
+a message appears on the screen:
+The turtles on Parrot Island are afraid
+of lightning, it says.
+“Is that thing going to save us?” Pete
+asks.
+You shrug your shoulders — maybe —
+and explain about the lightning.
+Everyone gazes up toward the clear, blue
+sky, then back at you.
+“Maybe we could do a rain dance,”
+someone suggests.
+I have a better idea, your Magic Micro
+pipes up. Try this program.
+
+=== Step 41: Page 48 ===
+Page 48
+
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 74-76 and type in the lines
+listed for your computer. (Lines 160 and 170 must
+each be typed as one line.) When you have fin­
+ished typing, run the program.
+PROGRAM 5
+1 0  REM LIGHTNING PROGRAM
+2 0  PRINT "ENTER A NUMBER FROM 1 TO 9 9 "
+3 0  INPUT W1
+4 0  FOR J = 1  TO 1 0
+5 0  1 = 1 : GOSUB 9 0 0
+6 0  WT=100-W1:GOSUB 9 2 0
+7 0  FOR M=1 TO 1 0
+8 0  1 = 1 + 1
+9 0  VT=M :HT=15-I+1:G OSU B 9 1 0
+1 0 0  PRINT " /
+/ "
+1 1 0  NEXT M
+1 2 0  PRINT "BOOM!"
+1 3 0  PRINT "HIDE TURTLES H ID E !"
+1 4 0  NEXT J
+1 5 0  I F  W1 < 5 7  THEN 4 0
+1 6 0  PRINT "TURTLES ARE IN THEIR
+SHELLS"
+1 7 0  PRINT "RUN PIRATES WHILE YOU
+CAN"
+1 8 0  END
+
+=== Step 42: Page 49 ===
+Page 49
+
+Lightning flashes on the screen.
+Show it to the turtles.
+You hold up the computer and turn in a
+circle. The advancing creatures stop in
+their tracks. But they’re still snapping.
+Maybe it has to flash faster, the Magic
+Micro says. Can you enter a number that
+will make the program run faster?
+When you do, the turtles stop snapping
+and draw into their shells. Once again they
+look like a harmless circle of alphabet
+rocks. But who knows how long they’ll be
+out of commission? You hurry across the
+beach. Soon you’re off the white sand and
+into the forest.
+
+=== Step 43: Page 50 ===
+Page 50
+
+Chapter 6
+It’s a relief to get away from those tur­
+tles, and also to get out of the hot sun. Now
+that you’re safely out of danger, you’re
+amazed at the beauty of the tropical for­
+est. Soft light slants through the thick
+leaves above your head. The moist air is
+perfumed with the scent of hundreds of
+flowers. Water cascades down a rocky cliff
+and collects below, in a shaded pool.
+But just then, you hear a chorus of noisy
+squawks, and glance up into the trees. The
+branches are full of dozens of brightly-col­
+ored parrots. You wonder if they’re
+squawking because they don’t like having
+people around.
+
+=== Step 44: Page 51 ===
+Page 51
+
+“Polly want a cracker?” Peg Leg asks.
+To your amazement, he pulls out a hand­
+kerchief full of biscuits and holds one up.
+A large red parrot swoops down, takes it
+right out of his hand, and flies back up to
+the safety of the tree.
+There, the parrot nibbles its prize and
+gives you an interested look.
+“Maybe these parrots know where to
+find the treasure,” Hal says.
+“Why don’t you ask?” somebody jokes.
+“Where’s the treasure?” Hal asks the
+parrot.
+The bird finishes the last of its snack and
+seems to consider the question seriously.
+“Look at the map. Look at the map,” it
+chants in singsong.
+Everyone turns in your direction. You
+pull the map out of your pocket and look
+at it again. It’s got the features of the is­
+land. But there are no “X’s” to mark a
+special spot.
+“There’s nothing here,” you say, hold­
+ing the map up as though you expect the
+parrot to read it.
+
+=== Step 45: Page 52 ===
+Page 52
+
+The parrot eyes the paper. “Wash the
+map. Wash the map,” he recites.
+You stare at the bird and the bird stares
+back at you.
+“Is this bird for real?” you wonder.
+“Wash the map, dummy. Wash the map,”
+the parrot insists.
+Since you don’t have any better idea, you
+walk over to the pool and cautiously dip
+the map in the water. The ink blurs slightly
+and you snatch the paper back.
+Then you gasp. Now the outline of the
+island is filled in with trails, each of which
+begins with a four-digit number. And in­
+stead of one “X” marking a particular spot,
+there are 14 “X’s.”
+Your shipmates crowd around. “If we
+have to follow all those trails and dig in all
+those spots, we could be here till Christ­
+mas,” Pete groans.
+“Which one do you think it is?” Darcy
+asks.
+You shrug.
+“The right number will make me fly,”
+your helpful bird cackles.
+
+=== Step 46: Page 54 ===
+Page 54
+
+“What’s that supposed to mean?”
+You hate to admit it, but you’re not sure.
+And your men are beginning to look an­
+noyed. You remember what happened to
+the last captain when he let them down.
+Suddenly the Magic Micro starts to
+flash.
+I think I can help, says the message on
+the screen.
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 77-79 and type in the lines
+listed for your computer. (Line 180 must be typed
+as one line.) When you have finished typing, run
+the program.
+Only one number will make the bird fly. You
+can try all 14 numbers, one at a time. Or maybe,
+if you study the program, you can figure out
+which number is the right one. If you need help,
+check the Magic Scroll on page 79.
+PROGRAM 6
+1 0  GOSUB 9 0 0
+2 0  LD$= " < "
+3 0  RD$=" > "
+4 0  LU$="="
+Continued on the next page.
+
+=== Step 47: Page 55 ===
+Page 55
+
+5 0  RU$="="
+6 0  B$="Q"
+7 0  PRINT "INPUT A NUMBER"
+8 0  INPUT G
+9 0  I F  I N T ( G / 7 ) * 7  = G THEN 2 4 0
+1 0 0  FOR 1= 1 TO 1 5
+1 1 0  VT=10:H T=10:GO SUB 9 1 0
+1 2 0  PRINT L D $;B $;R D $
+1 3 0  GOSUB 9 2 0
+1 4 0  GOSUB 9 1 0
+1 5 0  PRINT LU $;B $;R U $
+1 6 0  GOSUB 9 2 0
+1 7 0  NEXT I
+1 8 0  PRINT " I ' M  NOT MOVING FOR THAT
+NUMBER"
+1 9 0  PRINT "TRY ANOTHER NUMBER"
+2 0 0  GOSUB 9 2 0 : GOSUB 9 2 0
+2 2 0  GOTO 1 0
+2 4 0  FOR M=1 TO 1 0
+2 5 0  V T = 2 0 -M + 1 : H T = 1 0 :GOSUB 9 1 0
+2 6 0  PRINT "
+2 7 0  VT=20-M:GOSUB 9 1 0
+2 8 0  PRINT L D $;B $;R D $
+2 9 0  NEXT M
+3 0 0  P R I N T  " T H A T  MADE ME FLY I 1"
+3 1 0  END
+You follow the Magic Micro’s instruc­
+tions and watch the screen closely. You did
+it! You found the right number. The bird
+really flew. Now all you have to do is fol­
+low the map.
+
+=== Step 48: Page 56 ===
+Page 56
+
+With the map, you quickly find the right
+trail. It starts in a coconut grove and leads
+through the forest and up toward the par­
+rot rock you first saw when you ap­
+proached the island.
+You’re out of breath when you finally get
+there. But your crew is so excited that they
+start digging right away. “X” marks the
+spot — right under one of the parrot’s
+claws.
+
+=== Step 49: Page 57 ===
+Page 57
+
+Chapter 7
+You hold your breath, and wonder what
+will happen if they don’t uncover some­
+thing good. But soon you hear the clink of
+metal against metal. It sounds as if they’ve
+hit another chest. As you watch, they un­
+cover the rounded top from the dirt. This
+chest is enormous. It takes all five men to
+pull it out of the hole. They ’re huffing and
+puffing when they finish. But they all look
+very pleased with themselves.
+This time there’s only a flimsy padlock.
+Bard breaks it off with his shovel. You
+watch as Pete lifts the lid.
+
+=== Step 50: Page 59 ===
+Page 59
+
+Inside are the most beautiful jewels
+you’ve ever seen. And there’s gold and sil­
+ver and pearls as well. The chest sparkles
+so brightly in the sun that you have to shade
+your eyes.
+Needless to say, when you bring the
+treasure chest back to the ship, the whole
+crew jumps up and down with joy. First
+they divide up the treasure. Everybody
+gets his share of the gold and jewels. Then
+they throw a big party in your honor. And
+you get to make a speech.
+After all the treasure is given out, Hal
+looks into the empty treasure chest. He
+finds out it hasn’t been completely emp­
+tied, after all. “Another treasure map!’’ he
+cries, waving a yellowed map above his
+head.
+“Hooray! Hooray!’’ the men cheer.
+“Will you lead us there?” Bard asks.
+You shake your head. “No. I’ve got to be
+getting back,’’ you explain.
+They all look disappointed. “But I haw
+had a super time with you guys,” you add.
+
+=== Step 51: Page 60 ===
+Page 60
+
+“Hal was a big help on this adventure. Why
+don’t you let him have a turn at being cap­
+tain?” you suggest.
+Everyone seems agreeable.
+“Here — at least take a souvenir with
+you,’’ Bard offers, handing you a gold coin.
+You clutch it tightly in your fingers. And
+you’re still holding it a few seconds later.
+Only now you’re back in your own room.
+Your Magic Micro beeps and a new
+message appears:
+There will he other adventures soon.
+You can hardly wait.
+
+=== Step 52: Page 62 ===
+Page 62
+
+Magic Scroll
+The Magic Scroll is here to help you.
+Flip through the next few pages. Find the
+heading for the kind of computer you are
+using. The Magic Scroll will tell you what
+lines to add and what lines to take out to
+make each program run on your com­
+puter. The Magic Scroll will also tell you a
+little bit about each computer.
+PROGRAM 1
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 1.
+9 0 0  CLS:RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 3  0 RD=INT(RND*RX)+1:RETURN
+9 6 0  S H = 2 4 : SW =78:A C = 3 9 :A S = 1 7 4 :
+MU=1900'.RETURN
+9 8 0  SOUND RD+5 0 , 6 : RETURN
+
+=== Step 53: Page 63 ===
+Page 63
+
+PROGRAM 1
+If you have an Atari, add these lines to
+Program 1. (Line 960 must be typed as
+one line.)
+900 PRINT CHR$(125):RETURN
+910 POSITION VT-1,HT+1:RETURN
+930 RD=INT(RND(0)*RX+1):RETURN
+960 SW=38:SH=24:AC=25:
+A S = 1 2 8 : M U = 2 5 5 : R E T U R N
+9 8 0  SOUND 0 , R D , 1 0 , 8
+9 8 5  SOUND 0 , 0 , 0 , 0 : R E T U R N
+If you have an Apple II + or Apple He,
+add these lines to Program 1. Also re­
+move line 60.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ):RETURN
+9 3 0  R D =INT(RN D( 1 ) * R X + 1 ) : RETURN
+9 6 0  SW= 3 8 : S H = 2 4 :A C = 3 0 :A S = 3 3 : RETURN
+9 8 0  PRINT C H R $( 7 ) : RETURN
+
+=== Step 54: Page 64 ===
+Page 64
+
+PROGRAM 1
+If you have a Commodore 64, add these
+lines to Program 1. (Lines 910 and 960
+must each be typed as one line.) Also
+remove line 60.
+9 0 0  PRINT C H R $ ( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -l: P O K E  YT:
+POKE F G ,0 : S Y S  PL:RETURN
+9 3 0  RD=INT(RX*RND( 1 ) + 1 ) : RETURN
+9 6 0  SW =40: S H = 2 4 :A C = 3 0 :A S = 9 6 :
+X T = 7 8 2 : Y T = 7 8 1 : F G = 7 8 3 : P L = 6 5 5 2 0 :
+RETURN
+9 8 0  POKE 5 4 2 9 6 , 1 5
+9 8 2  POKE 5 4 2 7 3 , 34:PO K E 5 4 2 7 2 , 7 5 :
+9 8 4  POKE 5 4 2 7 3 , 0:POKE 5 4 2 7 2 , 0 :
+9 8 5  RETURN
+If you have a VIC-20, add these lines to
+Program 1. (Lines 910 and 960 must each
+be typed as one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -1 :P O K E  YT:
+POKE F G , 0 : SYS PL:RETURN
+9 3 0  RD=INT(RX*RND ( 1 ) 4 - 1 )  : RETURN
+9 6 0  SW =22: S H = 2 2 :A C = 3 0 :A S = 9 6 :
+X T = 7 8 2 :Y T = 7 8 1 : F G = 7 8 3 : P L = 6 5 5 2 0 :
+MU=120:RETURN
+9 8 0  POKE 3 6 8 7 8 , 1 5
+9 8 2  POKE 3 6 8 7 4 , RD+128:RETURN
+
+=== Step 55: Page 65 ===
+Page 65
+
+PROGRAM 1
+If you have a Radio Shack TRS-80, add
+these lines to Program 1. (Lines 910 and
+960 must each be typed as one line.)
+Also remove lines 60 and 70.
+9 0 0  CLS:RETURN
+910 HZ=INT(HT-1+(VT-1)*SW+0.5):
+PRINT @ H Z , R E T U R N
+930 RD=INT(RND(RX)):RETURN
+960 SW=64:SH=16:AC=30:AS=33:
+MU=255:RETURN
+980 RETURN
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 1.
+(Line 910 and 960 must each be typed
+as one line.)
+9 0 0  C L S -.RETURN
+9 1 0  H Z =IN T( H T - 1 + ( V T - 1 ) *S W + 0 . 5 ) :
+PRINT @ H Z , " " ; : RETURN
+9 3 0  RD=I NT ( RND ( RX) ) -.RETURN
+9 6 0  SW =32: S H = 1 6 :A C = 1 2 :A S = 1 2 8 :
+MU=255:RETURN
+9 8 0  SOUND RDf 5 : RETURN
+
+=== Step 56: Page 66 ===
+Page 66
+
+PROGRAM 1
+About the program:
+When you type in your destination and
+press ENTER, the flashing lights and
+music transport you right to the deck of The
+Raven. To do this, the program generates
+150 random sounds and 150 random char­
+acters at various places on the screen.
+
+=== Step 57: Page 67 ===
+Page 67
+
+PROGRAM 2
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 2.
+9 0 0  CLS:RETURN
+9 8 0  BEEP:RETURN
+If you have an Apple II + or Apple lie,
+add these lines to Program 2.
+9 0 0  HOME:RETURN
+9 8 0  PRINT C H R$( 7 ) : RETURN
+If you have an Atari, add these lines to
+Program 1.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 8 0  PRINT C H R $( 7 ) : RETURN
+
+=== Step 58: Page 68 ===
+Page 68
+
+PROGRAM 2
+If you have a Commodore 64, add these
+lines to Program 2.
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 8 0  POKE 5 4 2 9 6 , 1 5
+9 8 2  POKE 5 4 2 7 3 , 3 4 : POKE 5 4 2 7 2 , 7 5 :
+9 8 4  POKE 5 4 2 7 3 , 0:POKE 5 4 2 7 2 , 0 :
+9 8 5  RETURN
+If you have a VIC-20, add these lines to
+Program 2.
+9 0 0  PRINT C H R $ ( 1 4 7 ) ; : RETURN
+9 8 0  POKE 3 6 8 7 8 , 1 5
+9 8 2  POKE 3 6 8 7 6 , 1 3 5 :
+9 8 4  POKE 3 6 8 7 6 , 0:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 1.
+9 0 0  CLS:RETURN
+9 8 0  RETURN
+
+=== Step 59: Page 69 ===
+Page 69
+
+PROGRAM 2
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 2.
+(Lines 910 and 960 must each be typed
+as one line.)
+9 0 0  CLS:RETURN
+9 8 0  SOUND 1 2 8 , 5 : RETURN
+About the program:
+The treasure chest won’t open because
+there’s a spell on the lock. But the Magic
+Micro knows how the spell is set. By look­
+ing at the program, you can figure it out,
+too. In the listing, the spell is turned “ON”
+in line 10. As long as the spell is on, the
+chest keeps repeating “HA! HA! YOU
+CAN’T OPEN ME!” Everybody else on
+deck has tried to open the chest and failed.
+But you can turn it off by changing the S$
+variable to “OFF”. Just change line 10 to
+look like this:
+10 S$ = “OFF”
+
+=== Step 60: Page 70 ===
+Page 70
+
+PROGRAM 3
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 1.
+9 0 0  C L S : R E T U R N
+9 1 0  L O C A T E  V T r H T : R E T U R N
+9 6 0  S H = 2 0 : S W = 4 0 : R E T U R N
+If you have an Apple II + or Apple He,
+add these lines to Program 1.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ): RETURN
+9 6 0  SW=38 : S H = 2 4 : R E T U R N
+If you have a Commodore 64, add these
+lines to Program 1. (Lines 910 and 960
+must each be typed as one line.)
+9 0 0  PRINT C H R$( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -1 :P O K E  YT:
+POKE F G , 0 : SYS PL:RETURN
+9 6 0  S W = 4 0 : S H = 2 4 : X T = 7 8 2 : Y T = 7 8 1 :
+F G = 7 8 3 : P L = 6 5 5 2 0 : RETURN
+
+=== Step 61: Page 71 ===
+Page 71
+
+PROGRAM 3
+If you have a VIC-20, add these lines to
+Program 1. (Lines 910 and 960 must each
+be typed as one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -l: P O K E  YT:
+POKE F G f 0 : SYS PL:RETURN
+9 6 0  SW =22: S H = 2 2 : X T = 7 8 2 : Y T = 7 8 1 :
+FG=7 8 3 : PL=6 5 5 2  0 : RETURN
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 2.
+(Line 910 must be typed as one line.)
+9 0 0  C L S : R E T U R N
+9 1 0  H Z = I N T ( H T - 1 + ( V T - 1 ) * S W + 0 . 5 ) :
+P R I N T  @
+H
+Z
+, : R E T U R N
+9 6 0  S W = 3 2 : S H = 1 6 : R E T U R N
+If you have a Radio Shack TRS-80, add
+these lines to Program 1. (Lines 910 and
+960 must each be typed as one line.)
+9 0 0  C L S : R E T U R N
+9 1 0  H Z « * IN T (H T - 1 + (V T -1 ) * S W + 0 . 5 )  :
+PRINT @HZ r " " ; : RETURN
+9 6 0  S W = 6 4: S H = 16 : RETURN
+
+=== Step 62: Page 72 ===
+Page 72
+
+PROGRAM 3
+If you have an Atari, add these lines to
+Program 1.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N VT-1,H T+1:R ETU R N
+9 6 0  SW =38: SH=24 sRETURN
+About the program:
+Captain Robb never taught anyone else
+on board how to navigate. Now that he’s
+jumped ship, the crew is in real trouble.
+But you and your Magic Micro come to
+their aid with a navigation program that
+makes the ship move north, south, east,
+or west, depending on whether you press
+the N, S, E, or W keys. You’re trying to
+steer the ship to Parrot Island, which is at
+the bottom of the screen. But beware —
+there are sea monsters out there that will
+get you if you try to take the most direct
+route.
+
+=== Step 63: Page 73 ===
+Page 73
+
+PROGRAM 4
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 4. (Line 960 must
+be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 2 0  FOR WS=1 TO WT:NEXT WS:RETURN
+9 3 0  RD=INT(RND*RX)+1:RETURN
+9 6 0  S H = 2 4 : SW = 40:W T = 1 0 0 :
+GOSUB 9 7 0 : RETURN
+9 7 0  RANDOMIZE(VAL(RIGHT?(
+T I M E $ , 2 ) ) ) : RETURN
+If you have an Apple II + or Apple lie,
+add these lines to Program 4. (Line 960
+must be typed as one line.)
+9 0 0  H O M E :R E T U R N
+9 1 0  V T A B ( V T ) : H T A B ( H T ) : R E T U R N
+9 2 0  F O R  WS=1 TO W T : N E X T  W S : R E T U R N
+9 3 0  R D = I N T ( R N D ( 1 ) * R X + 1 ) : R E T U R N
+9 6 0  S W = 3 8 : S H = 2 4 : W T = 1 0 0 : G O S U B  9 7 0 :
+R E T U R N
+9 7 0  R E T U R N
+
+=== Step 64: Page 74 ===
+Page 74
+
+PROGRAM 4
+If you have a Commodore 64, add these
+lines to Program 1. (Lines 910 and 960
+must each be typed as one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T r H T -l:P O K E  YT:
+POKE F G , 0 : SYS PL:RETURN
+9 2 0  FOR WS=1 TO WT:NEXT WS:RETURN
+9 3 0  RD=INT(RX*RND( 1 ) + 1 ) : RETURN
+9 6 0  SW =40: S H = 2 4 : X T = 7 8 2 :Y T = 7 8 1 :
+F G = 7 8 3 : P L = 6 5 5 2 0 : G O S U B  9 7 0 :
+WT=100:RETURN
+9 7 0  R D = R N D ( - T I ) : RETURN
+If you have a VIC-20, add these lines to
+Program 4. (Lines 910 and 960 must each
+be typed as one line.)
+9 0 0  P R I N T  C H R $ ( 1 4 7 ) ; : R E T U R N
+9 1 0  P O K E  X T , H T - 1 : P O K E  Y T :
+POKE FG,0:SYS PL:RETURN
+920 FOR WS=1 TO WT:NEXT WS:RETURN
+930 RD=INT(RX*RND(1)+1):RETURN
+960 SW=22:SH=22:XT=782:YT=781:
+FG=783:PL=65520:WT=100:
+G OSUB 9 7 0 : R E T U R N
+9 7 0  R D = R N D ( - T I ) : R E T U R N
+
+=== Step 65: Page 75 ===
+Page 75
+
+PROGRAM 4
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 4.
+(Lines 910 and 960 must each be typed
+as one line.)
+9 0 0  CLS:RETURN
+910 HZ=INT(HT-1+(VT-1)*SW+0.5):
+PRINT @HZf"";:RETURN
+920 FOR WS=1 TO W T :NEXT WS:RETURN
+930 RD=INT(RND(RX)):RETURN
+960 SW=32:SH=16:WT=100:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 4. (Line 910 must
+be typed as one line.)
+9 0 0  C L S : R E T U R N
+9 1 0  H Z =IN T( H T - 1 + ( V T - 1 ) *S W + 0. 5 ) :
+PRINT @ H Z , " " ; : RETURN
+9 2 0  FOR WS=1 TO WT:NEXT WS: RETURN
+9 3 0  R D = IN T (R N D (R X )) : RETURN
+9 6 0  SW =64: S H = 1 6 :W T = 1 0 0 : RETURN
+
+=== Step 66: Page 76 ===
+Page 76
+
+PROGRAM 4
+If you have an Atari, add these lines to
+Program 4.
+9 0 0  PRINT C H R$( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N V T-1,H T+1:R ETU R N
+9 2 0  WS=1 TO WT:NEXT WS:RETURN
+9 3 0  RD=INT(RND( 0 ) *RX+1):RETURN
+9 6 0  SW =38:SH=24:W T=100:RETURN
+About the program:
+The rainy weather has been making the
+crew grouchy. You and the Magic Micro
+come up with a game that will keep them
+from fighting with one another. The game
+is a treasure hunt. Magic Micro has hid­
+den a treasure under one of twenty-five
+letters. You guess where it is by typing in
+a letter. Magic Micro will tell you whether
+you’ve struck gold or have to try again.
+Every time you run the game, the trea­
+sure’s in a different place. You can play by
+yourself or with the whole crew. Magic
+Micro will tell you how many guesses it
+took you to find the treasure. The player
+with the lowest number of guesses wins.
+
+=== Step 67: Page 77 ===
+Page 77
+
+PROGRAM 5
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 5.
+9 0 0  CLS: RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 2 0  FOR WS=1 TO W T : NEXT:RETURN
+If you have an Apple II + or Apple He,
+add these lines to Program 5.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ): RETURN
+9 2 0  FOR WS=1 TO WT-.NEXT WS: RETURN
+If you have a Commodore 64, add these
+lines to Program 5. (Lines 910 and 960
+must each be typed as one line.)
+10 GOSUB 960
+900 P R I N T  C H R $ (147);:R E T U R N
+910 P O K E  X T , H T - l : P O K E  Y T :
+POKE FG, 0:SYS PL:RETURN
+920 FOR WS=1 TO WT:NEXT WS:RETURN
+960 SW=40:SH=24:XT=782:YT=781:
+FG=783:PL=65520:RETURN
+
+=== Step 68: Page 78 ===
+Page 78
+
+PROGRAM 5
+If you have a VIC-20, add these lines to
+Program 5. (Lines 910 and 960 must each
+be typed as one line.)
+1 0  GOSUB 9 6 0
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -1 :P O K E  YT:
+POKE F G , 0 : SYS PL:RETURN
+9 2 0  FOR WS=1 TO WT-.NEXT WS:RETURN
+9 6 0  SW =22: S H = 2 2 : X T = 7 8 2 :Y T = 7 8 1 :
+F G = 7 8 3 : P L = 65520:R E T U R N
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 5.
+(Line 910 must be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z =IN T( H T - 1 + ( V T - 1 ) *S W + 0 . 5 ) :
+PRINT @HZ, " " ; : RETURN
+9 2 0  FOR WS=1 TO WT:NEXT WS:RETURN
+If you have an Atari, add these lines to
+Program 5.
+9 0 0  PRINT C H R$( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N VT-1,H T+1:R ETU R N
+9 2 0  WS=1 TO WT:NEXT WS:RETURN
+
+=== Step 69: Page 79 ===
+Page 79
+
+PROGRAM 5
+9 0 0  CLS:RETURN
+9 1 0  H Z = I N T ( H T - 1 + ( V T - 1 ) *S W + 0. 5 ) :
+PRINT @ H Z , " " ; : RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 5. (Line 910 must
+be typed as one line.)
+About the program:
+The turtles on Parrot Island are afraid
+of lightning. Lucky for you, Magic Micro
+has a program for generating lightning on
+the computer screen. But it has to flash fast
+to scare the turtles. The program asks you
+to enter a number — which determines
+the speed of the lightning. If it’s not high
+enough, the lightning keeps flashing
+without slowing down the turtles. Look at
+the program and see if you can tell how
+high the number has to be to stop the tur­
+tles. (Hint: See line 150.)
+
+=== Step 70: Page 80 ===
+Page 80
+
+PROGRAM 6
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 6.
+9 0 0  CLS:RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 2 0  FOR WS=1 TO 2 0 0 :N E X T  WS:RETURN
+If you have an Apple II + or Apple lie,
+add these lines to Program 6.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ):RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+If you have a Commodore 64, add these
+lines to Program 6. (Lines 910 and 960
+must each be typed as one line.)
+1 0  GOSUB 9 6 0 :GOSUB 9 0 0
+9 0 0  PRINT C H R $ ( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -1 :P O K E  YT:
+POKE F G f 0 : SYS PL:RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+9 6 0  SW =40: S H = 2 4 : X T = 7 8 2 :Y T = 7 8 1 :
+F G = 7 8 3 : P L = 6 5 5 2 0 : RETURN
+
+=== Step 71: Page 81 ===
+Page 81
+
+PROGRAM 6
+If you have a VIC-20, add these lines to
+Program 6. (Lines 910 and 960 must each
+be typed as one line.)
+1 0  GOSUB 9 6 0 :GOSUB 9 0 0
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T , H T - 1 : POKE YT:
+POKE F G , 0 : SYS PL:RETURN
+9 2 0  FOR WS=1 TO 2 0 0 -.NEXT WS: RETURN
+9 6 0  SW =22: S H = 2 2 : X T = 7 8 2 :Y T = 7 8 1 :
+F G = 7 8 3 : P L = 6 5 5 2 0 : R E T U R N
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 6.
+(Lines 910 and 960 must each be typed
+as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z =IN T( H T - 1 + ( V T - 1 ) *S W + 0. 5 ) :
+PRINT @HZ, " " ; : RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 6. (Line 910 must
+be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z = I N T ( H T - 1 + ( V T - 1 ) *S W + 0 . 5 ) :
+PRINT @HZ, " " ; : RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+
+=== Step 72: Page 82 ===
+Page 82
+
+PROGRAM 6
+If you have an Atari, add these lines to
+Program 6.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N V T -1,H T+1:R ETU R N
+9 2 0  WS=1 TO 2 0 0 : NEXT WS:RETURN
+About the program:
+The parrot told you to wash the map.
+Now “X” marks the spot — and the spot
+. . . and the spot. . . . But which one is the
+treasure really hidden under? The friendly
+parrot tells you it’s the one that will make
+him fly. Try feeding him the numbers be­
+side each “X on the map. Only one will
+make him leave his perch. You can simply
+keep trying numbers until you find the
+right one. Or, if you look at line 90 of the
+program, you’ll see that it’s the one that’s
+divisible by 7.
+
+=== Step 73: Page 83 ===
+Page 83
+
+Ready for magic and
+adventure?
+In this story, YOU are the leader of
+the pirate crew. You sail to the
+mysterious Parrot Island to find
+buried treasure. But there are dangers
+all along the way — a bunch of angry
+pirates, giant snapping turtles, even
+sea monsters. Can you handle them?
+Sure, you can . . . with a little help
+from your Magic Micro.
+The six Magic Micro activities add to the fun. You
+can run these BASIC Programs in the book on the
+following computers:
+•  IBM PC
+•  IBM PCjr.
+•  APPLE 11 +
+•  APPLE He
+•  COMMODORE 64
+•  VIC-20
+•  ATARI 400/800
+•  RADIO SHACK
+COLOR COMPUTER
+•  RADIO SHACK TRS-80
+78073 00195
+3 3 4 7 6
+I S B N  □- S ci D - 3 3 4 7 b - X

@@ -1,0 +1,161 @@
+Page 25
+
+Name
+Robert Crespo
+Pat Crespo
+Frank Crop
+Sam Crespo
+Age
+51
+50
+49
+49
+EyeC<
+Brown
+Blue
+Blue
+Brown
+THE GREA T CRESPO
+•
+11
+down the list to four people who could possibly be Crespo's son.
+Now the lawyer suggested that The Great Crespo interview the men
+individually. This is the list of names The Great Crespo was given,
+along with the lawyer's notes:
+Eye Color
+Occupation
+Accountant
+Painter
+House Builder
+Body Builder
+With only one glance at the list, Crespo knew that only one man
+on the list could be the missing son. Who do you think it is? Type in
+the program to see if you are right.
+NEW
+5
+DIM
+H*(20)
+10
+DIM
+I*(20)
+15
+PRINT
+"WHAT
+DID
+CRESPO
+WANT
+TO
+SEE"
+20
+INPUT
+H*
+40
+LET
+J*
+=
+"MAMA
+CRESPO"
+50
+LET
+I*
+=
+"FRANK"
+70
+IF
+H$
+=
+1$
+THEN
+GOTO
+100
+80
+PRINT
+"YOU
+GUESSED
+WRONG"
+90
+PRINT
+"TRY
+AGAIN
+"
+95
+GOTO
+15
+100
+PRINT
+"THAT
+IS
+CORRECT"
+105
+PRINT
+"YOU
+SEE,
+THE
+GREAT"
+110
+PRINT
+"CRESPO
+IS
+A
+WOMAN."
+120
+PRINT
+"SHE
+WAS
+ALSO
+A
+"
+130
+PRINT
+"BODYBUILDER.THE
+MAN"
+140
+PRINT
+"SHE
+MARRIED
+HAD
+A
+"
+150
+PRINT
+"DIFFERENT
+FAMILY
+NAME,"
+160
+PRINT
+"WHEN
+SHE
+WAS
+MARRIED,"
+170
+PRINT
+"HER
+REAL
+LAST
+NAME"
+180
+PRINT
+"WAS
+CHANGED
+TO
+HER"
+190
+GOTO
+210
+200
+PRINT
+"PET
+DOG'S"
+210
+PRINT
+"HUSBAND'S
+LAST
+NAME."
+220
+PRINT
+"HER
+SON
+WOULD
+HAVE"
+230
+GOTO

@@ -1,0 +1,21 @@
+Page 80
+
+PROGRAM 5
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 5. (Line 970 must
+be typed as one line.)
+9 3 0  RD=INT(RND*RX)+1rRETURN
+9 6 0  S H = 2 4 : S W = 4 0 : GOSUB 970:RETURN
+9 7 0  RANDOMIZE(VAL(RIGHT$(
+T I M E $ , 2 ) ) ) rRETURN
+If you have a VIC-20, add these lines to
+Program 5.
+9 3 0  R D = IN T (R X *R N D (1 )+ 1 )rR E T U R N
+9 6 0  SW=40 rSH=24 rGOSUB 9 7 0  r RETURN
+9 7 0  R D = R N D (-T I) rRETURN
+If you have a Commodore 64, add these
+lines to Program 5.
+9 3 0  R D = IN T (R X *R N D (1 )+ 1 )rR E T U R N
+9 6 0  SW =20rSH =22 rGOSUB 9 7 0  rRETURN
+9 7 0  RD= R N D (-T I) rRETURN

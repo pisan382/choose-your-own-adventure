@@ -1,0 +1,30 @@
+Page 98
+
+did before. Now you see not only the blinking
+control lights you used to stop the strum, but
+also a key pad and miniature screen. It looks
+amazingly like a modern computer. But then,
+why not? The guardians have apparently been
+seeding today's technology all along.
+After glancing quickly over your shoulder
+to make sure Flint and his men are still occu-
+pied, you call for a listing of the control pro-
+gram and study it.
+Input the following program and run it.
+See if you can find the variable that controls
+the speed of the inner circle of the strum room
+floor. You must change it to a value that will
+be fast enough to throw the BRUTEs out with-
+out sending the strum into a destruction se-
+quence. Lines 160, 170, and 190 must each be
+typed as one line on your computer.
+PROGRAM 7
+10 CLS
+20 B$="»»»»»»»>"
+30 D$="«««««««<"
+40 GOSUB 600: PRINT B$
+50 Y=3: GOSUB 610: PRINT D$
+60 PRINT "ENTER SPEED SETTING"
+70 INPUT SP
+80 IF SP > 92*5*2 THEN 190
+90 IF (SP> 400)*(J>500) THEN 160

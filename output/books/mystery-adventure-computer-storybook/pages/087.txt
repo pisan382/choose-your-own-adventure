@@ -1,0 +1,128 @@
+Page 87
+
+A SPECTACULAR VIEW
+•
+73
+310
+PRINT
+"ONE
+OF
+THESE
+SIGNS"
+320
+PRINT
+"REMINDS
+YOU
+OF
+LAST
+NIGHT."
+330
+DIM
+A*<20)
+335
+DIM
+B*(20)
+340
+PRINT
+"WHAT
+SIGN
+GIVES
+YOU
+THE
+CLUE
+?"
+350
+INPUT
+A*
+360
+LET
+B*
+=
+"NO
+SMOKING"
+380
+IF
+A*
+=
+B*
+THEN
+GOTO
+500
+390
+PRINT
+"NO,
+THINK
+AGAIN2
+400
+GOTO
+340
+500
+PRINT
+"YES,
+THAT
+IS
+CORRECT.
+"
+510
+PRINT
+"THE
+MAN
+WAS
+PUFFING
+A
+LONG
+THIN
+CIGARETTE."
+520
+PRINT
+"YOU
+WILL
+MENTION"
+530
+PRINT
+"THAT
+TO
+THE
+CAR"
+540
+PRINT
+"COMPANY
+INVESTIGATOR."
+570
+PRINT
+"lslamiJISMSMI13
+RUN
+You look
+for the company
+investigator to
+tell him about the
+cigarette.
+Instead you find
+the accident
+victim's
+lawyer.
+He has
+heard about your story, and he is angry.
+"No judge will believe you," sneers the lawyer. "You made up the
+story so everyone would forget that you were breaking the law by
+being in the park after dark."
+Now you tell the lawyer about the man's smoking. "How would I
+know he was a smoker if I didn't really see him?" you say.
+"Lots of people smoke," says the lawyer. "You could have seen
+the man
+in town and
+noticed
+that
+he was a smoker.
+That's no
+evidence at all."
+The lawyer walks away.
+You wander toward the pond again. Type in the program. See if
+you can find
+that
+vital
+piece
+of evidence
+that
+will make people
+believe your story.

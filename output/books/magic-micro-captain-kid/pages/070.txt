@@ -1,0 +1,22 @@
+Page 70
+
+PROGRAM 3
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 1.
+9 0 0  C L S : R E T U R N
+9 1 0  L O C A T E  V T r H T : R E T U R N
+9 6 0  S H = 2 0 : S W = 4 0 : R E T U R N
+If you have an Apple II + or Apple He,
+add these lines to Program 1.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ): RETURN
+9 6 0  SW=38 : S H = 2 4 : R E T U R N
+If you have a Commodore 64, add these
+lines to Program 1. (Lines 910 and 960
+must each be typed as one line.)
+9 0 0  PRINT C H R$( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -1 :P O K E  YT:
+POKE F G , 0 : SYS PL:RETURN
+9 6 0  S W = 4 0 : S H = 2 4 : X T = 7 8 2 : Y T = 7 8 1 :
+F G = 7 8 3 : P L = 6 5 5 2 0 : RETURN

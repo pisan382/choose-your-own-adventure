@@ -1,0 +1,28 @@
+Page 81
+
+PROGRAM 6
+If you have a VIC-20, add these lines to
+Program 6. (Lines 910 and 960 must each
+be typed as one line.)
+1 0  GOSUB 9 6 0 :GOSUB 9 0 0
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T , H T - 1 : POKE YT:
+POKE F G , 0 : SYS PL:RETURN
+9 2 0  FOR WS=1 TO 2 0 0 -.NEXT WS: RETURN
+9 6 0  SW =22: S H = 2 2 : X T = 7 8 2 :Y T = 7 8 1 :
+F G = 7 8 3 : P L = 6 5 5 2 0 : R E T U R N
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 6.
+(Lines 910 and 960 must each be typed
+as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z =IN T( H T - 1 + ( V T - 1 ) *S W + 0. 5 ) :
+PRINT @HZ, " " ; : RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 6. (Line 910 must
+be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z = I N T ( H T - 1 + ( V T - 1 ) *S W + 0 . 5 ) :
+PRINT @HZ, " " ; : RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN

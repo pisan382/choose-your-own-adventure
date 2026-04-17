@@ -1,0 +1,26 @@
+Page 71
+
+PROGRAM 2
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 2. (Line 970 must
+be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 3 0  R D = I N T (R X * R N D + 1 ): RETURN
+9 6 0  S W = 4 0 : S H = 2 4 : RETURN
+9 7 0  RANDOMIZE(VAL(RIGHT$(
+T I M E $ , 2 ) ) ) : RETURN
+If you have an Apple II + or Apple He,
+add these lines to Program 2.
+9 0 0  HOME:RETURN
+9 1 0  V T A B ( V T ) : H T A B ( H T ) : RETURN
+9 2 0  FOR WS=1 TO WT:RETURN
+9 3 0  R D = IN T (R N D ( 1 ) * R X + 1 ) : RETURN
+9 6 0  SW= 3 8 : S H = 2 4 : A C = 3 0 :A S = 3 3 : RETURN
+If you have an Atari, add these lines to
+Program 2.
+900 PRINT C H R $ (125):RETURN
+910 POSITION VT-1,HT+1:RETURN
+930 RD=INT(RND(0)*RX+1):RETURN
+960 SW=38:SH=24:RETURN

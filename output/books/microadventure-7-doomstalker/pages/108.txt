@@ -1,0 +1,32 @@
+Page 108
+
+the text will generally run on the majority of
+the computers listed above. However, a few of
+the commands used are not available on some
+home systems. If the program as given does not
+run on one of the micros listed above, modi-
+fication instructions will be included in this
+Reference Manual.
+Even if you're using a computer other than
+the ones mentioned, the program may still
+work -
+since it's always written in the most
+generalized BASIC.
+If you need help with one of the com-
+puter activities in the Micro Adventure, or want
+to understand how a program works, you'll find
+what you need in this manual.
+Naturally, programs must be typed into
+your computer exactly as given. If the pro-
+gram should run on your computer, but you're
+having problems, do a list on the program and
+check your typing before you try anything else.
+Even a misplaced comma or parenthesis might
+cause a syntax error that will prevent the whole
+program from working.
+TERMS YOU NEED TO KNOW
+Computer experts have a special' 'lan-
+guage" they use when talking about pro-
+grams. Here are some common terms that will
+help you understand the explanations in this
+manual.

@@ -1,0 +1,28 @@
+Page 70
+
+PROGRAM 1
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N  V T - 1 rHT+l:RETURN
+9 3 0  R D = I N T ( R N D ( 0 ) * R X + 1 ) : RETURN
+9 6 0  S W = 3 8 : S H = 2 4 : A C = 2 5 :
+A S = 1 2 8 : MU=2 5 5 : RETURN
+9 8 0  SOUND 0 , R D , 1 0 , 8
+9 8 5  SOUND 0 , 0 , 0 , 0 : RETURN
+If you have an Apple II + or Apple lie,
+add these lines to Program 1. Also re­
+move line 60.
+If you have an Atari, add these lines to
+Program 1. (Line 960 must be typed as
+one line.)
+900 HOME:RETURN
+910 VTAB(VT):HTAB(HT):RETURN
+930 RD=INT(RND(1)*RX+1):RETURN
+960 SW=38:SH=24:AC=30:AS=33:RETURN
+980 PRINT CHR$(7):RETURN
+About the program:
+When you type in your destination and
+press ENTER, the flashing lights and
+music transport you right to Castle
+Mountain. To do this, the program gen­
+erates 150 random sounds and 150 ran­
+dom characters on the screen.

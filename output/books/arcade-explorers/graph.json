@@ -1,0 +1,2966 @@
+{
+  "start_page": 3,
+  "reference_style": "page",
+  "nodes": [
+    {
+      "id": 3,
+      "label": "3",
+      "is_terminal": false,
+      "chars": 1428,
+      "choices": [
+        {
+          "target": 4,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "4",
+      "is_terminal": false,
+      "chars": 1403,
+      "choices": [
+        {
+          "target": 5,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "5",
+      "is_terminal": false,
+      "chars": 1440,
+      "choices": [
+        {
+          "target": 6,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "6",
+      "is_terminal": false,
+      "chars": 1521,
+      "choices": [
+        {
+          "target": 7,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "7",
+      "is_terminal": false,
+      "chars": 1494,
+      "choices": [
+        {
+          "target": 9,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "9",
+      "is_terminal": false,
+      "chars": 1810,
+      "choices": [
+        {
+          "target": 10,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "label": "10",
+      "is_terminal": false,
+      "chars": 1090,
+      "choices": [
+        {
+          "target": 137,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 137"
+        },
+        {
+          "target": 119,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 119"
+        },
+        {
+          "target": 153,
+          "prompt": "CoCo users",
+          "raw": "CoCo users turn to page 153"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "11",
+      "is_terminal": false,
+      "chars": 1256,
+      "choices": [
+        {
+          "target": 12,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "12",
+      "is_terminal": false,
+      "chars": 1577,
+      "choices": [
+        {
+          "target": 14,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "label": "14",
+      "is_terminal": false,
+      "chars": 1806,
+      "choices": [
+        {
+          "target": 15,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "label": "15",
+      "is_terminal": false,
+      "chars": 1687,
+      "choices": [
+        {
+          "target": 16,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "label": "16",
+      "is_terminal": false,
+      "chars": 1804,
+      "choices": [
+        {
+          "target": 17,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "label": "17",
+      "is_terminal": false,
+      "chars": 667,
+      "choices": [
+        {
+          "target": 18,
+          "prompt": "If you choose the Terminal Ridge",
+          "raw": "If you choose the Terminal Ridge, turn to page 18"
+        },
+        {
+          "target": 24,
+          "prompt": "If you choose the Data Swamp",
+          "raw": "If you choose the Data Swamp, turn to page 24"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "label": "18",
+      "is_terminal": false,
+      "chars": 1279,
+      "choices": [
+        {
+          "target": 19,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "label": "19",
+      "is_terminal": false,
+      "chars": 1708,
+      "choices": [
+        {
+          "target": 20,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "label": "20",
+      "is_terminal": false,
+      "chars": 1746,
+      "choices": [
+        {
+          "target": 21,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "label": "21",
+      "is_terminal": false,
+      "chars": 1700,
+      "choices": [
+        {
+          "target": 22,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "label": "22",
+      "is_terminal": false,
+      "chars": 1655,
+      "choices": [
+        {
+          "target": 23,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "label": "23",
+      "is_terminal": false,
+      "chars": 434,
+      "choices": [
+        {
+          "target": 139,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 139"
+        },
+        {
+          "target": 121,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 121"
+        },
+        {
+          "target": 155,
+          "prompt": "[0[0 users",
+          "raw": "[0[0 users turn to page 155"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "label": "24",
+      "is_terminal": false,
+      "chars": 1277,
+      "choices": [
+        {
+          "target": 25,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "label": "25",
+      "is_terminal": false,
+      "chars": 1509,
+      "choices": [
+        {
+          "target": 26,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "label": "26",
+      "is_terminal": false,
+      "chars": 1540,
+      "choices": [
+        {
+          "target": 27,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "label": "27",
+      "is_terminal": false,
+      "chars": 1716,
+      "choices": [
+        {
+          "target": 28,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "label": "28",
+      "is_terminal": false,
+      "chars": 1557,
+      "choices": [
+        {
+          "target": 139,
+          "prompt": "Rpple users",
+          "raw": "Rpple users turn to page 139"
+        },
+        {
+          "target": 121,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 12l"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "label": "29",
+      "is_terminal": false,
+      "chars": 259,
+      "choices": [
+        {
+          "target": 30,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "label": "30",
+      "is_terminal": false,
+      "chars": 1328,
+      "choices": [
+        {
+          "target": 31,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "label": "31",
+      "is_terminal": false,
+      "chars": 1823,
+      "choices": [
+        {
+          "target": 33,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "label": "33",
+      "is_terminal": false,
+      "chars": 844,
+      "choices": [
+        {
+          "target": 34,
+          "prompt": "",
+          "raw": "turn to page 34"
+        },
+        {
+          "target": 38,
+          "prompt": "Cable",
+          "raw": "Cable, turn to page 38"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "label": "34",
+      "is_terminal": false,
+      "chars": 1328,
+      "choices": [
+        {
+          "target": 35,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "label": "35",
+      "is_terminal": false,
+      "chars": 1652,
+      "choices": [
+        {
+          "target": 36,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "label": "36",
+      "is_terminal": false,
+      "chars": 1704,
+      "choices": [
+        {
+          "target": 37,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "label": "37",
+      "is_terminal": false,
+      "chars": 839,
+      "choices": [
+        {
+          "target": 141,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 141"
+        },
+        {
+          "target": 123,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 123"
+        },
+        {
+          "target": 157,
+          "prompt": "CoCo users",
+          "raw": "CoCo users turn to page 157"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "label": "38",
+      "is_terminal": false,
+      "chars": 1260,
+      "choices": [
+        {
+          "target": 39,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "label": "39",
+      "is_terminal": false,
+      "chars": 1657,
+      "choices": [
+        {
+          "target": 40,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "label": "40",
+      "is_terminal": false,
+      "chars": 1481,
+      "choices": [
+        {
+          "target": 141,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 141"
+        },
+        {
+          "target": 123,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 123"
+        },
+        {
+          "target": 157,
+          "prompt": "[0[0 users",
+          "raw": "[0[0 users turn to page 157"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "label": "41",
+      "is_terminal": false,
+      "chars": 200,
+      "choices": [
+        {
+          "target": 42,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "label": "42",
+      "is_terminal": false,
+      "chars": 1290,
+      "choices": [
+        {
+          "target": 43,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "label": "43",
+      "is_terminal": false,
+      "chars": 1659,
+      "choices": [
+        {
+          "target": 45,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "label": "45",
+      "is_terminal": false,
+      "chars": 1404,
+      "choices": [
+        {
+          "target": 5,
+          "prompt": "If you choose to",
+          "raw": "If you choose to go aver the mountain, tum to page 5"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "label": "46",
+      "is_terminal": false,
+      "chars": 1242,
+      "choices": [
+        {
+          "target": 47,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "label": "47",
+      "is_terminal": false,
+      "chars": 1636,
+      "choices": [
+        {
+          "target": 48,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "label": "48",
+      "is_terminal": false,
+      "chars": 1602,
+      "choices": [
+        {
+          "target": 49,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "label": "49",
+      "is_terminal": false,
+      "chars": 1689,
+      "choices": [
+        {
+          "target": 50,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "label": "50",
+      "is_terminal": false,
+      "chars": 442,
+      "choices": [
+        {
+          "target": 143,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 143"
+        },
+        {
+          "target": 125,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 125"
+        },
+        {
+          "target": 159,
+          "prompt": "CoCo users",
+          "raw": "CoCo users turn to page 159"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "label": "51",
+      "is_terminal": false,
+      "chars": 1264,
+      "choices": [
+        {
+          "target": 52,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "label": "52",
+      "is_terminal": false,
+      "chars": 1794,
+      "choices": [
+        {
+          "target": 53,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "label": "53",
+      "is_terminal": false,
+      "chars": 1716,
+      "choices": [
+        {
+          "target": 54,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "label": "54",
+      "is_terminal": false,
+      "chars": 1770,
+      "choices": [
+        {
+          "target": 55,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "label": "55",
+      "is_terminal": false,
+      "chars": 1205,
+      "choices": [
+        {
+          "target": 111,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page lL1"
+        },
+        {
+          "target": 125,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 125"
+        },
+        {
+          "target": 159,
+          "prompt": "CoCo users",
+          "raw": "CoCo users turn to page 159"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "label": "56",
+      "is_terminal": false,
+      "chars": 1268,
+      "choices": [
+        {
+          "target": 57,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "label": "57",
+      "is_terminal": false,
+      "chars": 1627,
+      "choices": [
+        {
+          "target": 59,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "label": "59",
+      "is_terminal": false,
+      "chars": 1735,
+      "choices": [
+        {
+          "target": 51,
+          "prompt": "If you choose to",
+          "raw": "If you choose to go to the Plane of Sand. turn to page 51"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "label": "60",
+      "is_terminal": false,
+      "chars": 158,
+      "choices": [
+        {
+          "target": 65,
+          "prompt": "If you choose to",
+          "raw": "If you choose to go to the Plane of Snow, turn to page 65"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "label": "61",
+      "is_terminal": false,
+      "chars": 1277,
+      "choices": [
+        {
+          "target": 62,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "label": "62",
+      "is_terminal": false,
+      "chars": 1743,
+      "choices": [
+        {
+          "target": 63,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "label": "63",
+      "is_terminal": false,
+      "chars": 1823,
+      "choices": [
+        {
+          "target": 64,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "label": "64",
+      "is_terminal": false,
+      "chars": 1386,
+      "choices": [
+        {
+          "target": 145,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 145"
+        },
+        {
+          "target": 127,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 127"
+        },
+        {
+          "target": 161,
+          "prompt": "ers",
+          "raw": "ers turn to page 161"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "label": "65",
+      "is_terminal": false,
+      "chars": 1309,
+      "choices": [
+        {
+          "target": 66,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "label": "66",
+      "is_terminal": false,
+      "chars": 1733,
+      "choices": [
+        {
+          "target": 67,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "label": "67",
+      "is_terminal": false,
+      "chars": 1714,
+      "choices": [
+        {
+          "target": 68,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "label": "68",
+      "is_terminal": false,
+      "chars": 887,
+      "choices": [
+        {
+          "target": 145,
+          "prompt": "Rpple users",
+          "raw": "Rpple users turn to page 145"
+        },
+        {
+          "target": 127,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 127"
+        },
+        {
+          "target": 161,
+          "prompt": "CoCo users",
+          "raw": "CoCo users turn to page 161"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "label": "69",
+      "is_terminal": false,
+      "chars": 1279,
+      "choices": [
+        {
+          "target": 70,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "label": "70",
+      "is_terminal": false,
+      "chars": 1687,
+      "choices": [
+        {
+          "target": 72,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "label": "72",
+      "is_terminal": false,
+      "chars": 1707,
+      "choices": [
+        {
+          "target": 73,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "label": "73",
+      "is_terminal": false,
+      "chars": 1392,
+      "choices": [
+        {
+          "target": 74,
+          "prompt": "If you tell him to",
+          "raw": "If you tell him to go to row 2 and column 4, turn to page 74"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "label": "74",
+      "is_terminal": false,
+      "chars": 1254,
+      "choices": [
+        {
+          "target": 75,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "label": "75",
+      "is_terminal": false,
+      "chars": 1729,
+      "choices": [
+        {
+          "target": 76,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "label": "76",
+      "is_terminal": false,
+      "chars": 1458,
+      "choices": [
+        {
+          "target": 77,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "label": "77",
+      "is_terminal": false,
+      "chars": 1726,
+      "choices": [
+        {
+          "target": 78,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "label": "78",
+      "is_terminal": false,
+      "chars": 1851,
+      "choices": [
+        {
+          "target": 79,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "label": "79",
+      "is_terminal": false,
+      "chars": 524,
+      "choices": [
+        {
+          "target": 111,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 1Ll"
+        },
+        {
+          "target": 129,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 129"
+        },
+        {
+          "target": 163,
+          "prompt": "CoCo users",
+          "raw": "CoCo users turn to page 163"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "label": "80",
+      "is_terminal": false,
+      "chars": 1268,
+      "choices": [
+        {
+          "target": 81,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "label": "81",
+      "is_terminal": false,
+      "chars": 1780,
+      "choices": [
+        {
+          "target": 82,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "label": "82",
+      "is_terminal": false,
+      "chars": 1701,
+      "choices": [
+        {
+          "target": 83,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "label": "83",
+      "is_terminal": false,
+      "chars": 1789,
+      "choices": [
+        {
+          "target": 84,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "label": "84",
+      "is_terminal": false,
+      "chars": 1726,
+      "choices": [
+        {
+          "target": 85,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "label": "85",
+      "is_terminal": false,
+      "chars": 1311,
+      "choices": [
+        {
+          "target": 147,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 147"
+        },
+        {
+          "target": 129,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 129"
+        },
+        {
+          "target": 163,
+          "prompt": "[0[0 users",
+          "raw": "[0[0 users turn to page 163"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "label": "86",
+      "is_terminal": false,
+      "chars": 1229,
+      "choices": [
+        {
+          "target": 87,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "label": "87",
+      "is_terminal": false,
+      "chars": 1748,
+      "choices": [
+        {
+          "target": 88,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "label": "88",
+      "is_terminal": false,
+      "chars": 1704,
+      "choices": [
+        {
+          "target": 90,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "label": "90",
+      "is_terminal": false,
+      "chars": 1193,
+      "choices": [
+        {
+          "target": 149,
+          "prompt": "Apple users",
+          "raw": "Apple users turn to page 149"
+        },
+        {
+          "target": 131,
+          "prompt": "Commodore users",
+          "raw": "Commodore users turn to page 131"
+        },
+        {
+          "target": 164,
+          "prompt": "[0[0 users",
+          "raw": "[0[0 users turn to page 164"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "label": "91",
+      "is_terminal": false,
+      "chars": 1220,
+      "choices": [
+        {
+          "target": 92,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "label": "92",
+      "is_terminal": false,
+      "chars": 271,
+      "choices": [
+        {
+          "target": 101,
+          "prompt": "and recovering the power supply",
+          "raw": "and recovering the power supply, turn to page 101"
+        },
+        {
+          "target": 9,
+          "prompt": "",
+          "raw": "Turn to page 9"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "label": "93",
+      "is_terminal": false,
+      "chars": 898,
+      "choices": [
+        {
+          "target": 94,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "label": "94",
+      "is_terminal": false,
+      "chars": 923,
+      "choices": [
+        {
+          "target": 95,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "label": "95",
+      "is_terminal": false,
+      "chars": 974,
+      "choices": [
+        {
+          "target": 96,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "label": "96",
+      "is_terminal": false,
+      "chars": 1001,
+      "choices": [
+        {
+          "target": 97,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "label": "97",
+      "is_terminal": false,
+      "chars": 977,
+      "choices": [
+        {
+          "target": 98,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "label": "98",
+      "is_terminal": false,
+      "chars": 1074,
+      "choices": [
+        {
+          "target": 99,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "label": "99",
+      "is_terminal": false,
+      "chars": 995,
+      "choices": [
+        {
+          "target": 100,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "label": "100",
+      "is_terminal": false,
+      "chars": 1006,
+      "choices": [
+        {
+          "target": 101,
+          "prompt": "",
+          "raw": "Turn to page 101"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "label": "101",
+      "is_terminal": false,
+      "chars": 1099,
+      "choices": [
+        {
+          "target": 102,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "label": "102",
+      "is_terminal": false,
+      "chars": 436,
+      "choices": [
+        {
+          "target": 105,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "label": "105",
+      "is_terminal": false,
+      "chars": 995,
+      "choices": [
+        {
+          "target": 106,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "label": "106",
+      "is_terminal": false,
+      "chars": 1777,
+      "choices": [
+        {
+          "target": 107,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "label": "107",
+      "is_terminal": false,
+      "chars": 1796,
+      "choices": [
+        {
+          "target": 108,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "label": "108",
+      "is_terminal": false,
+      "chars": 669,
+      "choices": [
+        {
+          "target": 109,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "label": "109",
+      "is_terminal": false,
+      "chars": 220,
+      "choices": [
+        {
+          "target": 110,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "label": "110",
+      "is_terminal": false,
+      "chars": 502,
+      "choices": [
+        {
+          "target": 111,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "label": "111",
+      "is_terminal": false,
+      "chars": 367,
+      "choices": [
+        {
+          "target": 112,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "label": "112",
+      "is_terminal": false,
+      "chars": 1434,
+      "choices": [
+        {
+          "target": 113,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "label": "113",
+      "is_terminal": false,
+      "chars": 1771,
+      "choices": [
+        {
+          "target": 114,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "label": "114",
+      "is_terminal": false,
+      "chars": 1008,
+      "choices": [
+        {
+          "target": 101,
+          "prompt": "",
+          "raw": "Turn to page 101"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "label": "115",
+      "is_terminal": false,
+      "chars": 568,
+      "choices": [
+        {
+          "target": 117,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "label": "117",
+      "is_terminal": false,
+      "chars": 50,
+      "choices": [
+        {
+          "target": 119,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "label": "119",
+      "is_terminal": false,
+      "chars": 1015,
+      "choices": [
+        {
+          "target": 120,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "label": "120",
+      "is_terminal": false,
+      "chars": 664,
+      "choices": [
+        {
+          "target": 121,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "label": "121",
+      "is_terminal": false,
+      "chars": 1055,
+      "choices": [
+        {
+          "target": 122,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "label": "122",
+      "is_terminal": false,
+      "chars": 804,
+      "choices": [
+        {
+          "target": 123,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "label": "123",
+      "is_terminal": false,
+      "chars": 955,
+      "choices": [
+        {
+          "target": 124,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "label": "124",
+      "is_terminal": false,
+      "chars": 513,
+      "choices": [
+        {
+          "target": 125,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "label": "125",
+      "is_terminal": false,
+      "chars": 949,
+      "choices": [
+        {
+          "target": 126,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "label": "126",
+      "is_terminal": false,
+      "chars": 559,
+      "choices": [
+        {
+          "target": 127,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "label": "127",
+      "is_terminal": false,
+      "chars": 939,
+      "choices": [
+        {
+          "target": 128,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "label": "128",
+      "is_terminal": false,
+      "chars": 528,
+      "choices": [
+        {
+          "target": 129,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "label": "129",
+      "is_terminal": false,
+      "chars": 1000,
+      "choices": [
+        {
+          "target": 130,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "label": "130",
+      "is_terminal": false,
+      "chars": 494,
+      "choices": [
+        {
+          "target": 131,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "label": "131",
+      "is_terminal": false,
+      "chars": 1040,
+      "choices": [
+        {
+          "target": 132,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "label": "132",
+      "is_terminal": false,
+      "chars": 989,
+      "choices": [
+        {
+          "target": 133,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "label": "133",
+      "is_terminal": false,
+      "chars": 1073,
+      "choices": []
+    },
+    {
+      "id": 137,
+      "label": "137",
+      "is_terminal": false,
+      "chars": 1055,
+      "choices": [
+        {
+          "target": 138,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "label": "138",
+      "is_terminal": false,
+      "chars": 1162,
+      "choices": [
+        {
+          "target": 139,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "label": "139",
+      "is_terminal": false,
+      "chars": 1064,
+      "choices": [
+        {
+          "target": 140,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "label": "140",
+      "is_terminal": false,
+      "chars": 587,
+      "choices": [
+        {
+          "target": 141,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "label": "141",
+      "is_terminal": false,
+      "chars": 1056,
+      "choices": [
+        {
+          "target": 142,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "label": "142",
+      "is_terminal": false,
+      "chars": 679,
+      "choices": [
+        {
+          "target": 143,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "label": "143",
+      "is_terminal": false,
+      "chars": 1015,
+      "choices": [
+        {
+          "target": 144,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "label": "144",
+      "is_terminal": false,
+      "chars": 599,
+      "choices": [
+        {
+          "target": 145,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "label": "145",
+      "is_terminal": false,
+      "chars": 1078,
+      "choices": [
+        {
+          "target": 146,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "label": "146",
+      "is_terminal": false,
+      "chars": 903,
+      "choices": [
+        {
+          "target": 147,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "label": "147",
+      "is_terminal": false,
+      "chars": 1008,
+      "choices": [
+        {
+          "target": 148,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "label": "148",
+      "is_terminal": false,
+      "chars": 597,
+      "choices": [
+        {
+          "target": 149,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "label": "149",
+      "is_terminal": false,
+      "chars": 1049,
+      "choices": [
+        {
+          "target": 150,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "label": "150",
+      "is_terminal": false,
+      "chars": 1184,
+      "choices": [
+        {
+          "target": 151,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "label": "151",
+      "is_terminal": false,
+      "chars": 58,
+      "choices": [
+        {
+          "target": 153,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "label": "153",
+      "is_terminal": false,
+      "chars": 1020,
+      "choices": [
+        {
+          "target": 154,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "label": "154",
+      "is_terminal": false,
+      "chars": 1063,
+      "choices": [
+        {
+          "target": 155,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "label": "155",
+      "is_terminal": false,
+      "chars": 980,
+      "choices": [
+        {
+          "target": 156,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "label": "156",
+      "is_terminal": false,
+      "chars": 388,
+      "choices": [
+        {
+          "target": 157,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "label": "157",
+      "is_terminal": false,
+      "chars": 977,
+      "choices": [
+        {
+          "target": 158,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "label": "158",
+      "is_terminal": false,
+      "chars": 623,
+      "choices": [
+        {
+          "target": 159,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "label": "159",
+      "is_terminal": false,
+      "chars": 913,
+      "choices": [
+        {
+          "target": 160,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "label": "160",
+      "is_terminal": false,
+      "chars": 472,
+      "choices": [
+        {
+          "target": 161,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "label": "161",
+      "is_terminal": false,
+      "chars": 936,
+      "choices": [
+        {
+          "target": 162,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "label": "162",
+      "is_terminal": false,
+      "chars": 700,
+      "choices": [
+        {
+          "target": 163,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "label": "163",
+      "is_terminal": false,
+      "chars": 952,
+      "choices": [
+        {
+          "target": 164,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "label": "164",
+      "is_terminal": false,
+      "chars": 812,
+      "choices": [
+        {
+          "target": 165,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "label": "165",
+      "is_terminal": false,
+      "chars": 1156,
+      "choices": [
+        {
+          "target": 166,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "label": "166",
+      "is_terminal": false,
+      "chars": 300,
+      "choices": [
+        {
+          "target": 167,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "label": "167",
+      "is_terminal": false,
+      "chars": 1044,
+      "choices": [
+        {
+          "target": 168,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "label": "168",
+      "is_terminal": false,
+      "chars": 1319,
+      "choices": []
+    }
+  ],
+  "edges": [
+    {
+      "source": 3,
+      "target": 4,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 10,
+      "target": 137,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 10,
+      "target": 119,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 10,
+      "target": 153,
+      "prompt": "CoCo users"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "prompt": "If you choose the Terminal Ridge"
+    },
+    {
+      "source": 17,
+      "target": 24,
+      "prompt": "If you choose the Data Swamp"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 23,
+      "target": 139,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 23,
+      "target": 121,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 23,
+      "target": 155,
+      "prompt": "[0[0 users"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 28,
+      "target": 139,
+      "prompt": "Rpple users"
+    },
+    {
+      "source": 28,
+      "target": 121,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 31,
+      "target": 33,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "prompt": ""
+    },
+    {
+      "source": 33,
+      "target": 38,
+      "prompt": "Cable"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 37,
+      "target": 141,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 37,
+      "target": 123,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 37,
+      "target": 157,
+      "prompt": "CoCo users"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 40,
+      "target": 141,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 40,
+      "target": 123,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 40,
+      "target": 157,
+      "prompt": "[0[0 users"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 43,
+      "target": 45,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 45,
+      "target": 5,
+      "prompt": "If you choose to"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 50,
+      "target": 143,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 50,
+      "target": 125,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 50,
+      "target": 159,
+      "prompt": "CoCo users"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 55,
+      "target": 111,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 55,
+      "target": 125,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 55,
+      "target": 159,
+      "prompt": "CoCo users"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 57,
+      "target": 59,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 59,
+      "target": 51,
+      "prompt": "If you choose to"
+    },
+    {
+      "source": 60,
+      "target": 65,
+      "prompt": "If you choose to"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 64,
+      "target": 145,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 64,
+      "target": 127,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 64,
+      "target": 161,
+      "prompt": "ers"
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 68,
+      "target": 145,
+      "prompt": "Rpple users"
+    },
+    {
+      "source": 68,
+      "target": 127,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 68,
+      "target": 161,
+      "prompt": "CoCo users"
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 70,
+      "target": 72,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "prompt": "If you tell him to"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 79,
+      "target": 111,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 79,
+      "target": 129,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 79,
+      "target": 163,
+      "prompt": "CoCo users"
+    },
+    {
+      "source": 80,
+      "target": 81,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 81,
+      "target": 82,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 82,
+      "target": 83,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 85,
+      "target": 147,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 85,
+      "target": 129,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 85,
+      "target": 163,
+      "prompt": "[0[0 users"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 87,
+      "target": 88,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 88,
+      "target": 90,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 90,
+      "target": 149,
+      "prompt": "Apple users"
+    },
+    {
+      "source": 90,
+      "target": 131,
+      "prompt": "Commodore users"
+    },
+    {
+      "source": 90,
+      "target": 164,
+      "prompt": "[0[0 users"
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 92,
+      "target": 101,
+      "prompt": "and recovering the power supply"
+    },
+    {
+      "source": 92,
+      "target": 9,
+      "prompt": ""
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 94,
+      "target": 95,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 98,
+      "target": 99,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 100,
+      "target": 101,
+      "prompt": ""
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 102,
+      "target": 105,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 114,
+      "target": 101,
+      "prompt": ""
+    },
+    {
+      "source": 115,
+      "target": 117,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 117,
+      "target": 119,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 122,
+      "target": 123,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 126,
+      "target": 127,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 128,
+      "target": 129,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 130,
+      "target": 131,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 132,
+      "target": 133,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 137,
+      "target": 138,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 138,
+      "target": 139,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 139,
+      "target": 140,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 140,
+      "target": 141,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 141,
+      "target": 142,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 142,
+      "target": 143,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 143,
+      "target": 144,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 144,
+      "target": 145,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 145,
+      "target": 146,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 146,
+      "target": 147,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 147,
+      "target": 148,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 148,
+      "target": 149,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 149,
+      "target": 150,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 150,
+      "target": 151,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 151,
+      "target": 153,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 153,
+      "target": 154,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 154,
+      "target": 155,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 155,
+      "target": 156,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 156,
+      "target": 157,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 157,
+      "target": 158,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 158,
+      "target": 159,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 159,
+      "target": 160,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 160,
+      "target": 161,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 161,
+      "target": 162,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 162,
+      "target": 163,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 163,
+      "target": 164,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 164,
+      "target": 165,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 165,
+      "target": 166,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 166,
+      "target": 167,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 167,
+      "target": 168,
+      "prompt": "(continues)"
+    }
+  ],
+  "slug": "arcade-explorers",
+  "title": "Arcade Explorers: Save the Venturians!"
+}

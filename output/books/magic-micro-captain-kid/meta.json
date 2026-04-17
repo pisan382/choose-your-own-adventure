@@ -1,0 +1,14 @@
+{
+  "slug": "magic-micro-captain-kid",
+  "title": "A Magic Micro Adventure: Captain Kid and the Pirates",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/A Magic Micro Adventure - Captain Kid and the Pirates (1985).pdf",
+  "format": "linear",
+  "reference_style": "none",
+  "layout": "single",
+  "pdf_start_page": 1,
+  "pdf_end_page": null,
+  "story_start_page": 1,
+  "pages_written": 73,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}

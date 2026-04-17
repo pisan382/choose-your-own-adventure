@@ -1,0 +1,143 @@
+Page 109
+
+THE FIFTEENTH ROBBERY
+95
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+■GARY
+STONE'S
+15TH"
+"FLOOR
+APARTMENT
+WAS"
+"ROBBED
+FOR
+THE
+15TH"
+"TIME
+THIS
+YEAR.
+A"
+"TOTAL
+OF
+15
+ITEMS"
+"OF
+JEWELRY
+AND
+FURS"
+"WERE
+STOLEN.
+STONE"
+"NO
+LONGER
+CONSIDERS"
+"15
+HIS
+LUCKY
+NUMBER."
+"XXXXXXXXXXXXXXXXXXX"
+Since you own the company that insures Mr. Stone's belongings,
+you feel that a visit with the rock singer would be in order.
+You are welcomed by Mr.
+Stone, who shows you around his
+magnificent apartment.
+If you'd
+like to
+see the
+inside
+of a rock
+singer's apartment, type in this program.
+NEW
+20
+30
+40
+50
+60
+70
+80
+90
+95
+100
+102
+105
+110
+120
+130
+140
+150
+160
+170
+180
+PRINT
+"========
+*******♦*"
+PRINT
+"KITCHEN
+ART"
+PRINT
+"■!»■■■—
+ROOM"
+PRINT
+"
+PRINT
+"////
+PRINT
+"CARD
+PRINT
+"ROOM
+PRINT
+"////"
+PRINT
+"»»>»»»"
+PRINT
+"HEALTH
+CLUB"
+PRINT
+PRINT
+PRINT
+****♦**#*"
+SSSSSSSSSSS"
+STUDIO"
+SSSSSSSSSSS"
+WWWWWWW "
+VWWWWWVW"
+LIVING
+ROOM"
+PRINT
+PRINT
+"
+PRINT
+PRINT
+"+++++++
+PRINT
+"GAME
+ART"
+PRINT
+"
+ROOM
+ROOM"
+PRINT
+"+++++++
+********"

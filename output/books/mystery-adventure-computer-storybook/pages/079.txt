@@ -1,0 +1,119 @@
+Page 79
+
+CASE OF THE RHYMING ROBBER
+•
+65
+1000
+PRINT
+"DO
+YOU
+THINK
+IT
+WAS"
+1100
+PRINT
+"THE
+SAME
+PERSON?"
+1300
+INPUT
+F*
+1500
+LET
+G*
+=
+"YES"
+1600
+IF
+F*
+=
+G$
+THEN
+GOTO
+2500
+1800
+LET
+H*
+-
+"NO"
+1900
+IF
+F*
+=
+H*
+THEN
+GOTO
+2100
+2000
+PRINT
+"YOU
+HAVE
+GOT
+TO
+BE
+KIDDING"
+2050
+GOTO
+1000
+2100
+PRINT
+"YOU
+MAY
+BE
+WRONG"
+2200
+GOTO
+2600
+2500
+PRINT
+"YOU
+MAY
+BE
+RIGHT"
+2600
+PRINT
+RUN
+"HE
+BOOK
+The
+case
+certainly
+seems
+strange.
+The two
+robberies
+appear
+similar, but it's unusual for a robber to strike the same place twice.
+You
+visit
+the
+insurance
+company.
+The
+clerk
+tells
+you
+that
+the
+insurance company has paid back insurance money to the owner of
+the GOOD AND PLENTY CANDY SHOP for both robberies.
+You have a hunch that the robber will strike again exactly two
+weeks from the last robbery. On Tuesday, July 2, you decide to stay
+near the store, hidden behind a telephone booth.
+At 11 o'clock a new-looking car pulls up outside the candy store.
+It is driven by a woman wearing a suit. She looks at her watch. Then
+she looks around to see if there's anyone in sight. She doesn't see
+you, but you see her putting on a clown mask. She enters the store
+and
+you
+follow
+quickly.
+She
+talks
+to
+the
+owner.
+Type
+in
+the
+program to see what she says.

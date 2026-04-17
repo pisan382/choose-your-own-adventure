@@ -1,0 +1,25 @@
+Page 105
+
+What You Need to Know to
+Type in the Programs
+When typing in the computer game listings of this book,
+you must be extremely careful. There are several things
+you can do to make sure that your program will run
+properly.
+The Computers Compatible
+with this Book ___________ _
+The programs will run on these computers: the Commo-
+dore 64, the Apple II family, and the Radio Shack Color
+Computer.
+The Commodore 64 listings will run only on a Commo-
+dore 64; they will not run on other Commodore machines.
+The Apple II listings are written for the Apple II family
+of computers that run Applesoft BASIC, such as the Apple
+II +, lIe, and lIe computers. The programs in this book
+will not run on any model using Apple Integer BASIC.
+The Radio Shack Color Computer (CoCo) listings are
+written for all CoCo models. You must have at least 16K of
+memory. Thev will not run on the Radio Shack TRS-80
+Models I to IV.
+How to Type in the Listings __
+As you read the story and make your video game pro-

@@ -1,0 +1,40 @@
+Page 62
+
+The Cousin Connection
+As you snatch the envelope from the mailbox, you notice the
+unusual stamp. You see that the stamp and the postmark are from
+Peru. "Oh good. A letter from Uncle Jake!" you say. Your Uncle
+Jake is the only person you know who lives in South America.
+When Jake sold his business, he took the money to Peru. There
+he bought a beautiful mansion with seven gardens.
+His favorite
+hobby
+is
+raising
+exotic
+flowers.
+Occasionally
+he
+mails
+you
+photographs
+of flowers
+with
+square
+leaves
+and
+blossoms
+with
+triangular
+forms.
+Many
+of
+your
+friends
+have
+admired
+these
+photographs of unusual plants.
+Quickly you tear open the envelope. There are no photographs
+inside, and you do not recognize the name at the bottom of the
+letter. Type in this program to read the letter.

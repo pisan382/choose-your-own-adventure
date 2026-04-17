@@ -1,0 +1,25 @@
+Page 114
+
+SETH McEVOY ANDLAl"RESMITH
+Specific Instructions for
+Each Computer __________ _
+Commodore 64: Use Joystick Port 2 for your joystick.
+Use the FIRE button to blast terrorists. Use the Fl func-
+tion key (on the top right of your machine) to recover the
+Smoles or the power supply.
+Apple: Adjust your joystick so that it will move the vehi-
+cle smoothly. Use either joystick button to blast the
+terrorists. Use the space bar to recover the Smoles or the
+power supply. Make sure that your shift lock key is pressed
+down if you have one.
+Radio Shack CoCo: A(~just your joystick so that it will
+move the vehicle smoothly. Use the right joystick port.
+Use the joystick FIRE button to blast the terrorists. Use
+the space bar to recover the Smoles or the power supply.
+Before you begin typing your CoCo programs, type:
+Poke 25, 6: NEW
+and press RETURN. This will give your CoCo the maxi-
+mum amount of program memory.
+Rre you ready to save Venturia?
+Turn to page 101 when you have finished playing
+the game.

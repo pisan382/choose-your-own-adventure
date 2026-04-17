@@ -1,0 +1,34 @@
+Page 77
+
+The Case of
+The Rhyming Robber
+The newspaper has an unusual story today. The GOOD AND
+PLENTY CANDY SHOP was robbed on Tuesday, June 4. You've
+read about many robberies, but this one seems a bit different. Type
+in the program and find out why.
+NEW
+5
+10
+20
+30
+40
+50
+60
+PRINT
+"XXXXXXXXXXXXXXX"
+print
+"H5H5H0EH3H2I1"
+PRINT
+"XXXXXXXXXXXXXXX"
+PRINT
+PRINT
+PRINT
+PRINT
+LADY
+IN
+SUIT
+WLARlNl
+CLOWN
+MASK
+ROBS"
+CANDY

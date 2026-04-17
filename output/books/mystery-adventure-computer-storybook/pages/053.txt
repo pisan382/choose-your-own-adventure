@@ -1,0 +1,85 @@
+Page 53
+
+A DAY AT THE BEACH
+•
+39
+110
+PRINT
+ll
+IN
+QUESTION11
+120
+PRINT
+"W
+=
+WATER11
+RUN
+There are lots of reservations in your town. Many roads, beaches
+and
+parks
+there
+have
+Indian
+names.
+The
+Historical
+Society
+is
+especially concerned that some of the beaches where the Indians
+once lived are being ruined by companies who dump their garbage
+there.
+The
+Historical Society
+is very excited about the map
+it just
+found. What do you think the "X" on the map means? The Society
+thinks
+it may mean that some kind
+of treasure
+is buried
+there,
+because the Indians who lived there did a lot of trading with the
+settlers who lived nearby. The Indians may have buried the coins
+and jewelry to keep them safe.
+You are doing a
+report on
+Indians
+for your history
+class
+at
+school, so you decide to take your bike and go watch the Historical
+Society workers digging at the beach. The trouble is, you forgot to
+take the map from the newspaper. There are three beaches in your
+town. You decide to check out each one to discover where the
+workers are. You come to the first beach. Type in the program to
+see what the sign says:
+NEW
+10
+20
+30
+40
+50
+60
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"I
+INDIAN
+POINT
+I"
+"I
+BEACH
+I"
+" I #-&#####KEEP#***#*# I "
+"I*###*#**OUT#******I"
+RUN
+You hear noise out on the beach.
+It sounds like trucks, but the
+beach grass is so tall you can't see anything. You decide to take a
+look at the next beach.
+The second beach has a brand new sign posted at the entrance.
+The paint on the sign is still wet. Type in the program to see what it
+says.

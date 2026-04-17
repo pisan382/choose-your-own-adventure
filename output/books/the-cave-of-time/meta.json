@@ -1,0 +1,14 @@
+{
+  "slug": "the-cave-of-time",
+  "title": "The Cave of Time",
+  "source_pdf": "samples/the-cave-of-time.pdf",
+  "format": "cyoa",
+  "reference_style": "page",
+  "layout": "spread",
+  "pdf_start_page": 8,
+  "pdf_end_page": 66,
+  "story_start_page": 2,
+  "pages_written": 111,
+  "pages_dir": "pages",
+  "extractor": "ocr-legacy-v2"
+}

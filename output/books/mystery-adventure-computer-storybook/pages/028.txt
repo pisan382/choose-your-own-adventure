@@ -1,0 +1,102 @@
+Page 28
+
+MYSTERY AND AD VENTURE
+55
+60
+61
+65
+70
+75
+SO
+85
+87
+90
+95
+96
+120
+RUN
+PRINT
+"
+FISH
+FROM
+SMELLINB?"
+PRINT
+"CUT
+OFF
+ITS
+GILLS."
+PRINT
+60T0
+90
+PRINT
+"THE
+ALPHABET
+ONLY"
+PRINT
+"HAS
+24
+LETTERS
+NOW."
+PRINT
+"ET
+WENT
+HOME."
+PRINT
+PRINT
+"I
+PRINT
+PRINT
+"GO
+BACK
+TO
+THE
+BOOK"
+It's a suede hat. Joe Fine remembers
+it because of its unusual
+pattern. The young man had given up his claim check and paid the
+bill. Today the young man is showing another claim check. Type in
+the program to see what it looks like.
+NEW
+10
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+80
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+Illllllllllllllllir
+FINES
+CLEANERS
+NOV.31,1984
+CLAIM
+NO.2971
+1-DESIGNER
+SUEDE
+COAT
+Illllllllllllllllir
+"RETURN
+TO
+THE
+BOOK"
+Joe Fine doesn't remember ever seeing the suede coat. But he
+checks his books and records anyway. He sees no entry for a suede
+coat. He searches all the racks and opens every box, but no suede
+coat is found.

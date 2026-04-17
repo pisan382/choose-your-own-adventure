@@ -1,0 +1,20 @@
+Page 68
+
+PROGRAM 2
+If you have a Commodore 64, add these
+lines to Program 2.
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 8 0  POKE 5 4 2 9 6 , 1 5
+9 8 2  POKE 5 4 2 7 3 , 3 4 : POKE 5 4 2 7 2 , 7 5 :
+9 8 4  POKE 5 4 2 7 3 , 0:POKE 5 4 2 7 2 , 0 :
+9 8 5  RETURN
+If you have a VIC-20, add these lines to
+Program 2.
+9 0 0  PRINT C H R $ ( 1 4 7 ) ; : RETURN
+9 8 0  POKE 3 6 8 7 8 , 1 5
+9 8 2  POKE 3 6 8 7 6 , 1 3 5 :
+9 8 4  POKE 3 6 8 7 6 , 0:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 1.
+9 0 0  CLS:RETURN
+9 8 0  RETURN

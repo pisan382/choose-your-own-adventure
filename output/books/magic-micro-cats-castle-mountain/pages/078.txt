@@ -1,0 +1,22 @@
+Page 78
+
+PROGRAM 4
+9 0 0  CLS:RETURN
+9 1 0  H Z = IN T ( H T - 1 + (V T - 1 ) * S W + 0 . 5 ) :
+PRINT @ H Z , " " ; : RETURN
+9 6 0  SW =64:SH =16:R ET U R N
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 4.
+(Line 910 must be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  H Z = IN T ( H T - 1 + (V T - 1 ) * S W + 0 . 5 ) :
+PRINT @HZ, " " ; : RETURN
+9 6 0  SW =32:SH =16:R ET U R N
+If you have a Radio Shack TRS-80, add
+these lines to Program 4. (Line 910 must
+he typed as one line.)
+If you have an Atari, add these lines to
+Program 4.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  POSITION V T -1 ,H T + 1 :R E T U R N
+9 6 0  S W = 3 8 : S H = 2 4 : RETURN

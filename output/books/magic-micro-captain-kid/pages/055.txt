@@ -1,0 +1,33 @@
+Page 55
+
+5 0  RU$="="
+6 0  B$="Q"
+7 0  PRINT "INPUT A NUMBER"
+8 0  INPUT G
+9 0  I F  I N T ( G / 7 ) * 7  = G THEN 2 4 0
+1 0 0  FOR 1= 1 TO 1 5
+1 1 0  VT=10:H T=10:GO SUB 9 1 0
+1 2 0  PRINT L D $;B $;R D $
+1 3 0  GOSUB 9 2 0
+1 4 0  GOSUB 9 1 0
+1 5 0  PRINT LU $;B $;R U $
+1 6 0  GOSUB 9 2 0
+1 7 0  NEXT I
+1 8 0  PRINT " I ' M  NOT MOVING FOR THAT
+NUMBER"
+1 9 0  PRINT "TRY ANOTHER NUMBER"
+2 0 0  GOSUB 9 2 0 : GOSUB 9 2 0
+2 2 0  GOTO 1 0
+2 4 0  FOR M=1 TO 1 0
+2 5 0  V T = 2 0 -M + 1 : H T = 1 0 :GOSUB 9 1 0
+2 6 0  PRINT "
+2 7 0  VT=20-M:GOSUB 9 1 0
+2 8 0  PRINT L D $;B $;R D $
+2 9 0  NEXT M
+3 0 0  P R I N T  " T H A T  MADE ME FLY I 1"
+3 1 0  END
+You follow the Magic Micro’s instruc­
+tions and watch the screen closely. You did
+it! You found the right number. The bird
+really flew. Now all you have to do is fol­
+low the map.

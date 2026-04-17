@@ -1,0 +1,66 @@
+Page 32
+
+Who Wrote It?
+mi
+inn
+mm
+hi
+wif
+iiiiiiiiiniiiii
+iiiiiiiiiiiinii
+nil
+iiiiiiiii
+iiiiiiiiiiiii
+ii
+iiiiiiiiiiiii
+i
+i
+i
+iiiiiiiiiiiii
+You and your reading teacher are discussing the book he assigned
+to you last week. You enjoyed the book very much and are anxious
+to read other books by the author. Your teacher is pleased at your
+response. He asks you what you think about the characters in the
+book. You can't remember all the characters' names. Type in the
+program to refresh your memory.
+NEW
+10
+20
+30
+40
+50
+60
+RUN
+PRINT
+"HERE
+ARE
+THE
+NAMES
+OF
+THE
+CHARACTERS
+"
+PRINT
+"IN
+THE
+BOOK:
+1.
+CAM"
+PRINT
+"
+2.
+ILSA"
+PRINT
+"
+3.
+LEN"
+PRINT
+"
+4.
+SALLIE"
+PRINT
+"NOW
+RETURN
+TO
+THE
+STORY!!"

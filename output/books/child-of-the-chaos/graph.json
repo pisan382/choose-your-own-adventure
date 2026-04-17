@@ -1,0 +1,467 @@
+{
+  "start_page": 2,
+  "reference_style": "none",
+  "nodes": [
+    {
+      "id": 2,
+      "label": "2",
+      "is_terminal": false,
+      "chars": 683,
+      "choices": [
+        {
+          "target": 3,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "3",
+      "is_terminal": false,
+      "chars": 4445,
+      "choices": [
+        {
+          "target": 4,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "4",
+      "is_terminal": false,
+      "chars": 6245,
+      "choices": [
+        {
+          "target": 5,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "5",
+      "is_terminal": false,
+      "chars": 6783,
+      "choices": [
+        {
+          "target": 6,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "6",
+      "is_terminal": false,
+      "chars": 5057,
+      "choices": [
+        {
+          "target": 7,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "7",
+      "is_terminal": false,
+      "chars": 6055,
+      "choices": [
+        {
+          "target": 8,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "8",
+      "is_terminal": false,
+      "chars": 3289,
+      "choices": [
+        {
+          "target": 9,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "9",
+      "is_terminal": false,
+      "chars": 6371,
+      "choices": [
+        {
+          "target": 10,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "label": "10",
+      "is_terminal": false,
+      "chars": 3408,
+      "choices": [
+        {
+          "target": 11,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "11",
+      "is_terminal": false,
+      "chars": 6290,
+      "choices": [
+        {
+          "target": 12,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "12",
+      "is_terminal": false,
+      "chars": 3375,
+      "choices": [
+        {
+          "target": 13,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "label": "13",
+      "is_terminal": false,
+      "chars": 3131,
+      "choices": [
+        {
+          "target": 14,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "label": "14",
+      "is_terminal": false,
+      "chars": 3391,
+      "choices": [
+        {
+          "target": 15,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "label": "15",
+      "is_terminal": false,
+      "chars": 5833,
+      "choices": [
+        {
+          "target": 16,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "label": "16",
+      "is_terminal": false,
+      "chars": 4584,
+      "choices": [
+        {
+          "target": 17,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "label": "17",
+      "is_terminal": false,
+      "chars": 4434,
+      "choices": [
+        {
+          "target": 18,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "label": "18",
+      "is_terminal": false,
+      "chars": 4892,
+      "choices": [
+        {
+          "target": 19,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "label": "19",
+      "is_terminal": false,
+      "chars": 4925,
+      "choices": [
+        {
+          "target": 20,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "label": "20",
+      "is_terminal": false,
+      "chars": 5620,
+      "choices": [
+        {
+          "target": 21,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "label": "21",
+      "is_terminal": false,
+      "chars": 3795,
+      "choices": [
+        {
+          "target": 22,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "label": "22",
+      "is_terminal": false,
+      "chars": 4481,
+      "choices": [
+        {
+          "target": 23,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "label": "23",
+      "is_terminal": false,
+      "chars": 6162,
+      "choices": [
+        {
+          "target": 24,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "label": "24",
+      "is_terminal": false,
+      "chars": 3267,
+      "choices": [
+        {
+          "target": 25,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "label": "25",
+      "is_terminal": false,
+      "chars": 5676,
+      "choices": [
+        {
+          "target": 26,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "label": "26",
+      "is_terminal": false,
+      "chars": 3588,
+      "choices": [
+        {
+          "target": 27,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "label": "27",
+      "is_terminal": false,
+      "chars": 4317,
+      "choices": []
+    }
+  ],
+  "edges": [
+    {
+      "source": 2,
+      "target": 3,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "prompt": "(continues)"
+    }
+  ],
+  "slug": "child-of-the-chaos",
+  "title": "Child of the Chaos (2004)"
+}

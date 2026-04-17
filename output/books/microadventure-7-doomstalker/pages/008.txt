@@ -1,0 +1,30 @@
+Page 8
+
+hanging lamp above your desk sways wildly
+and the floor trembles like a 747 taking off.
+Oh, no, what a time for an earthquake,
+you think, checking your computer screen to
+see if there's any damage. What you see makes
+your blood turn to ice. There, in living green
+and white, is a high-resolution graphic appa-
+rition. His nose is like an eagle's beak. His
+lips are thin as lead disks. And his piercing
+eyes seem to burn right out of the CRT. For
+a moment the image flickers eerily. Then it
+shrinks to a tiny dot on the screen before
+winking out of existence.
+You're wondering whether you're hav-
+ing flashbacks from the horror movie you saw
+last night when the power comes back on and
+your system automatically reboots.
+You wait for the rest of the ACT mes-
+sage, but nothing comes through. Maybe you'd
+better just decode what you've got.
+Input the following program and run it.
+Enter the coded message.
+PROGRAM 1
+10 PRINT n***************"
+20 PRINT nTYPE IN LINE OF MESSAGE"
+30 INPUT M$
+40 L=LEN(M$)
+50 FOR N=l TO L

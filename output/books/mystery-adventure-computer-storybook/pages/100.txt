@@ -1,0 +1,50 @@
+Page 100
+
+The Clubhouse
+There is a big problem at this clubhouse. Type in the program for a
+look at the clubhouse.
+NEW
+10
+PRINT
+15
+PRINT
+20
+PRINT
+30
+PRINT
+40
+PRINT
+50
+PRINT
+60
+PRINT
+70
+PRINT
+90
+PRINT
+95
+PRINT
+100
+PRINT
+"OOPS,
+THE
+DOORBELL"
+110
+PRINT
+"
+IS
+RINBING."
+120
+PRINT
+"60
+BACK
+TO
+THE
+BOOK"
+130
+PRINT
+"TO
+SEE
+WHO
+IT
+IS."

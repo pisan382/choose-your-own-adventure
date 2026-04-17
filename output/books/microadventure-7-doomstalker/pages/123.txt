@@ -1,0 +1,27 @@
+Page 123
+
+What the Program Does
+This program controls the time strum. In
+order to stop the strum so that LoDar can in-
+sert the Magor Stone, you must accumulate 100
+points by playing "Press your Luck." You
+must try to stop the moving light directly un-
+der a score. If you miss, you'll send the world
+spinning hopelessly out of control.
+How the Program Works
+The playing board is made up of five cells
+denoted by the array C. Cells 1, 3, and 5 con-
+tain points, and if you stop the @ under one
+of those, you receive the number of points
+contained in that cell. Line 30 assigns the val-
+ues for each cell.
+Y represents the current line position of
+the character "@" on your screen. X keeps
+track of the previous position of Y so that once
+the new Y has been determined, the program
+can print a blank space over the old Y to give
+the impression that the @ is moving across the
+screen.
+Your running total is kept in the variable
+SUM. Once you've reached 100 points, you've
+mastered the secrets of the strum.

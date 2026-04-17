@@ -1,0 +1,30 @@
+Page 111
+
+performed a specified number of times or un-
+til certain conditions are met. For example, if
+you wanted to write a program that would
+count from 1 to 100, a loop could be used to
+keep adding 1 to a counter variable until the
+number 100 was reached. Loops are most
+commonly formed with FOR/NEXT state-
+ments or GOTO commands. You'll find many
+examples of these in the programs in this book.
+Random Number Generator This function,
+which is called RND in BASIC, lets you gen-
+erate numbers at "random" just as though you
+were throwing a set of dice and didn't know
+which number was going to come up next. In
+most home computers, the RND function re-
+turns a fraction between 0 and 1. To get num-
+bers in a larger range, the program must
+multiply the fraction by a larger number. For
+example, RND * 10 will produce numbers be-
+tween 0 and 10.
+REM This command is used to tell the com-
+puter that whatever is on a particular line is
+just a comment and should not be executed.
+An example might look like this:
+10 REM THIS PROGRAM DOES A
+COUNTDOWN
+Strings are groups of one or more letters,
+numbers, or other symbols that are treated as

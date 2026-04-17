@@ -1,0 +1,29 @@
+Page 110
+
+Some of the programming activities in this
+book will ask you to find and fix a bug in the
+program so that it will work correctly.
+Functions are ready-made routines that per-
+form standard calculations in a program. It's
+sort of like having a key on a calculator that
+computes a square root or percentage of a
+number. The programming language BASIC
+comes with a number of standard functions to
+perform certain tasks. For example, the func-
+tion SQR(x) will find the square root of any
+number when x is replaced by that number.
+You might want to check the BASIC manual
+that came with your computer to see which
+functions are available on your system.
+INT is a function that changes any number that
+you supply into a whole number or integer. For
+example INT(4.5) will return the value 4. For
+numbers greater than 0, INT just throws away
+any fractions and supplies you with the whole
+number.
+LEN is a function that tells you the number of
+characters in a string of letters, numbers, or
+other symbols. For example, if a variable string
+called A$ contained "STOP" then
+LEN(A$) =4.
+Loops are sections of programs that may be

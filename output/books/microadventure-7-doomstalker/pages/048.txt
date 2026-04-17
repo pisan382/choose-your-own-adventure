@@ -1,0 +1,35 @@
+Page 48
+
+570 Y=10:X=BX:GOSUB 720
+580 PRINT "_@n
+590 Y=11: GOSUB 720
+600 PRINT " "; L$
+610 RETURN
+620 Y=10: X=BX:GOSUB 720
+630 BX=BX-1
+640 PRINT n@_"
+650 Y=11:GOSUB 720
+660 PRINT L$;" "
+670 RETURN
+680 FOR K=1 TO 500: NEXT K
+690 RETURN
+700 Y=l
+710 X=1
+720 LOCATE Y,X
+730 RETURN
+IBM
+Apple
+Radio Shack
+Commodore
+Atari
+PC& 11+
+lie TRs-BO Color
+64
+VIC-20 400/800
+PCjr
+/
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 114, for changes for
+Atari, Apple, Commodore 64 and VIC-20, Ra-
+dio Shack TRS-80 and Color.

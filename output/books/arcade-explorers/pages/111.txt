@@ -1,0 +1,29 @@
+Page 111
+
+SA VE THE VENTURIANS!
+III
+58
+Rescue Net
+5000-5300
+6A
+See Exit
+6000-6100
+129
+147
+163
+68
+See Power Supply
+6000-6300
+7A
+More Fuel
+7000-7100
+131
+149
+164
+78
+More Ammo
+7000-7300
+The C segments follow directly afterward on the same
+page. All C line numbers start at an even 500; for
+example, the lines for segment 5C start at 5500 and
+will go no higher than 5999.

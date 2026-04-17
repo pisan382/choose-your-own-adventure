@@ -1,0 +1,3894 @@
+Path: 1 -> 3 -> 4 -> 5 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> 13 -> 14 -> 15 -> 16 -> 17 -> 18 -> 19 -> 20 -> 21 -> 22 -> 23 -> 24 -> 25 -> 26 -> 27 -> 28 -> 29 -> 30 -> 31 -> 32 -> 33 -> 34 -> 35 -> 36 -> 37 -> 38 -> 39 -> 40 -> 41 -> 42 -> 43 -> 44 -> 45 -> 46 -> 47 -> 48 -> 49 -> 50 -> 51 -> 52 -> 53 -> 54 -> 55 -> 56 -> 57 -> 58 -> 59 -> 60 -> 61 -> 62 -> 63 -> 64 -> 65 -> 66 -> 67 -> 68 -> 69 -> 70 -> 71 -> 72 -> 73 -> 74 -> 75 -> 76 -> 77 -> 78 -> 79 -> 80 -> 81 -> 82 -> 83 -> 84 -> 85 -> 86 -> 87 -> 88 -> 89 -> 90 -> 91 -> 92 -> 93 -> 94 -> 95 -> 96 -> 97 -> 98 -> 99 -> 100 -> 101 -> 102 -> 103 -> 104 -> 105 -> 106 -> 107 -> 108 -> 109 -> 110 -> 111 -> 112 -> 113 -> 114 -> 115 -> 116 -> 117 -> 118 -> 119 -> 120 -> 121 -> 122 -> 123 -> 124 -> 125 -> 126 -> 127
+
+=== Step 1: Page 1 ===
+Page 1
+
+More Than An Action-Packed Novel!
+Includes 7 exciting Programs
+For Your Computerl o
+by Ruth Glick and Eileen Buckholtz
+
+=== Step 2: Page 3 ===
+Page 3
+
+~r-----'I MICRO ADVENTURETM "'-1 ----,
+#7
+DOOM
+STALKER
+by
+Ruth Glick
+and
+Eileen Buckholtz
+A Parachute Press Book
+--
+SCHOLASTIC INC.
+New York Toronto London Auckland Sydney Tokyo
+
+=== Step 3: Page 4 ===
+Page 4
+
+Book was designed by Gene Siege\.
+No part of this publication may be reproduced in whole or in
+part, or stored in a retrieval system, or transmitted in any form
+or by any means, electronic, mechanical, photocopying, re-
+cording, or otherwise, without written permission of the
+publisher. For information regarding permission, write to
+Scholastic Inc., 730 Broadway, New York, NY 10003.
+ISBN 0-590-33382-8
+Copyright © 1985 by Parachute Press, Inc., Eileen Buckholtz
+and Ruth Glick. All rights reserved. Published by Scholastic
+Inc. MICRO ADVENTURET~ is a trademark of Parachute
+Press, Inc., Eileen Buckholtz and Ruth Glick. ATARI is a
+registered trademark of ATARI, Inc. TRS-80 is a registered
+trademark of Radio Shack, a Tandy Corporation. VIC-20 is a
+trademark of Commodore Computer.
+12 II IO 9 8 7 6 5 4 3 2 1
+5 6 7 8 9/8 0/9
+Printed in the U.S.A.
+
+=== Step 4: Page 5 ===
+Page 5
+
+-
+Warning: The following information is cru-
+cial to the success of your mission. Read it
+carefully. It may save your life.
+As a certified member of ACT (the Ad-
+venture Connection Team), your job, as al-
+ways, is to defend the cause of good against
+evil. It won't be easy, because BRUTE (the
+Bureau of Random Unlawful Terror and Evil),
+an international organization bent on wreaking
+havoc throughout the world, will be fighting
+you every step of the way. Your computer ex-
+pertise will be vital to this mission. So turn on
+your home system. Throughout this adventure
+you'll be called upon to program it to get the
+ACT team out of some really tough spots.
+Look for the chart next to the program
+instructions. It will tell you which micros will
+run each program. If the program won't run as
+is on your computer, consult the Reference
+Manual in the back of the book -
+fast! Good
+luck. This message will be erased from mem-
+ory in 30 seconds.
+
+=== Step 5: Page 7 ===
+Page 7
+
+CHAPTER
+1
+The words flashing on your computer screen
+look like gibberish, but you know they're an
+urgent transmission from ACT Central. After
+all, as the Adventure Connection Team's top
+computer expert, code name Orion, You've been
+through this before.
+C?TV J"QCV"H MT" ACTV?GP
+FCQVTSAVGMP"SPNCQQ
+You reach for the decoder manual -
+the
+latest issue of X-Men Comics. But before you
+can slide the special transparency over the third
+to last page, the room starts to vibrate, and the
+computer transmission breaks off.
+What's going on? you wonder as the
+
+=== Step 6: Page 8 ===
+Page 8
+
+hanging lamp above your desk sways wildly
+and the floor trembles like a 747 taking off.
+Oh, no, what a time for an earthquake,
+you think, checking your computer screen to
+see if there's any damage. What you see makes
+your blood turn to ice. There, in living green
+and white, is a high-resolution graphic appa-
+rition. His nose is like an eagle's beak. His
+lips are thin as lead disks. And his piercing
+eyes seem to burn right out of the CRT. For
+a moment the image flickers eerily. Then it
+shrinks to a tiny dot on the screen before
+winking out of existence.
+You're wondering whether you're hav-
+ing flashbacks from the horror movie you saw
+last night when the power comes back on and
+your system automatically reboots.
+You wait for the rest of the ACT mes-
+sage, but nothing comes through. Maybe you'd
+better just decode what you've got.
+Input the following program and run it.
+Enter the coded message.
+PROGRAM 1
+10 PRINT n***************"
+20 PRINT nTYPE IN LINE OF MESSAGE"
+30 INPUT M$
+40 L=LEN(M$)
+50 FOR N=l TO L
+
+=== Step 7: Page 9 ===
+Page 9
+
+60 C=ASC(MID$(M$,N,l»
+70 IF INT(C/2)*2 = C THEN 90
+80 C=C+2: GOTO 100
+90 C=C-2
+100 PRINT CHR$(C) 1
+110 NEXT N
+120 PRINT
+130 PRINT RMORE TO DECODE? Y OR Nn
+140 INPUT B$
+150 IF B$=nyR THEN 20
+160 END
+IBM
+Apple
+Radio Shack
+Commodore
+PC& 11+
+lie TR8-80 Color
+64
+VIC-20
+PClr
+t/ t/ ..;
+V-
+I/'
+I/'
+v"
+Atarl
+400/800
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 109, for changes for
+the Atari.
+You can't believe it. It sounds like
+Doomsday is here.
+As if on cue, the floor gives another
+sickening lurch. This time, it feels like a ma-
+jor earthquake. You'd better get out of the house
+before it comes crashing down around your
+
+=== Step 8: Page 10 ===
+Page 10
+
+head. But after that message from ACT, there's
+no guarantee that things are any better outside.
+After grabbing your valuables -
+your
+portable computer, that is -
+you dash for the
+door. When you hit the sidewalk, you find that
+most of your neighbors have the same idea. The
+street is full of dazed-looking people wander-
+ing among fallen trees, overturned cars, and
+broken glass. Jagged cracks run like fresh scars
+up and down the street. At the other end of the
+block, water spurts from a broken main. Al-
+though the ground has stopped shaking, your
+neighbors haven't. They look like refugees from
+a disaster movie.
+You've got to get to ACT headquarters
+fast. But how? The streets obviously aren't safe.
+Just then you hear the deafening roar of a
+rotary motor. Looking up, you spot a Red Cross
+helicopter. As you watch, it lands in the mid-
+dle of a nearby vacant lot.
+A medic hops out and strides purpose-
+fully in your direction. "Come on, you've just
+been drafted into the emergency relief squad,"
+he announces.
+"But I've got to get to ... " You stop in
+midsentence. You can't tell this guy you're an
+ACT agent.
+"What could be more important than the
+destruction of the earth?" he asks.
+Your eyes widen. He must be from ACT
+transportation.
+
+=== Step 9: Page 11 ===
+Page 11
+
+In the cockpit, the pilot confirms your
+educated guess. "Buckle up, Orion," he shouts
+above the din of the engine.
+Soon you're high above the disaster area.
+From this vantage point you can see just how
+widespread the destruction really is. As you
+arrive at ACT headquarters, you suppress a
+gasp. The whole side of the mountain that used
+to hide the facility has been smashed. That ex-
+plains why you lost communication. You won-
+der how many casualties ACT has sustained.
+The chopper heads for a nearby cornfield.
+From the air, all you can see are waving green
+stalks. But once on the ground, you realize that
+most of the field is camouflaged tarp. Under-
+neath is a tent-and-Quonset-hut city.
+"Temporary headquarters. We had to
+borrow some personnel from the military to
+bring us up to minimum operating strength,"
+the pilot explains. "You're meeting the rest of
+the assault team in tent 37B. Good luck."
+This could almost be a military camp ex-
+cept that you know the regular army doesn't
+have android recruits, robot tanks, and dozens
+of civilians marching around. After passing the
+mess tent three times, you finally ask direc-
+tions from a voice-operated vending machine.
+The meeting is just getting started as you
+pull back the flap of 37B and step inside.
+"Orion?" questions a tall, gray-haired
+man wearing a lieutenant-general's uniform.
+
+=== Step 10: Page 12 ===
+Page 12
+
+"Yes, sir." You automatically snap to at-
+tention.
+"At ease. Come join us."
+You pull up a chair and look around the
+conference table with interest.
+"Roll call. Code names only," the gen-
+eral orders, turning to the pleasantly plump
+blonde woman on his right.
+"Frieda, anthropologist and ACT coor-
+dinator for this mission. On loan from the Fed-
+eral German Museum," she recites in a lyrical
+voice.
+"Bronze," says the powerful young man
+in the next chair, unconsciously flexing his arm
+muscles. "Nordic Combined Olympic medal-
+ist representing Sweden."
+"Just call me Arch," the small, dark man
+on his right announces somewhat less for-
+mally. "My specialty is civil engineering." You
+notice his briefing sheet has been folded into
+the shape of a suspension bridge.
+"And I'm Orion." You complete the ros-
+ter. "Computers are my game."
+You expect the general to welcome you on
+board and make some complimentary com-
+ments about the ACT organization. Instead, he
+gets right down to business.
+"I'm sure you're all aware of the spo-
+radic but violent disturbances that have been
+occurring in your own countries. What you
+probably don't know is that these have been
+
+=== Step 11: Page 13 ===
+Page 13
+
+taking place worldwide. And even worse than
+the earthquakes and high tides, there have been
+six unexplained time gaps. So far, we have lost
+a total of 13 seconds."
+"Why is losing 13 seconds so critical?"
+Frieda asks.
+You can tell that the general is forcing his
+voice to remain calm. "The effects have been
+cumulative. It means the planet is spinning
+faster. If we don't figure out how to stop the
+time gaps, the earth is going to be spinning so
+fast that everything that isn't tied down will be
+flung right off into space."
+
+=== Step 12: Page 14 ===
+Page 14
+
+CHAPTER
+2
+There's silence around the table as the ACT
+members picture that horrible finale for the hu-
+man race.
+Frieda recovers first. "Why haven't we
+heard about this? Has there been a cover-up?"
+Suddenly you see the analytical mind beneath
+that soft-looking exterior.
+"You could call it a cover-up," the gen-
+eral admits reluctantly. "But what good would
+it have done to let the public know that the earth
+seemed to be set for certain destruction?"
+"You wouldn't have flown this team
+here," Arch interjects, "if the situation were
+absolutely hopeless."
+"Correct. There is a slim chance," the
+general concedes. "And this ACT team is it."
+He lets that sink in and then continues.
+
+=== Step 13: Page 15 ===
+Page 15
+
+"There's one more piece of the puzzle that
+doesn't fit anywhere. Accompanying the nat-
+ural disasters, we've been hit by weird com-
+puter disturbances all over the Defense
+Communication Network.
+Terminals from
+Seattle to Cape Hatteras have been taken over
+by some sort of apparition. It's always the same
+hawk-nosed figure with eyes that seem to burn
+right out of the screen."
+The hair on the back of your neck bris-
+tles. "Sir," you say, "I've seen it, too.·Dur-
+ing the earthquake, that thing took over my
+screen -
+when ACT was transmitting. But I
+thought it was my imagination."
+"No, it's real, all right. And it can't be
+a coincidence that it appears every time there's
+a natural disaster. It's almost as though the ap-
+parition controls what's happening."
+The general pauses to push a button on
+the side of the table. The metal top rolls back
+to reveal a three-dimensional model of gray,
+snow-capped mountains.
+"We've traced the apparition's source to
+a set of coordinates in a valley in the Hima-
+layas," the general explains. He points to a spot
+on the model that looks no different from the
+rest. "You can see why it's always been as-
+sumed that that area was uninhabited. Even
+aerial reconnaissance hasn't picked up any-
+thing. But there's obviously something strange
+in the area."
+
+=== Step 14: Page 16 ===
+Page 16
+
+•• And this ACT team is supposed to go
+there and turn off the Doomsday specter -
+or
+whatever it is," Frieda finishes for him .
+•• At least we know the worst now," Bronze
+says.
+"Not quite. There's one other small
+problem. BRUTE has also mounted an expe-
+dition for the Himalayas. Our reconnaissance
+shows they're heading for the same place you
+are. Only they have a day's head start."
+"Do you think BRUTE's behind all this?"
+you ask, remembering some of the confronta-
+tions you've already had with the Bureau of
+Random Unlawful Terror and Evil.
+The general shakes his head. "No. The
+disturbances are on too wide a scale. They're
+beyond even BRUTE's awesome capacity. But
+apparently BRUTE's out to take advantage of
+the chaos if they can."
+"So you mean we have to save the world
+and fight off BRUTE at the same time?" Frieda
+sums up .
+•• Affirmative."
+Somehow the positive way he answers
+doesn't do much to bolster your confidence.
+
+=== Step 15: Page 17 ===
+Page 17
+
+CHAPTER 3
+ACT works fast when they're in crisis mode.
+Within hours, another helicopter has dropped
+you and the rest of the team at the foot of Mt.
+Kleinberg. The commemorative marker in-
+forms you that it was named after the famous
+British explorer who lost his life trying to scale
+its rugged slopes. So much for tourist infor-
+mation.
+"You're on your own now," the pilot ex-
+plains as he prepares to depart. "Communi-
+cations and transportation are marginal, since
+most of our equipment has been damaged by
+the quakes. So we don't know when we'll be
+able to pick you up. Then again, if your mis-
+sion fails, there may not be anything to pick
+up." With that grim observation, he lifts off,
+leaving you to stare at the sheer peaks and cliffs
+
+=== Step 16: Page 18 ===
+Page 18
+
+ahead. Even though it's summer, the moun-
+tains are capped with snow.
+Arch shivers. Bronze looks positively ex-
+cited. "What a challenge," he exclaims, sur-
+veying the rugged landscape. "We're going to
+be the first to conquer this baby." While he
+talks he passes out ropes and safety harnesses
+and then snaps out 50 push-ups as a warm-up.
+Frieda and Arch look as doubtfully as you
+do at the mountain-climbing gear. The closest
+you've ever come to something like this was
+the jungle gym back in grade school. But be-
+fore you can protest, your Olympic teammate
+is cheerfully helping you strap into the safety
+equipment. All too soon the whole group is
+hooked together and ready to go. Although
+Frieda is the team leader, she has obviously
+decided to defer to Bronze during this phase of
+the operation.
+"The valley we're searching for should
+take us about two days to reach," he tells you.
+After consulting his map and compass, he points
+toward a two-foot-wide ledge that seems to wind
+around the side of the mountain. "That's the
+best way to get across." As he speaks, he non-
+chalantly ambles over to the edge and looks
+down. When his boot dislodges a piece of loose
+rock, you watch it fall, and fall, and fall.
+"Time to move out," Bronze announces.
+"We've got to reach the other side of Mt.
+Kleinberg before sundown or we'll have to sleep
+
+=== Step 17: Page 19 ===
+Page 19
+
+standing with our backs to this rock."
+That's just the motivation you needed.
+Resolutely, you tuck your fears away and fol-
+low Bronze down the narrow trail.
+It's harder work than you thought. In fact,
+you, Frieda, and Arch all have to stop fre-
+quently to catch your breath.
+"That's normal," Bronze assures you.
+"You're going to feel this way until you adjust
+to the altitude."
+Lunch is a few handfuls of trail mix and
+a high-protein bar -
+which the ACT team eats
+sitting on a large boulder overlooking the
+spectacular valley below. If you were seeing this
+from the comfort of a movie theater, you'd be
+impressed with the view. As it is, looking up
+makes you dizzy and looking down is even
+worse. And your feet feel as though you've
+trekked from Nepal to China.
+Just then, your solid seat starts to vi-
+brate. And all around you rocks begin to slide.
+"There's an overhang at the foot of the
+boulder. Get down there quick," Bronze yells.
+"It's another earthquake!"
+The four of you huddle in the big rock's
+protection as pieces of earth and stone tumble
+past. If you'd stayed up on that narrow ledge,
+you would have been goners. You glance over
+at Arch and Frieda. They look as pale as the
+snow-covered peaks. And you suspect your face
+is just as white.
+
+=== Step 18: Page 20 ===
+Page 20
+
+Luckily, the disturbance doesn't last long.
+"Now we really have to make time this
+afternoon ," Bronze says as he surveys the
+rearranged landscape.
+Quickly you resume the trail. And, thank
+goodness, there are no more incidents while
+you're out in the open. By late afternoon, you
+descend into a sheltered valley between two
+peaks.
+Bronze glances at his watch. "We could
+do another two hours before sunset," he sug-
+gests.
+But the groans from the rest of you veto
+that idea. You can identify every bone in your
+body because they all ache.
+Pulling off your pack, you sprawl on the
+lichen-covered rocks. If you have to carryall
+of this stuff tomorrow, you may not make it.
+What do you really need besides clean under-
+wear and your computer? you wonder. Perhaps
+you can jettison the trench shovel and· extra
+hiking boots the supply officer made you bring
+along.
+After a well-earned rest, you set up camp.
+By the time you're relaxing around the fire, you
+feel better. Everybody seems to be in a mellow
+mood, probably aided by the smell of golden
+marshmallows roasting over the coals.
+"For first-time climbers, you all show
+Olympic potential," Bronze praises the team.
+Arch grins weakly. "Thanks. But I'm not
+
+=== Step 19: Page 21 ===
+Page 21
+
+just a first-time climber. This is my first ACT
+mission.' ,
+Everyone looks surprised. "We thought
+you were a veteran just like the rest of us,"
+Frieda remarks.
+"No," Arch says. "I signed on two years
+ago. But I guess this is the first mission where
+my talents were needed. It's too bad it had to
+be at the end of the world."
+"But," Bronze tells Arch, "they're all like
+this. Flirting with disaster is what gives these
+ACT missions their pizzazz." Then he launches
+into an account of the time he and BRUTE's
+best all-around athlete were pitted against each
+other during a free-fall parachute descent with
+a live nuclear bomb.
+Frieda has some equally entertaining sto-
+ries -
+like the time BRUTE sealed her up in
+a pharaoh's tomb with a tribe of nomads. She
+persuaded them to stand on each other's shoul-
+ders so she could climb out through a small slit
+in the rock near the roof.
+And you're no novice either. As you put
+together a S'more, you relate the time you were
+caught between a school of trained killer sharks
+and Damian Hale's mind-controlling biologi-
+cal chips.
+The campfire ends with a friendship cir-
+cle in which each of you teaches the group a
+song from your native country. Frieda, who's
+obviously had some professional training, is the
+
+=== Step 20: Page 22 ===
+Page 22
+
+best singer. But everybody turns in a pretty good
+performance.
+By starlight, you find your way back to
+your sleeping bag. Now it is utterly quiet un-
+der the black velvet canopy of the night.
+You've almost succeeded in getting to
+sleep on the rocky ground when the portable
+ACT computer by your pillow activates itself.
+You hear the auto-reboot beep and open your
+eyes in surprise -
+just in time to see the
+downline loading light flash. Something has
+taken over your computer and is sending it a
+program.
+What's going on? you wonder. And then,
+to your horror, fifteen feet away and five feet
+above the ground, an all too familiar appari-
+tion appears.
+
+=== Step 21: Page 23 ===
+Page 23
+
+CHAPTER
+4
+You're not the only one who sees it. Everyone
+is sitting up now, unable to look away from the
+terrifying image. It was bad enough viewing it
+on a 12-inch screen. Now it's 10 feet tall and
+right in front of you in living 3-D.
+This time the specter is a pale, ghostly
+white and seems to shine with a light of its own.
+Its thin lips begin to move. And as it speaks
+in a raspy voice, something makes your eyes
+flick to the computer screen. It's unbelievable,
+but its words are being reproduced on your
+CRT -along with electronic surges of light-
+ning that could blow the computer's memory
+chips.
+
+=== Step 22: Page 24 ===
+Page 24
+
+Input the following program and run it.
+You must find a way to interrupt the program
+or else you'll never gain control of your com-
+puter again. Hint: List the program and ex-
+amine the code to figure out what letter the
+program is checking for to break it out of the
+loop. If you , re completely stumped, check page
+J J J in the Reference Manual.
+Save the program. Once you've broken out
+of the repetitive loop, you'll be able to use it
+to get some more information about this mis-
+sion.
+PROGRAM 2
+10 PRINT "RETURN THE MAGOR STONE"
+20 FOR K=l TO 100: NEXT K
+30 CLS
+40 GOSUB 170
+50 IF V$="Q" THEN 110
+60 FOR 1=1 TO 15
+70 PRINT TAB(15-I+l) "I""
+I"
+SO NEXT I
+90 PRINT TAB(15) "BOOM!"
+100 GOTO 10
+110 PRINT "ENTER GUARDIAN LATCH"
+120 INPUT A$
+130 IF ASC(A$)<>SS THEN 10
+140 PRINT "BYMAK REMOVED THE STONE"
+150 PRINT "FROM TANZIA"
+160 END
+170 V$=INKEY$
+ISO RETURN
+
+=== Step 23: Page 25 ===
+Page 25
+
+IBM
+Apple
+Radio Shack Commodore
+Atarl
+PC& 11+
+lie TRs-80 Color
+64
+VIC·20 400/800
+PClr
+V
+"
+../
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 110, for changes for
+Atari, Apple, Commodore 64, and VIC·20.
+The ACT team has drawn itself into a de-
+fensive knot facing the glowing apparition.
+"At least that thing doesn't have control
+of the computer anymore," Frieda whispers,
+trying to look on the bright side.
+"Yeah, but does anybody know what it's
+talking about? I don't even know what the Ma-
+gar Stone is, let alone how to return it," Bronze
+says. In the face of this ghostly terror, his voice
+has risen two octaves, and his self-confidence
+seems on the verge of snapping.
+No one knows what the message means.
+But it sounds serious -
+especially when the
+lightning that you've banished from your screen
+suddenly begins to snap, crackle, and pop at
+the specter's fingertips.
+As you watch in horror, he aims his hands
+
+=== Step 24: Page 26 ===
+Page 26
+
+at the campsite. There's nowhere to take cover
+as lightning begins raining down around you.
+When one of the backpacks goes up in flames,
+you feel Bronze's hand on your shoulder shak-
+ing like a leaf. Or is it you shaking?
+Another bolt hits, and Frieda gasps, "If
+this doesn't stop, we're done for."
+You can feel everybody tense, waiting for
+the next one to hit. But nothing happens. As
+quickly as the glowing apparition came, it's
+simply gone. For a moment, everyone is too
+shaken to speak.
+"What was that?" Arch finally croaks.
+"I think we've come face to face with that
+Doomsday specter the general was talking
+about," you mutter.
+"But I thought he said it was connected
+only with computers," Frieda points out.
+Bronze shakes his head. "Maybe now that
+we're in its home territory, it has even more
+power."
+"But it did start on my computer," you
+say. "I've still got the program it downloaded.
+Maybe it's got some clues."
+If you have been able to save Program 2,
+run it now. If not, input it again. You'll find it
+on page 20. After you stop the lightning. you
+have to find the "Guardian Latch" in order
+to get the information out of the program. Study
+the program listing and see if you can figure
+
+=== Step 25: Page 27 ===
+Page 27
+
+out what data needs to be entered to find the
+Guardian Latch. Hint: Use the ASCII table in
+the back. If you need help, check page 111 of
+the Reference Manual.
+"Good going, Orion," Frieda congratu-
+lates you. "Now at least we have a little more
+information.' '
+"We may not know what the stone is,"
+Arch adds, "but we do know that someone
+named Bymak stole it from somewhere called
+Tanzia. Do you suppose that's the name of the
+valley we're headed for?"
+"Sounds like a good guess to me," Bronze
+says. Now that the commotion has stopped, the
+athlete seems to have regained his poise. "You
+know," he muses, "the weird thing about that
+specter was that it spoke in Swedish. How did
+the rest of you understand it?"
+Arch looks at Bronze as though he's lost
+his mind. "That thing wasn't speaking Swed-
+ish; it was speaking my native language -
+Portuguese.' ,
+"I distinctly heard it in German," Frieda
+argues.
+"The only natural language I understand
+is English," you say. "So how did I get the
+message?"
+"From your computer terminal," Frieda
+points out. "But that doesn't explain what the
+rest of us heard."
+
+=== Step 26: Page 28 ===
+Page 28
+
+Everyone looks mystified. This is getting
+spookier by the moment.
+Apparently Bronze agrees. It's obvious
+that he'd rather think about more concrete
+problems. "Let me go check out the dam-
+age," he offers. In a moment he's back, look-
+ing like he came in ninth out of 10 in a cross-
+country ski race. "Two of our packs were hit."
+"What did we lose?" Frieda asks.
+"The gifts we were going to give to the
+natives, and some of our food. We're going to
+be on short rations from now on."
+"Oh, no," Frieda exclaims, "not the gifts!
+I was counting on them to show the local
+tribesmen our goodwill."
+She may be worried about goodwill, but
+you're more concerned about the food when you
+find out that only the dehydrated vegetables and
+a few packets of vitamin pills survived. Even
+the rest of the marshmallows were charred to
+black lumps.
+
+=== Step 27: Page 29 ===
+Page 29
+
+CHAPTER
+5
+When the first gray streaks of dawn invade your
+sleeping bag, you pull the down cover over your
+head and try to go back to sleep. But Frieda
+has a wake-up routine that can't be ignored.
+The crisp mountain air has inspired her to break
+into song. And you quickly discover that she
+has projection that would put a Wagnerian so-
+prano to shame. At least her "Flight of the
+Valkyries" gets you, and probably everyone
+within a lO-mile radius, moving.
+After a quick breakfast of dehydrated
+spinach and butter beans, you're on the trail
+again -
+and not looking forward to lunch.
+Bronze is still lead man. And at least
+there's one piece of good news. According to
+his compass readings, there won't be as much
+
+=== Step 28: Page 30 ===
+Page 30
+
+climbing today. Tanzia is due north along a wide
+trail that seems to have been carved out be-
+tween the towering rocks. Compared to yester-
+day, you feel as though you're on an interstate
+highway.
+You've been on the trail about an hour
+when Bronze turns to Frieda with a worried
+look. "It's these compass readings," he ex-
+plains. "They're not holding steady." He passes
+the instrument back down the line to her. "Look
+at how the needle's swinging 45 degrees plus
+or minus true north."
+"I've never seen anything like it," Frieda
+muses. "But in the briefing material there was
+some mention of electromagnetic variations
+before several of the recent disturbances."
+The words are hardly out of her mouth
+when the earth beneath your feet begins to shake
+just as it did during yesterday's quake. But this
+is different. Hovering ominously in the sky
+above your heads is that awfully familiar ap-
+parition. And if it looked angry before, this time
+its expression would freeze boiling water.
+.
+"GIVE BACK THE MAGOR STONE-
+NOW!" it thunders.
+"We haven't got your Magor Stone. We
+don't even know what it is," Arch has ~he nerve
+to answer back.
+But the image doesn't seem to hear.
+"GIVE BACK THE MAGOR STONE,"
+it thunders even more loudly. The mountain is
+
+=== Step 29: Page 31 ===
+Page 31
+
+already trembling, and the vibrations from the
+specter start a small rock slide that quickly es-
+calates into an avalanche. This time there's no
+place to take cover.
+"Quick, into defensive position!" Bronze
+shouts, dropping to his knees and clasping his
+hands over the back of his neck.
+The rest of the team follows suit, though
+your instinct is to curl protectively around your
+computer. The ground is swaying sickeningly
+now. And high above, you hear more and more
+rock breaking loose. You sneak a quick look
+up and then wish you hadn't. A ton of stone is
+tumbling down toward the ACT team. You hold
+your breath, expecting to be crushed under a
+mountain of rubble.
+The slide is within 50 feet of your head
+when a very strange thing happens. Instead of
+continuing to fall straight down, the river of
+tumbling rock deflects sharply away to the right.
+In fact, it looks as if a giant invisible hand is
+pushing it off to the side.
+The ACT team watches in amazement. A
+few stray boulders fall around you, but the main
+slide is on the trail up ahead.
+When the dust settles, Frieda takes stock
+of the situation and makes sure that no one's
+been injured.
+"Did you see what happened?" Bronze
+croaks. "We would have all been killed if
+something hadn't diverted that avalanche."
+
+=== Step 30: Page 32 ===
+Page 32
+
+You take a deep breath. "Do you think
+the apparition saved us?"
+"It may have," Frieda answers, "but re-
+member, it caused the rock slide in the first
+place. Maybe it was trying to give us some kind
+of warning."
+"I guess it's more important than ever to
+get to Tanzia and find out what that Magor
+Stone is," Arch says.
+"But how are we going to do that?"
+Bronze asks, pointing to the right. The trail that
+stretched before you moments ago is now to-
+tally blocked. What used to be an open pass is
+now a five-story mountain of rubble.
+Bronze shakes his head. "We're going to
+have to backtrack. And that means we'll lose
+half a day, at least."
+"Listen," you suggest, "let me try to
+contact ACT. Maybe they have a suggestion.
+Or maybe they've learned some more about the
+appari tion.' ,
+Quickly you get out your computer and
+attach it to an eight-inch antenna dish. But when
+you try to raise the ACT emergency channel,
+all you get is static. The rest of the team hov-
+ers anxiously over your shoulder.
+"It could be that they can't broadcast on
+the regular frequency," Frieda says. "Try
+scanning the range."
+Following her advice, you key in instruc-
+tions for your micro to monitor any activity on
+
+=== Step 31: Page 33 ===
+Page 33
+
+the wideband. At first, there's only noise. But
+suddenly a burst of characters appears on the
+screen.
+TPURM WFII PMSED RSKZFS
+WFRDFK RMK DLUPQ
+WM WFII QMEUPM LPSEIM BLP TPURM
+"I think I've got something," you shout.
+"It looks as if it's in code, but I can tell that
+it's not in ACT format. "
+"Then what is it?" Bronze questions.
+"Do you think it could be generated from that
+specter?"
+"I don't think so," you reply. "Re-
+member, we didn't have any trouble under-
+standing that." You continue to study the
+groups of letters on the screen. Suddenly, you
+know where you've seen something like this
+before. Excitedly you turn to Frieda. "I'd bet
+my new optical disk that this is a BRUTE
+code."
+"Can you break it?" she asks.
+"With the new optical disk, ACT has
+been able to store seven million bytes of pre-
+viously used BRUTE codes. It ought to be
+around here somewhere," you say as you be-
+gin to search through the data base.
+After churning for several minutes, the
+computer supplies you with a decoder pro-
+gram that has a 75 percent match factor with
+the intercept.
+
+=== Step 32: Page 34 ===
+Page 34
+
+Input the following program and run it.
+Enter the coded message. If you can, save the
+program after you've input the coded mes-
+sage. Lines 10, 20, 90, and 140 must each be
+typed as one line on your computer.
+PROGRAM 3
+10 B$="ABCDEFGHIJKLMNOPQRSTUVWX
+YZ ."
+20 A$="TEAMSBCDFGHIJKLNOPQRUVWX
+YZ ."
+30 N$=""
+40 PRINT "ENTER LINE OF MESSAGE"
+50 INPUT M$
+60 L=LEN(M$)
+70 FOR 1=1 TO L
+80 FOR K=l TO 28
+90 IF MID$(M$,I,l)=MID$(A$,K,l)
+THEN 110
+100 NEXT K
+110 N$=N$+MID$(B$,K,l)
+120 NEXT I
+130 PRINT N$
+140 PRINT "MORE MESSAGES TO DECODE,
+Y OR N"
+150 INPUT R$
+160 IF R$="Y" THEN 30
+170 END
+
+=== Step 33: Page 35 ===
+Page 35
+
+IBM
+Apple
+Radio Shack
+Commodore
+Atarl
+PC& 11+
+lie TRS-80 Color
+64
+VIC-20 400/800
+PCjr
+./ V' ./ ./ V
+/
+./
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 112, for changes for
+Atari.
+The results are somewhat disappointing.
+Most of the words look like English, but some
+of the letters still seem to be jumbled.
+Bronze states the obvious: "I can almost
+read the text. But it doesn't make any sense."
+"Maybe they've modified the code from
+the version that I have on file," you muse,
+looking at the garbled output. "It can't be a
+completely new key because too many letters
+are coming out okay. Maybe they've just rear-
+ranged the letters of the key. Let me try."
+List the program and modify it by using
+another combination of the letters in the sub-
+stitution key. Keep trying until you come up with
+a key that will work. If you are stumped, there's
+help on page 113 of the Reference Manual.
+
+=== Step 34: Page 36 ===
+Page 36
+
+Once you get the decoder working on the
+initial intercept, the BRUTE transmission is a
+fountain of information.
+"So now we know for sure that they are
+heading for the valley of Tanzia, too," Frieda
+says.
+Just then another burst of data comes
+through. You decode it and stare in disbelief.
+"BRUTE assault team will gain control of
+Tanzian oracle in 12 hours," it announces.
+"Oracle? Isn't an oracle supposed to pre-
+dict the future?" Arch asks. "Is that what's
+really in the valley of Tanzia?"
+"I thought oracles were just a myth," you
+say.
+"Well, BRUTE assumes it's real enough
+to have mounted a multimillion-dollar expedi-
+tion to get control of the thing," Frieda points
+out.
+"Do you think it has anything to do with
+the specter that keeps appearing?" Arch asks.
+You shrug. "I don't know. But have you
+noticed that the closer we get to Tanzia, the
+bigger and louder the thing gets?"
+"Yes," three voices chime in.
+"And then there's that Magor Stone it
+wants back so desperately," Bronze adds.
+"Could that have something to do with the or-
+acle?"
+Frieda brushes a wayward strand of blonde
+hair back into her bun. "I wish I knew. But it
+
+=== Step 35: Page 37 ===
+Page 37
+
+would be extremely dangerous if BRUTE could
+predict the future. The next step after predict-
+ing the future is controlling it. I hate to think
+what awful plans they could put into effect!
+Now it's more vital than ever that we reach
+Tanzia before they do."
+
+=== Step 36: Page 38 ===
+Page 38
+
+CHAPTER
+6
+You may have gotten some startling informa-
+tion from BRUTE, but it's still impossible to
+contact ACT.
+"I guess we're on our own," Bronze says
+with a sigh. "We might as well start trekking
+back to the last fork in the trail."
+"Wait a second." Arch puts a hand on
+Bronze's arm. "Do you see that gorge over
+there? If we could get across, we'd save a day's
+travel time."
+The team scrambles over to the sheer drop.
+Fifty feet below is swirling white water that
+would put the Colorado River in flood season
+to shame.
+Bronze rolls his eyes. "Even I'm not crazy
+enough to try to swim across that. And with
+
+=== Step 37: Page 39 ===
+Page 39
+
+the compass going wild, we can't even be sure
+that that's the fastest way to go."
+"How would we get across, anyway?" you
+ask.
+"ACT has a new pulley device that I think
+will do the trick, although it's never been tested
+under field conditions. I have it right here,"
+Arch says.
+He starts to rummage through his pack
+when you hear the sound of tinkling bells. In
+the next instant, a small, wiry man dressed in
+a tattered wool shirt and pants steps from around
+a large boulder. As you watch, he shakes the
+bell and calls out "chestaaa, chestaaa, ches-
+taaa ... "
+When he sees the ACT team, he looks as
+surprised as you do and darts around the rock.
+"No, come back," Bronze shouts,
+springing up.
+But before he can sprint down the trail,
+Frieda grabs his arm. "No. Don't scare him
+away. He may be able to give us directions. Sit
+down, everybody; join hands; and sing a slow
+ballad. That's a sign of peaceful intentions in
+this area."
+You've barely joined hands and started the
+first chorus of "Home on the Range" when the
+sound of bells joins the soprano section.
+"He's playing rhythm with us. That's a
+good sign," Frieda whispers.
+Letting go of Bronze's hand, she motions
+
+=== Step 38: Page 40 ===
+Page 40
+
+for the newcomer to join the circle. Soon he's
+sitting around with the rest of you, humming
+along. As the song ends, he turns to Frieda.
+"Chesta?"
+She shakes her head, and they go into a
+game of charades, both of them trying to act
+out words and guess each other's meaning at
+the same time.
+Finally, Frieda turns back to the group.
+"He's looking for his goats," she pants.
+"I could have told you that from the way
+he smells," Arch mumbles.
+Frieda gives him a fierce look. "Quiet.
+You don't want to offend him."
+"But he obviously can't understand a word
+we're saying," Arch points out.
+"Nevertheless, he can catch the tone of
+your voice," she says sternly. With that, she
+turns back and begins speaking gently to the
+goatherder while moving her hands in a series
+of stylized gestures.
+"What are you doing?" Arch questions.
+"Asking directions."
+A few moments later you see her shaking
+her head vigorously.
+"What's the matter?" you ask. "Are we
+going in the wrong direction?"
+"I don't know yet. He's offered to trade
+me two goats for your computer."
+After they get that little misunderstanding
+straightened out, Frieda seems to make a bit
+
+=== Step 39: Page 41 ===
+Page 41
+
+more progress. When she mentions Tanzia, he
+nods his head vigorously and points across the
+gorge.
+Frieda looks excited and keeps gesturing.
+"He says it's definitely the fastest way to get
+there," she relays excitedly. "But he thinks it's
+passable only in winter when the water's
+frozen."
+"That's without the benefit of ACT's new
+pulley system," Arch points out.
+"I wish I had a present for him," Frieda
+murmurs.
+The goat herder seems to have the same
+idea. He picks up a pack, paws through it, and
+throws it on the ground again.
+"Hey, my equipment's in there," Arch
+yells. But before he can stop the guy, two more
+packs have been ransacked.
+"Cut it out," Bronze demands. Despite
+the language barrier, the six-foot-two athlete
+gets his message across. The goatherder drops
+the pack and backs away.
+"Don't!" Frieda cautions.
+But it's too late. The guy has disap-
+peared, leaving most of the ACT team's be-
+longings strewn all over the rocky ground.
+Frieda glares at Bronze. "I wanted to ask
+him some more questions. He didn't quite fit
+into the profile 1 would have expected for this
+area, and 1 wanted to explore the cultural ab-
+normalities."
+
+=== Step 40: Page 42 ===
+Page 42
+
+"You'l\ just have to file that away for fu-
+ture investigation," Bronze counters. "That is,
+if there is a future."
+While Frieda and Bronze talk things out,
+Arch puts together his apparatus. You watch
+as he fires a piton across the gorge with a spe-
+cial air gun. It drills into the rock on the other
+side. The attached line is so thin that you can
+hardly see it. But when he gives it a sharp pull
+with his gloved hand, it holds fast.
+"That flimsy piece of string doesn't look
+like it would even support me, let alone
+Bronze," you say.
+"Looks are deceiving. This stuff is a new
+fiber that's stronger than steel cable," Arch
+answers proudly. "But it's so thin it will cut
+your hands to ribbons if you try to work with
+it manually. That's why ACT has teamed it up
+with a microprocessor.
+"Now I just have to hook up the au to-
+matic breeches-buoy and we're all set."
+"What's a breeches-buoy?" you ask, not
+wanting to sound stupid, but not wanting to risk
+your life on some unknown device, either.
+"It's like one of those canvas slings they
+use to rescue people from burning buildings,"
+Arch explains. "Ours is made of a specially
+treated silk and weighs only eight ounces. Now,
+who wants to go first?" he asks, looping the
+buoy's pulley over the thin strands that now
+cross the gorge.
+
+=== Step 41: Page 43 ===
+Page 43
+
+You've edged to the back of the line, but
+Bronze steps forward jauntily. ''I'm always
+ready to try out a new ski lift," he says. "Let's
+get going."
+Now that you know you're not going to
+be the initial guinea pig, you watch with in-
+terest as Arch straps Bronze into the contrap-
+tion. After asking Bronze what he weighs, Arch
+keys a set of numbers into the microprocessor.
+When he finishes, the pulley starts to move
+smoothly along the rope, taking the breeches-
+buoy and Bronze along with it.
+You watch as the athlete glides across the
+gorge, suspended above the seething, churning
+rapids. Everything seems to be going accord-
+ing to plan when the activation light on the
+microprocessor flickers and then goes off. At
+the same time, the pulley gives a violent lurch,
+and the silk sling rips under Bronze's weight.
+"Help!" he shouts, reaching up and
+grabbing the rope. But the moment after he
+grasps it, he screams again.
+"He's cut himself on that thin line,"
+Frieda gasps.
+And that's not the worst of his problems.
+The light on the microprocessor has flicked on
+again. But instead of moving the breeches-buoy
+forward, it's shaking it back and forth. Bronze
+is hanging on for dear life. As you watch in
+horror you see that the once-taut line is dip-
+ping lower and lower toward the raging river.
+
+=== Step 42: Page 44 ===
+Page 44
+
+"What's happening?" you shout. "Is
+something wrong?"
+"Something's happened to the control-
+ler," Arch moans. "And if someone can't fix
+it, Bronze is a dead man."
+
+=== Step 43: Page 45 ===
+Page 45
+
+CHAPTER
+7
+"Let me have a shot at it," you offer, looking
+for the serial port on the micro's chassis.
+Quickly, you plug in your own portable com-
+puter and run a diagnostic program.
+All the while, Bronze is dipping lower and
+lower toward certain death. But you try to work
+calmly as you analyze the program.
+Input the following program and run it.
+Lines 230, 290, 520, and 540 should be typed
+as one line on your computer. List the program
+and study it to find the bug that causes the
+pulley to move back and forth , rather than for-
+ward. Hint: Look for the line of the program
+that sends the program to the end -
+skipping
+the whole middle part. Change that line. Once
+
+=== Step 44: Page 46 ===
+Page 46
+
+it's fixed, move Bronze and the rest of the team
+across the gorge. For help, consult page /15
+in the Reference Manual.
+PROGRAM 4
+10 ACT$(l)="BRONZE"
+20 ACT$(2)="FRIEDA"
+30 ACT$(3)="ARCH"
+40 ACT$(4)="ORION"
+50 J=1:B=1:Y=2
+60 L$="B" :Z$=" "
+70 CL$="OFF"
+80 CLS
+90 Y=10:GOSUB 710
+100 PRINT "+--------------------+"
+110 BX=2
+120 IF CL$<>"OFF" THEN 210
+130 BX=5
+140 FOR 1=1 TO 10
+150 GOSUB 560
+160 NEXT I: GOSUB 680
+170 FOR 1=1 TO 10
+180 GOSUB 620
+190 NEXT I: GOSUB 680
+200 GOTO 140
+210 GOSUB 700
+220 IF BX<2 THEN BX=2:GOSUB 350
+230 IF BX > 20 THEN BX=20:
+GOSUB 420
+240 Y=5: GOSUB 710
+250 PRINT "ENTER L OR R"
+260 INPUT M$
+
+=== Step 45: Page 47 ===
+Page 47
+
+270 IF M$="R" THEN GOSUB 560
+280 IF M$="L" THEN GOSUB 620
+290 IF (M$="R")+(M$="L")+(L$=" ")
+THEN 210
+300 FOR KK=1 TO 10
+310 PRINT TAB(5) L$
+320 NEXT KK
+330 PRINT "YOU DROPPED",ACT$(J)
+340 END
+350 IF B=O THEN 380
+360 PRINT "AT STARTING POINT
+"
+370 RETURN
+380 PRINT "PICK UP",ACT$(J)
+390 L$=LEFT$(ACT$(J) ,1)
+400 B=1
+410 RETURN
+420 IF B=1 THEN 450
+430 PRINT "HARNESS IS EMPTY"
+440 RETURN
+450 Y=4:GOSUB 710
+460 PRINT ACT$(J)1" MADE IT"
+470 Z$=Z$+L$
+480 Y=10:X=20:GOSUB 720
+490 PRINT Z$
+500 J=J+l:B=O:L$=" "
+510 IF J < 5 THEN 540
+520 PRINT "ALL ACT MEMBERS ON
+OTHER SIDE"
+530 END
+540 GOSUB 700 :PRINT "FETCH
+NEXT MEMBER
+"
+550 RETURN
+560 BX=BX+l
+
+=== Step 46: Page 48 ===
+Page 48
+
+570 Y=10:X=BX:GOSUB 720
+580 PRINT "_@n
+590 Y=11: GOSUB 720
+600 PRINT " "; L$
+610 RETURN
+620 Y=10: X=BX:GOSUB 720
+630 BX=BX-1
+640 PRINT n@_"
+650 Y=11:GOSUB 720
+660 PRINT L$;" "
+670 RETURN
+680 FOR K=1 TO 500: NEXT K
+690 RETURN
+700 Y=l
+710 X=1
+720 LOCATE Y,X
+730 RETURN
+IBM
+Apple
+Radio Shack
+Commodore
+Atari
+PC& 11+
+lie TRs-BO Color
+64
+VIC-20 400/800
+PCjr
+/
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 114, for changes for
+Atari, Apple, Commodore 64 and VIC-20, Ra-
+dio Shack TRS-80 and Color.
+
+=== Step 47: Page 49 ===
+Page 49
+
+Finally, the team is safe on the other side
+of the raging water.
+"I can't understand what happened," Arch
+says. "ACT wouldn't send us out with unre-
+liable equipment -
+or software."
+"It wasn't really the software," you point
+out. "It was the clock in the hardware that was
+out of sync."
+"Maybe that goatherder dropped it when
+he was pawing through the packs," Bronze
+suggests.
+"You know," Frieda says slowly, "the
+more I think about that guy, the more suspi-
+cious I get. His shoes, for example. They should
+have been hand-sewn goatskin, but they looked
+more like Italian leather. And his face should
+have been more lined from exposure to the
+weather." And then her blue eyes widen. "I just
+thought of something. Do you suppose he could
+have been a BRUTE agent sent to sabotage our
+equipment?' ,
+"We may never know," Arch says. "But
+there's no time to sit around worrying about
+it. We've got to get to Tanzia."
+After a surprisingly tasty lunch of mashed
+carrots and rutabaga, you start to climb again.
+But things aren't any better on this side of the
+gorge. In fact, the terrain is getting more
+treacherous with every step you take. And if
+that's not enough, an icy wind starts whipping
+around the side of the mountain like a small
+
+=== Step 48: Page 50 ===
+Page 50
+
+hurricane. Your fingers have gone numb, and
+several times you lose your handhold. Only the
+line attached to the team members on either side
+of you keeps you from blowing away.
+To the right and left you can hear Frieda
+and Arch panting hard. "Altitude," Arch gasps.
+"It's really getting to me."
+You nod your agreement. Every breath is
+such a struggle that you don't have any left over
+for conversation. What's more, every gasp you
+draw into your lungs is so cold that you feel as
+though you're breathing icicles.
+"1 thought it was supposed to be summer
+around here," Bronze groans, wrapping a T-
+shirt across his nose and mouth to cut the wind.
+"It is summer -
+that's why ACT didn't
+issue us any thermal gear. Maybe that appari-
+tion is behind this, too," Frieda sighs. "I just
+hope it doesn't snow."
+You look up in the sky, afraid of what you
+. might see. But you see only gray clouds and
+hear the howling wind.
+Freezing rain soon follows. The icy water
+cuts straight through your lightweight cloth-
+ing. You shudder to think what would happen
+if the team weren't linked together by safety
+harnesses. Too bad ACT hadn't anticipated
+weather like this. It's a good bet you can't
+survive much more.
+You can see less than a yard in front of
+you. When Bronze stops suddenly, you bump
+
+=== Step 49: Page 51 ===
+Page 51
+
+into him. Arch and Frieda pile into the back of
+you.
+"What is it?" she questions from the rear
+of the line.
+"Look up ahead." Bronze points excit-
+edly.
+At first you don't see anything, and you
+wonder if he's suffering from exposure. Then
+your eyes focus on a shaft of sunlight cutting
+through the gloom like a beacon.
+"I hope it's not a mirage," you whisper.
+But as the team staggers forward, the light
+seems to grow stronger. In a few moments,
+you're facing a crevice in the gray rock. On
+your side of the natural wall, the temperature
+is way below freezing, and it's dark as a
+moonless night. But only a few feet away,
+through this rugged portal, you can feel warmth
+and see the gleam of sunlight.
+"This can't be the valley of Tanzia. It's
+not in the right place," Bronze says.
+"Who cares about that?" you shout above
+the raging wind. "At least we can thaw out."
+Taking a deep breath, you squeeze through the
+entrance. The rest of the team follows. Soon
+you're all on the other side -
+weak with
+disbelief.
+It's as though you've stepped from the
+Arctic night into a warm, sunny Roman spa,
+complete with pools of heated water, fruit trees,
+and grape arbors. In the perfumed air you hear
+
+=== Step 50: Page 52 ===
+Page 52
+
+the strains of a lyre. Off to the right, you see
+the white Ionic columns of what looks like the
+entrance to a temple.
+"This place can't be for real," Arch says.
+But as he speaks, he's already throwing off his
+pack and flopping down on the beautifully
+manicured lawn .
+. Bronze wanders over to a nearby tree and
+pulls off a ripe peach. The juice runs down his
+chin as he takes a bite. "This is like nectar of
+the gods," he marvels.
+"Maybe you'd better not eat it," Frieda
+warns. "All of this could be a trap. It just
+doesn't make sense that it's here. Maybe we
+ought to have a look around before we relax."
+You know that she's reciting chapter and
+verse from the ACT operations manual. But you
+just can't resist the temptation to pick a bunch
+of dark red grapes and rest your aching feet.
+"I'll be ready for active duty again in a
+few minutes," you apologize, flopping down
+beside Arch and offering him half the grapes.
+After the freezing rain outside, the warmth in
+here is making you drowsy. Even Frieda can't
+keep her guard up. She picks several apricots
+and joins you on the grass.
+Your eyes are just about to close when a
+flicker of movement at the front of the temple
+catches your attention. Before you can push
+yourself to a sitting position, five men appear
+on the steps. And they don't exactly fit your
+
+=== Step 51: Page 53 ===
+Page 53
+
+profile of a welcoming committee. They're just
+as dirty and disheveled as the ACT team, but
+they've all got the hard, disciplined look of
+mercenary soldiers. The effect is particularly
+chilling because they're each carrying a shiny
+black rifle. And they're pointing those deadly
+weapons right at you.
+
+=== Step 52: Page 54 ===
+Page 54
+
+CHAPTER 8
+Your throat is tight with panic. Only Frieda
+seems to have guts enough to challenge this
+dangerous-looking squad.
+"Who are you and what's the meaning of
+this?" she demands, drawing herself imperi-
+ously to her feet.
+"Who do you think we are, lady, the Girl
+Scouts?" the head honcho sneers. "We're a
+crack BRUTE assault team, and you've just
+reached the end of your little trek."
+In case you had any doubts, one of them
+steps forward and calls, "Chestaaaa, ches-
+taaa," then laughs uproariously. It's the
+"goatherder," in wolf's clothing now. "You
+ought to have seen them playing ring-around-
+the-rosy with me," he tells his buddies. "But
+
+=== Step 53: Page 55 ===
+Page 55
+
+then, compared to us, ACT never did graduate
+from the sandbox set."
+Well, the mystery of the malfunctioning
+breeches-buoy is solved. But it doesn't look as
+if it's going to do you much good.
+"Too bad you got across that gorge after
+all," the fake goat herder taunts. "It makes us
+have to go to all the trouble of shooting you."
+"Say your prayers, ACT," the chief goon
+orders. Raising his gun, he gives the order to
+fire. Instinctively, you squeeze your eyes shut.
+But the rifles never fire.
+Are they playing games? you wonder. You
+open your eyes to see that the BRUTEs are
+clicking madly away with their rifles, but
+nothing is happening. And they look just as
+mystified as you.
+Arch recovers first. "Their guns aren't
+working," he shouts.
+Nobody has to tell you to dive for your
+ACT standard-issue pistol. But when you pull
+the trigger, it doesn't work either.
+"What do we do now, Flint?" one of the
+BRUTE team shouts to their leader.
+"This," he growls, throwing down his gun
+and advancing menacingly in your direction.
+"If we can't shoot them, we'll tear them apart
+with our bare hands."
+Bronze steps forward. "I'll handle him,"
+he shouts, "and this one, too." In the next
+second, his foot flashes out, and Flint hits the
+
+=== Step 54: Page 56 ===
+Page 56
+
+grass. But he bounces up again like a prize-
+fighter, and the other BRUTE is on Bronze, too.
+You don't have time to watch them go an-
+other round, however. You're suddenly in the
+ring yourself.
+The goatherder lunges for you. Although
+he's small, he's strong as coiled steel. And that
+essence of goat he's still wearing could knock
+you out all by itself.
+Unfortunately, the BRUTE commandos
+have the upper hand. They've got a whole ar-
+senal of dirty combat tricks, and they've ap-
+parently been in this refuge long enough to get
+their second wind. You don't know about the
+rest of the team, but as you give the goatherd-
+er everything you've got, you can feel your
+muscles weakening and your breath burning in
+your chest. He goes for your throat again, and
+you know that you've got no choice. You've got
+to keep on fighting for your life.
+The goatherder has you down on the
+ground, and his hands are just closing around
+your windpipe when thunder rumbles overhead
+and a bolt of lightning singes the grass three
+feet away. It catches your assailant's atten-
+tion -
+and everyone else's.
+"What -
+?" Flint starts to demand, but
+the question freezes in his throat.
+The apparition is back with a vengeance.
+This time it's standing on thin air above the
+temple -
+bigger than it's ever been before. The
+
+=== Step 55: Page 57 ===
+Page 57
+
+thing's now 50 feet high and glowing fire-red.
+"VIOLENCE IS FORBIDDEN," it rum-
+bles in a voice that makes the ground shake.
+The ACT and BRUTE teams gape as it
+floats down from the temple and hovers above
+the field of combat.
+"RETURN THE MAGOR STONE," it
+orders.
+"What Magor Stone? We don't even know
+what the Magor Stone is," you shout back.
+"We don't have it, either," the BRUTE
+captain adds. "But just for information pur-
+poses, what happens if no one hands it over?"
+This is the first time the specter has ever
+recognized a response. But you don't find its
+answer comforting:
+"IF THE MAGOR STONE IS NOT RE-
+TURNED, YOU WILL ROT HERE FOR ALL
+ETERNITY.' '
+
+=== Step 56: Page 58 ===
+Page 58
+
+CHAPTER
+9
+The appantIOn vanishes. But its awful threat
+still hangs in the air. Somehow the fight be-
+tween your side and the BRUTE team just
+doesn't seem worth continuing. And you don't
+particularly want to find out what will happen
+if you break the specter's commandment.
+With thoughts of fleeing, everyone turns
+back toward the crevice in the rock. Right be-
+fore your eyes it starts to shimmer. In the next
+instant, the opening fuses into the wall of solid
+rock.
+One of the BRUTEs jumps up and rushes
+over to the spot where the opening used ·to be.
+You see him run his hands frantically over the
+gray rock. "You're wasting your time, Dirk,"
+the BRUTE leader calls. "It's obvious that no
+one will be leaving by that route." Somehow
+
+=== Step 57: Page 59 ===
+Page 59
+
+you knew all along that the specter was capa-
+ble of making good its threat.
+As if by mutual agreement, the two fac-
+tions separate into huddles at opposite ends of
+the lawn.
+"I think BRUTE's lying about not having
+the stone," Arch hisses.
+"Obviously," Frieda agrees. "But our
+main concern has to be getting out of this place.
+We've got to continue our mission. And I cer-
+tainly don't want to spend eternity -
+no mat-
+ter how short it might be -
+with BRUTE."
+"What are our alternatives?" Bronze asks.
+"That specter knows it's got us trapped."
+"Yes, but maybe if we can get BRUTE's
+cooperation, we can all get out of here."
+"How can we trust those goons?" Arch
+asks skeptically.
+"In the long run, we can't," Frieda ad-
+mits. "But if it's to their advantage to form a
+temporary alliance with us, you can bet your
+ACT code book they will."
+You glance over in BRUTE's direction. As
+if to confirm Frieda's words, you see a dirty
+white sock hoisted aloft on the end of a bay-
+onet. "I think Frieda's right," you observe.
+Your leader straightens up and takes a step
+toward them. "All right, let's talk deal," she
+calls out.
+Flint steps out of his circle. "I think we
+have an offer you can't refuse. Let's call a truce
+
+=== Step 58: Page 60 ===
+Page 60
+
+and work together to get out of here."
+Frieda pretends to consider the offer.
+"Why should we cooperate with you?" she
+asks.
+"Because it's your only hope. If we pool
+our strength and our brain power, we can ex-
+plore every inch of this place and find a way
+out ... if there is one."
+In your gut you know that you can trust
+BRUTE about as far as Red Riding Hood could
+trust the wolf. But they're right. What choice
+do you have?
+While you eye the other team suspi-
+ciously, Flint and Frieda work up a plan of ac-
+tion.
+"Our first assignment is to determine the
+layout of this place," Frieda tells your team.
+"We're going to investigate the ground level.
+BRUTE will climb up and see what's at the top
+of the rocks."
+After an hour, you meet back for a prog-
+ress report. Arch hasn't returned yet, but Frieda
+elects to start without him.
+Most of the news is discouraging. The
+ACT members reporting in have found only
+more fruit trees and a clear underground spring
+that gushes up behind the temple.
+"There's no animal life here," Frieda
+notes, "but we won't starve or go thirsty."
+"That's not going to help us get away,"
+Bronze says.
+
+=== Step 59: Page 61 ===
+Page 61
+
+"We've struck out, too," Flint admits. He
+goes on to explain that the sky at the top of the
+rocks is just an illusion. You're actually inside
+a sealed dome, so going over the top is out of
+the question.
+Just as you're assimilating the bad news,
+you hear Arch shouting, "Come here, I've
+found something!"
+Everyone -
+including the five BRUTEs-
+races to his side. He leads you back around a
+rock outcropping where an archway is defined
+in the rock face. Unfortunately, it doesn't seem
+to lead anywhere. Filling it in is more solid
+rock. But carved into the wall is something that
+looks like a set of words. The only problem is
+that they're as undecipherable as hieroglyph-
+ics. Frieda steps forward to have a closer look.
+You'd like to join her, but since you're the
+smallest one on either team, you're shoved to-
+ward the back of the anxious group.
+"This has some characteristics of ancient
+Sanskrit -
+and also early Incan," Frieda
+muses. "Unfortunately, I had time only for
+ACT's familiarization course in translation. I
+got pulled when Leakey made his last discov-
+ery in the Transvaal."
+You're so intent on trying to think of a way
+to decipher that code that you don't pay any
+attention to the BRUTE contingent until Dirk
+practically knocks you down in an attempt to
+get closer to the carvings.
+
+=== Step 60: Page 62 ===
+Page 62
+
+"Hey," you start to object, and then shut
+up as he points excitedly at one particular
+symbol. It's an octagon the size of a saucer.
+When he touches it, the solid rock inside the
+archway begins to pulse, and a tingly sensa-
+tion runs through your body.
+Everyone jumps back as though they've
+just gotten an electric shock. Dirk takes his hand
+off the octagon. The pulsing and the tingling
+stop abruptly as though a switch has been turned
+off.
+"What was that?" Bronze gasps.
+"I'd say touching that thing has short-
+circuited some sort of electrical device," Arch
+answers. "And I'll bet there's a missing oc-
+tagonal piece that's designed to complete the
+thing properly. But I don't have any idea what
+it is, or even what material to make it out of."
+As he speaks, the members of the BRUTE
+team exchange loaded glances. Then Flint clears
+his throat and turns to Frieda. "You know, we
+have something that just might work," he says
+casually.
+"Oh?" she retorts.
+Dirk rummages in his pack for a moment
+and then pulls out an object that glitters and
+sparkles in the shadows of the rocks. It's an
+eight-sided aqua stone that's one of the most
+beautiful things you've ever seen. What's more,
+it looks like it was cut to fit exactly that in-
+dentation in the wall.
+
+=== Step 61: Page 63 ===
+Page 63
+
+"What's that, and where did you get it?"
+Bronze challenges.
+, 'If you had a BRUTE top security clear-
+ance, we might tell you," Flint gloats. "But
+since you don't, we won't."
+"I'll bet that's the missing Magor Stone,
+the one the apparition has been looking for,"
+you whisper to Frieda.
+She nods. "And who knows what powers
+it has!"
+Flint holds out the stone to Frieda. "Well,
+why doesn't one of your team stick it in the wall
+and see what happens?"
+"Wait a minute," Arch protests. "There
+was already a weak electrical circuit just from
+touching that spot. The person who inserts the
+stone could get electrocuted -
+or worse."
+"Exactly," Flint agrees. "That's why one
+of you is going to do it. And it's going to be
+the shrimp." As he speaks, he slaps the smooth,
+cold gemstone into your hand and pushes you
+purposefully toward the wall.
+
+=== Step 62: Page 64 ===
+Page 64
+
+CHAPTER
+10
+You open your mouth to protest, and then close
+it again. You don't know what will happen when
+you stick that stone in the matching depres-
+sion. But then, anything would be better than
+spending eternity with Flint,- Dirk, and com-
+pany.
+Trying not to tremble, you raise the spar-
+kling octagon and ease it into the opening. As
+you do, your whole body starts to tingle. You
+try to pull away, but the current has you in its
+grip. You can feel every hair on your body
+standing at attention_ Worse, you can see looks
+of horror on your friends' faces.
+"We've got to save Orion," Frieda shouts,
+starting forward_
+Flint grabs her arm and holds her back_
+"Look at the archway," he hisses_ All eyes shift
+in that direction. The space that used to be filled
+
+=== Step 63: Page 65 ===
+Page 65
+
+with solid rock has now become a heavy,
+translucent curtain. Dirk rushes over and tries
+to push his way through. But he simply bounces
+back onto the hard ground.
+"At least something's happened," Flint
+insists. "We've got to see this thing through -
+no matter how many ACT agents die in the
+attempt."
+The current has you too paralyzed to ar-
+gue. And then, to your amazement, you hear
+your computer start to beep. It's hard to make
+your body move, but somehow you reach in
+your pocket for your micro. The minute your
+fingers touch the familiar case, the electric
+current that's holding you captive snaps off.
+Incredulously, you look down at the port-
+able unit. The downline loading light is flash-
+ing. Just like the time the apparition sent you
+that program, something is being downloaded
+into your computer again.
+"What is it?" Frieda whispers.
+"I won't know until I run the program."
+Input the following program and try to run
+it. Lines 30, 50, and 70 must each be typed as
+one line. If you can, save the program.
+PROGRAM 5
+10 DPRINT "TO LEAVE THIS ROOM"
+20 GOTO 50
+
+=== Step 64: Page 66 ===
+Page 66
+
+30 DPRINT nyOU CAN WALK THROU
+GH THE ARCH"
+40 GOTO 70
+50 DPRINT nyOU MUST CARRY THE
+MAGOR STONEn
+60 GOTO 30
+70 DPRINT nAND LIVE TO TELL
+ABOUT ITn
+80 END
+All you get for your efforts is a syntax
+error message.
+"It must be too sophisticated for my ma-
+chine," you guess.
+Thoughtfully, you look at the program.
+"But maybe I can substitute a statement that
+will work on my micro."
+List the program again and study it.
+Substitute a legal BASIC statement where it
+seems appropriate and run the program again.
+See page 116 in the Reference Manual if you
+need help.
+"We're back to square one," you sigh.
+"You've got to have the Magor Stone to walk
+through that archway."
+Flint shakes his head. "ACT is even
+slower than I thought. What do you think that
+glowing octagon is, you dummy?"
+"So all along you've had what that ap-
+parition has been practically killing everyone
+
+=== Step 65: Page 67 ===
+Page 67
+
+to get back," Bronze says. "How did you get
+it, anyway?"
+"It was a gift," Flint shoots back. Then
+his expression grows thoughtful. "Of course,
+this could still be a trap," he muses. Then he
+looks in your direction. "Okay, shrimp, since
+you're still alive, let's see if your luck will
+stretch through that wall. "
+You gulp. Then, without blinking, you
+reach up and pull the stone from its resting
+place in the wall.
+"Don't try any funny stuff if you make
+it through," Flint rasps. "We'll be holding
+your buddies hostage right here."
+You don't bother to remind him that
+everyone is the apparition's hostage. Instead,
+you turn and take a step toward the archway.
+Clutching the stone tightly, you shoulder your
+way into the curtain of what used to be stone.
+You feel as though you're stepping into a
+swirling vat of molasses. And then, suddenly,
+you've broken free to the other side.
+You look back through the archway and
+see the group on the other side quite clearly.
+But it's obvious that they can't see you.
+"Did you make it, Orion?" Frieda calls
+out anxiously.
+"Yes, but you don't have to shout. I can
+hear you perfectly. This thing must be like a
+one-way mirror," you say. "I can also see you
+perfectly. "
+
+=== Step 66: Page 68 ===
+Page 68
+
+"Cut the chatter," Flint orders. "Throw
+back the stone so the rest of us can get out of
+here. "
+You clutch the octagon in your hand. "I
+think we'd better get some things straight
+first," you say.
+"Why, you little double-crosser," Dirk
+growls.
+"I'm not going back on the deal," you
+assure him with a sense of power you've never
+felt before. After all, you've got a crack
+BRUTE team at your mercy. "Do you agree
+that we're going to return the Magor Stone to
+the apparition?" you ask.
+You hear Flint curse under his breath. "If
+that's what it takes to get out of here," he fi-
+nally relents.
+"Good thinking," Frieda shouts through
+the curtain. Then she turns to Flint. "I also
+think you should give your word that there will
+be no more BRUTE dirty tricks."
+"All right, you've got my word on that,"
+Flint agrees quickly.
+"Then we'll alternate," Frieda suggests.
+"The next man through will be a BRUTE team
+member. Then one of us, and so on until
+everyone is on the other side."
+"So toss the stone back in here, kid,"
+Dirk directs.
+You do. As it passes through the arch-
+way, there's a flash of sparks. The glowing
+
+=== Step 67: Page 69 ===
+Page 69
+
+octagon lands at the goatherder's feet. He picks
+it up and walks through. In a few minutes, all
+the captives except Flint have passed through
+the opening in the rock.
+As soon as the ACT team is back to-
+gether, you gather for a quick conference. "I
+know that was risky," Frieda concedes, "but
+we really had no choice. Sometimes the ACT
+regulation against taking a life makes things
+pretty tough."
+No one is watching as Flint steps through,
+and he takes advantage of it at once.
+"Okay, the party's over, ACT," he says.
+"You thought you could make us look like
+fools, but the last laugh's on you."
+You whirl around to see the BRUTE team
+pointing their weapons at your huddle. To let
+you know the guns are working, Fiint fires a
+shot above your heads.
+"You gave your word," Frieda says.
+"I had my fingers crossed behind my
+back," he sneers. "Stupid of you to trust us."
+You watch in dismay as the goatherder
+pulls a length of rope from his pack.
+"We could kill you," Flint says. "But I
+think it would be more fun to let you die of
+exposure -
+while we take the Magor Stone
+and capture the power of the oracle."
+
+=== Step 68: Page 70 ===
+Page 70
+
+CHAPTER
+11
+With Flint holding a gun on you, Dirk begins
+to wind the rope painfully around your wrists.
+Frieda, Bronze, and Arch are all getting the
+same treatment.
+The BRUTEs are so intent on what they're
+doing that they don't see the archway behind
+them start to glow and pulse with new energy.
+The translucent curtain begins to coalesce into
+a new shape.
+Before your eyes a familiar image forms.
+It's the specter. And though it still shimmers
+around the edges, this time it's more solid and
+real than you've ever seen it. When it claps its
+hands together, the whole mountain shakes from
+the vibrations.
+
+=== Step 69: Page 71 ===
+Page 71
+
+Flint and the other BRUTEs whirl around.
+"Those who defiled the Magor Stone must
+atone," it thunders.
+With a sick feeling in your stomach, you
+wonder exactly what he considers 4efiling the
+stone. Was taking it through that archway for-
+bidden?
+The BRUTE team have dropped their ropes
+and formed into a defensive knot around Flint,
+who is still holding the stone.
+"They're the ones who took it," he
+shrieks, pointing at you. "We were only
+bringing it back to the valley of Tanzia where
+it belongs."
+Waves of menacing energy pulse over the
+form of the apparition.
+"LIES," the specter rumbles. "Return the
+stone."
+This time, Flint doesn't seem to have any
+choice. His muscles twitch with the effort to
+hold on to the treasure he was willing to kill
+for. But an invisible force pries his fingers open
+and tears the stone from his hand. Wide-eyed,
+you watch as it sails through the air in the di-
+rection of the ACT team. Bronze automatically
+reaches up and catches it.
+But that's not the end of the specter's
+performance. The winds around you begin to
+howl. Suddenly the BRUTE team is pulled back
+toward the archway where the apparition is
+
+=== Step 70: Page 72 ===
+Page 72
+
+standing. To your amazement, the BRUTE
+members pass right through the specter's im-
+age and back into the prison from which you
+just escaped. You see them hit the ground on
+the other side and then lie there gasping.
+"Those who defiled the Magor Stone de-
+serve to rot here for eternity," the specter re-
+peats.
+As the fearful apparition turns back in your
+direction, it's hard to keep from trembling. Now
+that he's taken care of the BRUTEs, what's he
+got in mind for you? But his next words aren't
+the sentence of doom you've been fearing. "I
+am LoDar, one of the guardians of Tanzia. I
+have been watching everything that occurred
+in this place. You who are honorable will bring
+the stone to the sacred valley."
+You look at the mountains ahead and
+wonder how you're going to accomplish that
+task. Tanzia is still a hard trek away. And you're
+in worse shape than you were when you started
+this journey. But the specter has an alternate
+solution.
+Suddenly you feel the force of a tornado
+grab you. Looking fearfully at your comrades,
+you realize that the whole ACT team has been
+caught in the grip of the same whirlwind that
+took care of the BRUTE team. But instead of
+sucking you back through the archway, it
+picks you up, up, up. Before you know it,
+
+=== Step 71: Page 73 ===
+Page 73
+
+you're flying high above the m0!lntain.
+And then you're being propelled forward
+at a speed that plasters the hair to your head
+and makes your jacket whip around you like a
+flag caught in a gale.
+It's the ride of your life. Snow-capped
+mountains and gemlike valleys spread around
+you for miles. It's like flying on the back of an
+. eagle -
+or being one yourself. You glance over
+at Frieda and see the same exhilaration on her
+face.
+Ahead, you can see a small valley
+shrouded in low mist. The whirlwind brings you
+gently down through white, hazy layers. It's as
+though gauzy veils are being pulled away, re-
+vealing unimaginable beauty. You catch
+glimpses of sparkling golden temples, lakes as
+clear as sapphires, and brilliant flowers
+blooming everywhere.
+If the valley where you and BRUTE were
+trapped was lush, this place looks like Mount
+Olympus, where the ancient Greek gods lived.
+You glance around in awe at the formal
+buildings and carefully laid-out gardens. You
+never imagined a place like this existed on
+earth. As if to complete the picture, a giant of
+a man comes striding toward you along a wide
+marble walkway. He's dressed in a flowing
+white toga trimmed in purple. Golden sandals
+adorn his feet, and on his head is a wreath of
+
+=== Step 72: Page 74 ===
+Page 74
+
+olive leaves. But it's his face that rivets your
+attention. You've seen that hawklike nose and
+those piercing eyes enough times to know he's
+the specter who's been haunting your journey.
+Automatically, you shrink back. But as he
+comes forward in the sunlight, somehow the
+flesh and blood rendition isn't as menacing as
+the image you've seen projected everywhere
+from your computer terminal to the sky itself.
+"Welcome to the valley of Tanzia," he
+greets the ACT team. His voice is the same one
+you've been hearing, too. But now that it's no
+longer amplified, it's taken on a fatherly qual-
+ity. "There is no need to fear LoDar the
+Guardian," he assures you. "And now, give
+me the Magor Stone."
+Bronze tiptoes forward to hand it over.
+Even the brawny athlete must look up a good
+foot to the guardian's face. With a hand that
+trembles only slightly, Bronze offers the spar-
+kling ·octagonal stone in an upturned palm.
+You're fascinated at the reverence with
+which the guardian accepts it. For a moment,
+he holds the stone cupped in his two hands and
+intones a strange, sibilant chant.
+Then LoDar looks down at the ACT team.
+"By returning the Magor Stone, you have made
+it possible to save the world from certain de-
+struction. However, a task far more dangerous
+than any you've encountered up until now awaits
+
+=== Step 73: Page 75 ===
+Page 75
+
+you. We must put the stone back in the great
+strum room if everything is to be set right. I
+must ask that you risk your lives once again -
+for if we fail in our attempt, the earth itself will
+perish."
+
+=== Step 74: Page 76 ===
+Page 76
+
+CHAPTER
+12
+The guardian leads the way down an avenue
+paved with marble and lined with poplar trees.
+At its end glitters a majestic, domed structure
+even grander than the other buildings in the
+valley.
+Its door glides open as the ACT team and
+LoDar approach. "You are the first mortals to
+enter here," he says as he ushers the four of
+you solemnly across the threshold. There are
+no windows, but everything inside is suffused
+in a vivid blue glow.
+"We must pass through the halls of tech-
+nology before we reach the strum core," he
+says, leading the team past what looks like
+museum displays. Frieda's eyes widen as she
+
+=== Step 75: Page 77 ===
+Page 77
+
+takes in priceless exhibits of ancient abacuses,
+sun dials, and other counting and measuring
+devices. When you get to Charles Babbage' s
+first gear-driven "computer," you're the one
+who drags his feet. Arch, too, seems as-
+tounded by the wealth of technology on dis-
+play, but the guardian hurries all of you forward.
+What's ahead is even more intriguing. The
+next displays feature first-generation com-
+puters with vacuum tubes and transistors that
+you've only read about in books. Then come
+more current machines with solid-state circuit-
+ry and silicon chips. As you near the end, you
+catch a glimpse of the portable ACT model
+that's hanging from your belt. And then your
+eyes pop as you see what must be the com-
+puters of the future. You could spend weeks
+soaking up all this stuff.
+But LoDar urgently presses you forward.
+"Thousands of years of technology are repre-
+sented here. Yet all they have done for man-
+kind will be for naught," he explains, "if we
+do not insert the stone in its proper place." You
+know he's not talking about just the machines
+preserved in this room, but about all the prog-
+ress humans have made since the discovery of
+the wheel.
+In the heart of the building is a spherical
+enclosure about the size of a planetarium. The
+outside is as smooth and featureless as a gi-
+gantic ball bearing.
+
+=== Step 76: Page 78 ===
+Page 78
+
+The guardian stands in front of a section
+of the curved wall and speaks a few low syl-
+lables. The wall parts for the five of you to en-
+ter. Once you're inside, it closes again.
+There's a hushed silence from the whole
+ACT team. Suddenly you feel as though you've
+entered a huge blue crystal. There are small
+octagonal pieces all over the curved walls and
+ceiling. At first glance, each of them resem-
+bles the Magor Stone that LoDar is holding.
+Yet they all lack its special iridescent glow.
+There's more to marvel at here than just
+the octagonal facets. Looking around, you see
+that the walls are moving clockwise. The floor
+is divided into several tracks that are turning
+counter-clockwise at different rates of speed.
+In the exact center of the room is a glowing pit
+of seething blue liquid.
+"Behold the time strum," the guardian
+says reverently, waving toward the boiling pool.
+You peer into the churning depths. From
+the activity of the stuff, you'd expect it to be
+hot. But instead you feel an icy chill wafting
+up from the strum.
+LoDar may be accustomed to looking into
+this seething azure pool, but for you and the
+rest of the team, it's almost hypnotizing. As
+you continue to watch, flickering images fade
+into each other and disappear, only to re-emerge
+a few seconds later. It's almost like a kalei-
+doscope, only the pictures aren't broken up.
+
+=== Step 77: Page 79 ===
+Page 79
+
+Each is sharp and clear and self-contained.
+Many go by so quickly that you're not sure what
+they are. Some stay in focus for a few sec-
+onds. You see Rome burning, pictures of sleek
+missiles blasting off into space, a picture of an
+underwater city that looks as if it's from a sci-
+ence-fiction adventure, cavemen working on a
+wheel, and President Kennedy giving his in-
+augural address.
+"What is all this?" Bronze asks, inching
+closer.
+LoDar puts a hand on his shoulder to hold
+him back from the edge. "That is the time
+strum," he explains. "It is both very powerful
+and very dangerous. It controls time on earth.
+Without the Magor Stone, it is unstable. As you
+can see, the images in time have lost their se-
+quence. We can no longer see the present or
+the future clearly."
+"Is the time strum the oracle that BRUTE
+was trying to take over?" you question.
+"In a sense, though that's a very sim-
+plistic view," the guardian answers. "The strum
+can show the future, just as it can show the
+past. The guardians are only allowed to use its
+power to set the course of human history back
+on the correct path whenever it strays. I shud-
+der to think what would happen if an organi-
+zation as evil as BRUTE tried to interfere for
+their own selfish purposes."
+Everyone has dozens of questions about
+
+=== Step 78: Page 80 ===
+Page 80
+
+the strum's secrets -
+like how did the stone fall
+into BRUTE's hands in the first place? But just
+then the guardian draws your attention to an
+image in the depths of the blue liquid. It's a
+volcanic eruption. And as you watch in horror,
+you see lava flowing over a large city.
+"That scene will become real very soon
+if we do not put back the stone and stabilize
+the strum," the guardian warns. "Initially, it
+took seven guardians to start the room mov-
+ing. It was arrogant to think that work would
+never have to be undone. You must realize that
+you were all brought here for this purpose. The
+guardians have chosen you -
+for you each
+possess a special energy -
+to restabilize the
+time strum. It will take all of our combined ef-
+forts to stop the motion of the strum -
+if it can
+be stopped at all."
+"What do you want us to do?" Frieda
+asks.
+LoDar points to five red circles spaced
+equally around the outer ring of the floor.
+"When I give the signal, Frieda, Arch, and
+Bronze must stand in three of those circles -
+leaving an empty one between each of you. That
+should give me power enough to keep the ac-
+cess panel open, now that the stone has un-
+balanced the system. While I perform that task,
+Orion, our computer expert, must enter the se-
+quence that will stop the turning. Only then can
+the stone be returned to its proper place."
+
+=== Step 79: Page 81 ===
+Page 81
+
+You wonder exactly how that's going to
+be done, but you don't have time to worry about
+your own assignment. You watch as your three
+teammates take their places in the appointed
+circles. Then LoDar walks to a certain spot on
+the moving floor.
+You hold your breath, waiting for what-
+ever will happen next.
+For a few moments, nothing does, and
+you're afraid that LoDar's plan is not going to
+work. But then you hear a low hum. It seems
+to vibrate in the curved walls, then circle the
+trio that stands along its edge. Down at their
+feet you see a red mist of pure energy begin to
+pulse. It grows in intensity, moving up their
+bodies until they are completely enveloped in
+radiant, pulsing red. Flickers of red arc toward
+the center of the room and then return to the
+trio. And then LoDar raises his arms, and all
+the energy just created coalesces in his hands.
+fur a moment he concentrates intently on a spot
+near his feet. The power that entered through
+his fingers now shoots forth in two narrow
+beams from his eyes.
+For a few frantic beats of your heart,
+nothing more happens. And then the tile in front
+of you seems to slowly dissolve, revealing a
+panel with five rectangles. A tiny light under
+each rectangle is illuminated in turn.
+You kneel down to have a closer look and
+see that two of the boxes have exclamation
+
+=== Step 80: Page 82 ===
+Page 82
+
+points and the other three contain numbers.
+"The strum must be fixed now, Orion,"
+LoDar warns, his voice crackling with static.
+"If you don't stop the light under the correct
+boxes, the world will be destroyed."
+
+=== Step 81: Page 83 ===
+Page 83
+
+CHAPTER
+13
+"Listen to me well," he continues in a voice
+low and clear, the static now gone from it. "The
+strum control was designed like a game -
+a
+game that only a mortal with the quickness of
+youth has a chance of winning. This will re-
+quire all your skill and concentration. It's up
+to you."
+Input the following program and run it.
+Lines 100, 270, 320, and 340 must be typed
+as one line on your computer. Now you must
+play the game. In order to stop the strum, a
+player must accumulate at least 100 points. You
+can stop the light by hitting any key on your
+computer. If you hit a key when the light is un-
+
+=== Step 82: Page 84 ===
+Page 84
+
+der "40," you get 40 points; "10," you get 10
+points. BUT if you stop the light under an ex-
+clamation point, you lose, and the world spins
+out of its orbit!
+PROGRAM 6
+10 DIM C(5)
+-20 CLS
+30 C(1)=20:C(3)=40:C(5)=10
+40 B$="ttttttttttttttttttttttttt"
+50 S$=" 20: 1: 40: 1: 10 :"
+60 GOSUB 500: PRINT B$
+70 LY=3: GOSUB 510: PRINT S$
+80 LY=5: GOSUB 510:PRINT B$
+90 X=1:Y=3
+100 PRINT "PRESS ANY KEY TO
+STOP STRUM"
+110 LY=4: GOSUB 510
+120 GOSUB 540
+130 IF Y > X THEN 160
+140 PRINT TAB(Y)
+"@"~ TAB (X) " "
+150 GOTO 170
+160 PRINT TAB(X) "
+"~TAB(Y) "@"~
+~170 C$=INKEY$
+/180 IF C$<>"" THEN 230
+190 X=Y
+200 Y=Y+5
+210 IF Y > 25 THEN Y=3
+220 GOTO 110
+230 Z=INT(Y/5+1)
+
+=== Step 83: Page 85 ===
+Page 85
+
+240 IF Z=2 OR Z=4 THEN 340
+250 SUM=SUM+C(Z)
+260 LY=8: GOSUB 510
+270 PRINT "YOU'VE SCORED"iC(Z)i
+" POINTS"
+280 PRINT "YOUR SUM IS"iSUM
+290 FOR 1=1 TO 100: NEXT I
+300 IF SUM )= 100 THEN 320
+310 GOTO 100
+320 PRINT "YOU'VE MASTERED THE
+SECRETS OF THE STRUM"
+330 END
+340 PRINT "EARTH SPINNING OUT
+OF CONTROL FOREVER"
+350 END
+500 LY=l
+510 LX=l
+-- 520 LOCATE LY,LX
+530 RETURN
+_540 SOUND RND*SOO+SOO,5
+~SSO RETURN
+IBM
+Apple
+Radio Shack
+Commodore
+PC& 11+
+lie TR5-80 Color
+64
+VIC·20
+PCjr
+./
+Atarl
+400/800
+This program will run on all personal
+computers checked in the chart above. See the
+
+=== Step 84: Page 86 ===
+Page 86
+
+ReJerence Manual, page 117, Jor changes Jor
+Atari, Apple, Commodore 64 and VIC-20, Ra-
+dio Shack TRS 80 and Color.
+By the time you've accumulated the right
+number of points, you're drenched with sweat.
+The guardian forgot to mention that the light
+started moving faster, the closer you got to the
+necessary score. But to your relief, the strum
+and the rest of the room has stilled. The liquid
+in the blue pool is no longer churning. Now it's
+like a mountain lake on a windless day. And
+the walls and floor are stationary. You've be-
+come so used to the movement of the room that,
+oddly enough, the stillness makes you feel
+dizzy. As you glance over at Bronze, you can
+tell from his expression that he feels the same
+way. But he doesn't move. He and the rest of
+the team seem temporarily paralyzed -
+just as
+you were at the archway in the refuge. Their
+faces have turned deathly white. It's obvious
+that what just happened is still draining energy
+from them. And you know it could be fatal for
+them to continue this way for long. You also
+know that the Magor Stone still has to be put
+back.
+Now that the circular tracks are still, you
+can see a band of particularly vibrant octagons
+along the juncture where the floor and walls
+meet. One of them is missing.
+
+=== Step 85: Page 87 ===
+Page 87
+
+"Orion, return the Magor Stone to its
+proper place," LoDar whispers. "We have only
+a few seconds, or the light sequence will start
+again."
+You don't want to risk the safety of your
+friends -
+or the world -
+with another round.
+of that deadly game. Quickly you glance up at
+LoDar. His face, too, is pale and drawn. You
+realize that even with the energy he's getting
+from the rest of the ACT team, he can't hold
+the panel open much longer. With trembling
+fingers, you push the stone into the matching
+opemng.
+Immediately you're struck by an unearthly
+sensation. The strum room, LoDar, and your
+teammates seem to disappear. For a moment it's
+as though you're suspended in a timeless void.
+Then, suddenly, images from the past few days
+swirl around you like autumn leaves in a
+whirlwind.
+All at once it's as if you're back where
+this adventure started, in your bedroom in front
+of your computer screen, seeing the specter's
+faint image for the first time.
+You reach out to touch the CRT. But it
+vanishes before your eyes. In a millisecond,
+you're back on the trail to Tanzia with the rest
+of the ACT team. You're about to be crushed
+again in that rock slide. But before you have
+time to throw your arms protectively over your
+
+=== Step 86: Page 88 ===
+Page 88
+
+computer, you're in the valley fighting off Flint
+and the rest of the BRUTE team.
+"What?" you gasp.
+"Time is being put right." LoDar's voice
+floats reassuringly around you, even though you
+can no longer see his body.
+There are more snapshots from your re-
+cent past. The pace speeds up and your head
+spins. Finally, it's over.
+You find yourself standing in the strum
+room with your teammates again. The floor and
+walls begin to move slowly. The surface of the
+blue pool in the center begins to undulate like
+a waterbed. It's much calmer than when you
+first came into the room. The boiling images
+of past, present, and future have submerged
+beneath the surface.
+"Wh-what exactly happened?" you hear
+Arch stammer. To your relief, you realize that
+your teammates have at least partially regained
+their strength.
+The guardian smiles kindly. "The miss-
+ing stone caused more than earthquakes and
+other natural imbalances. There were serious
+temporal disturbances as well."
+Suddenly you remember what you had
+been told about time gaps. "Do you mean
+pieces of time were lost?"
+"Exactly," LoDar says. "Their loss was
+making the earth spin faster. But now they have
+
+=== Step 87: Page 89 ===
+Page 89
+
+been restored. Those were the flickering im-
+ages around you."
+"You mean everybody on earth just re-
+lived parts of their lives?" Bronze asks.
+"To some small extent," the guardian re-
+plies. "But the experience was much more vivid
+here in the strum room. On the rest of the earth,
+people probably thought the interlude was a
+daydream. Only we know differently."
+LoDar glances around the room. "You
+have done well, my friends. The world is in
+your debt. Come, let us celebrate our suc-
+cess." As he speaks, a panel in the far side of
+the strum room slides open.
+Suddenly you're standing in the sunlight
+again. LoDar leads the four of you to an open,
+tentlike pavilion set up under flowering plum
+and cherry trees. Inside is a banquet table
+loaded with everything you love to eat.
+"Sit down," LoDar says. He pours all of
+you a cool drink from a golden pitcher and
+proposes a toast: "To the ACT team who saved
+the world."
+You take a sip; it's the most delicious fruit
+punch you ever tasted.
+"Rhine wine!" Frieda exclaims.
+"No, it's Peruvian ale," Arch insists.
+But you know it's just one more thing you
+can't explain about the valley of Tanzia.
+After the drink, you tackle the food. It's
+
+=== Step 88: Page 90 ===
+Page 90
+
+been a draining experience for all of you, and
+you dig in with enthusiasm. You're so hungry
+that you spend your first 15 minutes trying
+everything from roast turkey to strawberries
+Romanoff. Finally, you look up to see that
+LoDar isn't eating anything.
+"Aren't you hungry?" you ask.
+He shakes his head. "We in the valley of
+Tanzia are not like mortals. Our food is a spe-
+cial concentrated nutrient."
+•• And just who are the guardians of Tan-
+zia?" Frieda dares to ask.
+He gives her a patient smile. "The se-
+crets of Tanzia are guarded with our lives.
+However, I think the ACT team has earned the
+right to know."
+You lean forward eagerly. At last you're
+going to find out just what brought you here.
+"The guardians are survivors of an ex-
+traterrestrial civilization that was foolish and
+arrogant enough to destroy itself in a senseless
+conflict," LoDar begins sadly. "Just before the
+final confrontation, a few of us escaped to other
+parts of the universe. We pledged ourselves to
+ensure that the fate of our world would not be-
+fall other planets where life existed.
+"Though we have monitored the destiny
+of earth from the beginning, let me assure you:
+Your achievements have been your own. We
+have taken an oath not to interfere in the day-
+
+=== Step 89: Page 91 ===
+Page 91
+
+to-day affairs of human beings. Only when it
+seems that you are about to steer a path toward
+total destruction or miss an opportunity to bet-
+ter life on earth have we stepped in."
+Frieda is particularly struck by his words.
+"I want to understand this better," she says
+carefully.
+The guardian nods. "There have been
+crucial turning points in your history when the
+wrong outcome would have spelled disaster.
+What would have happened if man had not
+gotten control of fire, if Jenner had not dis-
+covered the smallpox vaccine, if Abraham
+Lincoln had not been elected President?"
+"But Lincoln was assassinated -
+what
+about that?" you ask.
+"As I said, we have kept our interference
+to a minimum," he answers. "Although Lin-
+coin's assassination was a senseless waste, the
+course of history had already been assured."
+LoDar's revelations give you a spooky
+feeling. And they raise more questions than they
+answer.
+"There are still some things I don't un-
+derstand." Arch speaks for the rest of the
+group. "How have the guardians managed to
+survive for thousands of years?"
+LoDar turns to him. "A good question.
+There are only a few of us here on earth. And
+although our lifespan is many times longer than
+
+=== Step 90: Page 92 ===
+Page 92
+
+yours, we could never have carried out our task
+for so long without the aid of special cham-
+bers. After the first crucial century here, we
+used them to put ourselves into a suspended
+state -
+much like hibernation. Most of us are
+in those chambers now. It is my turn to keep
+the watch for this century."
+"You mean only one of you is awake at a
+time?" Bronze asks.
+"Yes," LoDar replies. "The system has
+worked for thousands of years -
+until very re-
+cently. Bymak, the guardian who was sup-
+posed to be on duty now, was affected by some
+freak malfunction in his slumber chamber."
+Bymak. You remember that name. He's
+the one who took the Magor Stone to BRUTE.
+"From what I can piece together," LoDar
+continues, "his lapses were intermittent at first.
+But they were enough to allow the world to
+teeter on the edge of destruction.
+"You must know that during the last 50
+years, the world situation has become more
+dangerous than it's ever been before. Think
+about the evil of Hitler, the Iron Curtain, the
+Vietnam conflict, and the threat of nuclear
+war."
+"You mean all that's his fault?" Bronze
+whispers.
+LoDar shakes his head. "No, mankind
+made its own mistakes. But Bymak did noth-
+
+=== Step 91: Page 93 ===
+Page 93
+
+ing to prevent them. And when his condition
+worsened, he did something that set the world
+on a path toward certain destruction."
+"He took the Magor Stone out of the
+strum," you say slowly.
+LoDar nods. "And luckily that set off an
+alarm that awakened me. But by the time I was
+in full possession of my faculties, Bymak had
+left with the stone and fallen into BRUTE hands.
+With the stone gone, I could no longer see
+clearly. That's why I didn't know which team
+coming toward me had the stone."
+"Did BRUTE kill Bymak?" Arch asks.
+"They didn't have to. This valley is sur-
+rounded by a special protective shield. Once
+Bymak was out of its influence,he aged ra-
+pidly and died."
+LoDar has given you quite a bit to think
+about.
+"We're honored that you trust us with
+such awesome information," Frieda murmurs.
+LoDar turns to her and smiles. But there's
+something about the look in his eyes that sends
+a shiver up your spine. "It's a trust I must make
+sure you keep," he says. "Now that you know
+the secrets of Tanzia, you must remain here.
+But I do promise to make the rest of your lives
+very pleasant and comfortable. For example, I
+can give you unlimited access to the hall of
+technology.' '
+
+=== Step 92: Page 94 ===
+Page 94
+
+You had wanted to explore that fabulous
+place -
+but not forever! There are a lot of other
+things you want to do with your life as well.
+Bronze puts your objections into words.
+"You can't do that," he protests. "I'm still in
+training for the next Olympics."
+The guardian shakes his head sadly. "I'm
+afraid your life as you knew it is over. You must
+live out the rest of your days here in Tanzia."
+
+=== Step 93: Page 95 ===
+Page 95
+
+CHAPTER
+14
+You're trying to come to grips with this last
+distressing piece of information when a jolt -
+something like the disturbances of the time
+strum -
+hits the banquet pavilion. Chairs tip,
+and food and drink spill everywhere.
+"What's happening?" Arch groans from
+where he landed under the table.
+"Didn't putting back the Magor Stone fix
+all this?" you ask.
+"I can't understand it," LoDar says. "It
+should be functioning properly. I must check
+the strum room at once."
+Unsure of what technical problems might
+have cropped up, he takes you with him. The
+two of you head for the domed building where
+the strum is housed. But when you and LoDar
+
+=== Step 94: Page 96 ===
+Page 96
+
+step inside the familiar round enclosure, you
+can't help gasping. Standing along the edge of
+. the dangerous blue pool is the BRUTE contin-
+gent you thought you'd never see again.
+"How did you get out?" you demand,
+about to rush forward. But LoDar puts a firm
+hand on your shoulder. "While they command
+the strum room, we dare not evoke violence,"
+he whispers.
+Flint grins evilly as he answers your
+question. "The world went spinning, and all
+of a sudden we were outside that trap and
+looking down on this valley. Convenient,
+wouldn't you say? It was so nice of you to show
+us where you'd put the stone. We watched you
+leave this building and then waited till you were
+having your little picnic before we slipped in
+here."
+You glance at LoDar, but you already
+know what's happened. The BRUTE team must
+have escaped during the time-restoration epi-
+sode right after you put the stone back.
+"It was a hard trip, but it was worth it in
+the end," Flint gloats. "Now the power of the
+stone is ours."
+"Move inside," he says, gesturing with
+his gun. "And stay out of the way while we
+try to figure this thing out."
+Silently, you and LoDar obey. "Can't we
+do anything?" you whisper.
+He shakes his head. "Violence is forbid-
+
+=== Step 95: Page 97 ===
+Page 97
+
+den here. We cannot use force. We can only
+wait."
+You feel helpless. If BRUTE makes the
+wrong move, the whole human race could dis-
+appear in one terrible earthquake. But what can
+you do? You rack your mind as you watch Flint
+and his men explore the inner circle that re-
+volves around the strum. They're so entranced
+by the pictures they're seeing in the strum's
+depths that they seem to have forgotten you're
+even in the room.
+Maybe that gives you an advantage, you
+think. And then you notice exactly where you're
+standing. The access panel to the room's con-
+trols is only inches from your foot. You know
+there is a way to stop the strum room, so there
+should be a way to speed it up as well -
+and
+make the BRUTEs so dizzy that they fall off.
+Quickly you whisper your plan to LoDar.
+He nods. "That makes sense, Orion," he
+agrees. "But I can't help you do it. Even that
+small act would be against our creed. All I can
+do is let you try."
+"But it took a lot of power to open it be-
+fore," you say, suddenly scared. "You've got
+to do it for me again."
+"I did it then because the crucial stone
+was missing. Now you can do it for yourself."
+So it's up to you to save the world. Trying
+to keep your hands from trembling, you touch
+the access panel. It slides open wider than it
+
+=== Step 96: Page 98 ===
+Page 98
+
+did before. Now you see not only the blinking
+control lights you used to stop the strum, but
+also a key pad and miniature screen. It looks
+amazingly like a modern computer. But then,
+why not? The guardians have apparently been
+seeding today's technology all along.
+After glancing quickly over your shoulder
+to make sure Flint and his men are still occu-
+pied, you call for a listing of the control pro-
+gram and study it.
+Input the following program and run it.
+See if you can find the variable that controls
+the speed of the inner circle of the strum room
+floor. You must change it to a value that will
+be fast enough to throw the BRUTEs out with-
+out sending the strum into a destruction se-
+quence. Lines 160, 170, and 190 must each be
+typed as one line on your computer.
+PROGRAM 7
+10 CLS
+20 B$="»»»»»»»>"
+30 D$="«««««««<"
+40 GOSUB 600: PRINT B$
+50 Y=3: GOSUB 610: PRINT D$
+60 PRINT "ENTER SPEED SETTING"
+70 INPUT SP
+80 IF SP > 92*5*2 THEN 190
+90 IF (SP> 400)*(J>500) THEN 160
+
+=== Step 97: Page 99 ===
+Page 99
+
+100 IF BX >=14 THEN GOSUB 640
+110 GOSUB 500
+120 IF DX <1 THEN GOSUB 670
+130 GOSUB 540
+140 J=J+1
+150 GOTO 90
+160 FOR M=l TO 10: PRINT "B":
+NEXT M
+170 PRINT "BRUTE HAS FALLEN
+INTO STRUM"
+180 END
+190 PRINT "THE SPEED HAS SEND
+THE EARTH OUT OF ORBIT"
+200 END
+500 BX=BX+1
+510 Y=l:X=BX:GOSUB 620
+520 PRINT ">*"
+530 RETURN
+540 Y=3: X=DX:GOSUB 620
+550 DX=DX-1
+560 PRINT "*<"
+570 RETURN
+580 FOR K=l TO 2000 -SP: NEXT K
+590 RETURN
+600 Y=l
+610 X=l
+620 LOCATE Y,X
+630 RETURN
+640 GOSUB 600
+650 BX=l
+660 RETURN
+670 Y=3:GOSUB 610
+680 DX=14
+690 RETURN
+
+=== Step 98: Page 100 ===
+Page 100
+
+IBM
+Apple
+Radio Shack
+Commodore
+Atari
+PC& 11+
+lie TR5-80 Color
+64
+VIC·20 400/800
+PClr
+V
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 120, for changes for
+Atari, Apple, Commodore 64 and VIC-20, Ra-
+dio Shack TRS-80 and Color.
+You've done it. The floor adjacent to the
+strum begins to speed up. It makes you dizzy
+just watching. But the BRUTEs who are
+trapped on the moving ring don't have a chance.
+You watch as they try to stand and get away.
+Instead, they are pulled by centrifugal force
+toward the strum center. One by one, they
+tumble into its blue depths. There's a mighty
+shockwave as each man is sucked down and
+disappears.
+"Where did they go?" you gasp.
+"Each of them has been absorbed into a
+different era of history," the guardian ex-
+plains.
+"But I didn't know that was going to
+happen. Can't we get them back?" you ask,
+panic-stricken. "It's bad enough coping with
+
+=== Step 99: Page 101 ===
+Page 101
+
+BRUTE in the present. There's no telling what
+they might do in another time."
+LoDar shakes his head. "There's no way
+to call them back. We must be content that we
+have saved the world today. I know it's a hard
+concept to grapple with, but if they've gone into
+the past, we have already dealt with them. And
+if they're in the future, we will have to be pre-
+pared to thwart them with the help of the
+strum."
+LoDar waits while you reset the floor's
+speed control back to normal. Then the two of
+you leave the strum room once more.
+Outside the chamber, you find the rest of
+the ACT team waiting anxiously.
+"What happened?" Frieda questions.
+"It was BRUTE," you tell her. "They got
+out of the refuge when the time less was being
+restored."
+Arch looks confused. "Then where are
+they now?"
+"They decided to delve a little deeper into
+history," LoDar explains.
+You glance in his direction, realizing it's
+the first time you've heard this solemn guard-
+ian make a joke. Quickly, he describes exactly
+what happened.
+Though you're all glad that doom has been
+averted, you're still worried about what LoDar
+told you just before BRUTE took over the strum
+
+=== Step 100: Page 102 ===
+Page 102
+
+room. Tanzia is a nice place to visit, but you're
+not so sure you want to live here permanently.
+So the guardian's next words make you
+so happy you feel as though it's Christmas and
+your birthday all rolled into one.
+"That near-catastrophe with those BRUTE
+evildoers in the strum room has given me
+something to think about. Earlier I told you that
+I could not let you leave Tanzia. But now I re-
+alize it would be unfair and unwise to make you
+stay."
+"What do you mean?" you ask, hardly
+daring to hope that he's changed his mind.
+"I see now that the power of ACT is nec-
+essary to keep the evil of BRUTE from over-
+whelming the world. If I removed four such
+courageous ACT members from its rosters, I
+would be crippling the organization's heroic
+efforts. More importantly, it would not be fair
+to make you live out your lives here in the sol-
+itude of Tanzia."
+"But you said the knowledge of Tanzia
+had to be guarded," Frieda says. She would
+remind him, you think.
+"Indeed, but I can remove that knowl-
+edge from your brains before I let you go,"
+LoDar explains. "Come, let us proceed."
+Before anyone has time for more discus-
+sion, he's led the four of you back into the
+strum room. You're glad he's going to let you
+
+=== Step 101: Page 103 ===
+Page 103
+
+go. But you don't want this episode of your life
+wiped out.
+While LoDar adjusts the dials on the
+strum, you activate the back-up trip recorder
+on your portable computer. It spews out the trip
+log to a disk the size of your thumbnail. It's a
+new feature from the ACT research lab. Who
+knows whether it works or not. But it's your
+only chance to preserve the memory of this
+mission.
+You've just slipped the disk into your
+pocket when LoDar turns to you. "Give me
+your computer, Orion," he asks. It's not really
+a request, it's an order. "I presume you had a
+built-in trip log," he adds as he passes the
+computer through a magnetized circle. You
+flinch as the field pulses on and off. You know
+that every bit of memory in your banks has just
+been reduced to zeros.
+"And now, my friends, this is good-bye.
+ACT's help has been invaluable, and I only wish
+that you could remember your valiant service
+to the world. Unfortunately, it must be this
+way."
+"I wish we could remember you, at least,"
+Frieda laments.
+LoDar nods. "Perhaps we will meet again
+somehow. Come, take a final look at the strum
+before you go."
+Obediently, all of you look into the vis-
+
+=== Step 102: Page 104 ===
+Page 104
+
+cous blue pool in the center of the room. Again
+you see images of history, only now they flash
+past in sequence, not at random.
+Once again, you are almost hypnotized by
+the fascinating flow of events. And you hardly
+notice when the blue of the strum becomes more
+opaque, and the images fade to flickering lights.
+It's almost like sunlight and shadow dancing
+off water.
+The next thing you know, the ACT team
+is standing on the bank of a mountain stream
+looking down into the water.
+Bronze shakes his head as though he's dis-
+oriented. "What are we doing here?" he asks.
+"Darned if I know," you murmur.
+Just then the whir of a helicopter catches
+your attention. You look up and see the bright-
+red ACT insignia.
+When the pilot sets down, you all rush
+over.
+"I've been sent to pick you up," he ex-
+plains. "The crisis is over. Sorry you were
+wandering around in the mountains for noth-
+ing," he adds. "It turned out the situation sta-
+bilized on its own."
+The four of you exchange glances. Some-
+how you do have a vague memory of wander-
+ing around in the mountains. Something about
+an earthquake and lightning that destroyed part
+of your rations. But after that, everything is like
+a fog.
+
+=== Step 103: Page 105 ===
+Page 105
+
+"You didn't see anything unusual, did
+you?" the pilot asks.
+Frieda shakes her head. "I guess this
+mission was just a dud."
+You've climbed in the helicopter and are
+soaring over the mountains when you happen
+to stick your hand in your pocket. Your fingers
+close over something the size of a button. When
+you pull it out, you see it doesn't match any-
+thing on your shirt or jacket. You're about to
+toss it away when you get a shivery feeling.
+Somehow you know this thing is important -
+and secret. Maybe you'll just wait till you get
+home to check it out.
+For once, the ACT debriefing doesn't last
+long. After all, there's nothing to tell. Every-
+body, including you, leaves ACT headquarters
+with a let-down feeling. But back in your room,
+where the whole mission started, you pull out
+the tiny circle of plastic and look at it under a
+magnifying glass. It's a miniature data disk!
+Quickly you insert it into a special auxiliary
+drive on your micro.
+The disk turns out to be your trip log. But
+it's not just in words, it's like a movie. The first
+part matches what you remember of the mis-
+sion. But the further it plays, the stranger it
+gets. Is someone trying to play a trick on you?
+you wonder.
+And then, like a bolt of lightning, it hits
+you. This is what really happened. This is what
+
+=== Step 104: Page 106 ===
+Page 106
+
+LoDar wiped from your memory!
+Fascinated, you sit back to watch the
+whole adventure unfold. And as soon as it's
+over, you reach for your keyboard to send a
+message to ACT. But before you can connect,
+a familiar image of the specter you've come to
+know as LoDar appears on your screen.
+"Orion, this secret must remain between
+the two of us," he whispers.
+"I understand," you agree. And then you
+watch as the system erases the disk -
+but this
+time, not your memory of what really hap-
+pened in the valley of Tanzia.
+
+=== Step 105: Page 107 ===
+Page 107
+
+REFERENCE
+MANUAL
+Note to user: The programming activities in this
+book have been designed for use with the
+BASIC programming language on the IBM PC
+and PClr, Apple II Plus or Apple lIe (with
+Applesoft BASIC), Commodore 64, Vic-20,
+Atari 400/800, Radio Shack TRS-80 Level 2
+or greater, and the Radio Shack Color Com-
+puter. Each machine has its own operating
+procedures for starting up BASIC and editing
+programs. So make sure you're in BASIC be-
+fore trying to run any of these programs, and
+check your user manual for instructions on how
+to edit lines. Also make sure you type NEW
+before entering each program to clear out any
+leftovers from previous activities.
+The version of the program included in
+
+=== Step 106: Page 108 ===
+Page 108
+
+the text will generally run on the majority of
+the computers listed above. However, a few of
+the commands used are not available on some
+home systems. If the program as given does not
+run on one of the micros listed above, modi-
+fication instructions will be included in this
+Reference Manual.
+Even if you're using a computer other than
+the ones mentioned, the program may still
+work -
+since it's always written in the most
+generalized BASIC.
+If you need help with one of the com-
+puter activities in the Micro Adventure, or want
+to understand how a program works, you'll find
+what you need in this manual.
+Naturally, programs must be typed into
+your computer exactly as given. If the pro-
+gram should run on your computer, but you're
+having problems, do a list on the program and
+check your typing before you try anything else.
+Even a misplaced comma or parenthesis might
+cause a syntax error that will prevent the whole
+program from working.
+TERMS YOU NEED TO KNOW
+Computer experts have a special' 'lan-
+guage" they use when talking about pro-
+grams. Here are some common terms that will
+help you understand the explanations in this
+manual.
+
+=== Step 107: Page 109 ===
+Page 109
+
+Arrays are groups of two or more logically
+related data elements in a program that have
+the same name. However, so that the individ-
+ual elements in the array can be used, each is
+also identified by its own address (called an
+index by programmers). You can think of an
+array as an apartment building. One hundred
+people might live at the Northwest Apart-
+ments (or 100 pieces of information might be
+stored in the NW Array). But each unit within
+the building has a number (like Apt 14), so it
+can be located and receive mail. In the NW
+Array, 14 could be the index to find a partic-
+ular piece of information, and would be writ-
+ten NW(l4). If you put the 26 letters of the
+alphabet into an array called Alpha$, then AI-
+pha$(2) would equal "B" because B is the
+second letter of the alphabet.
+ASCII (Pronounced asskee) is the standard
+code used by most microcomputers to repre-
+sent characters such as letters, numbers, and
+punctuation. A chart of the ASCII codes ap-
+pears in the appendix to this manual.
+ASC is a function in BASIC that will supply
+a character's ASCII code. For example
+ASC("A") will give you the number 65.
+Bugs are errors or mistakes in a program that
+keep it from doing what it's supposed to do.
+
+=== Step 108: Page 110 ===
+Page 110
+
+Some of the programming activities in this
+book will ask you to find and fix a bug in the
+program so that it will work correctly.
+Functions are ready-made routines that per-
+form standard calculations in a program. It's
+sort of like having a key on a calculator that
+computes a square root or percentage of a
+number. The programming language BASIC
+comes with a number of standard functions to
+perform certain tasks. For example, the func-
+tion SQR(x) will find the square root of any
+number when x is replaced by that number.
+You might want to check the BASIC manual
+that came with your computer to see which
+functions are available on your system.
+INT is a function that changes any number that
+you supply into a whole number or integer. For
+example INT(4.5) will return the value 4. For
+numbers greater than 0, INT just throws away
+any fractions and supplies you with the whole
+number.
+LEN is a function that tells you the number of
+characters in a string of letters, numbers, or
+other symbols. For example, if a variable string
+called A$ contained "STOP" then
+LEN(A$) =4.
+Loops are sections of programs that may be
+
+=== Step 109: Page 111 ===
+Page 111
+
+performed a specified number of times or un-
+til certain conditions are met. For example, if
+you wanted to write a program that would
+count from 1 to 100, a loop could be used to
+keep adding 1 to a counter variable until the
+number 100 was reached. Loops are most
+commonly formed with FOR/NEXT state-
+ments or GOTO commands. You'll find many
+examples of these in the programs in this book.
+Random Number Generator This function,
+which is called RND in BASIC, lets you gen-
+erate numbers at "random" just as though you
+were throwing a set of dice and didn't know
+which number was going to come up next. In
+most home computers, the RND function re-
+turns a fraction between 0 and 1. To get num-
+bers in a larger range, the program must
+multiply the fraction by a larger number. For
+example, RND * 10 will produce numbers be-
+tween 0 and 10.
+REM This command is used to tell the com-
+puter that whatever is on a particular line is
+just a comment and should not be executed.
+An example might look like this:
+10 REM THIS PROGRAM DOES A
+COUNTDOWN
+Strings are groups of one or more letters,
+numbers, or other symbols that are treated as
+
+=== Step 110: Page 112 ===
+Page 112
+
+a unit. In the English language, a collection
+of letters that make up a word can be thought
+of as a string. In a program, the information
+in a string is often enclosed in quotation marks
+to let the computer know that the symbols are
+to be treated as characters. In the string "123"
+the program is dealing with the characters I,
+2, and 3, not the larger number 123. The
+computer is storing these as the ASCII values
+for I, 2, and 3, which are 49, 50, and 51. A
+string that is empty and has no characters in it
+is called a null string and should be repre-
+sented as " "
+Subroutines are parts of a program or a se-
+quence of instructions called by a program to
+perform a general or frequently used task. In
+some of the programs in this book, subrou-
+tines are used to position the cursor or get in-
+put from the screen.
+Variables are names used to represent values
+that will change during the course of a pro-
+gram. For example, a variable named D$ might
+represent any day of the week. It may help you
+to think of a variable as a storage box, wait-
+ing to receive whatever information you want
+to put in. Variables that deal with strings of
+symbols are always followed by a dollar sign.
+Variables that end in a percent sign always hold
+integers (the whole numbers like I, 2, 3, 500).
+
+=== Step 111: Page 113 ===
+Page 113
+
+Variables with a pound sign or no special
+character at the end hold numbers that may
+contain fractions. The number of characters
+allowed in a variable name varies from com-
+puter to computer.
+PROGRAM 1: DECODE MESSAGE
+Modifications for Other Micros
+Atari 4001800:
+5 DIM M$(45),B$(1)
+60 C=ASC(M$(N,N»
+What the Program Does
+In order to receive your mission instruc-
+tions from ACT, you must decode their
+scrambled message. This program decodes the
+message. However, the earthquake disrupted
+communications before the transmission was
+complete, so you get only part of the mes-
+sage.
+How the Program Works
+The message is scrambled because each
+letter has been encoded using an odd/even al-
+gorithm. If the ASCII value of a letter in the
+plain text was odd (e.g., 67 for a "C"), then
+the encoder subtracted 2 from the ASCII value
+to produce 65 or the ASCII value of "A." To
+
+=== Step 112: Page 114 ===
+Page 114
+
+decode an odd letter, Orion must do just the
+opposite -
+add 2 to the ASCII value.
+Now if the ASCII value of a letter in the
+plain text was even (e.g., 68 for a "D"), the
+encoder added 2 to the value ("D" would be
+encoded as "F"). Thus the decoder program
+must subtract 2 whenever the ASCII value is
+an even number.
+Lines 70 through 90 take care of decod-
+ing odd and even values.
+PROGRAM 2: LIGHTNING
+Modifications for Other Micros
+Atari 4001800:
+2 DIM A$(I),V$(I)
+5 OPEN tl,4,0,nK n
+7 GRAPHICS 0
+30 PRINT CHR$(125)
+70 POSITION 15-1+1,1
+75 PRINT "I
+In
+90 PRINT n
+BOOM!"
+170 IF PEEK(764)<>255 THEN 190
+180 V$="":RETURN
+190 GET t1,M:V$=CHR$(M)
+200 POKE 764,255
+210 RETURN
+Apple II + and lIe:
+30 HOME
+170 V$=CHR$(O) :M=PEEK(-16384):
+
+=== Step 113: Page 115 ===
+Page 115
+
+180 IF M < 128 THEN RETURN
+190 V$=CHR$(M-128) :POKE -16368,0:
+200 RETURN
+Commodore 64 and VIC-20:
+30 PRINT CHR$(147) 1
+170 GET V$
+180 RETURN
+What the Program Does
+The specter has downloaded a program
+into your computer. The program continu-
+ously flashes lightning on the screen and de-
+mands. "Return the Magor Stone." You must
+examine the code and figure out what input will
+stop the loop. Also you must figure out what
+the Guardian Latch is.
+How the Program Works
+Lines I 0 through I 00 form a loop that will
+control your computer forever unless you press
+the letter that is checked for in line 50.
+Once you have stopped the lightning loop
+you are asked to provide the Guardian Latch.
+Here you'll need to key in the character whose
+I 11
+
+=== Step 114: Page 116 ===
+Page 116
+
+ASCII value is 88 (see line 130). You can
+check the ASCII table in the back of this book
+to find the correct key to press. If you press
+the wrong key, the program will start again on
+the infinite loop.
+PROGRAM 3:
+DECODE BRUTE'S MESSAGE
+Modifications for Other Micros
+Atari 4001800:
+5 DIM B$(30) ,A$(30) ,M$(30),
+N $ (3 0) , R$ (1 )
+90 IF M${I,I)=A$(K,K) THEN 110
+110 N$(LEN(N$)+l)=B$(K,K)
+What the Program Does
+BRUTE has used a key substitution code
+to encode its message. Orion has one version
+of the BRUTE decoder program that uses the
+key "TEAMS." When the message is de-
+coded by this program, something strange
+happens. Some of the letters seem to be de-
+coded correctly, while others are still gar-
+bage. It looks as if Orion has the right program,
+but the wrong key. Can you transpose the let-
+ters in the key to make another key word and
+try decoding with that?
+
+=== Step 115: Page 117 ===
+Page 117
+
+How the Program Works
+The message is scrambled because a key
+substitution code has been used. Here's how
+it works. Notice that the letters of the alpha-
+bet appear in order in line 10 of the program.
+In line 20 there is a "keyword" -
+in this case
+, 'TEAMS, " followed by the remaining letters
+of the alphabet in order (omitting the letters
+T, E, A, M, and S). Looking at the two lines,
+you can see that the code letter for A is T. The
+code letter for B is E. The rest of the alphabet
+follows the key, omitting the letters in the key
+word.
+Unfortunately, the letters in the keyword
+have been rearranged by BRUTE to form an-
+other keyword -
+STEAM. If you substitute
+STEAM for TEAMS in line 20, the whole
+message will decode correctly.
+In order to get a readable message, the
+program must look at each character in the
+message in turn and substitute the correspond-
+ing decoded letter. Can you tell which lines in
+the program do this? It's lines 70 through 120.
+Decoded, the message reads:
+BRUTE WILL REACH TANZIA
+WITHIN TEN HOURS
+WE WILL SECURE ORACLE
+FOR BRUTE
+
+=== Step 116: Page 118 ===
+Page 118
+
+PROGRAM 4: PULLEY
+Modifications for Other Micros
+Apple /I + and /Ie:
+80 HOME
+720 HTAB X: VTAB Y
+Atari 4001800:
+10 DIM ACT$(24),CL$(10),
+L$ (1) , Z $ (6) , M$ (1) , SI $ (5)
+15 SI$="
+"
+20 ACT$="BRONZEFRIEDAARC
+H**ORION*"
+30 GRAPHICS 0
+REMOVE LINE 40
+80 PRINT CHR$(125)
+310 PRINT SI$;L$;SI$
+330 PRINT "YOU DROPPED",
+ACT$(J,J+5)
+380 PRINT "PICK UP",ACT$(J,J+5);
+SI$
+390 L$=ACT$(J)
+430 PRINT "HARNESS IS EMP~~";SI$
+460 PRINT ACT$(J,J+5);" MADE IT"
+470 Z$(LEN(Z$)+I)=L$
+500 J=J+6:B=0:L$=" "
+510 IF J<24 THEN 540
+720 POSITION X,Y
+Commodore 64 and VIC-20:
+80 PRINT CHR$(147);
+720 POKE 781,Y:POKE 782,X
+730 POKE 783,0:SYS 65520
+740 RETURN
+
+=== Step 117: Page 119 ===
+Page 119
+
+Radio Shack TRS-80:
+720 PRINT @Y*64+X,n";
+Radio Shack Color Computer:
+720 PRINT @Y*32+X,"";
+What the Program Does
+The program controls the pulley that will
+carry the ACT team to safety. The timing
+mechanism is not working correctly -
+proba-
+bly due to the goatherder's tinkering with it.
+Unfortunately for Bronze, when the timing
+mechanism (CL$) is not functioning, the pul-
+ley goes crazy. You. must adjust the clock to
+bypass this malfunction and then enter the cor-
+rect commands to move each member of the
+ACT team across the gorge.
+How the Program Works
+CL$ is the clock variable. You'll notice
+in lines 120 through 200 that if the clock is
+"OFF," then poor Bronze dangles dangerously
+above the rapids. To get around this, you must
+change the value of CL$ to anything but
+"OFF." Try "ON."
+Once that hurdle has been passed, you'll
+need to enter the commands to move each
+member in turn across to safety. Only "L" for
+left or "R" for right are allowed. A wrong
+
+=== Step 118: Page 120 ===
+Page 120
+
+move could send an ACT member for a very
+cold swim.
+This program uses subroutines to move
+the pulley left or right and also to position the
+cursor for printing. For example, lines 560
+through 610 are the instructions to move the
+pulley right one position.
+PROGRAM 5: SPECTER'S MESSAGE
+Modifications for Other Micros
+This program as is will not run on any
+computer. The specter has downloaded a pro-
+gram with statements that aren't allowed in
+BASIC. If you try to run them, you'll get
+syntax errors, which means that your system
+doesn't understand what you want to do. You
+must substitute a correct BASIC command for
+the DPRINTs throughout the program in order
+to get any information from the specter.
+The corrected program should be:
+10 PRINT "TO LEAVE THIS ROOM"
+20 GOTO 50
+30 PRINT "YOU CAN WALK THROUGH
+THE ARCH"
+40 GOTO 70
+50 PRINT "YOU MUST CARRY THE
+MAGOR STONE"
+60 GOTO 30
+70 PRINT "AND LIVE TO TELL
+ABOUT IT"
+
+=== Step 119: Page 121 ===
+Page 121
+
+PROGRAM 6: PRESS YOUR LUCK
+Modifications for Other Micros
+Apple II + and IIe:
+20 HOME
+520 HTAB LX: VTAB LY
+540 PRINT CHR$(7)
+Atari 4001800:
+5 OPEN il,4,0,"K:"
+7 GRAPHICS °
+10 DIM C(5),B$(25),S$(25),
+V$(I) ,D$(15),TAB$(25)
+15 TAB$="
+140 PRINT TAB$(I,Y) :"@";
+TAB$(I,X-Y)
+160 PRINT TAB$(I,Y);"@"
+180 IF V$<>"" THEN 230
+170 GOSUB 570
+520 POSITION LX,LY
+540 SOUND 0,RND(0)*255,10,10
+550 SOUND 1,0,0,0
+560 RETURN
+570 IF PEEK(764) <>255 THEN 590
+580 V$="":RETURN
+590 GET il,M:V$=CHR$(M)
+600 POKE 764,255
+610 RETURN
+Put 25 spaces between the quotes in line 15.
+Radio Shack Color Computer:
+520 PRINT @LY*32+LX,"";
+540 SOUND RND(128)+5,10
+"
+
+=== Step 120: Page 122 ===
+Page 122
+
+Radio Shack TRS-80:
+520 PRINT @64*LY+LX,n";
+540 RETURN
+Commodore VIC-20:
+20 PRINT CHR$(147)
+40 B$="######################n
+50 S$= n 20: !: 40: !: 10 n
+90 X=l:Y=l
+170 GET C$
+180 IF C$<> n" THEN 230
+210 IF Y>22 THEN Y=l
+520 POKE 781,Y:POKE 782,X
+530 POKE 783,0:SYS 65520:RETURN
+540 POKE 36878,15
+550 POKE 36876,INT(RND(1)*128+128
+560 POKE 36876,0:POKE 36878,0
+570 RETURN
+Commodore 64:
+20 PRINT CRR$(147)
+170 GET C$
+180 IF C$<> n" THEN 230
+520 POKE 781,Y:POKE 782,X
+530 POKE 783,0:SYS 65520:RETURN
+540 POKE 54296,15:POKE 54277,90:
+POKE 54278,200
+550 POKE 54273,34:POKE 54272,75
+560 POKE 54276,33
+570 FOR ZZ=1 TO 200: NEXT ZZ
+580 POKE 54296,0
+590 RETURN
+
+=== Step 121: Page 123 ===
+Page 123
+
+What the Program Does
+This program controls the time strum. In
+order to stop the strum so that LoDar can in-
+sert the Magor Stone, you must accumulate 100
+points by playing "Press your Luck." You
+must try to stop the moving light directly un-
+der a score. If you miss, you'll send the world
+spinning hopelessly out of control.
+How the Program Works
+The playing board is made up of five cells
+denoted by the array C. Cells 1, 3, and 5 con-
+tain points, and if you stop the @ under one
+of those, you receive the number of points
+contained in that cell. Line 30 assigns the val-
+ues for each cell.
+Y represents the current line position of
+the character "@" on your screen. X keeps
+track of the previous position of Y so that once
+the new Y has been determined, the program
+can print a blank space over the old Y to give
+the impression that the @ is moving across the
+screen.
+Your running total is kept in the variable
+SUM. Once you've reached 100 points, you've
+mastered the secrets of the strum.
+
+=== Step 122: Page 124 ===
+Page 124
+
+PROGRAM 7:
+SPEED AROUND THE STRUM
+Modifications for Other Micros
+Apple II + and lIe:
+10 HOME
+620 HTAB X: VTAB Y
+Atari 4001800:
+5 DIM B$(lS),D$(15)
+10 PRINT CHR$(12S)
+620 POSITION X,Y
+Commodore 64 and VIC-20:
+10 PRINT CHR$(147}
+620 POKE 781,Y:POKE 782,X
+630 POKE 783,0:SYS 65520:RETURN
+Radio Shack Color Computer:
+620 PRINT @¥*32+X,"":
+Radio Shack TRS-80:
+620 PRINT @Y*64+X,"":
+What the Program Does
+This is the controller for the revolving
+circles on the floor in the time strum room.
+How the Program Works
+The B$ and D$ variables show which way
+the two innermost circles are moving. SP is
+
+=== Step 123: Page 125 ===
+Page 125
+
+the speed variable. The higher you set SP in
+line 60, the shorter the wait loop in line 580
+and the faster the floor rings move. If you set
+SP high enough, it will fling BRUTE into the
+strum.
+APPENDIX
+ASCII Code Character
+0-32
+Special system control characters
+32
+Space (will look blank)
+33
+!
+34
+"
+35
+#
+36
+$
+37
+%
+38
+&
+39
+40
+(
+41
+)
+42
+*
+43
++
+44
+45
+46
+47
+I
+
+=== Step 124: Page 126 ===
+Page 126
+
+ASCII Code Character
+51
+3
+52
+4
+53
+5
+54
+6
+55
+7
+56
+8
+57
+9
+58
+59
+60
+<
+61
+=
+62
+>
+63
+?
+64
+@
+65
+A
+66
+B
+67
+C
+68
+D
+69
+E
+70
+F
+71
+G
+72
+H
+73
+I
+74
+J
+75
+K
+76
+L
+77
+M
+78
+N
+79
+0
+80
+P
+
+=== Step 125: Page 127 ===
+Page 127
+
+ASCII Code
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97-122
+126-255
+Character
+Q
+R
+S
+T
+U
+V
+VI
+X
+Y
+Z
+[
+I
+]
+lower case letters
+alternate character set -
+on some
+computers these codes are used to
+represent graphic symbols. Check
+the ASCII chart in the back of your
+computer's user guide for what
+these codes mean on your system.

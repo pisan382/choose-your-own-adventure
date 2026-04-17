@@ -1,0 +1,25 @@
+Page 65
+
+PROGRAM 1
+If you have a Radio Shack TRS-80, add
+these lines to Program 1. (Lines 910 and
+960 must each be typed as one line.)
+Also remove lines 60 and 70.
+9 0 0  CLS:RETURN
+910 HZ=INT(HT-1+(VT-1)*SW+0.5):
+PRINT @ H Z , R E T U R N
+930 RD=INT(RND(RX)):RETURN
+960 SW=64:SH=16:AC=30:AS=33:
+MU=255:RETURN
+980 RETURN
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 1.
+(Line 910 and 960 must each be typed
+as one line.)
+9 0 0  C L S -.RETURN
+9 1 0  H Z =IN T( H T - 1 + ( V T - 1 ) *S W + 0 . 5 ) :
+PRINT @ H Z , " " ; : RETURN
+9 3 0  RD=I NT ( RND ( RX) ) -.RETURN
+9 6 0  SW =32: S H = 1 6 :A C = 1 2 :A S = 1 2 8 :
+MU=255:RETURN
+9 8 0  SOUND RDf 5 : RETURN

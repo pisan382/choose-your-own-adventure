@@ -1,0 +1,102 @@
+Page 75
+
+THEJOYRIDE
+•
+61
+and where
+she kept
+it," says
+Bruce.
+"I'd
+be embarrassed
+if they
+found out I'd been arrested for stealing. Rosie is right.
+It's tacky.
+Please don't tell them I'm at the police station."
+You look at the addresses Bruce has given you and go to Sandy's
+house first.
+You tell Sandy that Rosie's car was stolen from her garage and
+that Bruce has been arrested for stealing it. You feel that Bruce has
+been blamed for something he didn't do. Since Sandy and Bruce
+are
+friends,
+you
+figure
+it's
+all
+right
+to
+say that Bruce
+has been
+accused and needs help.
+"I must admit I like that sports car and would love to drive it,"
+says Sandy. "But I didn't take it. That would be stealing. And even
+if I
+did,
+I wouldn't be stupid enough to park the car in Bruce's
+driveway."
+Charlie seems tense when you question him.
+"Bruce and I are not on speaking terms," he says. "We were close
+friends at one time. But we haven't seen each other for the last three
+weeks.
+I don't know anything about him any more."
+You question Charlie about the sports car.
+"Of course I didn't take it," he says. "Did Rosie say I took it? If
+she
+did,
+she's lying. Just because
+I'd
+like to have a car like hers
+doesn't mean I'd steal it."
+Now that you've heard everyone's story, type in the program to
+figure out who stole the car.
+NEW
+5
+DIM
+R*(20)
+6
+DIM
+B*(20)
+7
+DIM
+Q*(20)
+10
+PRINT
+"WHO
+DO
+YOU
+THINK11
+20
+PRINT
+"TOOK
+ROSIE'S
+CAR?11
+40
+INPUT
+R*
+55
+LET
+Q*
+«
+"BRUCE"
+60
+LET
+S*
+=
+"SANDY"
+70
+IF
+R*
+=
+S$
+THEN
+GOTO
+100
+80
+PRINT
+"THAT
+IS
+NOT
+CORRECT."
+90
+GOTO

@@ -1,0 +1,19 @@
+Page 81
+
+If you have an Apple II + or Apple lie,
+add these lines to Program 5.
+930 R D = IN T ( RND( 1 ) * R X + 1 ) : RETURN
+960 SW=38:SH=24rRETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 5.
+9 3 0  RD=INT (RND (RX) ) .-RETURN
+9 6 0  SW =64:SH =16rR ET UR N
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 5.
+9 3 0  R D = IN T (R N D (R X )) rRETUFN
+9 6 0  SW =32rSH =16rRETURN
+If vou have an Atari, add these lines to
+JProgram 5.
+9 3 0  R D = IN T (R N D (0 )* R X + 1 )rR E T U R N
+9 6 0  SW =38rSH =24rRETURN
+PROGRAM 5

@@ -1,0 +1,118 @@
+Page 60
+
+•
+MYSTERY AND ADVENTURE
+"Are you sure the thief was Sylvia?" you ask.
+"Of course I'm sure," says Frank. "I saw that switchblade - the
+one with the snake engraving - it was right there in the back pocket
+of her jeans. There was no mistaking it!"
+Again Frank describes what happened. "From the moments she
+came into the store, I was too scared to move," he says. "She held
+those terrible scissors to my head and we were eyeball to eyeball as
+she
+forced me
+into
+the
+closet.
+I
+didn't
+budge,
+even
+after
+she'd
+slammed the door and locked me in."
+You examine the closet door and see that
+it could easily have
+been locked from the outside. You examine the lock that Frank
+Friendly had to break to get out of the closet.
+Still, you have a
+feeling that something isn't quite right. Suddenly, you know what it
+is.
+Frank Friendly has described something as clearly as a news
+paper reporter—but it's something he couldn't possibly have seen!
+Type in the program to see what that something is.
+NEW
+10
+DIM
+A*(20)
+20
+DIM
+B*<20>
+30
+PRINT
+"WHAT
+COULDN'T
+HE"
+40
+PRINT
+"HAVE
+SEEN?"
+50
+PRINT
+"CLOSET"
+60
+PRINT
+"SCISSORS"
+70
+PRINT
+"BANK
+BAB"
+80
+PRINT
+"SWITCHBLADE"
+90
+PRINT
+"JEANS"
+100
+INPUT
+A*
+110
+LET
+C*
+»
+"SCISSORS"
+120
+LET
+B*
+■
+"SWITCHBLADE"
+130
+IF
+A*
+-
+B*
+THEN
+60T0
+170
+140
+PRINT
+"IT
+IS
+POSSIBLE
+THAT"
+150
+PRINT
+"HE
+SAW
+IT"
+160
+GOTO
+30
+170
+PRINT
+"YES,
+FRANK
+SAID
+HE
+SAW
+THE"
+180
+PRINT
+"SWITCHBLADE.HE
+ALSO"
+190
+PRINT
+"SAID
+HE
+WAS
+TOO"

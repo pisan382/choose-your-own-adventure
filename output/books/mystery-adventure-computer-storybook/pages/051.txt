@@ -1,0 +1,71 @@
+Page 51
+
+A Day At The Beach
+Yesterday you read an article about your town's Historical Society
+in the newspaper. The Historical Society protects and takes care of
+the very old places in your area-places that help to show what life
+was like there a long time ago. The newspaper article said that the
+Society has found an old map in its library. The map is of a beach
+in your town that used to be an Indian reservation.
+Type in the program to see the map:
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+1
+0
+0
+0
+0
+'
+0
+0
+0
+X
+■o
+o
+'0
+0
+0
+MM.MM.M~
+t|
+0
+/WWW"
+/WWWW"
+0/WWWWWW"
+/WWW"
+/WWWWWWW"
+0
+/W"
+90
+PRINT
+"0
+-
+TEEPEE"
+100
+PRINT
+"X
+=
+HISTORICAL
+SPOT'

@@ -1,0 +1,30 @@
+Page 64
+
+PROGRAM 1
+If you have a Commodore 64, add these
+lines to Program 1. (Lines 910 and 960
+must each be typed as one line.) Also
+remove line 60.
+9 0 0  PRINT C H R $ ( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -l: P O K E  YT:
+POKE F G ,0 : S Y S  PL:RETURN
+9 3 0  RD=INT(RX*RND( 1 ) + 1 ) : RETURN
+9 6 0  SW =40: S H = 2 4 :A C = 3 0 :A S = 9 6 :
+X T = 7 8 2 : Y T = 7 8 1 : F G = 7 8 3 : P L = 6 5 5 2 0 :
+RETURN
+9 8 0  POKE 5 4 2 9 6 , 1 5
+9 8 2  POKE 5 4 2 7 3 , 34:PO K E 5 4 2 7 2 , 7 5 :
+9 8 4  POKE 5 4 2 7 3 , 0:POKE 5 4 2 7 2 , 0 :
+9 8 5  RETURN
+If you have a VIC-20, add these lines to
+Program 1. (Lines 910 and 960 must each
+be typed as one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE X T ,H T -1 :P O K E  YT:
+POKE F G , 0 : SYS PL:RETURN
+9 3 0  RD=INT(RX*RND ( 1 ) 4 - 1 )  : RETURN
+9 6 0  SW =22: S H = 2 2 :A C = 3 0 :A S = 9 6 :
+X T = 7 8 2 :Y T = 7 8 1 : F G = 7 8 3 : P L = 6 5 5 2 0 :
+MU=120:RETURN
+9 8 0  POKE 3 6 8 7 8 , 1 5
+9 8 2  POKE 3 6 8 7 4 , RD+128:RETURN

@@ -1,0 +1,79 @@
+Page 99
+
+DANGEROUS LIVING
+•
+85
+520
+PRINT
+"SUSPECT
+IN
+THE
+BANK'
+530
+PRINT
+"HEIST?"
+550
+INPUT
+I*
+570
+LET
+J*
+=
+"YES"
+580
+IF
+I*
+=
+J*
+THEN
+GOTO
+650
+590
+PRINT
+"YOU
+HAVE
+BEEN
+DOING1
+600
+PRINT
+"YOUR
+INVESTIGATING"
+610
+PRINT
+"WITH
+YOUR
+EYES"
+620
+PRINT
+640
+GOTO
+700
+650
+PRINT
+"YOU
+ARE
+ABSOLUTELY"
+660
+PRINT
+"RIGHT.
+HOLY
+COW"
+670
+PRINT
+"YOU
+DESERVE
+A
+RAISE.
+680
+PRINT
+700
+PRINT
+"THE
+END"
+RUN
+When the police question Jonathan Andrews again, he admits to
+the crime. He gives the money back to the bank.
+"I had to find out what it's like to rob a bank in real life," he says.
+"I never meant to keep the money—I don't need it. I just want to be
+a good actor."
+Jonathan Andrews has lost some fans in Fansville.

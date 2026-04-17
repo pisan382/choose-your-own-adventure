@@ -1,0 +1,26 @@
+Page 74
+
+PROGRAM 3
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 3. (Lines 960 and
+970 must each he typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  LOCATE VT,BT:RETURN
+9 3 0  RD=INT(RN D *RX )+1:R ETUR N
+9 6 0  S H = 2 4 : S W = 4 0 : W T = 1 0 0 :
+GOSUB 9 7 0 : RETURN
+9 7 0  RANDOMIZE(VAL(RIGHT$(
+T I M E $ , 2 ) ) ) : RETURN
+If you have an Apple II + or Apple He,
+add these lines to Program 3.
+900 HOME:RETURN
+910 VTAB(VT):HTAB(HT):RETURN
+930 PD=INT(RND(1)*RX+1):RETURN
+960 SW=38:SH=24:RETURN
+If you have an Atari, add these lines to
+Program 3.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  POSITION V T -1 ,H T + 1 :R E T U R N
+9 3 0  R D = IN T (R N D ( 0 ) * R X + 1 ) : RETURN
+9 6 0  SW =38:SH =24:R ET U R N

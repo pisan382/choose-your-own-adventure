@@ -1,0 +1,26 @@
+Page 76
+
+PROGRAM 4
+If you have an Atari, add these lines to
+Program 4.
+9 0 0  PRINT C H R$( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N V T-1,H T+1:R ETU R N
+9 2 0  WS=1 TO WT:NEXT WS:RETURN
+9 3 0  RD=INT(RND( 0 ) *RX+1):RETURN
+9 6 0  SW =38:SH=24:W T=100:RETURN
+About the program:
+The rainy weather has been making the
+crew grouchy. You and the Magic Micro
+come up with a game that will keep them
+from fighting with one another. The game
+is a treasure hunt. Magic Micro has hid­
+den a treasure under one of twenty-five
+letters. You guess where it is by typing in
+a letter. Magic Micro will tell you whether
+you’ve struck gold or have to try again.
+Every time you run the game, the trea­
+sure’s in a different place. You can play by
+yourself or with the whole crew. Magic
+Micro will tell you how many guesses it
+took you to find the treasure. The player
+with the lowest number of guesses wins.

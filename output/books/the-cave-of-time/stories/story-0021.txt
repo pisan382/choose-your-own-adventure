@@ -1,0 +1,222 @@
+Path: 2 -> 3 -> 4 -> 10 -> 61 -> 104 -> 105 -> 107 -> 108
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 10 ===
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.
+
+=== Step 5: Page 61 ===
+Page 61
+
+You follow the tunnel downward a short dis-
+tance, suddenly you are sliding. Your head strikes
+something and you are knocked unconscious.
+
+When you wake up, you find yourself by a small
+lake, bordered by woods. A boy about twelve
+years old is fishing nearby, but there is no one else
+in sight. You go up and introduce yourself, hoping
+you can find out what year it is without sounding
+crazy.
+
+Fortunately, the boy is friendly and good na-
+tured. He tells you his name is Nick Tyler and that
+he lives on Birch Street. He works in his father’s
+business making candles and soap—the best in the
+Colonies, he says.
+
+If you tell him you come from
+a future time, tum to page 104. 2
+
+If you try to make up a
+believable story, tum to page 106.
+
+=== Step 6: Page 104 ===
+Page 104
+
+ij When you tell him you come from theTwentieth
+Century through the Cave of Time, Nick smiles.
+Then you tell him a little about life in your own
+time—about cars and planes, telephones and tele-
+vision. He listens intently, with a big grin on his
+face, as if youare telling th funniest story ever told
+“Pm so glad to meet you,” Nick says. “Tve
+always wanted to know about life in the Twentieth
+Century.” He tries to look serious, but begins to
+laugh, thinking it’s all a joke.
+“Seriously,” you say, (since you know he will
+i 4 never believe you) “Ihave no home Do you know
+of a place where I can stay?”
+
+=== Step 7: Page 105 ===
+Page 105
+
+“Tm sure you can stay at our house,” he says
+warmly. ““We have such a big family, one more
+won't matter, but you must be willing to work in
+the shop with the rest of us.”
+
+Since you feel you hardly have any other
+choice, you accept his offer and feel grateful when
+his parents give you a good dinner and a comfort-
+able bed. Nick tells you, with much seriousness,
+that you are living in the year 1718 in Boston, the
+principal town in the British colony of Mas-
+sachusetts.
+
+You soon become one of the family. They are
+good people and treat you well. But each day you
+have to work long hours boiling soap and pouring
+it into molds, waiting on customers and doing
+errands for Nick’s father, whom you have come to
+know as Uncle Ted.
+
+Your neighbor, Mr. Nelson, is a printer. He re-
+cently returned from England with a printing press
+and letter type he bought there. The business in-
+terests you, and you consider working as his ap-
+prentice, but to do so you would have to sign
+papers indenturing yourself to work faithfully for
+him for six full years.
+
+If you decide to stay at home and
+continue to work for Uncle Ted,
+tum to page 107.
+
+If you decide to be indentured
+to be an apprentice in Mr. Nelson’s
+printing business, turn to page 109.
+
+=== Step 8: Page 107 ===
+Page 107
+
+Although you feel you would probably enjoy
+the printing business more than a career as a soap
+maker, you wish to remain free to take advantage
+of some other opportunity.
+
+The work with Uncle Ted is tedious. You feel
+you could not bear life devoted to making candles
+and soap. You spend most of your spare time
+reading what books you can lay hold of, but you
+are anxious to travel and see the world.
+
+Not long afterwards, you sign up on the brigan-
+tine, Nina, as a deck hand. The ship is owned by a
+tich merchant, and it is bound for Barbados in the
+West Indies with a load of lumber and then on to
+England.
+
+You find life at sea much harder than you ex-
+
+=== Step 9: Page 108 ===
+Page 108
+
+pected, especially when you are required to climb
+the rigging in a howling gale, but eventually you
+become captain of your own ship. In every place
+you visit you ask the people you meet whether
+they have ever heard of the Cave of Time.
+
+The End

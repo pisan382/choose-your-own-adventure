@@ -1,0 +1,27 @@
+Page 113
+
+Variables with a pound sign or no special
+character at the end hold numbers that may
+contain fractions. The number of characters
+allowed in a variable name varies from com-
+puter to computer.
+PROGRAM 1: DECODE MESSAGE
+Modifications for Other Micros
+Atari 4001800:
+5 DIM M$(45),B$(1)
+60 C=ASC(M$(N,N»
+What the Program Does
+In order to receive your mission instruc-
+tions from ACT, you must decode their
+scrambled message. This program decodes the
+message. However, the earthquake disrupted
+communications before the transmission was
+complete, so you get only part of the mes-
+sage.
+How the Program Works
+The message is scrambled because each
+letter has been encoded using an odd/even al-
+gorithm. If the ASCII value of a letter in the
+plain text was odd (e.g., 67 for a "C"), then
+the encoder subtracted 2 from the ASCII value
+to produce 65 or the ASCII value of "A." To

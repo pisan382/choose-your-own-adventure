@@ -1,0 +1,32 @@
+Page 26
+
+PROGRAM 2
+10  GOSUB 9 6 0
+20  GOSUB 9 0 0
+3 0  V T =1:H T =1:G O SU B  9 1 0
+4 0  R X = 2 0 : GOSUB 9 3 0 :D 1 = R D
+5 0  R X = 1 0 : GOSUB 9 3 0 :D 2 = R D
+60 PRINT D l ; "  + " ; D 2 ; "  = "
+7 0  INPUT K
+80 IF K=D1+D2 THEN 1 2 0
+90 PRINT "SORRY, RIGHT ANSWER
+I S  ";D 1+ D 2
+1 0 0  PRINT "NO MORE STARS FOR YOU
+TONIGHT"
+1 1 0  END
+1 2 0  VT=2:G OSUB 9 1 0 : PRINT "
+"
+1 3 0  FOR 1= 1  TO K
+1 4 0  RX=SW -1:GOSUB 930:H T = R D
+1 5 0  R X = S H -3 : GOSUB 9 3 0:V T = R D + 2
+1 6 0  GOSUB 9 1 0 : PRINT
+1 7 0  NEXT I
+1 8 0  T1=T1+K
+1 9 0  IF  T K 1 0 0  THEN 30
+2 0 0  PRINT "FORCE FIELD 100%
+POWER"
+2 1 0  END
+The whole time you’ve been working
+frantically, the queen has been poking fu­
+riously with that wicked-looking spike heel.
+But now it’s obvious that she can feel the

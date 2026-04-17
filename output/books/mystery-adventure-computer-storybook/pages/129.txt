@@ -1,0 +1,88 @@
+Page 129
+
+THE MISSING CAMP COUNSELOR
+•
+115
+You follow the paths around the pool, but there's no trace of
+Mark.
+You see the camp director waving to you.
+"Look at this!" he shouts.
+He reads you this note.
+To Karl
+1. Denarp, Camp Director
+1
+decided
+to
+leave
+the grounds
+for a
+week.
+Tuesday
+morning
+I
+will drive to the Resting Hill
+Post. Have my
+campers meet me there at 9:00.
+I guess
+I really needed a
+rest. Do not try to find me.
+Mark
+"I'm very disappointed with Mark's behavior," says Mr. Denarp.
+"I apologize for bringing you here.
+It's too bad.
+By Tuesday the
+Sports Meet will be over. That's bad news for the kids."
+"Where did the note come from?" you ask.
+"One of the Bugles brought it to my office."
+"H 'm," you say. "I wonder why the rival team would be carrying
+a message from Mark?"
+"The Bugles aren't bad kids. Sometimes they get carried away by
+their acting. I wish I knew what they were up to this time," said Mr.
+Denarp.
+You examine the note carefully.
+Mark took the time to decorate the note with stars.
+Look at the stars very closely. Could Mark be trying to tell you
+something? Type in the program and see for yourself.
+NEW
+10
+20
+30
+40
+60
+70
+80
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+II
+II
+II
+II
+11
+11
+II
+I
+*
+*
+*
+**
+*
+TO
+KARL
+I.
+DENARP
+*
+#"
+CAMP
+DIRECTOR"
+#
+*"
+DECIDED
+TO
+LEAVE
+*
+*"

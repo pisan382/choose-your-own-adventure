@@ -1,0 +1,52 @@
+Page 108
+
+The
+Fifteenth Robbery
+iiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii^
+When you read the morning newspaper, you always take special
+notice
+of robberies
+because you
+are
+in
+the
+insurance
+business.
+Today's robbery has made front-page headlines. What makes this
+robbery so important? Type in the program to see.
+NEW
+10
+20
+30
+40
+50
+70
+00
+90
+PRINT
+"xXXXXXXXXXXXXXXXXXX"
+PRINT
+"XXXXXXXXXXXXXXXXXXX"
+PRINT
+"ROCK
+STAR
+GARY
+STONE"
+PRINT
+"ROBBED
+AGAIN."
+PRINT
+"ON
+THE
+15TH
+DAY
+OF"
+PRINT
+"SEPTEMBER
+AT
+15
+KING"
+PRINT
+"DRIVE,
+FAMOUS
+ROCKER"

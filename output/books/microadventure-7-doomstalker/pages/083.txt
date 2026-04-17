@@ -1,0 +1,19 @@
+Page 83
+
+CHAPTER
+13
+"Listen to me well," he continues in a voice
+low and clear, the static now gone from it. "The
+strum control was designed like a game -
+a
+game that only a mortal with the quickness of
+youth has a chance of winning. This will re-
+quire all your skill and concentration. It's up
+to you."
+Input the following program and run it.
+Lines 100, 270, 320, and 340 must be typed
+as one line on your computer. Now you must
+play the game. In order to stop the strum, a
+player must accumulate at least 100 points. You
+can stop the light by hitting any key on your
+computer. If you hit a key when the light is un-

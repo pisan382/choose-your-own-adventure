@@ -1,0 +1,24 @@
+Page 77
+
+PROGRAM 5
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 5.
+9 0 0  CLS: RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 2 0  FOR WS=1 TO W T : NEXT:RETURN
+If you have an Apple II + or Apple He,
+add these lines to Program 5.
+9 0 0  HOME:RETURN
+9 1 0  V T A B (V T ): H T A B (H T ): RETURN
+9 2 0  FOR WS=1 TO WT-.NEXT WS: RETURN
+If you have a Commodore 64, add these
+lines to Program 5. (Lines 910 and 960
+must each be typed as one line.)
+10 GOSUB 960
+900 P R I N T  C H R $ (147);:R E T U R N
+910 P O K E  X T , H T - l : P O K E  Y T :
+POKE FG, 0:SYS PL:RETURN
+920 FOR WS=1 TO WT:NEXT WS:RETURN
+960 SW=40:SH=24:XT=782:YT=781:
+FG=783:PL=65520:RETURN

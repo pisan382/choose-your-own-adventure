@@ -1,0 +1,35 @@
+Page 22
+
+“Give me a minute,” you stall. Putting
+your hand to your forehead as though
+you’re thinking deeply, you turn your back.
+You take the Magic Micro out of your
+pocket and look at the screen. It says:
+/ know the spell that’s on the trunk. It’s
+an old one. I have a copy of it in my mem­
+ory. But I’ll need your help to find it.
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 64—66 and type in the lines
+listed for your computer. When you have fin­
+ished typing, run the program.
+A change is needed to turn the spell off. Can
+you do this magic feat? Look at the program
+listing. It will give you a hint. If you need help,
+look at the Magic Scroll on page 66.
+PROGRAM 2
+1 0  S$="ON"
+2 0  GOSUB 9 0 0
+3 0 GOSUB 9 8 0
+4 0
+FOR 1 = 1  TO
+5 0 0 :  NEXT I
+5 0
+PRINT "HA! HA1 YOU CAN'T
+OPEN M E !"
+6 0
+I F  S$="ON" THEN 3 0
+7 0
+PRINT "YOU
+OPENED THE TREASURE CHEST"
+8 0  END

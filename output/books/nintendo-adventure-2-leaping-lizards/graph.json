@@ -1,0 +1,1133 @@
+{
+  "start_page": 1,
+  "reference_style": "none",
+  "nodes": [
+    {
+      "id": 1,
+      "label": "1",
+      "is_terminal": false,
+      "chars": 2339,
+      "choices": [
+        {
+          "target": 2,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "2",
+      "is_terminal": false,
+      "chars": 834,
+      "choices": [
+        {
+          "target": 3,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "3",
+      "is_terminal": false,
+      "chars": 1700,
+      "choices": [
+        {
+          "target": 4,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "4",
+      "is_terminal": false,
+      "chars": 887,
+      "choices": [
+        {
+          "target": 5,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "5",
+      "is_terminal": false,
+      "chars": 1261,
+      "choices": [
+        {
+          "target": 6,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "6",
+      "is_terminal": false,
+      "chars": 1851,
+      "choices": [
+        {
+          "target": 7,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "7",
+      "is_terminal": false,
+      "chars": 772,
+      "choices": [
+        {
+          "target": 8,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "8",
+      "is_terminal": false,
+      "chars": 1196,
+      "choices": [
+        {
+          "target": 9,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "9",
+      "is_terminal": false,
+      "chars": 1803,
+      "choices": [
+        {
+          "target": 10,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "label": "10",
+      "is_terminal": false,
+      "chars": 900,
+      "choices": [
+        {
+          "target": 11,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "11",
+      "is_terminal": false,
+      "chars": 1483,
+      "choices": [
+        {
+          "target": 12,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "12",
+      "is_terminal": false,
+      "chars": 565,
+      "choices": [
+        {
+          "target": 13,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "label": "13",
+      "is_terminal": false,
+      "chars": 1162,
+      "choices": [
+        {
+          "target": 14,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "label": "14",
+      "is_terminal": false,
+      "chars": 1940,
+      "choices": [
+        {
+          "target": 15,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "label": "15",
+      "is_terminal": false,
+      "chars": 1386,
+      "choices": [
+        {
+          "target": 16,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "label": "16",
+      "is_terminal": false,
+      "chars": 781,
+      "choices": [
+        {
+          "target": 17,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "label": "17",
+      "is_terminal": false,
+      "chars": 1973,
+      "choices": [
+        {
+          "target": 18,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "label": "18",
+      "is_terminal": false,
+      "chars": 1468,
+      "choices": [
+        {
+          "target": 19,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "label": "19",
+      "is_terminal": false,
+      "chars": 1597,
+      "choices": [
+        {
+          "target": 20,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "label": "20",
+      "is_terminal": false,
+      "chars": 1153,
+      "choices": [
+        {
+          "target": 21,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "label": "21",
+      "is_terminal": false,
+      "chars": 1405,
+      "choices": [
+        {
+          "target": 22,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "label": "22",
+      "is_terminal": false,
+      "chars": 1726,
+      "choices": [
+        {
+          "target": 23,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "label": "23",
+      "is_terminal": false,
+      "chars": 676,
+      "choices": [
+        {
+          "target": 24,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "label": "24",
+      "is_terminal": false,
+      "chars": 1452,
+      "choices": [
+        {
+          "target": 25,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "label": "25",
+      "is_terminal": false,
+      "chars": 1271,
+      "choices": [
+        {
+          "target": 26,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "label": "26",
+      "is_terminal": false,
+      "chars": 585,
+      "choices": [
+        {
+          "target": 27,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "label": "27",
+      "is_terminal": false,
+      "chars": 1707,
+      "choices": [
+        {
+          "target": 28,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "label": "28",
+      "is_terminal": false,
+      "chars": 868,
+      "choices": [
+        {
+          "target": 29,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "label": "29",
+      "is_terminal": false,
+      "chars": 1551,
+      "choices": [
+        {
+          "target": 30,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "label": "30",
+      "is_terminal": false,
+      "chars": 1386,
+      "choices": [
+        {
+          "target": 31,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "label": "31",
+      "is_terminal": false,
+      "chars": 1884,
+      "choices": [
+        {
+          "target": 32,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "label": "32",
+      "is_terminal": false,
+      "chars": 474,
+      "choices": [
+        {
+          "target": 33,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "label": "33",
+      "is_terminal": false,
+      "chars": 1144,
+      "choices": [
+        {
+          "target": 34,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "label": "34",
+      "is_terminal": false,
+      "chars": 1066,
+      "choices": [
+        {
+          "target": 35,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "label": "35",
+      "is_terminal": false,
+      "chars": 1543,
+      "choices": [
+        {
+          "target": 36,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "label": "36",
+      "is_terminal": false,
+      "chars": 1038,
+      "choices": [
+        {
+          "target": 37,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "label": "37",
+      "is_terminal": false,
+      "chars": 1171,
+      "choices": [
+        {
+          "target": 38,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "label": "38",
+      "is_terminal": false,
+      "chars": 924,
+      "choices": [
+        {
+          "target": 39,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "label": "39",
+      "is_terminal": false,
+      "chars": 740,
+      "choices": [
+        {
+          "target": 40,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "label": "40",
+      "is_terminal": false,
+      "chars": 792,
+      "choices": [
+        {
+          "target": 41,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "label": "41",
+      "is_terminal": false,
+      "chars": 1517,
+      "choices": [
+        {
+          "target": 42,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "label": "42",
+      "is_terminal": false,
+      "chars": 1319,
+      "choices": [
+        {
+          "target": 43,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "label": "43",
+      "is_terminal": false,
+      "chars": 1874,
+      "choices": [
+        {
+          "target": 44,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "label": "44",
+      "is_terminal": false,
+      "chars": 1316,
+      "choices": [
+        {
+          "target": 45,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "label": "45",
+      "is_terminal": false,
+      "chars": 1765,
+      "choices": [
+        {
+          "target": 46,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "label": "46",
+      "is_terminal": false,
+      "chars": 1306,
+      "choices": [
+        {
+          "target": 47,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "label": "47",
+      "is_terminal": false,
+      "chars": 807,
+      "choices": [
+        {
+          "target": 48,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "label": "48",
+      "is_terminal": false,
+      "chars": 452,
+      "choices": [
+        {
+          "target": 49,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "label": "49",
+      "is_terminal": false,
+      "chars": 1159,
+      "choices": [
+        {
+          "target": 50,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "label": "50",
+      "is_terminal": false,
+      "chars": 1592,
+      "choices": [
+        {
+          "target": 51,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "label": "51",
+      "is_terminal": false,
+      "chars": 1788,
+      "choices": [
+        {
+          "target": 52,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "label": "52",
+      "is_terminal": false,
+      "chars": 1417,
+      "choices": [
+        {
+          "target": 53,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "label": "53",
+      "is_terminal": false,
+      "chars": 1697,
+      "choices": [
+        {
+          "target": 54,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "label": "54",
+      "is_terminal": false,
+      "chars": 1417,
+      "choices": [
+        {
+          "target": 55,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "label": "55",
+      "is_terminal": false,
+      "chars": 951,
+      "choices": [
+        {
+          "target": 56,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "label": "56",
+      "is_terminal": false,
+      "chars": 1541,
+      "choices": [
+        {
+          "target": 57,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "label": "57",
+      "is_terminal": false,
+      "chars": 1475,
+      "choices": [
+        {
+          "target": 58,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "label": "58",
+      "is_terminal": false,
+      "chars": 999,
+      "choices": [
+        {
+          "target": 59,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "label": "59",
+      "is_terminal": false,
+      "chars": 894,
+      "choices": [
+        {
+          "target": 60,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "label": "60",
+      "is_terminal": false,
+      "chars": 1469,
+      "choices": [
+        {
+          "target": 61,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "label": "61",
+      "is_terminal": false,
+      "chars": 1729,
+      "choices": [
+        {
+          "target": 62,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "label": "62",
+      "is_terminal": false,
+      "chars": 773,
+      "choices": [
+        {
+          "target": 63,
+          "prompt": "(continues)",
+          "raw": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "label": "63",
+      "is_terminal": false,
+      "chars": 427,
+      "choices": []
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 2,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "prompt": "(continues)"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "prompt": "(continues)"
+    }
+  ],
+  "slug": "nintendo-adventure-2-leaping-lizards",
+  "title": "Nintendo Adventure Books #2: Leaping Lizards!"
+}

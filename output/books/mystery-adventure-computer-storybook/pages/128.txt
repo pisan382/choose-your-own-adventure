@@ -1,0 +1,104 @@
+Page 128
+
+•
+MYSTERY AND ADVENTURE
+happened to him!"
+"When did you last see him?" you ask the group.
+"He was on his way to the pool last night, to practice for the swim
+event,** said
+Donna.
+"He
+never
+returned—not
+even
+to
+get
+dry
+clothes."
+The group's other counseler, Mary, said, "Mark was the fastest
+swimmer at the camp. His group always won the swimming event
+at the Sports Meet. If he doesn't show up to compete on Monday, a
+rival team, the Bugles, will take the trophy."
+"Maybe the Bugles got someone to take Mark for a long drive—
+at least until the Sports Meet is over," said Donna.
+You head toward the olympic-size pool looking for clues. There
+are no signs of Mark around the pool. This is all you see. Type in
+the program.
+NEW
+10
+20
+30
+40
+45
+50
+60
+70
+80
+90
+100
+120
+130
+140
+150
+160
+170
+180
+190
+RUN
+PRINT
+PRINT
+"+"
+PRINT
+"+"
+PRINT
+"+
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"+
+PRINT
+"+
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+++++++++++++++++++++»
+PICCADILLY11
+TRAIL11
+OLYMPIC
+POOL
+4.4.4.4.4.4.4.
+4.4.4.4.4.4.4.4.4.4."
+BROADWAY11
+4.4.4.4.4.4.4.4.4.4.1
++++++
+4.4.4.4.4.4.
+4.
++n
++
++11
++
+STAGE
++'■
+PRINT
+"++++++++++"
+PRINT
+PRINT
+"RETURN
+TO
+THE
+BOOK11

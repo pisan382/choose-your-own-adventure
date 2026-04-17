@@ -1,0 +1,344 @@
+Path: 2 -> 3 -> 4 -> 8 -> 9 -> 18 -> 19 -> 30 -> 92 -> 93 -> 32 -> 58 -> 59 -> 62
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 8 ===
+Page 8
+
+As it gets lighter, you realize you can’t be on the
+right track. The canyon seems shallower than it
+was. The river bed is strewn with boulders that
+were never there before. The cold wind chills you
+to the bone; yet it’s the middle of summer. As you
+climb to higher ground to get a better view, you
+notice patches of snow. From the top of a ridge
+you survey a barren plain, frozen lakes, and, in the }
+distance, a massive range of snow-covered moun-
+tains. You begin to realize you are not merely
+lost—you are lost in time, and you have somehow
+been transported to an Ice Age that occurred many
+thousands of years ago.
+
+=== Step 5: Page 9 ===
+Page 9
+
+You walk toward one of the cliffs that borders
+the canyon, seeking shelter from the wind, and
+notice an entrance to another cave. You are
+tempted to go inside, but you feel you should keep
+moving in hopes of somehow reaching familiar
+country.
+
+If you enter the cave,
+tum to page 17.
+
+If you continue on,
+tum to page 18.
+
+=== Step 6: Page 18 ===
+Page 18
+
+You continue on, following a trail leading up a
+steep incline. You hear loud, trumpeting sounds
+from a nearby ravine—the sounds of a large ani-
+mal.You climb over some rocks and find yourself
+
+=== Step 7: Page 19 ===
+Page 19
+
+looking down on one of the largest land mammals
+that ever lived—the wooly mammoth. Huge as
+this creature is, its size is exaggerated even more by
+its thick coat of wool.
+
+You are cold, desperate, and tired. From your
+rock ledge, only a few feet over the mammoth, you
+could drop down on its back, burrow into its warm
+wool, and ride where it takes you!
+
+If you jump down on
+} the wooly mammoth,
+turn to page 29.
+
+If you continue on foot,
+tum to page 30.
+
+=== Step 8: Page 30 ===
+Page 30
+
+Riding on a mammoth might be fun if you were
+not cold and hungry and lost, but where would it
+take you? You continue walking, your spirits sink-
+ing. Just as you feel ready to sit down and cry, you
+see an opening in the ground. You crawl in on
+your hands and knees. It might provide some
+warmth, and it might lead to the Cave of Time.
+
+You find yourself in a tunnel. There are other
+tunnels branching off. You feel sure now you are in
+the Cave of Time. You are eager to take the next
+tunnel to the surface, but you want to travel a long
+way forward in time. Maybe you should take a
+tunnel further on.
+
+If you take the first tunnel
+that you can, turn to page 54.
+
+If you take a tunnel further on,
+turn to page 92.
+
+=== Step 9: Page 92 ===
+Page 92
+
+Youcontinue a long distance until you come to
+the next tunnel. From there it is only a short dis-
+tance until you reach the surface. An amazing sight
+meets your eyes.
+
+‘As far as you can see, the land looks like a
+beautiful park, with soft, feathery grass and tower-
+ing trees. Here and there are clusters of multi-
+colored, dome-shaped buildings, connected by
+ramps, terraces and walkways. Some people
+dressed in simple khaki pants and shirts and tan
+sneakers walk up to you. They do not understand
+your language, nor you theirs They look much
+like the people of your time except that they are
+unusually trim, muscular, and healthy looking,
+and they are a good deal smaller than your own
+people.
+
+They take you inside a dome-shaped building
+and show you electronic equipment that looks like
+acomputer. You notice a typewriter, so you sit at it
+and type a message.
+
+The computer prints out a reply. It apparently
+has access to memory banks containing your lan-
+guage. You soon discover you are livingin the year
+3742.
+
+Tur to page 56.
+
+=== Step 10: Page 93 ===
+Page 93
+
+You dive down into the tunnel, hoping you can
+t make it back to an earlier time. Gratefully, you feel
+? cool, damp air coming up from the cave. You are
+curious to try the next tunnel you come to, thinking
+: that it may show the state of the world just before it
+; began to burn up from the intensifying heat of the
+: dying sun, or that it might show what happened
+afterward! But you suspect that a tunnel further on
+might be more likely to lead you back to your own
+
+time.
+
+If you take the first tunnel,
+tum to page 31.
+
+If you take a tunnel further along
+the way, turn to page 32
+
+=== Step 11: Page 32 ===
+Page 32
+
+1g? 1
+
+After following the passageway for a consider-
+able distance, you enter a very large tunnel that
+seems as likely as any to lead you back to your own
+time. You continue along and soon notice that the
+floor of the tunnel is becoming sandier. Perhaps
+you are coming to a beach. Then the sand gives
+way under your feet; you slide through sand and
+rising dust. You cannot stop yourself—it is too
+
+4 steep; then there is nothing under your feet, anda
+
+} moment later you land in deep water. You swim to
+the surface and catch your breath. You are in an
+underwater grotto, which seems completely
+sealed off except for a portion of its roof that is
+open to the blue sky. You swim to a large, smooth
+rock sloping into the water.
+
+The sand is white, and the water transparent.
+The rocks are made of crystalline material of the
+
+fh most delicate shades of blue. For a moment you
+
++ are overwhelmed by the beauty of the scene be-
+
+4 fore you, but you soon begin to wonder whether
+youcan escape from it. There is no way of climbing
+out through the opening in the roof.
+
+You dive down in hopes of finding an underwa-
+ter passageway that might lead to freedom, and
+you find one! But could you swim through it before
+running out of air?
+
+‘ If you try to swim through
+the undenwater tunnel,
+tum to page 58.
+
+If you decide to wait,
+tum to page 64.
+
+=== Step 12: Page 58 ===
+Page 58
+
+You take a deep breath, dive down, and swim
+through the tunnel. There is light ahead. In a mo-
+ment you surface in a beautiful lagoon. Thatched
+cottages are nestled among the palm trees that rim
+the white sand beach. A warm, soft breeze brings
+the scent of jasmine and the sound of strange
+melodies from sonorous drums. Looking out to
+the inlet from the sea, you can see a fleet of outrig-
+ger skiffs with multi-colored sails running into the
+lagoons before the wind, their owners leaning
+against the booms to hold the sails out.
+
+You walk toward the village. Several hand-
+some, brown-skinned people see you. Some of
+them run away, but others walk toward you with
+hands held up in salute. Two children, holding
+garlands of flowers, run up to you. Someone
+calls—‘‘Aloha!”’
+
+Soon you are sitting in front of a huge beach fire,
+cooking crabs and eating buana cake. Having
+never had a visitor before, your hosts are happy to
+see you. They welcome you into their society.
+Gradually you learn their language. The boys tell
+you they are your brothers; the girls that they are
+your sisters.
+
+You enjoy life in this new paradise, but you still
+wonder whether there might be a way to get back
+
+=== Step 13: Page 59 ===
+Page 59
+
+to the Cave of Time. Your new friends are unable
+to help. Perhaps if you journeyed inland you could
+find some who could. Your friends warn you
+against trying, however. They tell you that you will
+find only terrible jungles and rivers filled with
+crocodiles.
+
+If you remain with your new friends,
+tum to page 62.
+
+If you joumey inland, tum to page 63.
+
+=== Step 14: Page 62 ===
+Page 62
+
+Your friends are understanding about your wish
+to find the way back to your own time, but they tell
+you they can show you something you never
+dreamed of. Since their society is very primitive,
+you wonder what they could have in mind.
+
+Next day they lead you to another cove where
+the waves roll in, rise up against the cliff and then
+roll out again. Sometimes the waves clap against
+each other and senda foamy spray of water high in
+the air. You see some young people on tiny
+rafts—nothing more than surfboards—riding in on
+the crests of the waves and then riding them out on
+the rebound. In a few hours you have learned a
+sport that brings excitement and fascination for
+hour after hour.
+
+With such delights as this, it is not long before
+you lose interest in returning to your own time.
+Sometimes you wonder, but you never learn,
+whether this paradise lies in the future or the past.
+
+The End

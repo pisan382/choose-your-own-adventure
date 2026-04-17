@@ -1,0 +1,20 @@
+Page 107
+
+REFERENCE
+MANUAL
+Note to user: The programming activities in this
+book have been designed for use with the
+BASIC programming language on the IBM PC
+and PClr, Apple II Plus or Apple lIe (with
+Applesoft BASIC), Commodore 64, Vic-20,
+Atari 400/800, Radio Shack TRS-80 Level 2
+or greater, and the Radio Shack Color Com-
+puter. Each machine has its own operating
+procedures for starting up BASIC and editing
+programs. So make sure you're in BASIC be-
+fore trying to run any of these programs, and
+check your user manual for instructions on how
+to edit lines. Also make sure you type NEW
+before entering each program to clear out any
+leftovers from previous activities.
+The version of the program included in

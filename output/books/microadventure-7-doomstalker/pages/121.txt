@@ -1,0 +1,33 @@
+Page 121
+
+PROGRAM 6: PRESS YOUR LUCK
+Modifications for Other Micros
+Apple II + and IIe:
+20 HOME
+520 HTAB LX: VTAB LY
+540 PRINT CHR$(7)
+Atari 4001800:
+5 OPEN il,4,0,"K:"
+7 GRAPHICS °
+10 DIM C(5),B$(25),S$(25),
+V$(I) ,D$(15),TAB$(25)
+15 TAB$="
+140 PRINT TAB$(I,Y) :"@";
+TAB$(I,X-Y)
+160 PRINT TAB$(I,Y);"@"
+180 IF V$<>"" THEN 230
+170 GOSUB 570
+520 POSITION LX,LY
+540 SOUND 0,RND(0)*255,10,10
+550 SOUND 1,0,0,0
+560 RETURN
+570 IF PEEK(764) <>255 THEN 590
+580 V$="":RETURN
+590 GET il,M:V$=CHR$(M)
+600 POKE 764,255
+610 RETURN
+Put 25 spaces between the quotes in line 15.
+Radio Shack Color Computer:
+520 PRINT @LY*32+LX,"";
+540 SOUND RND(128)+5,10
+"

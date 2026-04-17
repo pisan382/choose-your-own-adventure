@@ -1,0 +1,241 @@
+Path: 2 -> 3 -> 4 -> 10 -> 21 -> 33 -> 34 -> 68 -> 69
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 10 ===
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.
+
+=== Step 5: Page 21 ===
+Page 21
+
+; You turn and walk back out of the cave. It
+| should be dawn by now, but, as you grope your
+way toward the entrance, you can’t see any light
+: coming into the cave. You press against the walls,
+feeling for an opening. Your hands pass across
+something cold, wet, and hard. Ice! The entrance
+is sealed by it. Blocks of ice protrude into the cave.
+You step back, feeling confused and helpless.
+You wish it were just a dream. You retrace your
+steps a way, trying to think clearly. You know that
+your only chance to get out of the cave is to follow
+one of the two branches before you.
+
+If you follow the right branch,
+tum to page 33.
+
+If you follow the left branch,
+tum to page 35.
+
+=== Step 6: Page 33 ===
+Page 33
+
+You make your way along in the dim light.
+Ahead of you is a ladder. You take hold of it and
+begin to climb. Suddenly you hear a terrible grind-
+ing, crunching noise. The ladder shudders. You
+hold on tight for a few minutes after the noise
+subsides. Then you continue up the ladder and a
+moment later pull yourself out into the crisp, cold
+night air. Lights are glowing all around you. In
+front of you is a large slab of ice. You feel a strange
+motion as if the ground is moving. When you
+touch the ground with your hand, you feel wood.
+Not far from you is a railing. Beyond it—the sea!
+Above you are stars more numerous and brilliant
+than you have seen before. You realize you are on
+the deck of a very large ship.
+
+Not far from you, hanging on a hook, is an
+enormous life preserver. Stenciled on it in-black
+letters is the word TITANIC. You know there was
+only one ship that ever bore that name, that it
+made only one voyage, that it struck a huge
+iceberg, and that three hours later it was resting on
+the bottom of the Atlantic.
+
+As you walk along the deck of the Titanic, you
+realize that below the water line thousands of gal-
+lons of water per minute are pouring into the for-
+ward compartments. The people don’t seem to
+
+Go on to the next page.
+
+=== Step 7: Page 34 ===
+Page 34
+
+realize what's happening. The sea is as calm as
+glass. The band on the deck below youis playinga
+waltz. Several men in long black coats and women
+in fur jackets are walking close by.
+; “Goodness,” one woman says, “I can’t under-
+stand why the captain has stopped the ship. If we
+are late docking in New York, I’m going to lodge a
+complaint with the owners.”
+
+If you try to find the captain and
+wam him that the ship will sink,
+tum to page 68.
+
+If you go back down the ladder
+and try to retum to the cave,
+| tum to page 79.
+
+=== Step 8: Page 68 ===
+Page 68
+
+Could you change history and save hundreds of
+lives by warning the captain that the “unsinkable”’
+Titanic is destined for the bottom of the Atlantic?
+You see some stairs leading to a higher deck, and
+you run up them.
+
+A steward is standing near the top. “You can’t
+come up here,” he cries. But you dart past him and
+run toward the forward part of the ship. You dash
+up another set of stairs, where you find yourself at
+the starboard wing of the bridge. The gray-
+bearded captain is standing only a few feet away,
+looking out to sea through his binoculars at a ship
+on the horizon.
+
+“Captain,” you call out. “You may not realize it,
+but this ship will sink in only two or three hours.”
+
+He turns and looks at you gravely. “I know,” he
+says softly. “But we are going to fire distress rock-
+ets. That ship out there—the Califomian—should
+respond to help us.”
+
+“They will not respond, Captain,” you tell him.
+“They can’t believe the Titanic could be in trouble,
+even though they see your rockets. Your only
+hope is to put your strongest men in a lifeboat and
+have them row toward the Califomian at top
+speed—firing rockets as they approach.”
+
+“Great heavens, you have bold ideas,” the cap-
+tain replies, ‘‘but I need every man I have to lower
+our lifeboats and keep order among the passen-
+gers. I can’t believe the Californian will not come
+when they see our rockets.
+
+=== Step 9: Page 69 ===
+Page 69
+
+“Now go to the deck below. Mr. Lightoller will
+see that you have a place in a lifeboat.”
+
+With that the captain turns and strides away,
+giving orders to an officer nearby. You sadly retum
+down the stairs and wait in line for one of the
+places in a lifeboat.
+
+Two hours later, you sit huddled in the crowded
+boat, shivering in the cold breeze, and watch the
+great Titanic slip beneath the waves—with 1,500
+people still aboard—together with your only hope
+of finding your way back to the Cave of Time.
+
+The End

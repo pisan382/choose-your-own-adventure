@@ -1,0 +1,150 @@
+Page 41
+
+CASE OF THE MISSING HORSE
+•
+27
+45
+PRINT
+"
+II**********"
+50
+PRINT
+"
+II
+KINGS"
+55
+PRINT
+"
+II
+ROW
+"
+60
+PRINT
+"IIIIIIIIII**********"
+65
+PRINT
+"
+II
+BRIDGES"
+70
+PRINT
+"
+II
+FARM"
+75
+PRINT
+"
+II**********"
+77
+FOR
+X
+=
+1
+TO
+2000
+78
+NEXT
+X
+SO
+GOTO
+195
+85
+PRINT
+"*$******II"
+90
+PRINT
+"QUEENS
+II"
+95
+PRINT
+"WATCH
+II"
+97
+PRINT
+"********II"
+100
+FOR
+X
+=
+1
+TO
+5000S
+NEXT
+X
+195
+PRINT
+200
+PRINT
+"ROY
+RAINES
+LIVES
+AT"
+210
+PRINT
+"103
+HASTINGS
+STREET."
+215
+PRINT
+220
+PRINT
+"JIM
+FOWLER
+LIVES
+AT"
+230
+PRINT
+"
+1
+POST
+DRIVE"
+235
+PRINT
+240
+PRINT
+"SUSAN
+SIMMONS
+LIVES"
+250
+PRINT
+"AT
+29
+KINGS
+ROW."
+260
+PRINT
+270
+PRINT
+"GO
+BACK
+TO
+THE
+BOOK"
+RUN
+Before you set off to question the suspects, Frank Bridges gives
+you a description of his missing horse.
+Jim
+Fowler
+is
+a garden and
+pet
+supply
+salesman. A
+neatly
+trimmed lawn surrounds Jim's house. The only horse you see here
+is a ceramic statue of a jockey on a white horse. It rests beside the
+front door. At the rear of the house you can see a large garage that
+has three
+locks.
+Shades are pulled
+over the window. There are
+blotches of oil in the driveway.
+Jim Fowler lets you in. "Yes, I did like Frank's horse, but I would
+never steal it. I'm no thief," says Fowler. "Someone probably felt
+sorry for the poor horse who had to live with that Bridges creep.
+Anyone could give it a better home."
+It's a long walk down the road to the Simmons' house, so you
+decide to stop on the way and take a look
+at Frank
+Bridges's
+description of the missing horse. Type in the program.

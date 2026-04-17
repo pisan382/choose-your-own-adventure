@@ -1,0 +1,101 @@
+Page 20
+
+•
+MYSTERY AND ADVENTURE
+40
+45
+50
+55
+60
+RUN
+PRINT
+"NEEDLE"
+PRINT
+"AND
+HAYSTACK"
+PRINT
+"CLUB"
+PRINT
+"
+SARELLE"
+PRINT
+"NNNNNNNNNNNNNNNN"
+Now you are really worried! You've got to find Sarelle soon! You
+hurry to Bonnie's house. You explain why you're there. Just then the
+telephone rings.
+"Excuse
+me,"
+says
+Bonnie.
+"Look around
+and
+see
+if there
+is
+anything that can help you."
+You see a necklace on a table.
+"H'm, that necklace is a very unusual shape," you think.
+Type in the program to see the shape of the necklace.
+NEW
+10
+20
+30
+40
+50
+60
+70
+100
+110
+RUN
+PRINT
+PRINT
+"
+U
+U"
+PRINT
+"
+U
+U"
+PRINT
+"
+U
+U"
+PRINT
+"
+SARELLE
+"
+PRINT
+"
+U
+U"
+PRINT
+"
+U
+U"
+PRINT
+"BONNIE
+IS
+OFF
+THE
+PHONE"
+PRINT
+"GO
+BACK
+TO
+THE
+STORY"
+"Why
+does
+this
+necklace have
+Sarelle's name
+on
+it?" you
+ask
+Bonnie when she comes back.
+"Because it belongs to Sarelle," says Bonnie. "She left it here the
+other day when we went swimming. I guess I forgot to give it back to
+her."
+"AH HA!" you say. "NOWI know where Sarelle is hiding!"
+Do you know where Sarelle is hiding?
+Type in the program to see if you are right.

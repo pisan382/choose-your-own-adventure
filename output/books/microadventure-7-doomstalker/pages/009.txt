@@ -1,0 +1,39 @@
+Page 9
+
+60 C=ASC(MID$(M$,N,l»
+70 IF INT(C/2)*2 = C THEN 90
+80 C=C+2: GOTO 100
+90 C=C-2
+100 PRINT CHR$(C) 1
+110 NEXT N
+120 PRINT
+130 PRINT RMORE TO DECODE? Y OR Nn
+140 INPUT B$
+150 IF B$=nyR THEN 20
+160 END
+IBM
+Apple
+Radio Shack
+Commodore
+PC& 11+
+lie TR8-80 Color
+64
+VIC-20
+PClr
+t/ t/ ..;
+V-
+I/'
+I/'
+v"
+Atarl
+400/800
+This program will run on all personal
+computers checked in the chart above. See the
+Reference Manual, page 109, for changes for
+the Atari.
+You can't believe it. It sounds like
+Doomsday is here.
+As if on cue, the floor gives another
+sickening lurch. This time, it feels like a ma-
+jor earthquake. You'd better get out of the house
+before it comes crashing down around your

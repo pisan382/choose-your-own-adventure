@@ -1,0 +1,44 @@
+Page 40
+
+The Case of
+The Missing Horse
+Nobody in town likes Frank Bridges. Almost anybody might have
+stolen his horse, Samantha, just to teach Frank Bridges a lesson for
+being so mean. But Frank Bridges insists that the prankster must be
+one of three people: Ray Raines, Jim Fowler, or Susan Simmons.
+All three pass by his farm regularly and know his habits. Type in the
+program to find out their location.
+NEW
+10
+PRINT
+"
+11 —■■■■■■••
+15
+PRINT
+"
+II
+HASTINGS"
+20
+PRINT
+"
+II
+STREET
+"
+25
+PRINT
+"
+11■■■»■■■■■h
+30
+PRINT
+"
+POST
+II"
+35
+PRINT
+"
+DRIVE
+II"
+40
+PRINT
+"
+II"

@@ -1,0 +1,69 @@
+Page 47
+
+THE TAPPER
+•
+33
+800
+GOTO
+1000
+900
+PRINT
+"YOU
+ARE
+A
+CREEP"
+950
+PRINT
+"YOU
+NEED
+A
+BATH"
+975
+PRINT
+1000
+PRINT
+1050
+GOTO
+1100
+1075
+PRINT
+"|
+1085
+PRINT
+1100
+PRINT
+RUN
+STAY
+OFF
+THE
+STREET
+NO
+SCHOOL
+TOMORROW
+AT
+NIGHT
+You have heard he is dangerous. Just the thought of him sends
+shivers up your spine. As you hurry on in the dark, you glance at
+each person that passes.
+Now the street is deserted. Suddenly you hear a tap, tap, tapping
+behind you. You look over your shoulder. You see the shape of a
+huge man carrying something in his hand. You walk faster.
+As you continue on your way, you sense that someone
+is
+still
+behind you. You decide to cross to the other side of the street. The
+Tapper does the same thing as you do.
+All kinds of frightening thoughts pass through your mind as you
+try to lose the stranger. You hope you'll see a police
+officer, but
+there's no one in sight.
+All the stores are closed. The streets are
+deserted. You wish you hadn't stayed so long at the arcade.
+You sneak alongside parked cars and quickly scamper across the
+street again. You pause to catch your breath. You hear a sound.
+Could it be raindrops falling on the cars? No. It isn't raining. You
+listen to the tap, tap, tapping as it gets louder. The sound is coming
+closer.
+You feel trapped and look around for an escape. This is the only
+thing you see.
+Type in the program and then return to the book.

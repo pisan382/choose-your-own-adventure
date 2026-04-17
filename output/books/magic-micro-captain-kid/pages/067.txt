@@ -1,0 +1,16 @@
+Page 67
+
+PROGRAM 2
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 2.
+9 0 0  CLS:RETURN
+9 8 0  BEEP:RETURN
+If you have an Apple II + or Apple lie,
+add these lines to Program 2.
+9 0 0  HOME:RETURN
+9 8 0  PRINT C H R$( 7 ) : RETURN
+If you have an Atari, add these lines to
+Program 1.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 8 0  PRINT C H R $( 7 ) : RETURN

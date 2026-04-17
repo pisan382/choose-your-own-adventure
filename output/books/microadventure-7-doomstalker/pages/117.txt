@@ -1,0 +1,32 @@
+Page 117
+
+How the Program Works
+The message is scrambled because a key
+substitution code has been used. Here's how
+it works. Notice that the letters of the alpha-
+bet appear in order in line 10 of the program.
+In line 20 there is a "keyword" -
+in this case
+, 'TEAMS, " followed by the remaining letters
+of the alphabet in order (omitting the letters
+T, E, A, M, and S). Looking at the two lines,
+you can see that the code letter for A is T. The
+code letter for B is E. The rest of the alphabet
+follows the key, omitting the letters in the key
+word.
+Unfortunately, the letters in the keyword
+have been rearranged by BRUTE to form an-
+other keyword -
+STEAM. If you substitute
+STEAM for TEAMS in line 20, the whole
+message will decode correctly.
+In order to get a readable message, the
+program must look at each character in the
+message in turn and substitute the correspond-
+ing decoded letter. Can you tell which lines in
+the program do this? It's lines 70 through 120.
+Decoded, the message reads:
+BRUTE WILL REACH TANZIA
+WITHIN TEN HOURS
+WE WILL SECURE ORACLE
+FOR BRUTE

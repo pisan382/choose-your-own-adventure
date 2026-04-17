@@ -1,0 +1,45 @@
+Page 27
+
+The Lost Coat
+Joe Fine has owned FINE CLEANERS for years. Everyone knows
+that he is a perfectionist when it comes to business. In the past ten
+years, only two garments have been damaged, and one lost. Each
+time Joe
+Fine
+paid
+his
+customers
+for the
+mistakes.
+Joe
+Fine's
+reputation is important to him.
+Today a young man enters
+the
+store.
+Joe
+Fine
+has seen him
+before. He remembers having cleaned something fo?r him. Type in
+the program to see what item Joe remembers.
+NEW
+20
+30
+40
+45
+50
+PRINT
+PRINT
+PRINT
+GOTO
+PRINT
+II
+II
+II
+61
+II
+HOW
+DO
+YOU
+KEEP
+A"

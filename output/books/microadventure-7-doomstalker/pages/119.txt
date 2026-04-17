@@ -1,0 +1,29 @@
+Page 119
+
+Radio Shack TRS-80:
+720 PRINT @Y*64+X,n";
+Radio Shack Color Computer:
+720 PRINT @Y*32+X,"";
+What the Program Does
+The program controls the pulley that will
+carry the ACT team to safety. The timing
+mechanism is not working correctly -
+proba-
+bly due to the goatherder's tinkering with it.
+Unfortunately for Bronze, when the timing
+mechanism (CL$) is not functioning, the pul-
+ley goes crazy. You. must adjust the clock to
+bypass this malfunction and then enter the cor-
+rect commands to move each member of the
+ACT team across the gorge.
+How the Program Works
+CL$ is the clock variable. You'll notice
+in lines 120 through 200 that if the clock is
+"OFF," then poor Bronze dangles dangerously
+above the rapids. To get around this, you must
+change the value of CL$ to anything but
+"OFF." Try "ON."
+Once that hurdle has been passed, you'll
+need to enter the commands to move each
+member in turn across to safety. Only "L" for
+left or "R" for right are allowed. A wrong

@@ -1,0 +1,31 @@
+Page 66
+
+30 DPRINT nyOU CAN WALK THROU
+GH THE ARCH"
+40 GOTO 70
+50 DPRINT nyOU MUST CARRY THE
+MAGOR STONEn
+60 GOTO 30
+70 DPRINT nAND LIVE TO TELL
+ABOUT ITn
+80 END
+All you get for your efforts is a syntax
+error message.
+"It must be too sophisticated for my ma-
+chine," you guess.
+Thoughtfully, you look at the program.
+"But maybe I can substitute a statement that
+will work on my micro."
+List the program again and study it.
+Substitute a legal BASIC statement where it
+seems appropriate and run the program again.
+See page 116 in the Reference Manual if you
+need help.
+"We're back to square one," you sigh.
+"You've got to have the Magor Stone to walk
+through that archway."
+Flint shakes his head. "ACT is even
+slower than I thought. What do you think that
+glowing octagon is, you dummy?"
+"So all along you've had what that ap-
+parition has been practically killing everyone

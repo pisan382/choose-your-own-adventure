@@ -1,0 +1,179 @@
+Path: 2 -> 3 -> 4 -> 10 -> 20 -> 93 -> 31
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 10 ===
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.
+
+=== Step 5: Page 20 ===
+Page 20
+
+The tunnel to the left winds around like a spiral,
+passing several more tunnels. You turn down one
+of them, then climb steeply. In a few moments you
+climb through a hole and emerge in a desert. The
+weather is extremely hot—certainly over 100 de-
+grees, but the sun is just about to set, so it should
+
+| a be getting cooler. In the distance is a range of
+y | mountains. which look extremely high, yet are
+4 bare of snow. You have no idea whether youare in
+i the past, the future, or the present. Then you see
+
+something that fascinates and disturbs you. The
+
+sand seems to be fused into yellowish glass as if
+| heated in a furnace. As you examine the sand
+| more closely, you feel the air getting even hotter.
+| Suddenly you realize the sun is not setting, but
+rising! The noontime temperature must be more
+i than life can stand. As the sun rises higher, you feel
+| a blistering wave of heat. The light is almost blind-
+ing. Could it be that you are witnessing the end of
+the world?
+
+Tum to page 93.
+
+=== Step 6: Page 93 ===
+Page 93
+
+You dive down into the tunnel, hoping you can
+t make it back to an earlier time. Gratefully, you feel
+? cool, damp air coming up from the cave. You are
+curious to try the next tunnel you come to, thinking
+: that it may show the state of the world just before it
+; began to burn up from the intensifying heat of the
+: dying sun, or that it might show what happened
+afterward! But you suspect that a tunnel further on
+might be more likely to lead you back to your own
+
+time.
+
+If you take the first tunnel,
+tum to page 31.
+
+If you take a tunnel further along
+the way, turn to page 32
+
+=== Step 7: Page 31 ===
+Page 31
+
+You take the first tunnel and follow it on and on
+until you begin to wonder whether you are going
+around in circles. What can this mean? Perhaps
+time itself is slowing. You are nearing the point of
+exhaustion, and begin to feel very cold. Yousee an
+opening up ahead and stars shining. You step
+outside on barren ground. It is bitter cold. Even
+though there is no wind, you know you will freeze
+if you stay more than a few minutes—maybe not
+that long, for the air seems very thin, as if you were
+on top of a very high mountain. You find yourself
+gasping for breath. You look up at the clear, cold
+
+} night sky studded with thousands of stars. Among
+the stars, you notice a disk the size of the sun that
+gives off a dim red light like a dying ember.
+
+The End

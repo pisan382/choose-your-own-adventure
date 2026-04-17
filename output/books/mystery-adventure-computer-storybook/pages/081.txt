@@ -1,0 +1,118 @@
+Page 81
+
+CASE OF THE RHYMING ROBBER
+•
+67
+NEW
+10
+PRINT
+"I
+HAVE
+A
+BUN"
+20
+PRINT
+"RIGHT
+UNDER
+MY
+SHIRT"
+30
+GOTO
+60
+40
+PRINT
+"SQUEEZE
+MY
+NOSE"
+50
+PRINT
+"I
+WILL
+GIVE
+A
+SQUIRT"
+60
+PRINT
+"HAND
+ME
+YOUR
+MONEY"
+70
+GOTO
+90
+80
+PRINT
+"CUTE
+LITTLE
+BUNNY"
+90
+PRINT
+"AND
+NO
+ONE
+WILL
+GET
+HURT'
+100
+PRINT
+"I
+RUN
+RETURN
+TO
+THE
+BOOK
+The owner pulls open the cash register drawer and hands her
+money. She counts the money. You see the store owner remove his
+glasses from his shirt pocket. He places them on the counter.
+Suddenly the robber shouts, "I told you to give me all the money
+you had—you're holding some back! Now I'm really mad."
+The robber pulls out her gun, walks toward the owner, and jabs
+the gun smack into his chest. The owner tells her to look under the
+cash register drawer for more money. She grabs the money and
+pushes you and the owner into the store closet. She slams the door
+and you hear the latch snap shut.
+"We're lucky to be alive," says the store owner.
+"I don't think there's any luck involved at all," you say.
+Type in the program and review the facts.
+NEW
+10
+PRINT
+"YOU
+BELIEVE
+THAT
+THE"
+20
+PRINT
+"ROBBERY
+WAS
+STAGED.11
+30
+PRINT
+"IT
+WAS
+ALL
+A
+FAKE."
+55
+DIM
+M*(20)
+56
+DIM
+N*(20)
+60
+PRINT
+"WHAT
+MAKES
+YOU
+THINK
+SO?1
+70
+PRINT
+"BUN"
+75
+PRINT
+"CLOSET"
+80
+PRINT
+"CASH
+REGISTER"

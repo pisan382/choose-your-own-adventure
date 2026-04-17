@@ -1,0 +1,23 @@
+Page 77
+
+PROGRAM 4
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 4.
+9 0 0
+CLS:RETURN
+9 1 0  LOCATE VT,HT:RETURN
+9 6 0
+SH=2 4 : SW=7 8 : RETURN
+If you have a Commodore 64, add these
+lines to Program 4. (Line 910 must be
+typed as one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE 7 8 2 , H T - 1 : POKE 7 8 1 : V T - 1 :
+POKE 7 8 3  f 0 : SYS 6 5 52 0 :R E T U R N
+9 6 0  S W = 4 0 : S H = 2 4 : RETURN
+If you have an Apple II + or Apple He,
+add these lines to Program 4.
+9 0 0  HOME:RETURN
+9 1 0  V T A B ( V T ) : H T A B ( H T ) : RETURN
+9 6 0  S W = 3 8 : S H = 2 4 : RETURN

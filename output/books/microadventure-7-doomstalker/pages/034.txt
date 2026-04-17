@@ -1,0 +1,29 @@
+Page 34
+
+Input the following program and run it.
+Enter the coded message. If you can, save the
+program after you've input the coded mes-
+sage. Lines 10, 20, 90, and 140 must each be
+typed as one line on your computer.
+PROGRAM 3
+10 B$="ABCDEFGHIJKLMNOPQRSTUVWX
+YZ ."
+20 A$="TEAMSBCDFGHIJKLNOPQRUVWX
+YZ ."
+30 N$=""
+40 PRINT "ENTER LINE OF MESSAGE"
+50 INPUT M$
+60 L=LEN(M$)
+70 FOR 1=1 TO L
+80 FOR K=l TO 28
+90 IF MID$(M$,I,l)=MID$(A$,K,l)
+THEN 110
+100 NEXT K
+110 N$=N$+MID$(B$,K,l)
+120 NEXT I
+130 PRINT N$
+140 PRINT "MORE MESSAGES TO DECODE,
+Y OR N"
+150 INPUT R$
+160 IF R$="Y" THEN 30
+170 END

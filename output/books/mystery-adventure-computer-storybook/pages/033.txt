@@ -1,0 +1,95 @@
+Page 33
+
+WHO WROTE IT?
+•
+19
+After your discussion is over, your teacher gives you next week's
+assignment. He gives you two books, both with the author's name
+covered over with tape. One book is labeled Story #1, the other is
+labeled
+Story #2. He
+tells you that only one of these books was
+written by the same person who wrote the book you read last week.
+You must decide which book it is. Your teacher gives you a clue. He
+tells you that the author always makes the names of his characters
+similar in some way. Type in the program to find out the names of
+the characters in Story #1.
+NEW
+10
+20
+30
+40
+50
+60
+RUN
+PRINT
+"HERE
+ARE
+THE
+NAMES
+OF
+THE
+CHARACTERS11
+PRINT
+"IN
+STORY
+#1S
+1.
+LILA11
+PRINT
+"
+2.
+JENNIE11
+PRINT
+»
+3.
+CAL"
+PRINT
+"
+4.
+MEL"
+PRINT
+"NOW
+RETURN
+TO
+THE
+STORY!!"
+Now type in the program to find out the names of the characters
+in Story #2.
+NEW
+10
+20
+30
+40
+50
+60
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"HERE
+ARE
+THE
+NAMES
+OF
+THE
+CHARACTERS"
+"IN
+STORY
+#2S
+1.
+ALLISE"
+2.
+MAC"
+3.
+NEL"
+4.
+LISA"
+"NOW
+RETURN
+TO
+THE
+STORY!!"
+RUN

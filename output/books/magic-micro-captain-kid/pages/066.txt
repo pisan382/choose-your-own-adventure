@@ -1,0 +1,10 @@
+Page 66
+
+PROGRAM 1
+About the program:
+When you type in your destination and
+press ENTER, the flashing lights and
+music transport you right to the deck of The
+Raven. To do this, the program generates
+150 random sounds and 150 random char­
+acters at various places on the screen.

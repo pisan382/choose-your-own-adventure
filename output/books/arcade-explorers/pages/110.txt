@@ -1,0 +1,52 @@
+Page 110
+
+Program Of]tions:
+After you have created your game once, you may want to
+go back again and try different options. Follow this chart
+to see what game options are on which page:
+Program
+Page Numbers
+Option
+lines
+C64
+Apple
+CoCo
+1A
+Fire +
+1000-1100
+119
+137
+153
+18
+Fire X
+1000-1300
+2A
+Slow Entry
+2000-2100
+121
+139
+155
+28
+Fast Entry
+2000-2300
+3A
+More Hits
+3000-3100
+123
+141
+157
+38
+More Crashes
+3000-3300
+4A
+See Smoles
+4000-4100
+125
+143
+159
+48
+See Terrorists
+4000-4300
+SA
+Rescue 800merang
+5000-5100

@@ -1,0 +1,23 @@
+Page 69
+
+PROGRAM 2
+If you have a Radio Shack Color Com­
+puter, add these lines to Program 2.
+(Lines 910 and 960 must each be typed
+as one line.)
+9 0 0  CLS:RETURN
+9 8 0  SOUND 1 2 8 , 5 : RETURN
+About the program:
+The treasure chest won’t open because
+there’s a spell on the lock. But the Magic
+Micro knows how the spell is set. By look­
+ing at the program, you can figure it out,
+too. In the listing, the spell is turned “ON”
+in line 10. As long as the spell is on, the
+chest keeps repeating “HA! HA! YOU
+CAN’T OPEN ME!” Everybody else on
+deck has tried to open the chest and failed.
+But you can turn it off by changing the S$
+variable to “OFF”. Just change line 10 to
+look like this:
+10 S$ = “OFF”

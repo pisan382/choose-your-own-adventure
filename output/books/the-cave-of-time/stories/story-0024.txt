@@ -1,0 +1,198 @@
+Path: 2 -> 3 -> 4 -> 10 -> 61 -> 106 -> 113
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 10 ===
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.
+
+=== Step 5: Page 61 ===
+Page 61
+
+You follow the tunnel downward a short dis-
+tance, suddenly you are sliding. Your head strikes
+something and you are knocked unconscious.
+
+When you wake up, you find yourself by a small
+lake, bordered by woods. A boy about twelve
+years old is fishing nearby, but there is no one else
+in sight. You go up and introduce yourself, hoping
+you can find out what year it is without sounding
+crazy.
+
+Fortunately, the boy is friendly and good na-
+tured. He tells you his name is Nick Tyler and that
+he lives on Birch Street. He works in his father’s
+business making candles and soap—the best in the
+Colonies, he says.
+
+If you tell him you come from
+a future time, tum to page 104. 2
+
+If you try to make up a
+believable story, tum to page 106.
+
+=== Step 6: Page 106 ===
+Page 106
+
+You do your best to make up a story about how
+you ran away from home, but Nick sees that you
+are not telling him the truth. While you’re talking,
+he packs up his fishing gear, says goodbye, and
+walks off.
+
+Once he is out of sight, you start down the road
+and, after a mile or so, reach a settled area. While
+youare standing near a church, wondering what to
+do next, a constable approaches and asks where
+you're from. This time you try to explain what
+really happened. After listening awhile, he arrests
+you for disorderly conduct and locks you up in the
+
+local jail.
+Later in the day, a big, stupid-looking guard
+i comes to bring you a ration of soup and bread. He
+4 is fascinated by your strange clothes and by the
+
+i rumors he has heard about you. After opening the
+door to your cell, he hands you your food and
+i stands back and looks at you curiously.
+“They say you're in league with the devil,” he
+says. “Is it so?”
+
+If you try to run past the guard
+and escape, tum to page 111.
+
+7) If you tell him you are innocent,
+turn to page 113.
+
+=== Step 7: Page 113 ===
+Page 113
+
+: When you tell the guard you are innocent, he
+scowls and slams shut the door of the cell. “You'll
+not take me to the devil with you!” he calls back as
+he walks away.
+
+The next day you are brought into a courtroom
+before a stern looking judge. After hearing the
+charges against you and listening to what you have
+to say, he shakes his head and scowls angrily.
+Then he looks at the prosecutor and pounds his fist
+on the bench.
+
+“Your charge against this person is for disor-
+derly conduct, but the specifications you give are
+‘strange clothes and telling stories invented by the
+devil.” What you really are charging is witchcraft!
+There will be no such madness in my court and let
+me have none of it again from you! Case dis-
+missed.”
+
+The judge not only sets you free, but afterwards
+gives you a home to live in and helps you on your
+
+way to a good and happy life in the Eighteenth
+Century.
+
+The End

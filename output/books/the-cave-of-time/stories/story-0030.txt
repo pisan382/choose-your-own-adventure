@@ -1,0 +1,460 @@
+Path: 2 -> 3 -> 4 -> 10 -> 21 -> 33 -> 34 -> 79 -> 88 -> 89 -> 91 -> 92 -> 93 -> 32 -> 64 -> 65 -> 102
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 10 ===
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.
+
+=== Step 5: Page 21 ===
+Page 21
+
+; You turn and walk back out of the cave. It
+| should be dawn by now, but, as you grope your
+way toward the entrance, you can’t see any light
+: coming into the cave. You press against the walls,
+feeling for an opening. Your hands pass across
+something cold, wet, and hard. Ice! The entrance
+is sealed by it. Blocks of ice protrude into the cave.
+You step back, feeling confused and helpless.
+You wish it were just a dream. You retrace your
+steps a way, trying to think clearly. You know that
+your only chance to get out of the cave is to follow
+one of the two branches before you.
+
+If you follow the right branch,
+tum to page 33.
+
+If you follow the left branch,
+tum to page 35.
+
+=== Step 6: Page 33 ===
+Page 33
+
+You make your way along in the dim light.
+Ahead of you is a ladder. You take hold of it and
+begin to climb. Suddenly you hear a terrible grind-
+ing, crunching noise. The ladder shudders. You
+hold on tight for a few minutes after the noise
+subsides. Then you continue up the ladder and a
+moment later pull yourself out into the crisp, cold
+night air. Lights are glowing all around you. In
+front of you is a large slab of ice. You feel a strange
+motion as if the ground is moving. When you
+touch the ground with your hand, you feel wood.
+Not far from you is a railing. Beyond it—the sea!
+Above you are stars more numerous and brilliant
+than you have seen before. You realize you are on
+the deck of a very large ship.
+
+Not far from you, hanging on a hook, is an
+enormous life preserver. Stenciled on it in-black
+letters is the word TITANIC. You know there was
+only one ship that ever bore that name, that it
+made only one voyage, that it struck a huge
+iceberg, and that three hours later it was resting on
+the bottom of the Atlantic.
+
+As you walk along the deck of the Titanic, you
+realize that below the water line thousands of gal-
+lons of water per minute are pouring into the for-
+ward compartments. The people don’t seem to
+
+Go on to the next page.
+
+=== Step 7: Page 34 ===
+Page 34
+
+realize what's happening. The sea is as calm as
+glass. The band on the deck below youis playinga
+waltz. Several men in long black coats and women
+in fur jackets are walking close by.
+; “Goodness,” one woman says, “I can’t under-
+stand why the captain has stopped the ship. If we
+are late docking in New York, I’m going to lodge a
+complaint with the owners.”
+
+If you try to find the captain and
+wam him that the ship will sink,
+tum to page 68.
+
+If you go back down the ladder
+and try to retum to the cave,
+| tum to page 79.
+
+=== Step 8: Page 79 ===
+Page 79
+
+You have no wish to risk sinking with the Titanic,
+so you climb back down the ladder into the hold of
+the ship—hoping that somehow you will find your
+way back to the cave. In your haste, you lose your
+gripand fall. You reach out, but too late. You land
+so hard you are knocked out. When you awaken,
+you are in one of the passageways of the cave.
+
+If you explore the passageway,
+tum to page 86.
+
+If you decide to check out
+the outer entrance to the
+cave again, turn to page 88.
+
+=== Step 9: Page 88 ===
+Page 88
+
+You walk back through the cavern, wondering if
+the entrance will still be blocked by ice. This time,
+though, you are greeted by a warm breeze. Sun-
+light is shining on the ground near the entrance,
+and you walk outside.
+
+Squinting your eyes in the bright light, you see a
+world totally different from the one you know. You
+are on a hillside. For miles and miles you can see
+grassy plains speckled with lakes. Nearby isa forest
+of towering fers, swaying in the wind. The world
+before you seems strangely quiet, except for the
+faint rumbling of distant thunder. Suddenly, the
+thunder seems much closer—and louder. The
+thundering sound is moving through the ferns.
+You run up the hill looking for a place to hide. A
+huge shadow passes on the ground. Above you,
+soaring through the air, is a creature larger than
+any bird you have seen.
+
+Go on to the next page.
+
+=== Step 10: Page 89 ===
+Page 89
+
+Now it is clear what has been happening. The
+cave is a crack in the universe—a place outside
+space-time. Once inside its tunnels you could find
+yourself at any place, at any time. If you enter
+again you might be sent to a place from which you
+could never escape. Yet that is your only hope of
+returning to your own place and time.
+
+If you go back into the cave,
+tur to page 90.
+
+If you remain outside,
+turn to page 91.
+
+=== Step 11: Page 91 ===
+Page 91
+
+Reasoning that you can always find your way
+back into the cave when you want to, you decide
+to explore the world in which you have found
+yourself.
+
+You make your way along a rock ledge over-
+looking the plains and lakes, taking care to keep
+your bearings so you can find your way back to the
+cave.
+
+By now you are getting very hungry. You know
+that you are in the age of reptiles—at least 100
+million years ago—and that mammals may not yet
+have appeared on earth. There will be no rabbits
+or deer to hunt, though the lakes may contain fish.
+You wonder how dinosaur eggs taste.
+
+You follow a wide path through the fern trees.
+When you round the first bend, you find yourself
+face to face with the horrible Triceratops, a great
+gray monster almost hidden behind its shields and
+horns. It looks at you curiously with dull brown
+eyes. You tum, run, and crash into a tree trunk—
+one that wasn’t there before!
+
+The bark feels like leather. You look up to see
+how high it is—into the jaws of Tyrannosaurus
+Rex.
+
+=== Step 12: Page 92 ===
+Page 92
+
+Youcontinue a long distance until you come to
+the next tunnel. From there it is only a short dis-
+tance until you reach the surface. An amazing sight
+meets your eyes.
+
+‘As far as you can see, the land looks like a
+beautiful park, with soft, feathery grass and tower-
+ing trees. Here and there are clusters of multi-
+colored, dome-shaped buildings, connected by
+ramps, terraces and walkways. Some people
+dressed in simple khaki pants and shirts and tan
+sneakers walk up to you. They do not understand
+your language, nor you theirs They look much
+like the people of your time except that they are
+unusually trim, muscular, and healthy looking,
+and they are a good deal smaller than your own
+people.
+
+They take you inside a dome-shaped building
+and show you electronic equipment that looks like
+acomputer. You notice a typewriter, so you sit at it
+and type a message.
+
+The computer prints out a reply. It apparently
+has access to memory banks containing your lan-
+guage. You soon discover you are livingin the year
+3742.
+
+Tur to page 56.
+
+=== Step 13: Page 93 ===
+Page 93
+
+You dive down into the tunnel, hoping you can
+t make it back to an earlier time. Gratefully, you feel
+? cool, damp air coming up from the cave. You are
+curious to try the next tunnel you come to, thinking
+: that it may show the state of the world just before it
+; began to burn up from the intensifying heat of the
+: dying sun, or that it might show what happened
+afterward! But you suspect that a tunnel further on
+might be more likely to lead you back to your own
+
+time.
+
+If you take the first tunnel,
+tum to page 31.
+
+If you take a tunnel further along
+the way, turn to page 32
+
+=== Step 14: Page 32 ===
+Page 32
+
+1g? 1
+
+After following the passageway for a consider-
+able distance, you enter a very large tunnel that
+seems as likely as any to lead you back to your own
+time. You continue along and soon notice that the
+floor of the tunnel is becoming sandier. Perhaps
+you are coming to a beach. Then the sand gives
+way under your feet; you slide through sand and
+rising dust. You cannot stop yourself—it is too
+
+4 steep; then there is nothing under your feet, anda
+
+} moment later you land in deep water. You swim to
+the surface and catch your breath. You are in an
+underwater grotto, which seems completely
+sealed off except for a portion of its roof that is
+open to the blue sky. You swim to a large, smooth
+rock sloping into the water.
+
+The sand is white, and the water transparent.
+The rocks are made of crystalline material of the
+
+fh most delicate shades of blue. For a moment you
+
++ are overwhelmed by the beauty of the scene be-
+
+4 fore you, but you soon begin to wonder whether
+youcan escape from it. There is no way of climbing
+out through the opening in the roof.
+
+You dive down in hopes of finding an underwa-
+ter passageway that might lead to freedom, and
+you find one! But could you swim through it before
+running out of air?
+
+‘ If you try to swim through
+the undenwater tunnel,
+tum to page 58.
+
+If you decide to wait,
+tum to page 64.
+
+=== Step 15: Page 64 ===
+Page 64
+
+Swimming through the underwater tunnel may
+be the only way to get out of the grotto, but the risk
+of drowning seems too great. You explore the
+rocks in the grotto and think about how you might
+possibly get up through the roof.
+
+Suddenly a voice calls, “Hello.” You whirl
+around and notice for the first time, huddled in the
+comer, a woman with sparkling blue eyes and a
+mysterious smile. She is sitting crosslegged,
+propped against a rock which is shaped in a way
+that gives her a comfortable seat. In her hands she
+is holding a flute, and as you stare in amazement
+she plays an unfamiliar melody with a sweetness
+and purity of tone such as you have never heard.
+
+“Hello,” you reply. ““Tell me—who are you and
+how can we get out of here?”
+
+“Sit down,” she says, “‘and relax. You have all
+the time in the world.”
+
+“What do you mean?” you reply. “I am
+trapped. I slid down from the Cave of Time and I
+want to get out.”
+
+“Believe me,’’ the woman says, ‘‘there’s no way
+
+=== Step 16: Page 65 ===
+Page 65
+
+to get out; but do not be concerned. It is a beautiful
+place and you can be very happy here.”
+
+“But we'll starve. How long have you been
+here?” you exclaim.
+
+“Forever and not at all,” she replies, “for this is
+the part of the cave which leads neither to the past
+nor to the future. Here, time does not exist, so, of
+course, you will never be hungry or bored, and,
+although you can never get out, you will be here
+for no time at all.”
+
+Turn to page 102.
+
+=== Step 17: Page 102 ===
+Page 102
+
+You sit down and rest your chin in your hands,
+unable to believe the fate that has befallen you. To
+live forever in a timeless world seems worse than
+death.
+
+“Well, to tell the truth, there is a way to get back
+to your own time,” the woman finally says, “but, if
+you follow it, you will not be able to live forever.”
+
+“1 don’t care,” you say. “Show me the way.”
+
+“Very well,” she says, shaking her head in dis-
+belief. ‘‘Dive under the rock ledge beneath me and
+swim through the tunnel you will find there. You
+will come up in your own time. Don’t worry, it’s
+only a few yards. You can make it.”
+
+You take a last look around, wave good-bye
+and dive. A few seconds later you surface in a
+pond just inside the entrance of the Cave of Time.
+You swim to shore and run out through the cave
+entrance into the open air, almost crashing into
+your Uncle Howard, who has come looking for
+you.
+
+“You're late for dinner,” he says. “We won-
+dered what happened to you. You ought to keep
+better track of the time.”
+
+The End
+
+|

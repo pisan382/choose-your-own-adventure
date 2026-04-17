@@ -1,0 +1,26 @@
+Page 31
+
+Moments later you’re confident enough
+to clear your throat and raise your hand.
+“I’ve had some experience with sail­
+ing,” you say. “I think I can get the ship to
+Parrot Island.’
+All eyes turn toward you.
+“Oh, yeah?” Hal says. “Prove it.”
+Run the program to prove to the crew that you
+can steer the ship. You want to get to PI (Parrot
+Island).
+Decide which direction you want to sail first
+and press N if it’s north, S if it’s south, E for east
+and W for west. Each time you hit one of these
+keys the ship will move in that direction. But he
+careful! The shortest route may not be the saf­
+est. There are hidden sea monsters along
+the way.
+“Wow! That’s really something,” Hal
+exclaims.
+“We ought to make you captain of The
+Raven,” Bard suggests.
+“I don’t think . . .” you start to object,
+remembering what happened to good old
+Captain Robb.

@@ -1,0 +1,23 @@
+Page 109
+
+SAVE THE VENTURIANS!
+[LBLUJ
+[GRY3]
+[CION]
+[C/UP]
+[ClRT]
+[ClLF]
+[HOME]
+[CLR)
+[Fl]-[F8]
+CMMO-7
+CMMO-8
+Cursor/down
+Cursor/up
+Cursor/right
+Cursor/left
+Home
+Clr
+Function Keys
+CTRL = control key
+CMMO = Commodore Key

@@ -1,0 +1,14 @@
+{
+  "slug": "arcade-explorers",
+  "title": "Arcade Explorers: Save the Venturians!",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/ArcadeExplorers-SaveTheVenturians1985.pdf",
+  "format": "cyoa",
+  "reference_style": "page",
+  "layout": "single",
+  "pdf_start_page": 13,
+  "pdf_end_page": null,
+  "story_start_page": 3,
+  "pages_written": 151,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}

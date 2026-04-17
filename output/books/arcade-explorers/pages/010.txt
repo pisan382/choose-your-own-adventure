@@ -1,0 +1,31 @@
+Page 10
+
+SETH McEVOY AND LAURE SMITH
+"The Scannervision is equipped with a remote-control
+vehicle that can blast terrorists and destroy their booby-
+trapped walls. One of the tokens contains data to make
+the Scannervision fire in a pattern similar to your plus
+sign. The other teletoken will make it fire in a pattern
+similar to your letter x. Which do you prefer?"
+After you tell Romiden your choice, he hands you that
+token.
+If you have a computer and want to type in the
+first {Jart of your game now:
+If your choice is +
+Apple users turn to page 137.
+Commodore users turn to page 119.
+CoCo users turn to page 153.
+Type in program segment 1A and then type In pro-
+gram segment 1[,
+If your choice is x
+Apple users turn to page 137.
+Commodore users turn to page 119.
+CoCo users turn to page 153.
+Type in program segment 18 and then type in pro-
+gram segment 1[,
+When you are through typing continue the story.
+Turn to Chapter 2 on page 11.
+If you are nat using a computer:
+Mark your choice of + or x on the Option Sheet on
+page 115.
+Then turn to Chapter 2 on page 11 to continue the story.

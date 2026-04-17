@@ -1,0 +1,29 @@
+Page 38
+
+Then you remember your Magic Micro
+and activate the little machine. “Haven’t
+you got something else they can do?” you
+ask.
+Why don’t we design a computer game
+they can play? it answers.
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 70-73 and type in the lines
+listed for your computer. When you have fin­
+ished typing, run the program. It plays a trea­
+sure hunt game. Type in any letter to begin the
+game. Then keep guessing until you have found
+the treasure. Everytime you play, the treasure
+will be in a different place.
+PROGRAM 4
+1 0  GOSUB 9 0 0 : GOSUB 9 6 0
+2 0  R X = 2 5 :GOSUB 9 3 0 : P = R D + 6 4
+3 0  P $= C H R $( P)
+4 0  FOR 1= 0 TO 4
+5 0  FOR K=1 TO 5
+6 0  PRINT C H R $ ( 6 4 + I * 5 + K ) ;"
+";
+7 0  NEXT K
+8 0  PRINT: PRINT
+9 0  NEXT I
+Continued on the next page.

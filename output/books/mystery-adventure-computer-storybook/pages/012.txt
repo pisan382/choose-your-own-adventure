@@ -1,0 +1,35 @@
+Page 12
+
+5.
+If you have a Timex, you'll notice that there
+is no
+apostrophe on your keyboard. So, when you see one in
+a program just leave a space.
+INVERSE LETTERING
+Inverse lettering or reverse lettering is that special black back
+ground that appears in a program. Each computer has a different
+way of using inverse lettering.
+For Atari, press the Atari logo key.
+For Commodore, hold down CTRL and press 9.
+For TRS-80 go into the P mode and change the back
+ground color.
+For
+Apple,
+type
+a
+line
+number
+and
+then
+the
+word
+INVERSE. After you are done with the INVERSE line,
+type a line number and NORMAL on the following
+line.
+EXPERIMENT
+Once you have mastered the programs, you may want to try a
+program of your own. That
+is a good idea. Depending on your
+computer, you can try lots of interesting things. You may even try
+colors and sounds.
+Good luck and happy computing.

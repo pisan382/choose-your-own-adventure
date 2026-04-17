@@ -1,0 +1,62 @@
+Page 6
+
+Copyright © 1983 Tribeca Communications, Inc.
+All rights reserved. No part of this book may be reproduced or utilized in any
+form or by any means, electronic or mechanical, including photocopying,
+recording, or by any information storage or retrieval system, without permission
+in writing from the Publisher.
+Inquiries should be addressed to Tribeca
+Communications,
+Inc., 401
+Broadway, New York, New York
+10013
+Library of Congress Cataloging in Publication Data
+Paltrowitz, Stuart.
+The mystery and adventure computer storybook.
+Summary: Twenty-two mystery and adventure stories to read and program in
+BASIC on a home computer.
+1.
+Detective and mystery stories.
+2.
+Adventure stories.
+3.
+Basic
+(Computer program language)
+4.
+Computer games.
+5.
+Programming
+(Electronic computers)
+[I.
+Mystery and detective stories.
+2.
+Adventure
+and adventurers—Fiction.
+3.
+Basic (Computer program
+language)
+4.
+Computer games
+5.
+Programming
+(Computers)]
+1.
+Paltrowitz, Donna.
+II.
+Title.
+PZ7.P188My
+1983
+[Fie]
+83-9302
+ISBN 0-943392-23-3
+Written by Stuart & Donna Paltrowitz
+Illustrated by Dale S. Smith
+Special thanks to Kathleen Daly & Lisa Marsoli, the staff of Times Printing
+Inc., and Donna & Douglas Woodwell for all their hard work.
+Distributed in Canada by Prentice-Hall Canada, Inc.,
+1870 Birchmount Road,
+Scarborough, Ontario M1P 2J7
+Printed in the United States of America
+First Edition: October
+1983
+123456789

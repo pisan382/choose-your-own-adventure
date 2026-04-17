@@ -1,0 +1,14 @@
+{
+  "slug": "microadventure-7-doomstalker",
+  "title": "Micro Adventure #7: Doom Stalker",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/MicroAdventureNo.7-DoomStalker.pdf",
+  "format": "linear",
+  "reference_style": "none",
+  "layout": "single",
+  "pdf_start_page": 1,
+  "pdf_end_page": null,
+  "story_start_page": 1,
+  "pages_written": 126,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}

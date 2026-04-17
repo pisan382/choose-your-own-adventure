@@ -1,0 +1,31 @@
+Page 39
+
+Type the following program into your com­
+puter. (Lines 10, 20, 60, 130, and 150 must each
+be typed as one line.) When you have typed in
+these lines, turn to pages 71-73 and type in the
+lines listed for your computer. Then run the
+program. You have seven chances to adjust the
+water filter. The Magic Scroll on page 73 will
+tell you how to do it.
+PROGRAM 3
+1 0  M l$ = "TOO HIGH— NOW TOO MUCH
+BASE IN THE WATER"
+2 0  M 2 $ = "TOO LOW— DANGEROUS ACID
+ST IL L  IN WATER"
+30 NG=6
+40 GOSUB 9 0 0 : GOSUB 9 6 0 :
+5 0  R X = 1 0 0 : GOSUB 930:X = R D
+60 PRINT "SET THE DIAL ON A
+NUMBER BETWEEN 1 AND 1 0 0 "
+70 INPUT S
+80 IF  S=X THEN 1 3 0
+90 G = G + 1: IF  G>NG THEN 1 5 0
+1 0 0  IF  S>X THEN PRINT M l$
+1 1 0  IF  S < X THEN PRINT M2$
+1 2 0  GOTO 60
+1 3 0  PRINT "SUCCESS! THE FILTERING
+SYSTEM I S  NOW WORKING”
+14 0 END
+1 5 0  PRINT "THE DIAL HAS BROKEN
+OFF IN  YOUR HAND":END

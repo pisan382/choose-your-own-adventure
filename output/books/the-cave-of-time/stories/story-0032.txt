@@ -1,0 +1,188 @@
+Path: 2 -> 3 -> 4 -> 10 -> 21 -> 35 -> 80
+
+=== Step 1: Page 2 ===
+Page 2
+
+You've hiked through Snake Canyon once be-
+fore while visiting your Uncle Howard at Red
+Creek Ranch, but you never noticed any cave
+entrance. It looks as though a recent rock slide has
+uncovered it.
+
+Though the late afternoon sun is striking the
+opening of the cave, the interior remains in total
+darkness. You step inside a few feet, trying to get
+an idea of how big it is. As your eyes become used
+tothe dark, you see what looks like a tunnel ahead,
+dimly lit by some kind of phosphorescent material
+On its walls. The tunnel walls are smooth. as if they
+
+=== Step 2: Page 3 ===
+Page 3
+
+were shaped by running water. After twenty feet or
+so, the tunnel curves. You wonder where it leads.
+You venture in a bit further, but you feel nervous
+being alone in such a strange place. You turn and
+hurry out.
+
+A thunderstorm may be coming, judging by
+how dark it looks outside. Suddenly you realize the
+sun has long since set, and the landscape is lit only
+by the pale light of the full moon. You must have
+fallen asleep and woken up hours later. But then
+you remember something even more strange. Just
+last evening, the moon was only a slim crescent in
+the sky.
+
+You wonder how long you’ ve been in the cave.
+Youare not hungry. You don’t feel you have been 4
+sleeping. You wonder whether to try to walk back
+home by moonlight or whether to wait for dawn,
+rather than risk losing your footing on the steep
+and rocky trail.
+
+If you decide to start back home,
+tum to page 4.
+
+If you decide to wait,
+tum to page 5.
+
+=== Step 3: Page 4 ===
+Page 4
+
+As you start walking back toward the ranch, you
+notice the trail seems very different than you re-
+member it, though of course moonlight can play
+tricks on your eyes. But you suddenly realize you
+are not walking on the trail at all, but on what
+seems to be a dried-up river bed. You hurry back
+to the cave entrance. You look around you and
+realize the whole landscape has changed. While
+you were in the cave, torrents of water have
+washed out the trail; yet there is not so much as a
+puddle left. You shiver. Itis cold, much colder than
+it should be at this time of year. You take a jacket
+out of your backpack and putit on, but you are still
+freezing.
+
+Atleast the world about you seems brighter. It’s
+getting light in the east. The sun will soon be up.
+You look at your watch. It has run down, though
+you wound it only a few hours ago. Nothing seems
+% make sense anymore.
+
+You know you should get back to the ranch as
+quickly as possible; yet somehow you feel the only
+way to change things back to the way they were is
+to re-enter the cave.
+
+If you continue toward the ranch,
+tum to page 8.
+
+If you go back into the cave,
+tum to page 10.
+
+=== Step 4: Page 10 ===
+Page 10
+
+You walk into the interior of the strange cavern;
+then wait while your eyes become accustomed to
+the dim, amber light. Gradually you can make out
+
+} the two tunnels. One curves downward to the
+4 right; the other leads upward to the left.
+
+| It occurs to you that the one leading down may
+q go to the pastand the one leading up may go to the
+4 future.
+
+If you take the tunnel leading to the left,
+turn to page 20.
+
+If you take the tunnel leading to the right,
+turn to page 61.
+
+If you walk outside the cave again,
+tum to page 21.
+
+=== Step 5: Page 21 ===
+Page 21
+
+; You turn and walk back out of the cave. It
+| should be dawn by now, but, as you grope your
+way toward the entrance, you can’t see any light
+: coming into the cave. You press against the walls,
+feeling for an opening. Your hands pass across
+something cold, wet, and hard. Ice! The entrance
+is sealed by it. Blocks of ice protrude into the cave.
+You step back, feeling confused and helpless.
+You wish it were just a dream. You retrace your
+steps a way, trying to think clearly. You know that
+your only chance to get out of the cave is to follow
+one of the two branches before you.
+
+If you follow the right branch,
+tum to page 33.
+
+If you follow the left branch,
+tum to page 35.
+
+=== Step 6: Page 35 ===
+Page 35
+
+You walk along the left-hand passageway, pass-
+ing tunnels from time to time, none of which looks
+like a particularly appealing route. You decide to
+see if you can reach the end of the passageway.
+
+You walk on and on, hour after hour. Then, in
+the distance, you see a figure approaching—a girl
+wearing blue jeans and a red sweater and carrying
+a backpack. She tells you that her name is Louisa
+and that she was exploring a cave and got lost. She
+does not know she is in the Cave of Time.
+
+If you try to help Louisa find the way
+back to where she entered the cave,
+= tum to page 76.
+
+If you suggest she try one of
+the tunnels with you as a way out,
+tum to page 80.
+
+=== Step 7: Page 80 ===
+Page 80
+
+“Since you can’t find your way to your own
+time,” you say, “perhaps we can find my time.”
+You lead her back a short distance, until you
+come to an unusually wide tunnel. You stop, and
+Louisa looks at you inquiringly. ‘‘Let’s try this
+one,” you say.
+
+After traveling almost an hour, the two of you
+smile with joy to see light ahead, and you soon
+come out of the tunnel and stand on reddish
+sandy ground, surveying a saucer-shaped terrain.
+The air is as fresh and clear as on a crisp, fall day.
+You guess that you may be in the crater of an
+extinct volcano. Suddenly, there is a thundering
+roar behind you. Louisa and you run from a
+landslide that buries the tunnel leading back to
+the Cave of Time.
+
+“T wonder what year it is?”’ Louisa asks, after
+the two of you have collected your wits.
+
+For the first time you look up at the sun. It is
+four times as large as the sun you knew, though
+not as bright. It is almost directly overhead, yet its
+color is a rusty red.
+
+“T don’t know the answer,” you reply, “but
+from what I’ve read about astronomy, I would
+guess it’s the year 2,000—plus about four billion
+years.”
+
+The End

@@ -1,0 +1,23 @@
+Page 79
+
+PROGRAM 5
+9 0 0  CLS:RETURN
+9 1 0  H Z = I N T ( H T - 1 + ( V T - 1 ) *S W + 0. 5 ) :
+PRINT @ H Z , " " ; : RETURN
+9 2 0  FOR WS=1 TO 2 0 0 : NEXT WS:RETURN
+If you have a Radio Shack TRS-80, add
+these lines to Program 5. (Line 910 must
+be typed as one line.)
+About the program:
+The turtles on Parrot Island are afraid
+of lightning. Lucky for you, Magic Micro
+has a program for generating lightning on
+the computer screen. But it has to flash fast
+to scare the turtles. The program asks you
+to enter a number — which determines
+the speed of the lightning. If it’s not high
+enough, the lightning keeps flashing
+without slowing down the turtles. Look at
+the program and see if you can tell how
+high the number has to be to stop the tur­
+tles. (Hint: See line 150.)

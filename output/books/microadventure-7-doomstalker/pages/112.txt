@@ -1,0 +1,31 @@
+Page 112
+
+a unit. In the English language, a collection
+of letters that make up a word can be thought
+of as a string. In a program, the information
+in a string is often enclosed in quotation marks
+to let the computer know that the symbols are
+to be treated as characters. In the string "123"
+the program is dealing with the characters I,
+2, and 3, not the larger number 123. The
+computer is storing these as the ASCII values
+for I, 2, and 3, which are 49, 50, and 51. A
+string that is empty and has no characters in it
+is called a null string and should be repre-
+sented as " "
+Subroutines are parts of a program or a se-
+quence of instructions called by a program to
+perform a general or frequently used task. In
+some of the programs in this book, subrou-
+tines are used to position the cursor or get in-
+put from the screen.
+Variables are names used to represent values
+that will change during the course of a pro-
+gram. For example, a variable named D$ might
+represent any day of the week. It may help you
+to think of a variable as a storage box, wait-
+ing to receive whatever information you want
+to put in. Variables that deal with strings of
+symbols are always followed by a dollar sign.
+Variables that end in a percent sign always hold
+integers (the whole numbers like I, 2, 3, 500).

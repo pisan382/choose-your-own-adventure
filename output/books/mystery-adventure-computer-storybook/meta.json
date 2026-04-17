@@ -1,0 +1,14 @@
+{
+  "slug": "mystery-adventure-computer-storybook",
+  "title": "The Mystery and Adventure Computer Storybook",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/TheMysteryAndAdventureComputerStorybook1983.pdf",
+  "format": "linear",
+  "reference_style": "none",
+  "layout": "single",
+  "pdf_start_page": 1,
+  "pdf_end_page": null,
+  "story_start_page": 1,
+  "pages_written": 107,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}

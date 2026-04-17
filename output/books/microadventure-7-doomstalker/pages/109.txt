@@ -1,0 +1,30 @@
+Page 109
+
+Arrays are groups of two or more logically
+related data elements in a program that have
+the same name. However, so that the individ-
+ual elements in the array can be used, each is
+also identified by its own address (called an
+index by programmers). You can think of an
+array as an apartment building. One hundred
+people might live at the Northwest Apart-
+ments (or 100 pieces of information might be
+stored in the NW Array). But each unit within
+the building has a number (like Apt 14), so it
+can be located and receive mail. In the NW
+Array, 14 could be the index to find a partic-
+ular piece of information, and would be writ-
+ten NW(l4). If you put the 26 letters of the
+alphabet into an array called Alpha$, then AI-
+pha$(2) would equal "B" because B is the
+second letter of the alphabet.
+ASCII (Pronounced asskee) is the standard
+code used by most microcomputers to repre-
+sent characters such as letters, numbers, and
+punctuation. A chart of the ASCII codes ap-
+pears in the appendix to this manual.
+ASC is a function in BASIC that will supply
+a character's ASCII code. For example
+ASC("A") will give you the number 65.
+Bugs are errors or mistakes in a program that
+keep it from doing what it's supposed to do.

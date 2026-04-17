@@ -1,0 +1,10462 @@
+Path: 1 -> 3 -> 5 -> 6 -> 7 -> 9 -> 11 -> 12 -> 13 -> 15 -> 16 -> 18 -> 19 -> 20 -> 21 -> 22 -> 23 -> 25 -> 26 -> 27 -> 28 -> 30 -> 31 -> 32 -> 33 -> 35 -> 36 -> 37 -> 38 -> 39 -> 40 -> 41 -> 43 -> 44 -> 45 -> 46 -> 47 -> 48 -> 50 -> 51 -> 53 -> 54 -> 55 -> 56 -> 57 -> 58 -> 60 -> 61 -> 62 -> 63 -> 64 -> 65 -> 66 -> 67 -> 68 -> 69 -> 71 -> 72 -> 73 -> 75 -> 76 -> 77 -> 78 -> 79 -> 81 -> 82 -> 83 -> 84 -> 86 -> 87 -> 88 -> 89 -> 90 -> 92 -> 93 -> 94 -> 95 -> 96 -> 97 -> 99 -> 100 -> 101 -> 103 -> 104 -> 105 -> 106 -> 107 -> 108 -> 109 -> 110 -> 111 -> 113 -> 114 -> 115 -> 117 -> 118 -> 119 -> 120 -> 121 -> 122 -> 124 -> 125 -> 126 -> 128 -> 129 -> 130 -> 132
+
+=== Step 1: Page 1 ===
+Page 1
+
+TH€
+MVSTCRV RND RDV€NTUR€
+COMPUTER
+STORYBOOK
+V*
+'
+I
+/ %
+\
+20 Stories
+To Read and Program
+IN BASIC
+On Your Home Computer
+
+=== Step 2: Page 3 ===
+Page 3
+
+THE MYSTERY AND ADVENTURE
+COMPUTER STORYBOOK
+
+=== Step 3: Page 5 ===
+Page 5
+
+THE MYSTERY AND ADVENTURE
+COMPUTER STORYBOOK
+by
+Stuart and Donna Paltrowitz
+Technical Consultant
+Lawrence M. Shertz
+
+=== Step 4: Page 6 ===
+Page 6
+
+Copyright © 1983 Tribeca Communications, Inc.
+All rights reserved. No part of this book may be reproduced or utilized in any
+form or by any means, electronic or mechanical, including photocopying,
+recording, or by any information storage or retrieval system, without permission
+in writing from the Publisher.
+Inquiries should be addressed to Tribeca
+Communications,
+Inc., 401
+Broadway, New York, New York
+10013
+Library of Congress Cataloging in Publication Data
+Paltrowitz, Stuart.
+The mystery and adventure computer storybook.
+Summary: Twenty-two mystery and adventure stories to read and program in
+BASIC on a home computer.
+1.
+Detective and mystery stories.
+2.
+Adventure stories.
+3.
+Basic
+(Computer program language)
+4.
+Computer games.
+5.
+Programming
+(Electronic computers)
+[I.
+Mystery and detective stories.
+2.
+Adventure
+and adventurers—Fiction.
+3.
+Basic (Computer program
+language)
+4.
+Computer games
+5.
+Programming
+(Computers)]
+1.
+Paltrowitz, Donna.
+II.
+Title.
+PZ7.P188My
+1983
+[Fie]
+83-9302
+ISBN 0-943392-23-3
+Written by Stuart & Donna Paltrowitz
+Illustrated by Dale S. Smith
+Special thanks to Kathleen Daly & Lisa Marsoli, the staff of Times Printing
+Inc., and Donna & Douglas Woodwell for all their hard work.
+Distributed in Canada by Prentice-Hall Canada, Inc.,
+1870 Birchmount Road,
+Scarborough, Ontario M1P 2J7
+Printed in the United States of America
+First Edition: October
+1983
+123456789
+
+=== Step 5: Page 7 ===
+Page 7
+
+Dedication
+Dedicated to our sons, Adam & Darren, who learned how to
+interact, RUN, PEEK and POKE from the computer.
+
+=== Step 6: Page 9 ===
+Page 9
+
+Introduction
+Would you like to put a little more excitement in your life? You
+can become a private eye and solve all kinds of mysteries while
+using the computer.
+Don't worry if you are not sure about some of the things you will
+be doing. THE MYSTERY AND ADVENTURE COMPUTER
+STORYBOOK
+will
+show
+you
+step-by-step
+how
+to
+enter
+the
+programs onto your computer and help solve a mystery or follow
+an adventure.
+THE MYSTERY AND ADVENTURE COMPUTER STORY
+BOOK contains twenty-two stories.
+Within each story there are
+computer programs. You will be asked to type the programs into
+your computer and then answer some questions. The computer will
+"talk back" and respond to your answers. Many of the computer's
+answers will surprise and amuse you.
+We hope that you have lots of fun with THE MYSTERY AND
+ADVENTURE COMPUTER STORYBOOK.
+
+=== Step 7: Page 11 ===
+Page 11
+
+Instructions
+THE MYSTERY AND ADVENTURE COMPUTER STORY
+BOOK contains over 50 programs to play on your computer. They
+are written in BASIC language for the Timex Sinclair 1000, ZX 81,
+Apple, Commodore, Atari, TRS-80 and all other microcomputers.
+Although the programs are all written in BASIC language, each
+company's microcomputer has features or differences in its BASIC
+language, which makes programming different from the
+others.
+The computer programs have been created to work on all popular
+microcomputers.
+When you type
+1.
+Type the lines exactly as they appear in the program.
+2.
+At the end of each line press RETURN or ENTER.
+3.
+After you type in the complete program, type RUN.
+4.
+If
+something
+does
+not
+seem
+right,
+check
+your
+computer manual.
+
+=== Step 8: Page 12 ===
+Page 12
+
+5.
+If you have a Timex, you'll notice that there
+is no
+apostrophe on your keyboard. So, when you see one in
+a program just leave a space.
+INVERSE LETTERING
+Inverse lettering or reverse lettering is that special black back
+ground that appears in a program. Each computer has a different
+way of using inverse lettering.
+For Atari, press the Atari logo key.
+For Commodore, hold down CTRL and press 9.
+For TRS-80 go into the P mode and change the back
+ground color.
+For
+Apple,
+type
+a
+line
+number
+and
+then
+the
+word
+INVERSE. After you are done with the INVERSE line,
+type a line number and NORMAL on the following
+line.
+EXPERIMENT
+Once you have mastered the programs, you may want to try a
+program of your own. That
+is a good idea. Depending on your
+computer, you can try lots of interesting things. You may even try
+colors and sounds.
+Good luck and happy computing.
+
+=== Step 9: Page 13 ===
+Page 13
+
+Table of Contents
+1.
+The Needle and Haystack Club
+1
+2.
+The Great Crespo
+8
+3.
+The Lost Coat
+13
+4.
+Who Wrote It?
+18
+5.
+The Mailman
+22
+6.
+The Case of the Missing Horse
+26
+7.
+The Tapper
+32
+8.
+A Day At The Beach
+37
+9.
+The S-Thief
+43
+10.
+The Cousin Connection
+48
+11.
+The Star Ring
+54
+12.
+The Joyride
+59
+13.
+The Case of the Rhyming Robber
+63
+14.
+A Spectacular View
+69
+15.
+Stolen Software
+76
+16.
+Dangerous Living
+80
+17.
+The Clubhouse
+86
+18.
+The Accident
+90
+19.
+The Fifteenth Robbery
+94
+20.
+The Auction
+101
+21.
+Who Did It?
+107
+22.
+The Missing Camp Counselor
+
+=== Step 10: Page 15 ===
+Page 15
+
+The Needle and
+Haystack Club
+You are the new kid on the block. You want to make friends with
+your neighbors—Bonnie, Alice, A.J., Evan and Sarelle.
+"You always look as if you are having fun," you say. "May I join
+in?"
+The kids look you up and down. They look at each other.
+"Well, maybe," says Evan. "But first you have to prove that you are
+smart."
+"We
+are
+the
+Needle
+and
+Haystack
+Club,"
+says
+Bonnie. "We
+specialize in finding lost things—and lost people."
+"All right," you say. "Who or what is missing? Give me a chance to
+play detective!"
+"Come back tomorrow, same time, same place, and we'll have a
+puzzle for you to solve," says A.J.
+"Okay, here's the problem," says Alice, the next day. "Sarelle
+
+=== Step 11: Page 16 ===
+Page 16
+
+•
+MYSTERY AND ADVENTURE
+Martin is hiding in one of our houses. You have to find her. We'll
+give you some clues. See how fast you can move!"
+Alice gives you a map showing where Sarelle's four friends live.
+Type in the program and see where they live.
+NEW
+5
+10
+15
+20
+25
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+100
+105
+110
+120
+130
+140
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"RIVER
+STREET1
+'HYDE
+PARK"
+"LEE
+"PLACE
+"IIIIIIIIIIIIIIIIIIII"
+MERRICK
+ROAD
+"IIIIIIIIIIIIIIIIIIII"
+"NOW
+60
+BACK
+TO
+THE
+BOOK1
+"AND
+VISIT
+A
+SUSPECT"
+And now you are off and running!
+You decide to go to A.J.'s house first.
+"I am looking for Sarelle," you say.
+"Sorry,
+I can't help you," says A.J. He seems to be in an awful
+hurry.
+But before he slams the door, you notice that there's a suitcase
+right beside him. The initials on the suitcase are "S.N."
+"H'm," you say. "Very suspicious behavior."
+
+=== Step 12: Page 18 ===
+Page 18
+
+•
+MYSTERY AND ADVENTURE
+Next you try Evan's house.
+Evan's mother has just given him a haircut and his shoulders are
+covered with black hair.
+"Where is Sarelle?" you say.
+Evan shakes his head. "All I know is she slipped this letter in my
+mailbox the other day.
+It was raining and the paper got wet and
+smeary. See if you can read it," says Evan.
+NEW
+100
+110
+120
+130
+140
+150
+160
+170
+ISO
+185
+190
+195
+200
+210
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"DEAR
+EVAN"
+"I
+AM
+RUNNIN
+AWAY"
+"I
+W
+LL
+BE
+T"
+HOUSE
+IF
+YOU1
+"
+EED
+ME"
+"SAR
+LLE"
+"GO
+BACK
+TO
+THE
+BOOK"
+"AND
+SEE
+WHAT
+ELSE"
+"EVAN
+CAN
+TELL
+YOU"
+"Sure, 111 be able to read this note," you say.
+"Well, let me know what you find out," says Evan.
+He scribbles on a piece of paper.
+"Here's my name and telephone number," says Evan.
+
+=== Step 13: Page 19 ===
+Page 19
+
+NEEDLE AND HAYSTACK CLUB
+•
+5
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+HO
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+1NNNNNNNNNNNNNNNNNN"
+N
+N"
+N
+EVAN
+N"
+N
+HOPKIN
+N"
+N
+N"
+N
+RED
+N"
+N
+HEAD
+N"
+1 NNNNNNNNNNNNNNNNNN"
+BO
+BACK
+TO
+THE
+BOOK
+11
+TO
+SEE
+IF
+YOU
+KNOW
+"HOW
+TO
+CONTACT
+EVAN
+"RED HEAD,"you say. "Evan has black hair. Why has he written
+RED HEAD, and where is his telephone number?" You hurry to the
+next stop, Alice's house.
+"I am looking for Sarelle," you say.
+"Oh, I can help you," says Alice. "The other day, we both wore our
+matching blue coats and red gloves to school. By mistake, we got
+them mixed up."
+"The next day, when I put on a glove, I found this note squashed
+inside it. It's so tiny and creased I can't read it!"
+Alice gives you the note.
+"H'm, very interesting," you say. "I can read this note all right."
+Type in this program to find out what the note said. The paper is
+exactly the same size as you see on the screen. The paper has no
+wrinkles.
+NEW
+10
+15
+20
+25
+30
+35
+PRINT
+"NNNNNNNNNNNNNNNN"
+PRINT
+"YOUR
+TIME
+IS"
+PRINT
+"RUNNING
+OUT"
+PRINT
+"FIND
+ME
+SOON"
+PRINT
+"OR
+YOU
+CANNOT"
+PRINT
+"JOIN"
+
+=== Step 14: Page 20 ===
+Page 20
+
+•
+MYSTERY AND ADVENTURE
+40
+45
+50
+55
+60
+RUN
+PRINT
+"NEEDLE"
+PRINT
+"AND
+HAYSTACK"
+PRINT
+"CLUB"
+PRINT
+"
+SARELLE"
+PRINT
+"NNNNNNNNNNNNNNNN"
+Now you are really worried! You've got to find Sarelle soon! You
+hurry to Bonnie's house. You explain why you're there. Just then the
+telephone rings.
+"Excuse
+me,"
+says
+Bonnie.
+"Look around
+and
+see
+if there
+is
+anything that can help you."
+You see a necklace on a table.
+"H'm, that necklace is a very unusual shape," you think.
+Type in the program to see the shape of the necklace.
+NEW
+10
+20
+30
+40
+50
+60
+70
+100
+110
+RUN
+PRINT
+PRINT
+"
+U
+U"
+PRINT
+"
+U
+U"
+PRINT
+"
+U
+U"
+PRINT
+"
+SARELLE
+"
+PRINT
+"
+U
+U"
+PRINT
+"
+U
+U"
+PRINT
+"BONNIE
+IS
+OFF
+THE
+PHONE"
+PRINT
+"GO
+BACK
+TO
+THE
+STORY"
+"Why
+does
+this
+necklace have
+Sarelle's name
+on
+it?" you
+ask
+Bonnie when she comes back.
+"Because it belongs to Sarelle," says Bonnie. "She left it here the
+other day when we went swimming. I guess I forgot to give it back to
+her."
+"AH HA!" you say. "NOWI know where Sarelle is hiding!"
+Do you know where Sarelle is hiding?
+Type in the program to see if you are right.
+
+=== Step 15: Page 21 ===
+Page 21
+
+NEEDLE AND HAYSTACK CLUB
+•
+7
+NEW
+150
+160
+170
+180
+190
+200
+220
+227
+228
+240
+247
+250
+270
+275
+280
+290
+300
+305
+310
+340
+345
+347
+350
+357
+360
+370
+380
+400
+1000
+1010
+1020
+1030
+1040
+1050
+1060
+1070
+RUN
+DIM
+T*(20)
+DIM
+U*<20>
+DIM
+Y*(20)
+DIM
+W*(20)
+DIM
+X*<20)
+PRINT
+"WHERE
+IS
+SARELLE?"
+INPUT
+T*
+LET
+U*
+=
+"BONNIE"
+IF
+T*
+=
+U*
+THEN
+LET
+Y*
+=
+"ALICE"
+LET
+W*
+■EVAN"
+IF
+T$
+=
+Y*
+THEN
+LET
+X*
+=
+"AJ"
+IF
+T*
+■
+W*
+THEN
+IF
+T*
+=
+X*
+THEN
+GOTO
+360
+GOTO
+1000
+GOTO
+340
+GOTO
+290
+PRINT
+"SARELLE'S
+INITIALS
+ARE
+SM
+NOT
+SN"
+PRINT
+"IT
+BELONGED
+TO
+AJ'S
+SISTER"
+PRINT
+"HER
+NAME
+IS
+SUSAN
+NORRIS"
+GOTO
+200
+PRINT
+"YOU
+ARE
+WRONG"
+PRINT
+"EVAN
+WAS
+NOT
+A
+RED
+HEAD"
+PRINT
+"THAT
+WAS
+JUST
+HIS
+PHONE
+NUMBER"
+PRINT
+"THE
+SMEARED
+NOTE
+WAS
+WRITTEN
+BY
+SARELLE"
+GOTO
+200
+PRINT
+"JUST
+BECAUSE
+BONNIE
+HAD"
+PRINT
+"THE
+NECKLACE"
+PRINT
+"DOESN'T
+MEAN
+SHE
+WAS
+HIDING
+SARELLE"
+GOTO
+200
+PRINT
+"CONGRATULATIONS.
+YOU
+FOUND
+SARELLE"
+PRINT
+"WHEN
+YOU
+SAW
+THE
+SIZE
+OF"
+PRINT
+"THE
+NOTE
+YOU
+KNEW
+THAT
+IT"
+PRINT
+"COULD
+NOT
+HAVE
+FIT
+INTO"
+PRINT
+"A
+GLOVE
+WITHOUT
+FOLDING."
+PRINT
+"YOU
+ARE
+A
+GOOD
+DETECTIVE"
+PRINT
+"WELCOME
+TO"
+PRINT
+"THE
+NEEDLE
+AND
+HAYSTACK
+CLUB"
+
+=== Step 16: Page 22 ===
+Page 22
+
+The Great Crespo
+About
+fifty
+years
+ago
+most
+people
+knew
+about
+The
+Great
+Crespo.
+Crespo
+thrilled
+millions
+of people
+with
+unusual
+body
+building
+exercises.
+Exhibitions
+by
+Crespo
+were
+world
+famous.
+When
+it came to body-building competitions, The great Crespo
+collected
+more
+top
+awards
+and
+trophies
+than
+any
+other
+body
+builder in history.
+Fame and fortune seemed glamorous, but Crespo's family life
+was a failure. There had been one marriage.
+It ended in divorce.
+One baby, a son, was born during the marriage, but Crespo never
+saw the child after the marriage ended. There was so much travel,
+fame and fortune in Crespo's life that there was no time for family.
+Now, nearly fifty years later, Crespo is lonely. Few people recall
+The Great Crespo. Young people have never seen the exhibitions.
+Now Crespo regrets not having a family life. Would it be possible to
+find the only child?
+Crespo picks up the telephone and speaks to a young lawyer. The
+
+=== Step 17: Page 23 ===
+Page 23
+
+THE GREA T CRESPO
+•
+9
+lawyer has never heard of the body builder, but agrees to help.
+After settling on a fee, the lawyer has these posters displayed on
+billboards around the country. Type in the program to read the
+message.
+NEW
+10
+20
+30
+40
+50
+60
+70
+SO
+90
+100
+110
+120
+130
+140
+150
+160
+165
+170
+180
+190
+200
+210
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+"
+PRINT
+"
+GOTO
+80
+PRINT
+"
+PRINT
+"
+BOTO
+110
+PRINT
+"
+PRINT
+"
+GOTO
+140
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+GOTO
+180
+PRINT
+"
+PRINT
+PRINT
+PRINT
+PRINT
+wiimiiiiHimimiiBiiiMmii
+WANTED
+THE
+GREAT
+CRESPO
+WORLD-FAMOUS
+BODYBUILDER
+LOST
+HIS
+BODY
+OFFERS
+LARGE
+ICE-COLD
+SODA
+REWARD
+TO
+MISSING
+TEETH
+MISSING
+SON
+BRING
+PROOF
+OF
+IDENTIFICATION
+THE
+DOG
+POUND
+375
+FULTON
+ROAD
+SHOREHAM
+UUUUUUUUUUUUUUUUU
+GO
+BACK
+TO
+THE
+BOOK11
+Now the lawyer's problems begin. Hur dreds of men come to his
+office, claiming to be Crespo's son and asking for the large reward.
+Crespo had told the lawyer that the son would be almost fifty
+years old, but couldn't remember the son's date of birth, eye color,
+or hair color.
+Crespo knew the child's first name was originally Samson, but
+the first name had been changed before the child went to school. No
+one could find any records showing the name change.
+The lawyer did as much investigating as he could. He narrowed
+
+=== Step 18: Page 25 ===
+Page 25
+
+Name
+Robert Crespo
+Pat Crespo
+Frank Crop
+Sam Crespo
+Age
+51
+50
+49
+49
+EyeC<
+Brown
+Blue
+Blue
+Brown
+THE GREA T CRESPO
+•
+11
+down the list to four people who could possibly be Crespo's son.
+Now the lawyer suggested that The Great Crespo interview the men
+individually. This is the list of names The Great Crespo was given,
+along with the lawyer's notes:
+Eye Color
+Occupation
+Accountant
+Painter
+House Builder
+Body Builder
+With only one glance at the list, Crespo knew that only one man
+on the list could be the missing son. Who do you think it is? Type in
+the program to see if you are right.
+NEW
+5
+DIM
+H*(20)
+10
+DIM
+I*(20)
+15
+PRINT
+"WHAT
+DID
+CRESPO
+WANT
+TO
+SEE"
+20
+INPUT
+H*
+40
+LET
+J*
+=
+"MAMA
+CRESPO"
+50
+LET
+I*
+=
+"FRANK"
+70
+IF
+H$
+=
+1$
+THEN
+GOTO
+100
+80
+PRINT
+"YOU
+GUESSED
+WRONG"
+90
+PRINT
+"TRY
+AGAIN
+"
+95
+GOTO
+15
+100
+PRINT
+"THAT
+IS
+CORRECT"
+105
+PRINT
+"YOU
+SEE,
+THE
+GREAT"
+110
+PRINT
+"CRESPO
+IS
+A
+WOMAN."
+120
+PRINT
+"SHE
+WAS
+ALSO
+A
+"
+130
+PRINT
+"BODYBUILDER.THE
+MAN"
+140
+PRINT
+"SHE
+MARRIED
+HAD
+A
+"
+150
+PRINT
+"DIFFERENT
+FAMILY
+NAME,"
+160
+PRINT
+"WHEN
+SHE
+WAS
+MARRIED,"
+170
+PRINT
+"HER
+REAL
+LAST
+NAME"
+180
+PRINT
+"WAS
+CHANGED
+TO
+HER"
+190
+GOTO
+210
+200
+PRINT
+"PET
+DOG'S"
+210
+PRINT
+"HUSBAND'S
+LAST
+NAME."
+220
+PRINT
+"HER
+SON
+WOULD
+HAVE"
+230
+GOTO
+
+=== Step 19: Page 26 ===
+Page 26
+
+•
+MYSTERY AND ADVENTURE
+240
+PRINT
+"HAD
+A
+COLD
+NOSE."
+250
+PRINT
+"HAD
+THAT
+FAMILY
+NAME"
+260
+PRINT
+"AND
+NOT
+THE
+CRESPO"
+270
+PRINT
+"NAME
+."
+275
+PRINT
+280
+DIM
+A*(20)
+285
+DIM
+B*(20)
+290
+PRINT
+"NOBODY
+SEEMED
+TO"
+300
+PRINT
+"KNOW
+THAT
+CRESPO
+IS"
+310
+PRINT
+"A
+WOMAN.
+DID
+YOU
+GET"
+320
+PRINT
+"FOOLED
+TOO?"
+340
+INPUT
+A*
+360
+LET
+B*
+=
+"YES"
+370
+IF
+A*
+=
+B*
+THEN
+GOTO
+420
+380
+PRINT
+"TOO
+BAD"
+390
+PRINT
+"WE
+REALLY
+TRIED
+HARD"
+400
+PRINT
+"TO
+FOOL
+YOU."
+410
+GOTO
+460
+420
+PRINT
+"IT
+WAS
+A
+VERY
+TOUGH
+PUZZLE.
+430
+PRINT
+"BRILLIANT
+THINKING"
+440
+PRINT
+460
+PRINT
+RUN
+
+=== Step 20: Page 27 ===
+Page 27
+
+The Lost Coat
+Joe Fine has owned FINE CLEANERS for years. Everyone knows
+that he is a perfectionist when it comes to business. In the past ten
+years, only two garments have been damaged, and one lost. Each
+time Joe
+Fine
+paid
+his
+customers
+for the
+mistakes.
+Joe
+Fine's
+reputation is important to him.
+Today a young man enters
+the
+store.
+Joe
+Fine
+has seen him
+before. He remembers having cleaned something fo?r him. Type in
+the program to see what item Joe remembers.
+NEW
+20
+30
+40
+45
+50
+PRINT
+PRINT
+PRINT
+GOTO
+PRINT
+II
+II
+II
+61
+II
+HOW
+DO
+YOU
+KEEP
+A"
+
+=== Step 21: Page 28 ===
+Page 28
+
+MYSTERY AND AD VENTURE
+55
+60
+61
+65
+70
+75
+SO
+85
+87
+90
+95
+96
+120
+RUN
+PRINT
+"
+FISH
+FROM
+SMELLINB?"
+PRINT
+"CUT
+OFF
+ITS
+GILLS."
+PRINT
+60T0
+90
+PRINT
+"THE
+ALPHABET
+ONLY"
+PRINT
+"HAS
+24
+LETTERS
+NOW."
+PRINT
+"ET
+WENT
+HOME."
+PRINT
+PRINT
+"I
+PRINT
+PRINT
+"GO
+BACK
+TO
+THE
+BOOK"
+It's a suede hat. Joe Fine remembers
+it because of its unusual
+pattern. The young man had given up his claim check and paid the
+bill. Today the young man is showing another claim check. Type in
+the program to see what it looks like.
+NEW
+10
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+80
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+Illllllllllllllllir
+FINES
+CLEANERS
+NOV.31,1984
+CLAIM
+NO.2971
+1-DESIGNER
+SUEDE
+COAT
+Illllllllllllllllir
+"RETURN
+TO
+THE
+BOOK"
+Joe Fine doesn't remember ever seeing the suede coat. But he
+checks his books and records anyway. He sees no entry for a suede
+coat. He searches all the racks and opens every box, but no suede
+coat is found.
+
+=== Step 22: Page 30 ===
+Page 30
+
+MYSTERY AND AD VENTURE
+The customer gets angry. "If you can't find the coat, 111 take you
+to court and make you pay for
+it. And
+it will cost you a lot of
+money," says the young man.
+Joe, the fine cleaner, asks you whether he should pay for the
+missing coat. Type in the program and decide.
+NEW
+10
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+75
+76
+80
+85
+95
+105
+110
+112
+113
+115
+120
+125
+130
+135
+140
+145
+155
+162
+165
+170
+175
+180
+183
+185
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+IIIIIIIIIIIIIIII III
+I
+FINES
+CLEANERS
+I
+I
+NOV.31,1984
+I
+I
+CLAIM
+NO.2971
+I
+I
+1-DESIGNER
+I
+I
+SUEDE
+COAT
+IIIIIIIIIIIIIIII
+DIM
+6*(20)
+DIM
+H*(20)
+PRINT
+"
+PRINT
+"
+SHOULD
+MR.
+FINE
+I
+I
+I
+I
+I
+I
+I
+III
+PAY
+FOR
+THE
+SUEDE
+COAT?
+INPUT
+G*
+LET
+H*
+IF
+G*
+DIM
+I*
+DIM
+J*
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+INPUT
+LET
+K«
+LET
+J*
+IF
+I*
+PRINT
+PRINT
+GOTO
+1
+PRINT
+=
+"YES"
+=
+H*
+THEN
+GOTO
+(20)
+(20)
+"WHAT
+MAKES
+YOU"
+"THINK
+MR.
+FINE
+250
+DID
+"NOT
+LOSE
+THE
+COAT?
+"SUEDE
+MATERIAL"
+"NO.
+2971"
+"DATE"
+"DESIGNER
+HAT"
+I*
+=
+"BLIND
+DATE"
+=
+"DATE"
+=
+J*
+THEN
+GOTO
+"NO,
+THAT
+IS
+NOT
+185
+IT
+II
+II
+II
+II
+II
+II
+II
+11
+II
+II
+II
+II
+II
+II
+II
+m
+"LOOK
+AT
+THE
+RECEIPT.
+15
+"THAT
+IS
+RIGHT"
+
+=== Step 23: Page 31 ===
+Page 31
+
+THE LOST COAT
+•
+17
+190
+PRINT
+"NOVEMBER
+ONLY
+HAS"
+195
+PRINT
+"THIRTY
+DAYS,
+BUT
+THE"
+200
+PRINT
+"CLAIM
+CHECK
+IS
+DATED"
+205
+PRINT
+"NOVEMBER
+31.THE"
+210
+PRINT
+"CLAIM
+CHECK
+MUST
+BE"
+215
+PRINT
+"FAKE.
+YOU
+GUESSED
+IT.1
+220
+GOTO
+280
+250
+PRINT
+"CHECK
+THE
+RECEIPT"
+255
+PRINT
+"AGAIN."
+260
+PRINT
+"NOTICE
+THE
+DATE."
+265
+PRINT
+"LOOK
+AT
+THE
+CALENDAR"
+270
+PRINT
+"TO
+FIND
+OUT
+HOW
+MANY"
+275
+PRINT
+"DAYS
+ARE
+IN
+NOVEMBER"
+276
+GOTO
+80
+280
+PRINT
+284
+PRINT
+"
+THE
+END
+"
+RUN
+
+=== Step 24: Page 32 ===
+Page 32
+
+Who Wrote It?
+mi
+inn
+mm
+hi
+wif
+iiiiiiiiiniiiii
+iiiiiiiiiiiinii
+nil
+iiiiiiiii
+iiiiiiiiiiiii
+ii
+iiiiiiiiiiiii
+i
+i
+i
+iiiiiiiiiiiii
+You and your reading teacher are discussing the book he assigned
+to you last week. You enjoyed the book very much and are anxious
+to read other books by the author. Your teacher is pleased at your
+response. He asks you what you think about the characters in the
+book. You can't remember all the characters' names. Type in the
+program to refresh your memory.
+NEW
+10
+20
+30
+40
+50
+60
+RUN
+PRINT
+"HERE
+ARE
+THE
+NAMES
+OF
+THE
+CHARACTERS
+"
+PRINT
+"IN
+THE
+BOOK:
+1.
+CAM"
+PRINT
+"
+2.
+ILSA"
+PRINT
+"
+3.
+LEN"
+PRINT
+"
+4.
+SALLIE"
+PRINT
+"NOW
+RETURN
+TO
+THE
+STORY!!"
+
+=== Step 25: Page 33 ===
+Page 33
+
+WHO WROTE IT?
+•
+19
+After your discussion is over, your teacher gives you next week's
+assignment. He gives you two books, both with the author's name
+covered over with tape. One book is labeled Story #1, the other is
+labeled
+Story #2. He
+tells you that only one of these books was
+written by the same person who wrote the book you read last week.
+You must decide which book it is. Your teacher gives you a clue. He
+tells you that the author always makes the names of his characters
+similar in some way. Type in the program to find out the names of
+the characters in Story #1.
+NEW
+10
+20
+30
+40
+50
+60
+RUN
+PRINT
+"HERE
+ARE
+THE
+NAMES
+OF
+THE
+CHARACTERS11
+PRINT
+"IN
+STORY
+#1S
+1.
+LILA11
+PRINT
+"
+2.
+JENNIE11
+PRINT
+»
+3.
+CAL"
+PRINT
+"
+4.
+MEL"
+PRINT
+"NOW
+RETURN
+TO
+THE
+STORY!!"
+Now type in the program to find out the names of the characters
+in Story #2.
+NEW
+10
+20
+30
+40
+50
+60
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"HERE
+ARE
+THE
+NAMES
+OF
+THE
+CHARACTERS"
+"IN
+STORY
+#2S
+1.
+ALLISE"
+2.
+MAC"
+3.
+NEL"
+4.
+LISA"
+"NOW
+RETURN
+TO
+THE
+STORY!!"
+RUN
+
+=== Step 26: Page 35 ===
+Page 35
+
+WHO WROTE IT?
+•
+21
+Which story was written by the author of the book you read last
+week? Type in the program to find out.
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+•90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+195
+200
+210
+230
+240
+250
+260
+PRINT
+"WHICH
+BOOK
+HAS
+THE
+SAME
+AUTHOR,#1
+OR
+#2"
+INPUT
+A*
+IF
+A$
+=
+"#2"
+THEN
+BOTO
+150
+PRINT
+"OH
+REALLY,
+WHAT
+DO
+THE
+NAMES
+IN
+STORY
+1"
+PRINT
+"AND
+THE
+ORIGINAL
+STORY
+HAVE
+IN
+COMMON?"
+PRINT
+"ORIGINAL","STORY","STORY"
+PRINT
+"STORY",
+" I'1," 2"
+PRINT
+"
+-
+"
+PR I NT
+" CAM " ,
+" LIL A " ,
+" MAC "
+PRINT
+"ILSA","JENNIE","LISA"
+PRINT
+"LEN","CAL","NEL"
+PRINT
+"SALLIE","MEL","ALLISE"
+PRINT
+"TRY
+AGAIN!
+GOTO
+10
+PRINT
+"WELL
+DONE,
+OF
+COURSE
+YOU
+MUST
+HAVE
+"
+PRINT
+"REALIZED
+THAT
+THE
+LETTERS
+OF
+THE
+NAMES"
+PRINT
+"OF
+THE
+ORIGINAL
+STORY
+AND
+THE
+SECOND"
+PRINT
+"STORY
+ARE
+JUST
+MIXED
+UP
+VERSIONS
+OF
+EACH"
+PRINT
+"OTHER.
+"
+PRINT
+PRINT
+"ORIGINAL","STORY","STORY"
+PRINT
+"STORY","1","2"
+pp t kit
+»
+_
+ii
+PRINT
+"CAM","LILA","MAC"
+PRINT
+"ILSA","JENNIE","LISA"
+PRINT
+"LEN","CAL","NEL"
+PRINT
+"SALLIE","MEL","ALLISE"
+RUN
+
+=== Step 27: Page 36 ===
+Page 36
+
+The Mailman
+It
+is
+a
+bitterly
+cold
+winter
+afternoon
+when
+Gladys
+Milman
+telephones you to ask for help. Her dog, Mandy, has been accused
+of
+biting
+the
+new
+mailman.
+Gladys
+is
+very
+upset
+because
+the
+mailman is threatening to sue her.
+"I don't understand it," says Gladys. "Mandy barks a lot. But she
+would never bite anyone."
+At the police station the Chief asks the mailman to sketch the
+scene of the accident. This is what the mailman drew. Type in the
+program, then return to the story.
+
+=== Step 28: Page 37 ===
+Page 37
+
+THE MAILMAN
+•
+23
+NEW
+30
+40
+50
+60
+70
+80
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+PRINT
+"X
+X
+"
+PRINT
+"X
+X
+"
+PRINT
+"X
+XXXXXXXXXXX
+"
+PRINT
+"X
+LEXINGTON"
+PRINT
+"X
+AVENUE
+"
+PRINT
+"XXXXXXXXXXXXX"
+PRINT
+PRINT
+"
+MAIL-"
+MAN"
+PRINT
+PRINT
+PRINT
+"I'm going to sue Gladys Milman. She shouldn't allow her dog to
+run loose. Who knows how many other people have been bitten?"
+says the mailman. "I was just doing my job. I could have been killed
+by that vicious dog. The dog must be tied up."
+"Did you have a doctor look at your wound?" asks the police
+chief.
+"No,"
+says
+the
+mailman.
+"I
+came
+right
+here
+to
+report
+the
+accident.
+I want to make sure that the lady and her dog don't get
+away with such behavior."
+"Did you go home to change your clothes or apply medication to
+the wound?" asks the Chief. He can see no sign of a wound on the
+mailman.
+"Of course not," says the mailman. "Look at this bite!" Would
+you go home and change your clothes with a bite like this?" He rolls
+up the pant leg of his neatly pressed uniform. The Chief sees a
+nasty-looking wound below the man's right knee.
+Now the mailman looks the Chief squarely in the eye and says,
+
+=== Step 29: Page 38 ===
+Page 38
+
+•
+MYSTERY AND ADVENTURE
+A
+V
+.1
+w
+a
+B
+imimpj
+f
+(m
+if
+A
+"Can't you see what a terrible bite this is? Why do you look at me as
+if you thought I'd done something wrong?"
+"I'm not sure you didn't," says the Chief.
+Type in the program to find out why the Chief didn't believe the
+mailman.
+
+=== Step 30: Page 39 ===
+Page 39
+
+THE MAILMAN
+25
+NEW
+60
+80
+90
+100
+200
+300
+400
+500
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+DIM
+A*(20)
+DIM
+B*<20)
+DIM
+X*<20)
+PRINT
+"WHAT
+GIVES
+THE"
+PRINT
+"POLICE
+CHIEF
+A
+CLUE"
+PRINT
+"THAT
+THE
+MAIL-"
+PRINT
+"MAN
+IS
+NOT"
+PRINT
+"TELLING
+THE
+TRUTH?"
+PRINT
+"MEDICATION"
+PRINT
+"PANTS
+LEG"
+PRINT
+"MAIL
+BOX"
+PRINT
+"DOG"
+PRINT
+"GLADYS"
+PRINT
+"RIGHT
+KNEE"
+INPUT
+A*
+LET
+X*
+■
+"MAIL
+BOX"
+LET
+B*
+=
+"PANTS
+LEG"
+IF
+A*
+=
+B*
+THEN
+GOTO
+2000
+PRINT
+"WRONG,
+TRY
+AGAIN"
+GOTO
+100
+PRINT
+"OF
+COURSE."
+PRINT
+"THE
+PANTS
+LEG
+OF
+THE"
+PRINT
+"MAILMAN
+WAS"
+PRINT
+"STILL
+NEATLY
+PRESSED.1
+PRINT
+"HE
+HAD
+TO
+ROLL
+UP"
+PRINT
+"HIS
+PANTS
+LEG
+TO"
+PRINT
+"SHOW
+THE
+WOUND
+TO"
+PRINT
+"THE
+POLICE
+CHIEF."
+PRINT
+"DID
+HE
+HAVE
+TO
+^OLL"
+PRINT
+"UP
+THE
+PANTS
+SO
+THAT"
+PRINT
+"THE
+DOG
+COULD
+BITE"
+PRINT
+"HIM?
+WOULDN'T
+THE"
+PRINT
+"DOG
+BITE
+RIGHT"
+PRINT
+"THROUGH
+THE
+PANTS"
+PRINT
+"MATERIAL?"
+PRINT
+"MANDY
+DID
+NOT
+BITE"
+PRINT
+"THE
+MAILMAN"
+RUN
+
+=== Step 31: Page 40 ===
+Page 40
+
+The Case of
+The Missing Horse
+Nobody in town likes Frank Bridges. Almost anybody might have
+stolen his horse, Samantha, just to teach Frank Bridges a lesson for
+being so mean. But Frank Bridges insists that the prankster must be
+one of three people: Ray Raines, Jim Fowler, or Susan Simmons.
+All three pass by his farm regularly and know his habits. Type in the
+program to find out their location.
+NEW
+10
+PRINT
+"
+11 —■■■■■■••
+15
+PRINT
+"
+II
+HASTINGS"
+20
+PRINT
+"
+II
+STREET
+"
+25
+PRINT
+"
+11■■■»■■■■■h
+30
+PRINT
+"
+POST
+II"
+35
+PRINT
+"
+DRIVE
+II"
+40
+PRINT
+"
+II"
+
+=== Step 32: Page 41 ===
+Page 41
+
+CASE OF THE MISSING HORSE
+•
+27
+45
+PRINT
+"
+II**********"
+50
+PRINT
+"
+II
+KINGS"
+55
+PRINT
+"
+II
+ROW
+"
+60
+PRINT
+"IIIIIIIIII**********"
+65
+PRINT
+"
+II
+BRIDGES"
+70
+PRINT
+"
+II
+FARM"
+75
+PRINT
+"
+II**********"
+77
+FOR
+X
+=
+1
+TO
+2000
+78
+NEXT
+X
+SO
+GOTO
+195
+85
+PRINT
+"*$******II"
+90
+PRINT
+"QUEENS
+II"
+95
+PRINT
+"WATCH
+II"
+97
+PRINT
+"********II"
+100
+FOR
+X
+=
+1
+TO
+5000S
+NEXT
+X
+195
+PRINT
+200
+PRINT
+"ROY
+RAINES
+LIVES
+AT"
+210
+PRINT
+"103
+HASTINGS
+STREET."
+215
+PRINT
+220
+PRINT
+"JIM
+FOWLER
+LIVES
+AT"
+230
+PRINT
+"
+1
+POST
+DRIVE"
+235
+PRINT
+240
+PRINT
+"SUSAN
+SIMMONS
+LIVES"
+250
+PRINT
+"AT
+29
+KINGS
+ROW."
+260
+PRINT
+270
+PRINT
+"GO
+BACK
+TO
+THE
+BOOK"
+RUN
+Before you set off to question the suspects, Frank Bridges gives
+you a description of his missing horse.
+Jim
+Fowler
+is
+a garden and
+pet
+supply
+salesman. A
+neatly
+trimmed lawn surrounds Jim's house. The only horse you see here
+is a ceramic statue of a jockey on a white horse. It rests beside the
+front door. At the rear of the house you can see a large garage that
+has three
+locks.
+Shades are pulled
+over the window. There are
+blotches of oil in the driveway.
+Jim Fowler lets you in. "Yes, I did like Frank's horse, but I would
+never steal it. I'm no thief," says Fowler. "Someone probably felt
+sorry for the poor horse who had to live with that Bridges creep.
+Anyone could give it a better home."
+It's a long walk down the road to the Simmons' house, so you
+decide to stop on the way and take a look
+at Frank
+Bridges's
+description of the missing horse. Type in the program.
+
+=== Step 33: Page 43 ===
+Page 43
+
+CASE OF THE MISSING HORSE
+•
+29
+NEW
+10
+PRINT
+"
+15
+PRINT
+"SEX-FEMALE11
+20
+PRINT
+"BROWN
+HORSE
+WITH"
+30
+PRINT
+"BLACK
+MANE.AGE
+10"
+40
+PRINT
+"WEIGHT-1000
+LBS
+"
+45
+PRINT
+"BLIND
+IN
+LEFT
+EYE."
+50
+GOTO
+80
+60
+PRINT
+"THINKS
+SHE
+IS
+A
+TREE"
+70
+PRINT
+"SMELLS
+LIKE
+ROTTEN
+EGGS1
+80
+PRINT
+"MISSING
+SEVERAL"
+90
+PRINT
+"FRONT
+TEETH."
+100
+PRINT
+"FRONT
+LEG
+INJURED."
+110
+PRINT
+"TAN
+SADDLE"
+120
+PRINT
+RUN
+Outside the Simmons' house you see deep prints in the ground.
+They could
+have been made by a
+horse. A
+large
+bale
+of hay
+is
+against the barn door. You know that Susan Simmons had once
+worked for Frank Bridges. She quit after they had a disagreement
+about the handling of one of Frank's horses.
+"I hope you don't mind if I ask you a few questions. I'm trying to
+find Frank Bridges's horse, Samantha. He thinks you may know
+something about the disappearance," you tell her.
+"Why me?" says Susan, surprised. "I haven't seen that miserable
+man in almost three months."
+"I understand that you didn't leave the job on good terms. Is that
+right?" you say.
+"Right," she answers. "He was constantly telling me what to do
+and what
+not
+to
+do.
+I
+told him
+to
+find another trainer to
+boss
+around."
+"I noticed that you have a bale of hay near the barn. Do you own
+a horse?" you ask.
+"No, I don't own one, but I'm training a horse for someone else,"
+says Susan. "My assistant is out riding it now."
+Ray Raines lives on a ranch that has a path leading up to the
+house. A series of three fresh, deep prints and one not-too-deep one
+are on the path. On the right side of the path the grass has been
+
+=== Step 34: Page 44 ===
+Page 44
+
+•
+MYSTERY AND ADVENTURE
+cropped
+in an
+irregular
+pattern.
+Some
+blades
+are
+higher than
+others. On the left side, the grass hasn't been cropped at all and the
+blades are all the same length.
+Raines answers the door in a pleasant manner, but when you
+mention Frank Bridges's name, he gets angry. You tell him about
+the missing horse. "I haven't seen Bridges in almost six months, and
+I'd like to keep
+it that way.
+I made him a saddle for his horse,
+Samantha,
+but
+he
+didn't
+appreciate
+my
+fine
+work.
+That
+man
+doesn't know how to take care of anything," says Raines.
+Although you haven't seen any horse, you know who took Frank
+Bridges's horse. Can you guess who has Samantha?
+Type in the program.
+NEW
+2
+DIM
+F*<20>
+3
+DIM
+G*<20)
+4
+DIM
+C*(20)
+5
+PRINT
+"WHO
+IS
+THE
+HORSE"
+10
+PRINT
+"THIEF?"
+12
+PRINT
+"ROY
+ROGERS"
+14
+PRINT
+"ROY
+RAINES"
+20
+INPUT
+F*
+30
+LET
+C*
+=
+"ROY
+ROGERS"
+35
+LET
+G*
+»
+"ROY
+RAINES"
+40
+IF
+F*
+=
+G$
+THEN
+GOTO
+50
+42
+PRINT
+"WRONG
+PERSON"
+45
+GOTO
+5
+50
+PRINT
+"YOU
+FOUND
+HIM"
+52
+DIM
+A*(20)
+53
+DIM
+B*(20)
+54
+DIM
+D*(20)
+55
+PRINT
+"WHICH
+CLUES
+TOLD
+YOU?"
+60
+PRINT
+"SADDLE"
+65
+PRINT
+"HAY"
+70
+PRINT
+"FOOTPRINTS"
+SO
+INPUT
+A*
+90
+LET
+D*
+=
+"SADDLE"
+95
+LET
+B*
+=
+"FOOTPRINTS"
+100
+IF
+A*
+=
+B*
+THEN
+GOTO
+115
+105
+PRINT
+"WRONG.CHECK
+THE
+BOOK"
+110
+GOTO
+
+=== Step 35: Page 45 ===
+Page 45
+
+CASE OF THE MISSING HORSE
+31
+115
+120
+125
+130
+135
+140
+145
+150
+155
+160
+165
+170
+175
+180
+185
+190
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+11
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+SURE,
+A
+HORSE
+WITH
+AN"
+INJURED
+LEG
+WOULD
+BE"
+LIKELY
+TO
+LIMP,"
+MAKING
+THREE
+DEEP"
+PRINTS
+AND
+ONE"
+SHALLOW
+PRINT.
+ALSO"
+THE
+HORSE
+IS
+BLIND"
+IN
+THE
+LEFT
+EYE.THAT"
+IS
+WHY
+THE
+GRASS
+WAS"
+NIBBLED
+ONLY
+ON
+THE"
+RIGHT
+SIDE.SOME
+OF"
+THE
+GRASS
+WAS
+CHEWED"
+LOWER
+THAN
+OTHER"
+BLADES
+BECAUSE
+THE"
+HORSE
+IS
+MISSING"
+SOME
+FRONT
+TEETH."
+You guessed right, and the person who stole Samantha offers to
+pay
+Frank
+Bridges
+for
+the
+horse.
+Greedily,
+Bridges accepts the
+money. Now Samantha has a good home and will be well looked
+after. She thanks you from the bottom of her hoof.
+
+=== Step 36: Page 46 ===
+Page 46
+
+The Tapper
+After three hours of arcade games, your eyes are tired. You leave
+the arcade. It's dark and late at night as you pass by the downtown
+stores. You stop by a store window as you see new television sets
+glowing at you. One set is showing a special late-night bulletin.
+Type in the program to read the message.
+NEW
+BULLETIN
+100
+PRINT
+200
+GOTO
+400
+300
+PRINT
+"LADY
+USES
+COFFEE"
+350
+PRINT
+"FOR
+MOUTHWASH"
+400
+PRINT
+"MAN
+WITH
+CANE"
+500
+GOTO
+700
+600
+PRINT
+"TO
+STRIKE
+MATCH"
+650
+PRINT
+"TO
+PAINT
+TOENAILS.
+700
+PRINT
+"STRIKES
+AGAIN"
+
+=== Step 37: Page 47 ===
+Page 47
+
+THE TAPPER
+•
+33
+800
+GOTO
+1000
+900
+PRINT
+"YOU
+ARE
+A
+CREEP"
+950
+PRINT
+"YOU
+NEED
+A
+BATH"
+975
+PRINT
+1000
+PRINT
+1050
+GOTO
+1100
+1075
+PRINT
+"|
+1085
+PRINT
+1100
+PRINT
+RUN
+STAY
+OFF
+THE
+STREET
+NO
+SCHOOL
+TOMORROW
+AT
+NIGHT
+You have heard he is dangerous. Just the thought of him sends
+shivers up your spine. As you hurry on in the dark, you glance at
+each person that passes.
+Now the street is deserted. Suddenly you hear a tap, tap, tapping
+behind you. You look over your shoulder. You see the shape of a
+huge man carrying something in his hand. You walk faster.
+As you continue on your way, you sense that someone
+is
+still
+behind you. You decide to cross to the other side of the street. The
+Tapper does the same thing as you do.
+All kinds of frightening thoughts pass through your mind as you
+try to lose the stranger. You hope you'll see a police
+officer, but
+there's no one in sight.
+All the stores are closed. The streets are
+deserted. You wish you hadn't stayed so long at the arcade.
+You sneak alongside parked cars and quickly scamper across the
+street again. You pause to catch your breath. You hear a sound.
+Could it be raindrops falling on the cars? No. It isn't raining. You
+listen to the tap, tap, tapping as it gets louder. The sound is coming
+closer.
+You feel trapped and look around for an escape. This is the only
+thing you see.
+Type in the program and then return to the book.
+
+=== Step 38: Page 48 ===
+Page 48
+
+•
+MYSTERY AND ADVENTURE
+NEW
+1
+FOR
+C
+=
+1
+TO
+5
+2
+LET
+C
+»
+C
++
+1
+10
+PRINT
+"
+20
+PRINT
+"
+30
+PRINT
+"
+40
+PRINT
+50
+PRINT
+60
+NEXT
+C
+RUN
+Racing toward it, you run up the steps. It feels good to be out of
+the street. With long strides you rush up to the first floor. It seems
+as if the building is deserted. You hope the stranger doesn't follow
+you.
+But
+once again you hear the tapping sound,
+this time on
+the
+stairs.
+Quickly you run up to the next floor. But you can still hear the
+tapping sound following you.
+You are terrified. You climb up to the top floor and onto the
+roof. Closing the roof door behind you, you wait. Minutes pass,
+and there is no tapping. He's left, you think, with a sigh of relief.
+Suddenly the roof door bursts open. The terrifying tapping starts
+again. You watch in horror as a large, shadowy form roams across
+the roof. You know that you'll be discovered in a matter of seconds,
+for there's nowhere to run to.
+Now the tapping is so close that you can hear the man's heavy
+breathing. Your back is pressed against the edge of the roof. As the
+man gets within reach, you make a grab for his cane and hold on
+tightly.
+"Give it back!" he says.
+"What are you going to do
+with
+it?" you
+say,
+shivering with
+terror.
+"It's going to rain! Give me back my umbrella!" he says.
+"Your umbrella!"you gasp. "Why are you carrying an umbrella?"
+"I always carry an umbrella," says the man.
+"It keeps
+off the
+rain."
+
+=== Step 39: Page 50 ===
+Page 50
+
+•
+MYSTERY AND ADVENTURE
+"But it isn't raining," you say.
+"Exactly," says the man triumphantly. It never rains when I carry
+an umbrella!"
+The man takes the umbrella from you.
+Type in the program to see what he says next.
+NEW
+10
+PRINT
+"YOU
+WERE
+IN
+THE"
+20
+GOTO
+40
+30
+PRINT
+"KITCHEN
+BAKING"
+35
+PRINT
+"DOGHOUSE
+FOR
+A
+WEEK"
+40
+PRINT
+"ARCADE
+ROOM
+BEFORE"
+50
+PRINT
+"I
+FOLLOWED
+YOU
+SO
+I"
+60
+GOTO
+90
+70
+PRINT
+"COULD
+FIND
+MY
+WAY"
+80
+PRINT
+"SCARE
+YOUR
+PANTS
+OFF1
+90
+PRINT
+"COULD
+RETURN
+THIS."
+100
+GOTO
+130
+110
+PRINT
+"GIVE
+ME
+MY
+MONEY"
+120
+PRINT
+"GIVE
+ME
+YOUR
+MONEY"
+130
+PRINT
+"HERE,
+YOU
+DROPPED"
+140
+PRINT
+"YOUR
+WALLET."
+150
+GOTO
+170
+160
+PRINT
+"YOU
+CLUMSY
+OAF"
+170
+PRINT
+"
+AND
+WITH
+A
+TAP"
+ISO
+GOTO
+200
+190
+PRINT
+"YOU
+GAVE
+HIM
+A
+TAP"
+200
+PRINT
+"TAP,TAPPING
+THE"
+210
+GOTO
+230
+220
+PRINT
+"BUY
+LONDON
+GOLD"
+225
+PRINT
+"AT
+THE
+MORNING
+FIX"
+230
+PRINT
+"UMBRELLA
+AND
+THE"
+240
+GOTO
+260
+250
+PRINT
+"TAN
+RAINCOAT"
+260
+PRINT
+"STRANGER
+TURNED
+AND1
+270
+PRINT
+"LEFT."
+RUN
+
+=== Step 40: Page 51 ===
+Page 51
+
+A Day At The Beach
+Yesterday you read an article about your town's Historical Society
+in the newspaper. The Historical Society protects and takes care of
+the very old places in your area-places that help to show what life
+was like there a long time ago. The newspaper article said that the
+Society has found an old map in its library. The map is of a beach
+in your town that used to be an Indian reservation.
+Type in the program to see the map:
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+PRINT
+'
+1
+0
+0
+0
+0
+'
+0
+0
+0
+X
+■o
+o
+'0
+0
+0
+MM.MM.M~
+t|
+0
+/WWW"
+/WWWW"
+0/WWWWWW"
+/WWW"
+/WWWWWWW"
+0
+/W"
+90
+PRINT
+"0
+-
+TEEPEE"
+100
+PRINT
+"X
+=
+HISTORICAL
+SPOT'
+
+=== Step 41: Page 53 ===
+Page 53
+
+A DAY AT THE BEACH
+•
+39
+110
+PRINT
+ll
+IN
+QUESTION11
+120
+PRINT
+"W
+=
+WATER11
+RUN
+There are lots of reservations in your town. Many roads, beaches
+and
+parks
+there
+have
+Indian
+names.
+The
+Historical
+Society
+is
+especially concerned that some of the beaches where the Indians
+once lived are being ruined by companies who dump their garbage
+there.
+The
+Historical Society
+is very excited about the map
+it just
+found. What do you think the "X" on the map means? The Society
+thinks
+it may mean that some kind
+of treasure
+is buried
+there,
+because the Indians who lived there did a lot of trading with the
+settlers who lived nearby. The Indians may have buried the coins
+and jewelry to keep them safe.
+You are doing a
+report on
+Indians
+for your history
+class
+at
+school, so you decide to take your bike and go watch the Historical
+Society workers digging at the beach. The trouble is, you forgot to
+take the map from the newspaper. There are three beaches in your
+town. You decide to check out each one to discover where the
+workers are. You come to the first beach. Type in the program to
+see what the sign says:
+NEW
+10
+20
+30
+40
+50
+60
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"I
+INDIAN
+POINT
+I"
+"I
+BEACH
+I"
+" I #-&#####KEEP#***#*# I "
+"I*###*#**OUT#******I"
+RUN
+You hear noise out on the beach.
+It sounds like trucks, but the
+beach grass is so tall you can't see anything. You decide to take a
+look at the next beach.
+The second beach has a brand new sign posted at the entrance.
+The paint on the sign is still wet. Type in the program to see what it
+says.
+
+=== Step 42: Page 54 ===
+Page 54
+
+•
+MYSTERY AND ADVENTURE
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+RUN
+PRINT
+"-•
+PRINT
+"I
+PRINT
+"I
+PRINT
+"I
+PRINT
+"I
+PRINT
+"I
+PRINT
+"I
+PRINT
+"I
+PRINT
+"I
+PRINT
+"-
+SEAGULL
+BEACH
+DUNE
+BUGGY
+RACES
+TODAY
+VROOOOOOOOM!
+I"
+I"
+I"
+I"
+I"
+I"
+I"
+I"
+You want to take a look at the last beach before deciding where
+the workers are. The sign at the third beach says: (type in the
+program to find out.)
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+II
+"I
+"I
+"I
+"I
+POCAHONTAS
+BEACH
+TOURS
+GIVEN
+1
+-
+4
+SUNDAYS
+I"
+I"
+I"
+I"
+I"
+I"
+„
+Which beach do you think the Historical Society workers are at?
+Type in the program.
+
+=== Step 43: Page 55 ===
+Page 55
+
+A DAY AT THE BEACH
+•
+41
+NEW
+5
+DIM
+A*(10>
+6
+DIM
+D*<10)
+10
+PRINT
+"WELL
+DETECTIVE,
+WHICH
+BEACH
+WAS
+IT
+#1,"
+20
+PRINT
+"#2,
+OR
+#3?"
+30
+INPUT
+A*
+32
+DIM
+B$<10>
+34
+DIM
+C*<10)
+40
+B*
+=
+"#3"
+50
+C*
+=
+"#2"
+60
+D$
+=
+"#1"
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+200
+210
+220
+230
+240
+250
+300
+310
+320
+330
+340
+350
+RUN
+GOTO
+300
+GOTO
+200
+GOTO
+100
+"SO
+SORRY
+DETECTIVE
+BUT
+YOU
+HAVE
+MADE
+"
+"AN
+ERROR
+IN
+YOUR
+REASONING.THE
+SIGN
+FOR"
+11
+INDIAN
+PT.
+BEACH
+SAID
+KEEP
+OUT,
+A"
+"DISCOVERY
+WOULD
+BE
+SHOWN
+TO
+PEOPLE."
+"BESIDES
+THAT,
+YOU
+HEARD
+TRUCK
+NOISES..."
+"COULDN'T
+THIS
+BE
+THE
+DUMPING
+OF"
+IF
+A*
+=
+B*
+THEN
+IF
+Af
+=
+C$
+THEN
+IF
+A*
+=
+D*
+THEN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"POLLUTION?"
+PRINT
+"I'LL
+GIVE
+YOU
+ANOTHER
+TRY."
+GOTO
+10
+PRINT
+"OH
+DETECTIVE,
+DO
+YOU
+REALLY
+THINK
+THE"
+PRINT
+"THE
+FINE
+PEOPLE
+AT
+THE
+HISTORICAL"
+PRINT
+"SOCIETY
+WOULD
+PERMIT
+DUNE
+BUGGY
+RACES"
+PRINT
+"ON
+A
+HISTORICAL
+PLACE
+SUCH
+AS
+THIS?"
+PRINT
+"ONE
+MORE
+TIME,
+DETECTIVE."
+GOTO
+10
+PRINT
+"RIGHT
+YOU
+ARE
+DETECTIVE,"
+PRINT
+"MY
+SINCERE
+CONGRATULATIONS
+ON
+YOUR"
+PRINT
+"UNMISTAKABLE
+LOGIC.
+NATURALLY
+A"
+PRINT
+"HISTORICAL
+PLACE
+WOULD
+BE
+SHOWN
+OFF"
+PRINT
+"TO
+PEOPLE
+ON
+TOURS.
+CONGRATULATIONS"
+PRINT
+"AGAIN."
+Congratulations! You have found the Historical Society workers.
+You walk over to the big hole in the sand they have been digging
+and
+ask
+lots
+of
+questions.
+Suddenly,
+you
+notice
+a
+bony
+hand
+sticking out of the sand. No one seems to understand why you are
+jumping up and down and yelling. Then they see the hand too. You
+grab a shovel and help the workers. You have discovered an ancient
+burial ground!
+
+=== Step 44: Page 56 ===
+Page 56
+
+•
+MYSTERY AND ADVENTURE
+The report you write on your experiences gets an A and you get
+a
+membership
+from
+the
+Historical
+Society
+for
+helping
+it
+to
+discover the burial ground
+
+=== Step 45: Page 57 ===
+Page 57
+
+The "S-Thief"
+Stories about the "S-Thief have been in all the newspapers. The
+police have named her "Sylvia, the S-Thief," because of descrip
+tions given by the victims. Sylvia is stunning, steals, sometimes uses
+scissors, and always carries a large switchblade in the back pocket
+of her jeans, say the reports.
+The switchblade has an engraving on it. Type in the program for
+a closer look.
+
+=== Step 46: Page 58 ===
+Page 58
+
+•
+MYSTER Y AND AD VENTURE
+NEW
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+RUN
+n**n
+"**"
+"**'■
+PRINT
+PRINT
+"
+PRINT
+"♦*"
+PRINT
+PRINT
+PRINT
+PRINT
+"**"
+PRINT
+"**"
+PRINT
+"*#"
+PRINT
+PRINT
+PRINT
+"
+PRINT
+PRINT
+PRINT
+PRINT
+"
+PRINT
+"
+1 *******#***********"
+"
+**"
+**"
+**"
+*#"
+"
+**"
+#*"
+**"
+PRINT
+" ***♦***♦***♦#**•*♦**"
+PRINT
+"RETURN
+TO
+THE
+BOOK"
+Some people say the engraving looks like a squared-off "S." Others
+say it looks like a snake.
+The insurance people are angry. They are tired of paying out
+insurance money to victims of the S-Thief. The insurance company
+sends you to question the latest of Sylvia's victims.
+You notice that Frank Friendly seems annoyed when you ask
+him yet again for a description of the robber.
+"It was definitely Sylvia, the S-Thief," he says. "She was wearing
+a tight silver shirt and jeans. She walked into my store at about
+seven o'clock, just as I was getting ready to go to the bank.
+I had
+opened
+the
+cash
+register and
+was
+putting
+the
+money
+into
+the
+bank-deposit bag.
+"Suddenly, there she was! She shoved the sharpest scissors I'd
+ever seen right up to my face. I was scared! When she ordered me to
+go into that closet, I went right in. She locked the door and I didn't
+stir until I heard her leave the store. Then I broke open the closet
+door. I saw that the bank bag was empty, and I called the police."
+then
+
+=== Step 47: Page 60 ===
+Page 60
+
+•
+MYSTERY AND ADVENTURE
+"Are you sure the thief was Sylvia?" you ask.
+"Of course I'm sure," says Frank. "I saw that switchblade - the
+one with the snake engraving - it was right there in the back pocket
+of her jeans. There was no mistaking it!"
+Again Frank describes what happened. "From the moments she
+came into the store, I was too scared to move," he says. "She held
+those terrible scissors to my head and we were eyeball to eyeball as
+she
+forced me
+into
+the
+closet.
+I
+didn't
+budge,
+even
+after
+she'd
+slammed the door and locked me in."
+You examine the closet door and see that
+it could easily have
+been locked from the outside. You examine the lock that Frank
+Friendly had to break to get out of the closet.
+Still, you have a
+feeling that something isn't quite right. Suddenly, you know what it
+is.
+Frank Friendly has described something as clearly as a news
+paper reporter—but it's something he couldn't possibly have seen!
+Type in the program to see what that something is.
+NEW
+10
+DIM
+A*(20)
+20
+DIM
+B*<20>
+30
+PRINT
+"WHAT
+COULDN'T
+HE"
+40
+PRINT
+"HAVE
+SEEN?"
+50
+PRINT
+"CLOSET"
+60
+PRINT
+"SCISSORS"
+70
+PRINT
+"BANK
+BAB"
+80
+PRINT
+"SWITCHBLADE"
+90
+PRINT
+"JEANS"
+100
+INPUT
+A*
+110
+LET
+C*
+»
+"SCISSORS"
+120
+LET
+B*
+■
+"SWITCHBLADE"
+130
+IF
+A*
+-
+B*
+THEN
+60T0
+170
+140
+PRINT
+"IT
+IS
+POSSIBLE
+THAT"
+150
+PRINT
+"HE
+SAW
+IT"
+160
+GOTO
+30
+170
+PRINT
+"YES,
+FRANK
+SAID
+HE
+SAW
+THE"
+180
+PRINT
+"SWITCHBLADE.HE
+ALSO"
+190
+PRINT
+"SAID
+HE
+WAS
+TOO"
+
+=== Step 48: Page 61 ===
+Page 61
+
+THES-THIEF
+•
+47
+200
+210
+220
+230
+240
+250
+260
+270
+280
+290
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+400
+410
+420
+430
+440
+450
+460
+470
+480
+490
+500
+510
+520
+530
+PRINT
+DIM
+D*
+DIM
+E*
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+INPUT
+LET
+F*
+LET
+E*
+IF
+D*
+PRINT
+"SCARED
+TO
+MOVE
+HIS
+HEAD."
+<20)
+(20)
+"WHERE
+DID
+SYLVIA"
+"CARRY
+A
+SWITCHBLADE?"
+"HAND"
+"FRONT
+POCKET"
+"ANYWHERE"
+"BACK
+POCKET"
+D$
+«
+"FRONT
+POCKET"
+-
+"BACK
+POCKET"
+■
+E*
+THEN
+GOTO
+350
+"NO
+WAY,RAY"
+GOTO
+230
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+DIM
+6*
+PRINT
+PRINT
+PRINT
+INPUT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"SYLVIA
+NEVER
+TURNED"
+"AROUND
+AND
+FRANK"
+"NEVER
+MOVED
+HIS
+HEAD"
+"THAT
+WOULD
+MAKE
+IT"
+"IMPOSSIBLE
+FOR
+FRANK"
+"TO
+SEE
+THE
+SNAKE"
+"SWITCHBLADE"
+(20)
+"WHAT
+DO
+YOU
+THINK"
+"HAPPENED
+TO
+THE"
+"MONEY
+IN
+THE
+BAG?"
+6*
+"WHEN
+THIS
+STORY
+WAS"
+"WRITTEN
+IN
+THE
+PAPER"
+"PEOPLE
+DIDN'T
+THINK"
+"FRANK
+WAS
+SO
+FRIENDLY"
+"OR
+SO
+FRANK"
+"ANY
+MORE."
+RUN
+And you get a silver star from the insurance company for being
+smart and sensitive.
+
+=== Step 49: Page 62 ===
+Page 62
+
+The Cousin Connection
+As you snatch the envelope from the mailbox, you notice the
+unusual stamp. You see that the stamp and the postmark are from
+Peru. "Oh good. A letter from Uncle Jake!" you say. Your Uncle
+Jake is the only person you know who lives in South America.
+When Jake sold his business, he took the money to Peru. There
+he bought a beautiful mansion with seven gardens.
+His favorite
+hobby
+is
+raising
+exotic
+flowers.
+Occasionally
+he
+mails
+you
+photographs
+of flowers
+with
+square
+leaves
+and
+blossoms
+with
+triangular
+forms.
+Many
+of
+your
+friends
+have
+admired
+these
+photographs of unusual plants.
+Quickly you tear open the envelope. There are no photographs
+inside, and you do not recognize the name at the bottom of the
+letter. Type in this program to read the letter.
+
+=== Step 50: Page 63 ===
+Page 63
+
+THE COUSIN CONNECTION
+49
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+105
+106
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+FOR
+X
+NEXT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+" ************#****** "
+"*
+DEAR
+NIECE,
+*"
+"♦
+I
+AM
+SORRY*"
+11 *
+TO
+HAVE
+TO
+TELL
+*"
+"*
+OF
+THE
+DEATH
+OF
+*"
+"*
+UNCLE
+JAKE.
+AS
+♦"
+"*
+ATTORNEY
+I
+WANT
+*"
+"*
+YOU
+TO
+KNOW
+THE
+♦"
+"*
+WILL.
+YOU
+ARE
+AN*"
+"*
+HEIR.THE
+OTHER
+*'
+■
+1
+TO
+2000
+X
+"*
+IS
+FELIX
+MIROS,A*'
+"*
+COUSIN
+YOU
+HAVE
+♦'
+"*
+NEVER
+MET,SINCE
+*'
+"*
+HE
+LIVES
+IN
+PERU*1
+"*
+JAKE'S
+LAST
+WISH*1
+"*
+WAS
+THAT
+THE
+TWO*1
+"*
+COUSINS
+MEET.
+IN*'
+11 *
+ORDER
+TO
+INHERIT*'
+"*
+HALF
+THE
+FORTUNE*'
+"♦
+YOU
+MUST
+FIND
+*'
+11 *
+COUSIN
+FELIX
+AND*'
+"*
+BRING
+HIM
+TO
+MY
+*'
+"*
+OFFICE.
+*'
+"*
+SINCERELY,
+*'
+"*
+BRIAN
+STONE
+*'
+"*
+ATTORNEY
+♦'
+"*******************'
+GO
+BACK
+TO
+THE
+BOOK
+You try to recall the details that Uncle Jake told you about Felix.
+He is a professional tennis player, but you have never seen Felix.
+Uncle Jake mentioned him often in letters, but there was never a
+photograph of him.
+To locate Felix, you decide to visit Peru. On the plane you reread
+Uncle Jake's letters and look at the photographs, hoping to find
+Felix's address or home town. You uncover no clues.
+Looking through telephone books in Peru, you find that there
+are many people in different cities with the name, Felix Miros. You
+
+=== Step 51: Page 64 ===
+Page 64
+
+•
+MYSTERY AND ADVENTURE
+are not even sure if your Felix has a telephone.
+You decide to place this advertisement in the newspaper. Type in
+the program to see it.
+
+=== Step 52: Page 65 ===
+Page 65
+
+THE COUSIN CONNECTION
+•
+51
+NEW
+110
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+255
+260
+270
+290
+310
+RUN
+WANTED11
+FELIX11
+M
+I
+R
+0
+S11
+PRINT
+i
+PRINT
+PRINT
+"
+PRINT
+PRINT
+"
+PRINT
+PRINT
+"
+PRINT
+PRINT
+"FOR
+INHERITANCE
+OF
+"
+PRINT
+PRINT
+"UNCLE
+JAKE'S
+ESTATE"
+PRINT
+PRINT
+PRINT
+"
+CALL
+ANYTIME"
+PRINT
+PRINT
+"
+555-7299
+"
+PRINT
+PRINT
+»■■■■■■■■■■——■■■"
+PRINT
+"GO
+BACK
+TO
+THE
+BOOK"
+There must have been at least a hundred phone
+calls, but you
+know most of the callers were fakes. They did not know enough
+about Uncle Jake.
+Three
+of the
+callers sounded
+as though they
+might be the real Felix Miros. You have to be sure.
+You make appointments to meet each Felix individually.
+Felix #1
+arrives right on schedule. As you shake his hand, he
+pulls it back quickly.
+"You must forgive me," he says. "I have blisters on my fingers
+from my last match at Wimbledon. You know, I am a professional
+tennis player."
+Soon he tells you about visiting Uncle Jake at the mansion every
+week. He moves restlessly around your hotel room. He picks up
+your photographs of plants and examines them.
+"You are very good at trick photography," he says. "How on
+earth did you manage to reshape the leaves and flowers with a
+camera lens? Very clever!"
+Felix #2 knows a lot about Uncle Jake's passion for gardening.
+
+=== Step 53: Page 66 ===
+Page 66
+
+•
+MYSTERY AND ADVENTURE
+He peers out of the window. Type in the program to find out what
+he sees.
+NEW
+10
+PRINT
+"+++++++++++++++++++"
+20
+PRINT
+"+
++
++
++
++"
+30
+PRINT
+"+
++
++
++
++"
+40
+PRINT
+"+
++
++
++
++"
+50
+PRINT
+'
+60
+PRINT
+'
+70
+PRINT
+'
+80
+PRINT
+•
+90
+PRINT
+'
+100
+PRINT
+110
+PRINT
+"+
++
+'120
+PRINT
+"+
++
+130
+PRINT
+140
+PRINT
+150
+PRINT
+160
+PRINT
+170
+PRINT
+180
+PRINT
+190
+PRINT
+200
+PRINT
+RUN
+"What a wonderful view of the tennis fields!" He starts to talk
+about Wimbledon and his tennis career. "I could have won my last
+match. But the other guy kept me at the back of the field. He beat
+me in two straight quarters. It's too bad Uncle Jake couldn't have
+seen me win more often."
+Felix #3 also notices the view from the window. He talks about
+how he wished he could have spent more time with Uncle Jake. "I
+invited him to my matches on clay courts because I play best on that
+surface.
+Uncle
+Jake
+never wanted
+to
+go.
+I
+guess
+he
+was
+more
+interested in growing weird-shaped plants."
+Type in the program to figure out which caller
+is really your
+cousin, Felix Miros.
+
+=== Step 54: Page 67 ===
+Page 67
+
+THE COUSIN CONNECTION
+•
+53
+NEW
+10
+12
+20
+25
+30
+50
+60
+65
+67
+70
+90
+105
+110
+115
+120
+130
+140
+150
+155
+160
+170
+175
+180
+200
+210
+220
+230
+240
+300
+310
+320
+330
+340
+350
+360
+370
+410
+420
+430
+440
+450
+RUN
+DIM
+A*(20)
+DIM
+B*<20>
+PRINT
+"DO
+YOU
+THINK
+IT
+IS
+FELIX
+#1?"
+PRINT
+"ANSWER
+YES
+OR
+NO"
+INPUT
+A*
+LET
+B*
+=
+"YES"
+IF
+A*
+»
+B*
+THEN
+GOTO
+200
+DIM
+C$<20>
+DIM
+D$(20)
+PRINT
+"IS
+IT
+FELIX
+#2?"
+INPUT
+C*
+LET
+D*
+=
+"YES"
+IF
+C*
+■
+D*
+THEN
+GOTO
+300
+DIM
+F*(20)
+PRINT
+"IS
+IT
+FELIX
+#3?"
+INPUT
+F*
+PRINT
+"BELIEVE
+IT
+OR
+NOT"
+PRINT
+"IT
+IS
+FELIX
+#3
+."
+PRINT
+"HE
+KNEW
+ABOUT
+JAKE'S"
+PRINT
+"INTEREST
+IN
+GROWING
+ODD-SHAPED
+PLANTS."
+PRINT
+"HE
+KNEW
+THE
+CORRECT"
+PRINT
+"TENNIS
+TERMS,TOO."
+GOTO
+410
+PRINT
+"WRONG,
+HE
+THOUGHT"
+PRINT
+"TRICK
+PHOTOGRAPHY
+WAS
+USED."
+PRINT
+"HE
+SHOULD
+HAVE
+KNOWN"
+PRINT
+"ABOUT
+JAKE'S
+PASSION
+FOR
+UNUSUAL
+FLOWERS.
+GOTO
+70
+PRINT
+"WRONG,
+ANY
+TENNIS"
+PRINT
+"PLAYER
+WOULD
+CALL"
+PRINT
+"THE
+PLAYING
+AREA"
+PRINT
+"A
+COURT
+NOT
+A
+FIELD."
+PRINT
+"ALSO
+TENNIS
+MATCHES"
+PRINT
+"ARE
+DIVIDED
+INTO"
+PRINT
+"SETS
+NOT
+QUARTERS"
+GOTO
+120
+PRINT
+"YOU
+HAVE
+FOUND
+FELIX"
+PRINT
+"THE
+ATTORNEY
+WILL"
+PRINT
+"GIVE
+YOU
+YOUR
+SHARE"
+PRINT
+"OF
+THE
+ESTATE"
+PRINT
+"
+-100
+OUNCES
+OF
+GOLD."
+
+=== Step 55: Page 68 ===
+Page 68
+
+The Star Ring
+You had a great day at school showing off your new star ring.
+Everyone said how beautiful it was.
+Bill asked to try it on. He slipped it on for just a moment, then
+gave it back. "That's a fine stone," he said. "Very rare."
+Lawrence held the star ring in his palm. He was amazed by its
+weight. "It must be very valuable," he said.
+Richard looked carefully at the ring while it was on your finger.
+He
+didn't
+say anything about
+it. You could
+tell
+he was jealous.
+When the bell rang, he rushed off to class.
+When you got home from school, you took your ring off and
+placed
+it
+star-side
+up
+somewhere
+in
+your
+room.
+Type
+in
+the
+program to see where you put your ring.
+
+=== Step 56: Page 69 ===
+Page 69
+
+THE STAR RING
+•
+55
+NEW
+15
+20
+30
+40
+45
+50
+60
+70
+90
+95
+99
+105
+107
+108
+110
+115
+120
+125
+130
+135
+140
+145
+150
+155
+RUN
+PRINT
+"
+WINDOW
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+LEDGE"
+GOTO
+110
+PRINT
+"DO
+YOUR
+FEET
+SMELL?"
+PRINT
+PRINT
+"XXXXXXXXXXXXX"
+PRINT
+"XX
+XX"
+PRINT
+"XX
+XX"
+PRINT
+"XX
+BLOTTER
+XX"
+PRINT
+"XX
+XX"
+PRINT
+"XXXXXXXXXXXXX"
+PRINT
+"XX
+XX"
+PRINT
+"XX
+XX"
+PRINT
+"XX
+DESK
+XX"
+You spent about fifteen minutes in the shower. When you came
+out, the ring was gone. You looked under the desk and along the
+carpet. You couldn't find the ring. You noticed the window was
+open a crack. Could someone have taken the ring? Maybe one of
+the boys at school took it as a joke or on a dare. Maybe someone
+was jealous.
+Although Bill, Lawrence and Richard are your friends, not one
+of them has ever been to your new house on Dutton Lane. You only
+moved in two weeks ago, and the house needed a lot of repair.
+You decide that now is the time to invite your friends to visit.
+The next day you ask Lawrence,
+Bill and Richard to come to
+your house after school and help you search for the missing ring.
+All of them accept, and ask you for directions to your new house.
+
+=== Step 57: Page 71 ===
+Page 71
+
+THE STAR RING
+•
+57
+You draw this map and give each a copy. Type in the program.
+NEW
+10
+20
+•50
+60
+90
+100
+110
+120
+130
+140
+150
+RUN
+PRINT
+"+++++++++++++++++++"
+PRINT
+"
+CREST
+ROAD"
+PRINT
+"
+++++++++++++++•++"
+PRINT
+"
+++++++++++"
+PRINT
+"+++++++
+++++++++"
+PRINT
+"+++++"
+PRINT
+"
+123
+WAVERLY
+ROAD
+"
+PRINT
+"+++++++
+++++++4.4.4."
+PRINT
+"+
+KIN6SWAY
++"
+PRINT
+"+
+ROAD
++"
+PRINT
+"++++++++++"
+You hurry home to get out some drinks and cookies for your
+friends.
+Bill is the first one to show up. In fact, Bill is the only one to show
+up.
+Why didn't the others come to your house?
+Who do you think stole the ring?
+Type in the program to see if you are right.
+NEW
+5
+7
+10
+20
+40
+50
+70
+80
+90
+100
+105
+DIM
+P*<20)
+DIM
+Q*(20)
+PRINT
+"WHO
+DO
+YOU
+THINK"
+PRINT
+"TOOK
+THE
+RING?"
+INPUT
+P*
+LET
+0*
+■
+"LAWRENCE"
+LET
+Q*
+■
+"BILL"
+IF
+P*
+-
+Q*
+THEN
+GOTO
+110
+PRINT
+"THAT'S
+A
+WRONG
+GUESS"
+PRINT
+"TRY
+AGAIN"
+GOTO
+
+=== Step 58: Page 72 ===
+Page 72
+
+•
+MYSTERY AND ADVENTURE
+107
+DIM
+R*(20)
+108
+DIM
+S*(20)
+110
+PRINT
+"WHAT
+GAVE
+YOU
+THE"
+120
+PRINT
+"CLUE
+ABOUT
+BILL?"
+130
+PRINT
+"DESK"
+140
+PRINT
+"WINDOW"
+150
+PRINT
+"HEAVY
+RIN6"
+160
+PRINT
+"SHOWER"
+170
+PRINT
+"NEW
+HOUSE"
+ISO
+PRINT
+"HIS
+JEALOUSY"
+200
+INPUT
+R*
+220
+LET
+C*
+-
+"DESK"
+230
+LET
+S*
+=
+"NEW
+HOUSE"
+240
+IF
+R*
+=
+S*
+THEN
+BOTO
+280
+250
+PRINT
+"WRONG,
+BILL
+DID
+NOT"
+260
+PRINT
+"USE
+THE
+MAP
+YOU
+GAVE"
+265
+PRINT
+"HIM."
+270
+GOTO
+110
+280
+PRINT
+"YOU
+ARE
+ABSOLUTELY"
+290
+PRINT
+"RIGHT.
+THE
+MAP
+YOU
+"
+300
+PRINT
+"DREW
+WAS
+NOT
+TO
+YOUR"
+310
+PRINT
+"NEW
+HOUSE.
+SINCE
+NONE"
+320
+PRINT
+"OF
+THE
+BOYS
+HAD
+EVER"
+330
+PRINT
+"BEEN
+TO
+YOUR
+NEW"
+340
+PRINT
+"HOUSE,
+THEY
+WOULD"
+350
+PRINT
+"HAVE
+FOLLOWED
+YOUR
+"
+360
+PRINT
+"MAP
+AND
+GONE
+TO
+THE"
+370
+PRINT
+"WRONG
+PLACE.
+BUT
+BILL"
+380
+PRINT
+"DID
+NOT
+LOOK
+AT
+THE"
+390
+PRINT
+"MAP.
+HE
+KNEW
+WHERE"
+400
+PRINT
+"YOU
+LIVED.
+HE
+MUST"
+410
+PRINT
+"HAVE
+BEEN
+THERE"
+420
+PRINT
+"BEFORE
+WHEN
+HE"
+430
+PRINT
+"FOLLOWED
+YOU
+HOME"
+440
+PRINT
+"AND
+STOLE
+THE
+RING"
+450
+PRINT
+"YOU
+CAUGHT
+THE
+THIEF."
+RUN
+
+=== Step 59: Page 73 ===
+Page 73
+
+The Joyride
+You answer your telephone. It's your friend, Bruce. He is calling
+from the police station. Bruce has been accused of taking Rosie's
+new sports car for a joyride. The car was stolen from Rosie's garage
+and found in Bruce's driveway.
+At the police station, Bruce says, "I know I said I'd love to get my
+hands on that car! But I didn't take it. Someone must have stolen it
+and parked it in my driveway so the police would arrest me."
+Rosie shows up at the police station. She is angry.
+"Bruce, I never want to see you again," she shouts. "How could
+you steal a car? My car? I must have been crazy to be a friend of
+yours. Stealing is just so cheap and tacky, I'm not even going to
+mention this incident to anyone.
+I just want to forget I ever met
+you."
+With angry tears in her eyes, she runs out.
+You ask Bruce for a rundown on Rosie's friends. He tells you
+about Sandy and Charlie. "Both of them know about Rosie's car
+
+=== Step 60: Page 75 ===
+Page 75
+
+THEJOYRIDE
+•
+61
+and where
+she kept
+it," says
+Bruce.
+"I'd
+be embarrassed
+if they
+found out I'd been arrested for stealing. Rosie is right.
+It's tacky.
+Please don't tell them I'm at the police station."
+You look at the addresses Bruce has given you and go to Sandy's
+house first.
+You tell Sandy that Rosie's car was stolen from her garage and
+that Bruce has been arrested for stealing it. You feel that Bruce has
+been blamed for something he didn't do. Since Sandy and Bruce
+are
+friends,
+you
+figure
+it's
+all
+right
+to
+say that Bruce
+has been
+accused and needs help.
+"I must admit I like that sports car and would love to drive it,"
+says Sandy. "But I didn't take it. That would be stealing. And even
+if I
+did,
+I wouldn't be stupid enough to park the car in Bruce's
+driveway."
+Charlie seems tense when you question him.
+"Bruce and I are not on speaking terms," he says. "We were close
+friends at one time. But we haven't seen each other for the last three
+weeks.
+I don't know anything about him any more."
+You question Charlie about the sports car.
+"Of course I didn't take it," he says. "Did Rosie say I took it? If
+she
+did,
+she's lying. Just because
+I'd
+like to have a car like hers
+doesn't mean I'd steal it."
+Now that you've heard everyone's story, type in the program to
+figure out who stole the car.
+NEW
+5
+DIM
+R*(20)
+6
+DIM
+B*(20)
+7
+DIM
+Q*(20)
+10
+PRINT
+"WHO
+DO
+YOU
+THINK11
+20
+PRINT
+"TOOK
+ROSIE'S
+CAR?11
+40
+INPUT
+R*
+55
+LET
+Q*
+«
+"BRUCE"
+60
+LET
+S*
+=
+"SANDY"
+70
+IF
+R*
+=
+S$
+THEN
+GOTO
+100
+80
+PRINT
+"THAT
+IS
+NOT
+CORRECT."
+90
+GOTO
+
+=== Step 61: Page 76 ===
+Page 76
+
+MYSTERY AND ADVENTURE
+100
+PRINT
+"THAT
+IS
+RIGHT."
+105
+DIM
+T*(20)
+108
+DIM
+U*(20)
+110
+PRINT
+"WHAT
+CLUE
+TOLD
+YOU?"
+140
+PRINT
+"POLICE
+STATION"
+150
+PRINT
+"PARKED
+IN
+DRIVEWAY."
+160
+PRINT
+"ROSIE'S
+SCREAM"
+170
+PRINT
+"JOYRIDE"
+180
+PRINT
+"NEW
+SPORTS
+CAR"
+190
+PRINT
+"THE
+FIGHT"
+195
+INPUT
+T*
+210
+LET
+V*
+=
+"JOYRIDE"
+220
+LET
+U*
+=
+"PARKED
+IN
+DRIVEWAY"
+230
+IF
+T*
+»
+U*
+GOTO
+250
+240
+GOTO
+110
+250
+PRINT
+"YOU
+ARE
+ABSOLUTELY"
+260
+PRINT
+"RIGHT,
+SANDY
+KNEW"
+270
+PRINT
+"THAT
+THE
+CAR
+WAS"
+280
+PRINT
+"PARKED
+IN
+BRUCE'S"
+290
+PRINT
+"DRIVEWAY.
+THE
+ONLY"
+300
+PRINT
+"WAY
+FOR
+HIM
+TO
+KNOW"
+310
+PRINT
+"THIS
+WAS
+IF
+HE
+HAD"
+320
+PRINT
+"PARKED
+THERE
+HIMSELF"
+RUN
+
+=== Step 62: Page 77 ===
+Page 77
+
+The Case of
+The Rhyming Robber
+The newspaper has an unusual story today. The GOOD AND
+PLENTY CANDY SHOP was robbed on Tuesday, June 4. You've
+read about many robberies, but this one seems a bit different. Type
+in the program and find out why.
+NEW
+5
+10
+20
+30
+40
+50
+60
+PRINT
+"XXXXXXXXXXXXXXX"
+print
+"H5H5H0EH3H2I1"
+PRINT
+"XXXXXXXXXXXXXXX"
+PRINT
+PRINT
+PRINT
+PRINT
+LADY
+IN
+SUIT
+WLARlNl
+CLOWN
+MASK
+ROBS"
+CANDY
+
+=== Step 63: Page 78 ===
+Page 78
+
+•
+MYSTERY AND ADVENTURE
+70
+PRINT
+"SHE
+ROBS
+THE
+STORE"
+80
+PRINT
+"TELLING
+RHYMES."
+90
+PRINT
+"POINTING
+A
+GUN
+SHE
+SAYS"
+100
+PRINT
+"PAY
+ATTENTION
+TO
+ME"
+110
+PRINT
+"DON'T
+DO
+ANYTHING
+RASH"
+120
+GOTO
+140
+130
+PRINT
+"OR
+I
+WILL
+STUFF
+UP"
+135
+PRINT
+"YOUR
+NOSE
+SOME"
+136
+PRINT
+"CORNED
+BEEF
+HASH"
+140
+PRINT
+"JUST
+OPEN
+THIS
+BAG"
+150
+GOTO
+170
+160
+PRINT
+"AND
+TAKE
+OFF
+THE
+RAG"
+170
+PRINT
+"AND
+STUFF
+IT
+WITH
+CASH"
+180
+PRINT
+RUN
+Something about the robber's voice and walk make the owner of
+the GOOD AND PLENTY CANDY SHOP believe the robber is a
+woman. The police can find no clues at the scene of the crime.
+Two weeks later another strange story strikes your eye. The date
+of the story
+is Tuesday, June
+18. The GOOD AND PLENTY
+CANDY SHOP has been robbed again! Everything is the same
+except the poem. Type in the program and see
+if you think the
+poem is written by the same person.
+NEW
+100
+PRINT
+"I
+KNOW
+YOU
+HAVE
+MONEY"
+200
+GOTO
+400
+300
+PRINT
+"THAT
+IS
+WHY
+I
+LIKE"
+350
+PRINT
+"YOU,
+HONEY"
+400
+PRINT
+"INSIDE
+OF
+THE
+DRAWER"
+500
+PRINT
+"JUST
+FILL
+UP
+THE
+BAG"
+600
+GOTO
+800
+700
+PRINT
+"YOU
+BIG
+DINOSAUR"
+800
+PRINT
+"SO
+I
+WON'T
+GET
+SORE"
+900
+PRINT
+950
+DIM
+F*<20)
+975
+DIM
+G*(20)
+990
+DIM
+H*(20)
+
+=== Step 64: Page 79 ===
+Page 79
+
+CASE OF THE RHYMING ROBBER
+•
+65
+1000
+PRINT
+"DO
+YOU
+THINK
+IT
+WAS"
+1100
+PRINT
+"THE
+SAME
+PERSON?"
+1300
+INPUT
+F*
+1500
+LET
+G*
+=
+"YES"
+1600
+IF
+F*
+=
+G$
+THEN
+GOTO
+2500
+1800
+LET
+H*
+-
+"NO"
+1900
+IF
+F*
+=
+H*
+THEN
+GOTO
+2100
+2000
+PRINT
+"YOU
+HAVE
+GOT
+TO
+BE
+KIDDING"
+2050
+GOTO
+1000
+2100
+PRINT
+"YOU
+MAY
+BE
+WRONG"
+2200
+GOTO
+2600
+2500
+PRINT
+"YOU
+MAY
+BE
+RIGHT"
+2600
+PRINT
+RUN
+"HE
+BOOK
+The
+case
+certainly
+seems
+strange.
+The two
+robberies
+appear
+similar, but it's unusual for a robber to strike the same place twice.
+You
+visit
+the
+insurance
+company.
+The
+clerk
+tells
+you
+that
+the
+insurance company has paid back insurance money to the owner of
+the GOOD AND PLENTY CANDY SHOP for both robberies.
+You have a hunch that the robber will strike again exactly two
+weeks from the last robbery. On Tuesday, July 2, you decide to stay
+near the store, hidden behind a telephone booth.
+At 11 o'clock a new-looking car pulls up outside the candy store.
+It is driven by a woman wearing a suit. She looks at her watch. Then
+she looks around to see if there's anyone in sight. She doesn't see
+you, but you see her putting on a clown mask. She enters the store
+and
+you
+follow
+quickly.
+She
+talks
+to
+the
+owner.
+Type
+in
+the
+program to see what she says.
+
+=== Step 65: Page 81 ===
+Page 81
+
+CASE OF THE RHYMING ROBBER
+•
+67
+NEW
+10
+PRINT
+"I
+HAVE
+A
+BUN"
+20
+PRINT
+"RIGHT
+UNDER
+MY
+SHIRT"
+30
+GOTO
+60
+40
+PRINT
+"SQUEEZE
+MY
+NOSE"
+50
+PRINT
+"I
+WILL
+GIVE
+A
+SQUIRT"
+60
+PRINT
+"HAND
+ME
+YOUR
+MONEY"
+70
+GOTO
+90
+80
+PRINT
+"CUTE
+LITTLE
+BUNNY"
+90
+PRINT
+"AND
+NO
+ONE
+WILL
+GET
+HURT'
+100
+PRINT
+"I
+RUN
+RETURN
+TO
+THE
+BOOK
+The owner pulls open the cash register drawer and hands her
+money. She counts the money. You see the store owner remove his
+glasses from his shirt pocket. He places them on the counter.
+Suddenly the robber shouts, "I told you to give me all the money
+you had—you're holding some back! Now I'm really mad."
+The robber pulls out her gun, walks toward the owner, and jabs
+the gun smack into his chest. The owner tells her to look under the
+cash register drawer for more money. She grabs the money and
+pushes you and the owner into the store closet. She slams the door
+and you hear the latch snap shut.
+"We're lucky to be alive," says the store owner.
+"I don't think there's any luck involved at all," you say.
+Type in the program and review the facts.
+NEW
+10
+PRINT
+"YOU
+BELIEVE
+THAT
+THE"
+20
+PRINT
+"ROBBERY
+WAS
+STAGED.11
+30
+PRINT
+"IT
+WAS
+ALL
+A
+FAKE."
+55
+DIM
+M*(20)
+56
+DIM
+N*(20)
+60
+PRINT
+"WHAT
+MAKES
+YOU
+THINK
+SO?1
+70
+PRINT
+"BUN"
+75
+PRINT
+"CLOSET"
+80
+PRINT
+"CASH
+REGISTER"
+
+=== Step 66: Page 82 ===
+Page 82
+
+MYSTERY AND AD VENTURE
+85
+PRINT
+"GLASSES"
+90
+PRINT
+"SHIRT"
+95
+PRINT
+"WOMAN"
+100
+PRINT
+"MONEY"
+105
+PRINT
+"RHYME"
+110
+PRINT
+"NEWSPAPER"
+165
+INPUT
+M*
+180
+LET
+0*
+=
+"CLOSET"
+190
+LET
+N*
+=
+"BLASSES"
+200
+IF
+M*
+=
+N*
+THEN
+GOTO
+230
+210
+PRINT
+"WRONG,
+TRY
+AGAIN"
+220
+GOTO
+60
+230
+PRINT
+"OF
+COURSE
+YOU
+ARE"
+240
+PRINT
+"RIGHT,
+THE
+OWNER
+TOOK"
+250
+PRINT
+"HIS
+GLASSES
+OUT
+OF"
+260
+PRINT
+"HIS
+SHIRT
+POCKET"
+270
+PRINT
+"JUST
+BEFORE
+THE"
+280
+PRINT
+"ROBBER
+PUSHED
+THE"
+290
+PRINT
+"GUN
+RIGHT
+INTO
+HIS"
+300
+PRINT
+"CHEST.THE
+OWNER
+MUST"
+310
+PRINT
+"HAVE
+KNOWN
+THAT
+THE"
+320
+PRINT
+"ROBBER
+WAS
+GOING
+TO"
+330
+PRINT
+"HIT
+HIS
+CHEST,
+SO
+HE"
+340
+PRINT
+"PLACED
+HIS
+GLASSES"
+350
+PRINT
+"ON
+THE
+COUNTER
+WHERE"
+360
+PRINT
+"THEY
+WOULD
+NOT"
+370
+PRINT
+"GET
+BROKEN,
+NOW
+THAT"
+380
+PRINT
+"IS
+WHAT
+I
+CALL
+GOOD"
+390
+PRINT
+"THINKING."
+RUN
+
+=== Step 67: Page 83 ===
+Page 83
+
+A Spectacular View
+You shouldn't be there at night, but you are. Quietly you hide
+behind a wide tree trunk, watching the cleaning squad pick up the
+day's litter. You wait patiently as they sweep up the area and empty
+the trash cans. At last the place is spotless and they leave.
+Now you can set up your telescope. It's too bad that Paddington
+Pond Park closes at sunset, since it's the best place for stargazing.
+Once in a while you sneak in with your telescope for that perfect
+sight. Quietly you set up your brand-new telescope, anxious to get a
+spectacular view of the stars.
+Suddenly the stillness is shattered by the sound of a car. You hear
+a crash and see headlights moving toward the pond. You aim the
+telescope toward the car. Its fenders are badly dented. It must have
+crashed through the park gate. The car comes to a stop about two
+feet from the pond. A man gets out, leaving the engine running and
+the door open.
+You can tell from the ornament on the car that it's an expensive
+
+=== Step 68: Page 84 ===
+Page 84
+
+•
+MYSTERY AND ADVENTURE
+Rolls Royce. The headlights are still on. You can see that the man is
+puffing on a long, thin cigarette in a silver cigarette holder. The
+man studies a sign near the pond. Then he walks to the trash can
+and throws
+in his cigarette, holder and
+all. You hear the holder
+rattle against the metal trash can.
+Now the man reaches into the car and does something that you
+cannot see. He moves to the back of the car and leans against
+it.
+Grunting loudly, he pushes the car into the pond. From the edge of
+the pond he watches as the car sinks beneath the water.
+Through the telescope you watch in amazement as the man starts
+to roll on the ground, scraping his hands against the rough cement
+surface. The he rubs the dirt and blood into his hair; finally the man
+lies
+still.
+You hear police and ambulance sirens. The man is lifted into the
+ambulance and driven away. The police remain busy at the pond's
+edge. Quietly you move your telescope and go back behind the tree.
+You fall asleep. When you wake up the next morning, you find that
+the park has been sealed off by the police.
+You try to sneak under the broken fence, but a security guard
+grabs you. He threatens to bring you to the police for having been
+in the park overnight. You explain about your interest in astronomy
+and show off your new telescope. The guard is kind, and lets you
+go.
+"The park is closed today," he says. There was an accident last
+night—a Rolls Royce skidded into the pond. They'll be lifting it out
+today. Plenty of car company people will be swarming around like
+bees."
+The guard goes on to tell you that the driver crashed because his
+brakes failed. "He was lucky to be able to jump out of the car before
+it took a dive. He'll sue the company and make a fortune—as soon
+as he gets out of the hospital."
+You know that you must tell the car-company investigator what
+you saw. "That was no accident," you tell him, explaining what you
+saw through your telescope.
+"I'd
+really like
+to
+believe you," he
+says. "You could
+save our
+company a lot of money. But who is going to believe the story of a
+kid who was illegally in the park at night? The man's lawyer would
+
+=== Step 69: Page 86 ===
+Page 86
+
+•
+MYSTERY AND ADVENTURE
+make mincemeat of you in court.
+If you could only find some
+evidence to prove your story, I'd be really grateful."
+The guard lets you back into the park and you walk toward the
+pond. Type in the program to see what is in the area.
+NEW
+10
+15
+20
+30
+40
+50
+60
+80
+100
+105
+110
+115
+120
+125
+130
+135
+140
+145
+150
+160
+162
+163
+165
+170
+180
+190
+200
+210
+220
+230
+240
+260
+270
+280
+290
+300
+305
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+FOR
+X
+NEXT
+]
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+II
+II
+II
+II
+II
+■Jit
+9ii
+3"
+Sjit
+Mil
+II
+Qll
+11
+0
+0"
+11
+0
+0"
+0
+NO
+0"
+11
+0
+BIKE
+011
+11
+0
+RIDING
+0"
+11
+0000000000000000"
+»
+1
+TO
+2000
+K
+"UUUUUUUU11
+11
+UU"
+11
+UU"
+"UUUUUUUU11
+11U
+NO
+U"
+11U
+PETS
+U"
+"U
+U"
+"UUUUUUUU11
+11
+r>r>r?*?'?'?'?r?r?r? ii
+?
+NO
+?"
+?
+SMOKING?"
+?
+?••
+11
+??????????"
+
+=== Step 70: Page 87 ===
+Page 87
+
+A SPECTACULAR VIEW
+•
+73
+310
+PRINT
+"ONE
+OF
+THESE
+SIGNS"
+320
+PRINT
+"REMINDS
+YOU
+OF
+LAST
+NIGHT."
+330
+DIM
+A*<20)
+335
+DIM
+B*(20)
+340
+PRINT
+"WHAT
+SIGN
+GIVES
+YOU
+THE
+CLUE
+?"
+350
+INPUT
+A*
+360
+LET
+B*
+=
+"NO
+SMOKING"
+380
+IF
+A*
+=
+B*
+THEN
+GOTO
+500
+390
+PRINT
+"NO,
+THINK
+AGAIN2
+400
+GOTO
+340
+500
+PRINT
+"YES,
+THAT
+IS
+CORRECT.
+"
+510
+PRINT
+"THE
+MAN
+WAS
+PUFFING
+A
+LONG
+THIN
+CIGARETTE."
+520
+PRINT
+"YOU
+WILL
+MENTION"
+530
+PRINT
+"THAT
+TO
+THE
+CAR"
+540
+PRINT
+"COMPANY
+INVESTIGATOR."
+570
+PRINT
+"lslamiJISMSMI13
+RUN
+You look
+for the company
+investigator to
+tell him about the
+cigarette.
+Instead you find
+the accident
+victim's
+lawyer.
+He has
+heard about your story, and he is angry.
+"No judge will believe you," sneers the lawyer. "You made up the
+story so everyone would forget that you were breaking the law by
+being in the park after dark."
+Now you tell the lawyer about the man's smoking. "How would I
+know he was a smoker if I didn't really see him?" you say.
+"Lots of people smoke," says the lawyer. "You could have seen
+the man
+in town and
+noticed
+that
+he was a smoker.
+That's no
+evidence at all."
+The lawyer walks away.
+You wander toward the pond again. Type in the program. See if
+you can find
+that
+vital
+piece
+of evidence
+that
+will make people
+believe your story.
+
+=== Step 71: Page 88 ===
+Page 88
+
+MYSTERY AND AD VENTURE
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+290
+300
+310
+320
+330
+340
+350
+360
+370
+380
+uuuuuuuuu
+uuuuuuuuu
+"HILLTOP1
+PADDINGTON"
+400
+410
+420
+430
+440
+450
+BENCH"
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"
+POND"
+PRINT
+"++++++++++++++++"
+PRINT
+"////LEDGE///////"
+PRINT
+PRINT
+PRINT
+"
+PRINT
+"
+PRINT
+"
+■«■»■■■■'•
+DIM
+G*<20>
+DIM
+F*(20)
+PRINT
+"WHERE
+SHOULD
+YOU
+LOOK?"
+INPUT
+F*
+LET
+G*
+=
+"TRASH
+CAN"
+IF
+F*
+=
+G*
+THEN
+GOTO
+270
+PRINT
+"NO,
+THINK
+OF
+THE
+MAN"
+PRINT
+"CALMLY
+SMOKING"
+GOTO
+200
+PRINT
+"YES,
+YOU
+HAVE
+FOUND"
+PRINT
+"THE
+RIGHT
+PLACE."
+DIM
+H*<20)
+DIM
+J*<20)
+PRINT
+"WHAT
+IS
+IT
+THAT"
+PRINT
+"YOU
+ARE
+LOOKING
+FOR?"
+INPUT
+H*
+LET
+J*
+=
+"CIGARETTE"
+IF
+H*
+=
+J*
+THEN
+GOTO
+390
+PRINT
+"THINK
+OF
+WHAT
+THE"
+PRINT
+"MAN
+WAS
+SMOKING."
+GOTO
+310
+PRINT
+"YOU
+JUST
+FOUND"
+PRINT
+"SOLID
+PROOF."
+PRINT
+"SINCE
+THE
+PARK
+WAS"
+PRINT
+"CLEAN,
+THE
+LONG
+THIN"
+PRINT
+"CIGARETTE
+IN"
+PRINT
+"THE
+SILVER
+HOLDER"
+PRINT
+"MUST
+BELONG
+TO"
+
+=== Step 72: Page 89 ===
+Page 89
+
+A SPECTACULAR VIEW
+75
+5055
+5060
+5070
+5080
+5090
+RUN
+PRINT
+"THE
+MAN.
+"
+PRINT
+"THE
+POLICE
+LAB
+HAS"
+PRINT
+"CHECKED
+OUT
+THE"
+PRINT
+"FINGERPRINTS."
+PRINT
+"THE
+PRINTS
+MATCH."
+The
+police arrest the man. "The sign said NO SMOKING,"
+whines the man. "And I always try to obey the law."
+The police are not impressed. They send the man to jail. They
+warn you not to go in the park again after dark. The car company
+says
+you
+may
+use
+their
+private
+observatory
+for an
+even
+more
+spectacular view of the stars.
+
+=== Step 73: Page 90 ===
+Page 90
+
+Stolen Software
+You have just received a telephone call from the owner of OUR
+BYTE COMPUTER STORE.
+Six hundred
+boxes
+of computer
+software were stolen during last night's robbery.
+It's your job to
+investigate at the scene of the robbery.
+The store manager tells you that the old locks on the warehouse
+doors were brittle and could easily be forced.
+The
+saleswoman
+believes
+that
+more
+than
+one
+robber
+was
+involved because she
+saw different sizes of sneaker prints on the
+floor.
+The cashier shows you where the cash register had been cracked
+open during the robbery. Some heavy tool had been used to break
+open the machine.
+The night watchman describes the strange dream he had about a
+burglar with a scar on her left cheek and bright red, curly hair.
+The janitor tells you that security is poor at the store. He says
+that a burglar alarm could have prevented the robbery.
+
+=== Step 74: Page 92 ===
+Page 92
+
+•
+MYSTERY AND ADVENTURE
+The telephone is ringing. It's for you. Type in the program to see
+who is at the other end of the line.
+NEW
+5
+DIM
+0*<20)
+6
+DIM
+D*(20)
+7
+DIM
+B*(20)
+10
+PRINT
+"WHO
+IS
+CALLING
+YOU?"
+30
+INPUT
+C*
+50
+LET
+B*
+=
+"CASHIER".
+60
+LET
+D*
+=
+"OWNER"
+70
+IF
+C*
+-
+D*
+THEN
+GOTO
+100
+80
+PRINT
+90
+PRINT
+"NO,
+THAT
+IS
+NOT
+RIGHT."
+95
+GOTO
+10
+100
+PRINT
+"YES,
+YOU
+ARE
+RIGHT."
+110
+PRINT
+"WHAT
+A
+GREAT
+GUESS"
+120
+PRINT
+"YOU
+MADE,
+UNLESS
+YOU"
+130
+PRINT
+"PEEKED."
+150
+PRINT
+"BEFORE
+YOU
+GET
+A"
+160
+PRINT
+"CHANCE
+TO
+SOLVE
+THE"
+170
+PRINT
+"CRIME,
+THE
+OWNER
+SAYS"
+180
+PRINT
+"THE
+POLICE
+CAUGHT"
+190
+PRINT
+"THE
+THIEVES,
+BUT
+THE"
+200
+PRINT
+"OWNER
+BLAMED
+SOMEONE"
+205
+PRINT
+"ELSE"
+210
+PRINT
+"FOR
+THE
+ROBBERY."
+215
+PRINT
+217
+DIM
+A*(20)
+218
+DIM
+E*<20)
+220
+PRINT
+"WHO
+GOT
+FIRED
+BY"
+230
+PRINT
+"THE
+OWNER?"
+250
+INPUT
+A*
+270
+LET
+M*
+=
+"STORE
+CLERK"
+280
+LET
+E*
+»
+"NIGHT
+WATCHMAN"
+290
+IF
+A$
+=
+E*
+THEN
+GOTO
+350
+300
+PRINT
+"YOU
+GOOFED,
+SOMEONE"
+310
+PRINT
+"WAS
+NOT
+DOING
+WHAT"
+320
+PRINT
+"HE
+OR
+SHE
+WAS"
+330
+PRINT
+"GETTING
+PAID
+FOR."
+340
+GOTO
+220
+350
+PRINT
+"INSTEAD
+OF
+WATCHING"
+360
+PRINT
+"FOR
+THE
+BURGLARS,
+HE"
+
+=== Step 75: Page 93 ===
+Page 93
+
+STOLEN SOFTWARE
+•
+79
+370
+PRINT
+"WAS
+BUSY
+DREAMING"
+380
+PRINT
+"ABOUT
+THEM,
+HE
+MUST"
+390
+PRINT
+"HAVE
+FALLEN
+ASLEEP"
+400
+PRINT
+"ON
+THE
+JOB.
+YOU
+ARE"
+410
+PRINT
+"CORRECT.
+THE
+BOSS"
+420
+PRINT
+"FIRED
+HIM."
+430
+PRINT
+435
+DIM
+U*(20)
+437
+DIM
+V*(20)
+438
+DIM
+T*<20>
+440
+PRINT
+"WOULD
+YOU
+LIKE
+THE"
+450
+PRINT
+"NIGHT
+WATCHMAN'S
+JOB?"
+470
+INPUT
+U*
+490
+LET
+T*
+■
+"WHO,
+ME
+WORK"
+500
+LET
+V*
+=
+"YES"
+510
+IF
+U*
+-
+V*
+THEN
+GOTO
+550
+520
+PRINT
+"I
+GUESS
+YOU
+NEED"
+530
+PRINT
+"YOUR
+BEAUTY
+REST."
+540
+GOTO
+590
+550
+PRINT
+"CONGRATULATIONS.
+NOW"
+560
+PRINT
+"STAY
+AWAKE
+ON
+THE"
+570
+PRINT
+"JOB."
+580
+PRINT
+590
+PRINT
+RUN
+
+=== Step 76: Page 94 ===
+Page 94
+
+Dangerous Living
+Pinehead Studios is filming a new movie called Dangerous Living.
+It
+is
+being
+made
+on
+location
+in
+the
+small
+town
+of
+Fansville.
+Dangerous Living is an action movie, with car-chase scenes and
+other dangerous
+stunts.
+Although
+the
+tall,
+muscular
+star
+of the
+movie, Jonathan Andrews, has spent months getting ready for the
+movie, he feels there is still more work to do. He will not be doing
+any of the dangerous
+stunts.
+Instead,
+he
+will focus on in-depth
+character studies. Jonathan Andrews takes his work seriously.
+Newspapers have been running photographs of the movie actors.
+People are anxious to read about their expensive cars and habits.
+They are interested in every detail of the actors' lives. Many of the
+performers are getting tired of being followed by news hounds and
+fans.
+On
+Tuesday,
+June
+18th,
+the
+Gold
+Coast
+Savings
+Bank
+of
+Fansville is robbed. This fact may seem unrelated to the movie, but
+there is a connection. Mrs. Joyce Charles says that she was standing
+
+=== Step 77: Page 95 ===
+Page 95
+
+DANGEROUS LIVING
+•
+81
+outside the Gold Coast Savings Bank about 2:30 in the afternoon.
+She witnessed the robbery. And she saw the burglar pull off his
+mask
+afterward.
+She
+says
+that
+she
+saw
+the
+face
+of Jonathan
+Andrews, the actor.
+The spokeswoman for Pinehead
+Studios
+insists
+that
+it would
+have been impossible for Jonathan Andrews to have had time to
+rob a bank. He had been working on that day. "And anyway," she
+adds, "why would a rich, famous movie star want to rob a bank? I
+think
+that
+Mrs.
+Joyce
+Charles
+has
+been
+reading
+too
+many
+newspaper articles about Dangerous Living. She just imagined she
+saw him."
+The police are not sure whether to believe Mrs. Joyce Charles.
+The spokewoman from Pinehead persuades the police to let you
+investigate the story before the newspapers get hold of it.
+You speak with Jonathan Andrews. He denies knowing anything
+about the bank heist. He insists that his schedule would not have
+left him time to do anything but work that day. He points to the
+work schedule pinned to his dressing room wall.
+"Does that look like the schedule of a man who has time to rob
+banks?" he asks.
+Type in the program and check the actor's schedule for yourself.
+Then return to the book.
+NEW
+10
+20
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"JONATHAN
+ANDREWS"
+"iHiBiMs—gmaianwfl"
+"9:30-12:00"
+"IEW13UKH"
+"FILMING
+CHARACTER"
+"SCENES."
+"IIIJWSlflSVM"
+"FILMING
+CHARACTER"
+"SCENES."
+"I2I3S1S1EE1SI&1QI"
+"FILMING
+CHARACTER"
+"SCENES."
+"12:15-1:30"
+"IHUDbBBI"
+"2:00-5:00"
+
+=== Step 78: Page 96 ===
+Page 96
+
+•
+MYSTERY AND ADVENTURE
+180
+PRINT
+190
+PRINT
+"FILMING
+FIRE
+STUNTS"
+200
+PRINT
+210
+PRINT
+"FILMING
+FIRE
+STUNTS'
+220
+PRINT
+"I
+230
+PRINT
+"FILMING
+CAR
+CHASE"
+240
+PRINT
+"STUNTS."
+RUN
+Afterward
+you
+go
+to
+the
+bank.
+There
+you
+interview
+bank
+employees who were on the job during the robbery. Not one of
+them had seen the face of the robber. All had seen the mask on his
+face. Two clerks had noticed that the robber was even taller than
+Gregory, the bank guard. Gregory's nickname is Stretch because he
+is so
+tall. Gregory fainted during the robbery, so he didn't recall
+anything.
+At last you interview Mrs. Joyce Charles. She still insists that she
+watched the robbery from outside the bank window. She saw a tall
+man, wearing a mask, enter and rob the bank. As soon as he walked
+out into the street again, he pulled off his mask. She recognized the
+face of Jonathan Andrews.
+"I didn't run for the police," she says. "I thought maybe he was
+rehearsing a part of the movie. I never forget a face. 1 just know the
+man was Jonathan Andrews."
+The police ask you if Jonathan Andrews should be considered as
+a suspect for the bank heist. Type in the program to help you decide.
+NEW
+5
+DIM
+A*(20)
+10
+PRINT
+"DID
+JONATHAN
+ANDREWS11
+20
+PRINT
+"HAVE
+TIME
+TO
+ROB"
+30
+PRINT
+"THE
+BANK?"
+45
+INPUT
+A*
+50
+PRINT
+"OH
+YES,
+HE
+CERTAINLY"
+60
+PRINT
+"HAD
+THE
+CHANCE"
+65
+PRINT
+67
+DIM
+B*(20)
+
+=== Step 79: Page 97 ===
+Page 97
+
+DANGEROUS LIVING
+•
+83
+68
+DIM
+C*(20)
+70
+PRINT
+"WHAT
+CLUE
+TELLS
+YOU"
+80
+PRINT
+"HE
+HAD
+SPARE
+TIME?"
+90
+PRINT
+"SPOKESWOMAN"
+100
+PRINT
+"SCHEDULE"
+110
+PRINT
+"JOYCE
+CHARLES"
+120
+PRINT
+"NEWSPAPER"
+130
+PRINT
+"PHOTOGRAPH"
+140
+PRINT
+"MONEY"
+160
+INPUT
+B$
+180
+LET
+D*
+=
+"MONEY"
+190
+LET
+C*
+=
+"SCHEDULE"
+200
+IF
+B*
+=
+C*
+THEN
+GOTO
+230
+210
+PRINT
+"THAT
+IS
+NOT
+CORRECT."
+220
+GOTO
+70
+230
+PRINT
+240
+PRINT
+"DEFINITELY.
+SOMETHING"
+250
+PRINT
+"ON
+THAT
+WORK"
+260
+PRINT
+"SCHEDULE
+WAS
+NOT"
+270
+PRINT
+"JONATHAN
+ANDREWS'
+JOB"
+275
+DIM
+E*(20)
+277
+DIM
+F*(20)
+278
+DIM
+H*(20)
+230
+PRINT
+"WHAT
+DID
+HE
+NOT
+HAVE"
+290
+PRINT
+"TO
+DO?"
+300
+PRINT
+"ACT"
+310
+PRINT
+"SPEECH"
+320
+PRINT
+"CHARACTER
+TRAITS"
+330
+PRINT
+"STUNTS"
+350
+INPUT
+E*
+370
+LET
+H*
+=
+"SPEECH"
+380
+LET
+F*
+=
+"STUNTS"
+390
+IF
+E$
+=
+F$
+THEN
+GOTO
+420
+400
+PRINT
+"WRONG."
+410
+GOTO
+280
+420
+PRINT
+"THAT
+IS
+RIGHT."
+430
+PRINT
+"JONATHAN
+ANDREWS
+DID"
+440
+PRINT
+"NOT
+DO
+HIS
+OWN"
+450
+PRINT
+"STUNTS.
+HE
+HAD
+THE"
+460
+PRINT
+"AFTERNOON
+TO
+ROB
+THE"
+470
+PRINT
+"BANK
+IF
+HE
+WANTED
+TO."
+480
+PRINT
+"HE
+WAS
+TALL
+JUST"
+490
+PRINT
+"LIKE
+THE
+THIEF."
+500
+PRINT
+505
+DIM
+I*(20)
+507
+DIM
+J$(20>
+510
+PRINT
+"SHOULD
+HE
+BE
+A"
+
+=== Step 80: Page 99 ===
+Page 99
+
+DANGEROUS LIVING
+•
+85
+520
+PRINT
+"SUSPECT
+IN
+THE
+BANK'
+530
+PRINT
+"HEIST?"
+550
+INPUT
+I*
+570
+LET
+J*
+=
+"YES"
+580
+IF
+I*
+=
+J*
+THEN
+GOTO
+650
+590
+PRINT
+"YOU
+HAVE
+BEEN
+DOING1
+600
+PRINT
+"YOUR
+INVESTIGATING"
+610
+PRINT
+"WITH
+YOUR
+EYES"
+620
+PRINT
+640
+GOTO
+700
+650
+PRINT
+"YOU
+ARE
+ABSOLUTELY"
+660
+PRINT
+"RIGHT.
+HOLY
+COW"
+670
+PRINT
+"YOU
+DESERVE
+A
+RAISE.
+680
+PRINT
+700
+PRINT
+"THE
+END"
+RUN
+When the police question Jonathan Andrews again, he admits to
+the crime. He gives the money back to the bank.
+"I had to find out what it's like to rob a bank in real life," he says.
+"I never meant to keep the money—I don't need it. I just want to be
+a good actor."
+Jonathan Andrews has lost some fans in Fansville.
+
+=== Step 81: Page 100 ===
+Page 100
+
+The Clubhouse
+There is a big problem at this clubhouse. Type in the program for a
+look at the clubhouse.
+NEW
+10
+PRINT
+15
+PRINT
+20
+PRINT
+30
+PRINT
+40
+PRINT
+50
+PRINT
+60
+PRINT
+70
+PRINT
+90
+PRINT
+95
+PRINT
+100
+PRINT
+"OOPS,
+THE
+DOORBELL"
+110
+PRINT
+"
+IS
+RINBING."
+120
+PRINT
+"60
+BACK
+TO
+THE
+BOOK"
+130
+PRINT
+"TO
+SEE
+WHO
+IT
+IS."
+
+=== Step 82: Page 101 ===
+Page 101
+
+THE CLUBHOUSE
+•
+87
+You open the door and find Bruce, his clothes dripping wet from
+the rain that has been falling all day. He tells you he is upset because
+his clubhouse has been taken over by the Forster Gang. When he
+asked them
+to
+leave, Chad
+Forster told him
+to "—get
+out, OR
+ELSE!"
+Throwing
+on
+your
+tan
+raincoat
+and
+grabbing
+your
+lucky
+umbrella, you follow Bruce to the clubhouse. Chad Forster is lying
+on a bench watching his friends play cards.
+"Didn't I tell you to get lost?" shouts Chad Forster.
+Two gang members leap up and stand beside him.
+An
+argument
+begins.
+Chad
+Forster
+insists
+that
+he
+built
+the
+clubhouse as a surprise for his buddies. Bruce claims that he built it
+as a getaway place to do his work. You hear two different stories,
+and wonder which one is correct.
+"I've been building this clubhouse for three weeks. I just put the
+roof on
+yesterday,"
+says
+Chad.
+"It
+was
+sunny
+yesterday,
+so
+I
+worked on it until five o'clock. I came back this morning and found
+Bruce inside. I told him to get lost because it belongs to us, but he
+wouldn't listen.
+"You
+are
+lying,"
+says
+Bruce.
+"I
+finished
+the
+inside
+of
+the
+clubhouse last week, but I didn't have any wood for the roof. This
+morning I found a heap of shingles at the dump and brought them
+here.
+I
+started
+hammering them
+on
+this
+morning and
+finished
+around noon. I went home for lunch. When I got back I found that
+this gang had taken over my clubhouse."
+You decide to question the Forster gang. As you step inside, you
+slip on the mat. Your new wallet falls from your pocket. Your paper
+money is scattered all over the floor. Chad helps you up, and Bruce
+picks up the money. The money is dry and clean, so you put it back
+into your new wallet.
+Now you start questioning the gang members. Not one of them
+helped Chad to build the clubhouse. It was a real surprise to see it.
+"And to think that he built it with his own two hands!" says one of
+the gang admiringly.
+Who really built the clubhouse? Type in the program to see
+if
+your guessed right.
+
+=== Step 83: Page 103 ===
+Page 103
+
+THE CLUBHOUSE
+89
+NEW
+90
+95
+100
+110
+130
+150
+160
+170
+180
+190
+199
+200
+210
+220
+225
+228
+230
+234
+236
+PRINT
+237
+238
+239
+240
+260
+270
+280
+290
+310
+320
+330
+340
+350
+360
+370
+380
+390
+400
+410
+RUN
+DIM
+A*(20)
+DIM
+B*(20)
+PRINT
+"WHO
+BUILT
+THE"
+PRINT
+"CLUBHOUSE?"
+INPUT
+A*
+LET
+B$
+=
+"CHAD"
+LET
+C*
+»
+"BRUCE"
+IF
+A*
+=
+B*
+THEN
+GOTO
+200
+PRINT
+"YOU
+MISSED
+AN"
+PRINT
+"IMPORTANT
+CLUE."
+GOTO
+100
+PRINT
+"OUR
+FRIEND
+BRUCE
+IS"
+PRINT
+"SURPRISED
+THAT
+YOU"
+PRINT
+"DO
+NOT
+BELIEVE
+HIM."
+DIM
+D*(20)
+DIM
+E*<20)
+PRINT
+"WHAT
+IS
+THE
+EVIDENCE?"
+PRINT
+"PLAYING
+CARDS"
+TAN
+RAINCOAT"
+PRINT
+"PAPER
+MONEY"
+PRINT
+"GETAWAY
+PLACE"
+PRINT
+"HEAP
+OF
+SHINGLES."
+INPUT
+D*
+LET
+F*
+=
+"TAN
+RAINCOAT"
+LET
+E*
+-
+"PAPER
+MONEY"
+IF
+D*
+=
+E*
+THEN
+GOTO
+310
+PRINT
+"TRY
+AGAIN"
+GOTO
+230
+PRINT
+"HAD
+BRUCE
+WORKED
+ON"
+PRINT
+"THE
+CLUBHOUSE
+ALL"
+PRINT
+"MORNING.
+THE
+FLOOR"
+PRINT
+"WOULD
+HAVE
+BEEN
+WET"
+PRINT
+"BUT
+THE
+PAPER
+MONEY"
+PRINT
+"WAS
+CLEAN
+AND
+DRY.
+A"
+PRINT
+"ROOF
+HAD
+TO
+BE
+PUT"
+PRINT
+"ON
+BEFORE
+THE
+RAIN."
+PRINT
+"THE
+CLUBHOUSE"
+PRINT
+"BELONGS
+TO"
+PRINT
+
+=== Step 84: Page 104 ===
+Page 104
+
+The Accident
+You are just about to set the table when the telephone rings.
+It's
+Police Captain Darren Scott. He needs your expert opinion about
+a three-car accident downtown. The only eyewitnesses are the three
+drivers involved and each one is telling a different story.
+You put your turkey back in the oven and mutter, "Why can't I
+have a normal Christmas Day dinner, like everyone else?"
+When you arrive at the scene of the accident, Police Captain
+Darren
+Scott extends
+his hand
+in
+greeting and thanks you
+for
+coming. You
+examine the accident scene. Type in the program to
+see it.
+
+=== Step 85: Page 105 ===
+Page 105
+
+THE ACCIDENT
+•
+91
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+85
+90
+100
+110
+120
+130
+140
+145
+150
+160
+165
+168
+170
+180
+RUN
+PRINT
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+PRINT
+PRINT
++BLUE+.=TRUCK="
+VAN
+00
+00"
+PRINT
+"*CAR*
+PRINT
+"
+PRINT
+"
+GOTO
+170
+PRINT
+"I
+CALL
+MY
+CAR
+BABY"
+PRINT
+"BECAUSE
+IT
+HAS"
+PRINT
+"SO
+MANY
+RATTLES"
+PRINT
+PRINT
+"GO
+BACK
+TO
+THE
+STORY"
+While you examine each vehicle, Bump Wilson gives his version
+of what happened. "I had stopped at the traffic light in my brown
+car. I reached down for my road map for a split second. There was a
+blue van behind me. Suddenly it started to move and it smashed
+into me. The light hadn't even changed yet!"
+The driver of the blue van is Hugh Slowpoke.
+"I was in the correct lane, minding my own business. A mailman
+in a post office truck was moving slowly along and blocking my
+view.
+I couldn't see a thing. Suddenly that black truck pulled out
+from
+a
+parking
+place
+without
+looking and
+hit me
+in
+the
+rear,
+pushing me forward."
+Spider Webb was the driver of the black truck.
+"I parked my
+truck for two minutes, just to buy a newspaper. Before I pulled out
+of the parking space, I put my arm out the window to signal. The
+blue van was directly in front of me. Suddenly it backed up and
+
+=== Step 86: Page 106 ===
+Page 106
+
+•
+MYSTERY AND ADVENTURE
+smashed into my windshield."
+Everyone looks at you for your opinion. You have considered all
+the
+facts. Who do you think caused
+the
+accident? Type
+in the
+program to find out if you are right.
+
+=== Step 87: Page 107 ===
+Page 107
+
+THE ACCIDENT
+•
+93
+NEW
+5
+6
+7
+10
+30
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+DIM
+D*(20)
+DIM
+E*(20)
+DIM
+F*(20)
+PRINT
+"WHO
+MUST
+BE
+LYING?"
+INPUT
+D$
+LET
+F$
+=
+"MAC
+DONALD"
+LET
+E*
+=
+"HUGH
+SLOWPOKE"
+IF
+D*
+=
+E*
+THEN
+GOTO
+130
+PRINT
+"THAT
+IS
+NOT
+RIGHT."
+PRINT
+"A
+MAILMAN"
+PRINT
+"WOULD
+NOT
+BE
+WORKING1
+PRINT
+"ON
+THAT
+DAY."
+GOTO
+10
+PRINT
+"THAT
+IS
+CORRECT.
+YOU1
+PRINT
+"KNOW
+THAT
+A
+MAIL"
+PRINT
+"TRUCK
+COULD
+NOT
+HAVE1
+PRINT
+"BEEN
+BLOCKING
+HIS"
+PRINT
+"VIEW
+BECAUSE
+MAIL
+IS1
+PRINT
+"NOT
+DELIVERED
+ON"
+PRINT
+RUN
+
+=== Step 88: Page 108 ===
+Page 108
+
+The
+Fifteenth Robbery
+iiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii^
+When you read the morning newspaper, you always take special
+notice
+of robberies
+because you
+are
+in
+the
+insurance
+business.
+Today's robbery has made front-page headlines. What makes this
+robbery so important? Type in the program to see.
+NEW
+10
+20
+30
+40
+50
+70
+00
+90
+PRINT
+"xXXXXXXXXXXXXXXXXXX"
+PRINT
+"XXXXXXXXXXXXXXXXXXX"
+PRINT
+"ROCK
+STAR
+GARY
+STONE"
+PRINT
+"ROBBED
+AGAIN."
+PRINT
+"ON
+THE
+15TH
+DAY
+OF"
+PRINT
+"SEPTEMBER
+AT
+15
+KING"
+PRINT
+"DRIVE,
+FAMOUS
+ROCKER"
+
+=== Step 89: Page 109 ===
+Page 109
+
+THE FIFTEENTH ROBBERY
+95
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+■GARY
+STONE'S
+15TH"
+"FLOOR
+APARTMENT
+WAS"
+"ROBBED
+FOR
+THE
+15TH"
+"TIME
+THIS
+YEAR.
+A"
+"TOTAL
+OF
+15
+ITEMS"
+"OF
+JEWELRY
+AND
+FURS"
+"WERE
+STOLEN.
+STONE"
+"NO
+LONGER
+CONSIDERS"
+"15
+HIS
+LUCKY
+NUMBER."
+"XXXXXXXXXXXXXXXXXXX"
+Since you own the company that insures Mr. Stone's belongings,
+you feel that a visit with the rock singer would be in order.
+You are welcomed by Mr.
+Stone, who shows you around his
+magnificent apartment.
+If you'd
+like to
+see the
+inside
+of a rock
+singer's apartment, type in this program.
+NEW
+20
+30
+40
+50
+60
+70
+80
+90
+95
+100
+102
+105
+110
+120
+130
+140
+150
+160
+170
+180
+PRINT
+"========
+*******♦*"
+PRINT
+"KITCHEN
+ART"
+PRINT
+"■!»■■■—
+ROOM"
+PRINT
+"
+PRINT
+"////
+PRINT
+"CARD
+PRINT
+"ROOM
+PRINT
+"////"
+PRINT
+"»»>»»»"
+PRINT
+"HEALTH
+CLUB"
+PRINT
+PRINT
+PRINT
+****♦**#*"
+SSSSSSSSSSS"
+STUDIO"
+SSSSSSSSSSS"
+WWWWWWW "
+VWWWWWVW"
+LIVING
+ROOM"
+PRINT
+PRINT
+"
+PRINT
+PRINT
+"+++++++
+PRINT
+"GAME
+ART"
+PRINT
+"
+ROOM
+ROOM"
+PRINT
+"+++++++
+********"
+
+=== Step 90: Page 110 ===
+Page 110
+
+MYSTERY AND AD VENTURE
+190
+200
+205
+206
+207
+210
+220
+230
+240
+250
+260
+265
+267
+270
+275
+280
+285
+290
+295
+300
+310
+315
+325
+330
+340
+345
+350
+355
+360
+370
+390
+410
+420
+430
+432
+435
+437
+440
+450
+460
+470
+480
+700
+702
+703
+705
+715
+PRINT
+"SITTING
+DOG'S
+CHAIR"
+PRINT
+"
+ROOM
+ssssssssssassssras"
+PRINT
+"PLEASE
+COUNT
+ROOMS
+WHILE
+WAITING"
+FOR
+X
+=
+1
+TO
+2000
+NEXT
+X
+PRINT
+•'+++++++
+BEDROOM"
+PRINT
+"
+SUITE"
+PRINT
+"
+»■■■■■■»■••
+PRINT
+PRINT
+"THERE
+WAS
+ANOTHER"
+PRINT
+"DOOR
+THAT
+LED
+TO"
+PRINT
+"THESE
+ROOMS."
+PRINT
+PRINT
+"00000000
+++++++++++"
+PRINT
+"BATHROOM
+COMPUTER"
+PRINT
+"
+ROOM"
+PRINT
+"00000000
+++++++++++"
+PRINT
+PRINT
+"?????????
+BBBBBBBBB"
+PRINT
+"
+GUEST
+POOL
+ROOM"
+PRINT
+"
+ROOM
+BBBBBBBBB"
+PRINT
+PRINT
+"XX
+PRINT
+PRINT
+XX"
+"XX
+XX"
+"XX
+DINING
+ROOM
+XX"
+PRINT
+"XXXXXXXXXXXXXXXXXXX"
+DIM
+A*(20)
+DIM
+B*(20)
+PRINT
+"HOW
+MANY
+ROOMS
+ARE
+IN"
+PRINT
+"IN
+MR.
+STONE'S
+APARTMENT?"
+INPUT
+A*
+LET
+B*
+=
+"15"
+IF
+A*
+=
+B*
+THEN
+GOTO
+700
+PRINT
+"COUNT
+AGAIN.
+BE
+MORE
+CAREFUL."
+PRINT
+PRINT
+PRINT
+PRINT
+"REMEMBER
+TO
+KEEP"
+PRINT
+"YOUR
+EYES
+OPEN
+THIS
+TIME."
+PRINT
+"MAKE
+SURE
+YOU
+COUNT"
+PRINT
+"ONLY
+ROOMS."
+GOTO
+360
+PRINT
+"OF
+COURSE
+THERE
+ARE"
+PRINT
+PRINT
+PRINT
+"MR.
+STONE
+WOULD
+NOT"
+PRINT
+"HAVE
+IT
+ANY
+OTHER"
+
+=== Step 91: Page 111 ===
+Page 111
+
+THE FIFTEENTH ROBBERY
+•
+97
+720
+PRINT
+"WAY."
+725
+PRINT
+RUN
+0
+THE
+BOOK
+Gary
+Stone
+is
+sure
+that
+the
+burglar
+must
+have
+slipped
+past
+building security checkpoints from the outside, but you decide to
+question
+the
+neighbors
+inside
+the
+building.
+Gary
+Stone
+politely
+gives you permission to do so.
+Jared Andrews, the well-known comedian, answers the doorbell
+of Apartment 23. "The thief certainly didn't come from this floor,"
+he says. "How can you be so sure?" you ask. "Well, that was the
+night I put a bucket of confetti over the hall door, hoping to give my
+neighbor a paper bath. Nobody came in that night. I was in a rush
+the next morning and
+didn't bother to look up.
+I'm
+still picking
+confetti from in between my dandruff," laughs Jared Andrews.
+Tennis pro, Tom Laurett, lives in Apartment 35. "I wish I could
+help you, but
+I was too busy trying to get myself a meal to notice
+any sounds in the building," he says. "After I won the tournament, I
+was starving for a
+hot, home-cooked meal. When
+I got home
+I
+found the electricity was off, so I couldn't cook anything.
+I had to
+settle for a peanut butter and jelly sandwich that night!"
+Apartment 68 is occupied by Robert Rose. He comes to the door
+clutching his head. You ask about the robbery, but he doesn't seem
+very interested. "Listen to that woman upstairs," he groans. "She
+never stops playing her miserable fiddle. I hate stringed instruments.
+They're bad for my nerves. How could
+I hear a robbery with that
+loud violin playing upstairs? The only time I got any rest was that
+night when the lights went out. Every time the lights flickered, the
+music stopped. When the power finally went out altogether, the
+music stopped
+for a
+long time. What a
+relief that was! Thank
+goodness for electrical problems. Sorry I can't help you!"
+Violin
+player,
+Josephine
+Marche
+of the
+Palace
+Orchestra,
+is
+practicing in Apartment 78. "I know nothing about the robbery,"
+says the musician. "I was practicing. I have to be absolutely perfect,
+you know, because we don't use sheet music at the Palace." She
+closed her eyes and played a few bars. "The neighbors probably
+
+=== Step 92: Page 113 ===
+Page 113
+
+THE FIFTEENTH ROBBERY
+•
+99
+heard
+me.
+The man downstairs
+usually bangs a broom on the
+ceiling when he can't stand
+it any longer. But
+I just close my eyes
+and
+concentrate
+so
+deeply
+that
+I'm
+hardly
+aware
+of
+anything
+around me."
+Actor Aaron Lawrence is about to leave Apartment 57 when you
+ask him about the robbery. He invites you into his apartment. You
+notice two candles on the dining table. "I see you were prepared for
+the power failure," you say.
+Lawrence explains, "My wife and
+I
+were
+celebrating
+our
+anniversary
+that
+night
+with
+a
+candlelight
+dinner: cold chicken and potato salad! I didn't even find out about
+the electricity problem until I saw the papers the next morning. I'm
+late for a filming, must go now!"
+One of these people is not telling the truth. Type in the program
+to see who the burglar is.
+NEW
+100
+PRINT
+"SOMEONE
+SNEAKED
+OUT11
+200
+PRINT
+"TO
+ROB
+THE
+STONE11
+300
+PRINT
+"APARTMENT*11
+340
+DIM
+M$(20)
+345
+DIM
+N$<20>
+350
+PRINT
+"WHO
+IS
+THE
+THIEF?"
+500
+INPUT
+M*
+700
+LET
+N$
+=
+"JOSEPHINE
+MARCHE"
+800
+IF
+M*
+=
+N*
+THEN
+GOTO
+1600
+900
+PRINT
+"THAT
+IS
+NOT
+RIGHT."
+1000
+PRINT
+"HERE
+IS
+A
+CLUE,"
+1100
+PRINT
+"THINK
+OF
+THE
+FIDDLE"
+1200
+PRINT
+"MUSIC
+THAT
+STOPPED"
+1300
+PRINT
+"WHEN
+THE
+POWER"
+1400
+PRINT
+"FAILED."
+1500
+BOTO
+350
+1600
+PRINT
+"A
+FIDDLE
+DOES
+NOT"
+1650
+PRINT
+1700
+PRINT
+"USE
+ELECTRICITY.
+A"
+1800
+PRINT
+"MUSICIAN
+DOES
+NOT"
+1900
+PRINT
+"NEED
+TO
+SEE
+THE"
+2000
+PRINT
+"STRINGS."
+2100
+PRINT
+"IF
+MUSIC
+STOPPED"
+2200
+PRINT
+"WHEN
+THE
+POWER"
+
+=== Step 93: Page 114 ===
+Page 114
+
+•
+MYSTERY AND ADVENTURE
+2300
+2400
+2500
+2600-
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+3700
+3800
+3900
+4000
+4100
+4200
+4300
+4400
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+FAILED,
+THE
+MUSIC"
+MUST
+HAVE
+COME
+FROM"
+SOMETHING
+ELECTRICAL1
+THE
+FIDDLER
+USED
+A"
+TAPE
+RECORDER
+TO"
+MAKE
+IT
+SOUND
+AS"
+THOUGH
+SHE
+WERE"
+PRACTICING."
+"THE
+NEXT
+DAY
+GARY"
+"STONE
+MADE
+HEADLINES'
+"ONCE
+AGAIN."
+"xxxxxxxxxxxxxxxxxxx"
+"XXXXXXXXXXXXXXXXXXX"
+"WHO
+ELSE
+WOULD
+DARE"
+"TO
+ROB
+GARY
+STONE'S"
+"PLACE
+BUT
+A
+PERSON"
+"WHOSE
+APARTMENT"
+"NUMBER
+ADDED
+UP
+TO"
+"15???"
+"AND
+WHOSE
+NAME
+HAS"
+"15
+LETTERS?"
+
+=== Step 94: Page 115 ===
+Page 115
+
+The Auction
+The Society of the Preservation of Odd Animals was supposed to
+inherit a fortune when Stanley Tipton died. Tipton left directions in
+his will that the Society was to get the proceeds from the sale of the
+valuable diamonds hidden in his safe.
+It
+was
+also
+Stanley
+Tipton's
+wish
+that
+his
+collection
+of
+rare
+stuffed animals be sold at auction. However, he felt it only fair to
+offer his employees the choice of a gift before the auction began.
+It may seem strange that Mr. Tipton should think his employees
+might be interested in owning any of his stuffed animals. But then,
+Stanley Tipton had many peculiar ways. For instance, he hired
+only women, and he insisted that each employee should learn as
+much
+as
+she
+could
+about
+his
+collection.
+Mr.
+Tipton
+was
+very
+interested in natural—and unnatural—history.
+Here are the names and functions of Tipton's employees: Gloria,
+the
+housekeeper;
+Lisa,
+the
+cook;
+Kathleen,
+the
+groundskeeper;
+Susan, Tipton's cousin and secretary; and Beatrice, the butler.
+
+=== Step 95: Page 117 ===
+Page 117
+
+THE AUCTION
+•
+103
+Within weeks of working at Tipton's mansion, the cook had
+become an expert on the feeding habits of insects and mammals.
+The housekeeper, Gloria, became so involved in natural history
+that she often traveled on expeditions with Tipton.
+After hours, the groundskeeper lectured on rare animals at the
+local university.
+Tipton was a very careful man. He had
+installed the most
+elaborate alarm devices available to protect his rare collection. The
+alarms were wired to the police station and could be turned off only
+with the assistance of the police. This alarm system assured Tipton
+that no part of his collection could leave the house without his
+knowledge. Of course, people could come and go, but nothing
+could be removed from the house without blasting off the sirens.
+All of Tipton's employees knew where the safe was hidden and
+what was inside. They also knew all about the security system.
+But in spite of the alarm system, the diamonds disappeared from
+the
+safe just before the auction! The
+Society would
+lose a vast
+fortune; they would gain only the proceeds from the auction.
+As an alert detective from the police station, you figure that the
+diamonds must still be in the house, since no alarm went off.
+But where are they? You start to investigate.
+There are two major collections at the Tipton mansion. Type in
+the program to view THE RARE INSECT EXHIBIT. Then return
+to the book.
+NEW
+4
+20
+30
+50
+60
+65
+70
+80
+85
+90
+95
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"RARE
+INSECT
+EXHIBIT"
+ii +++++++++++++++++++ "
+"**$*<$>
+ANTS
+****"
+11—FLIES—"
+??
+BEETLES
+??"
+"(<
+<
+BEES
+)))"
+"...WASPS..."
+
+=== Step 96: Page 118 ===
+Page 118
+
+•
+MYSTERY AND ADVENTURE
+100
+PRINT
+105
+PRINT
+"
+—TERMITES—■'
+110
+PRINT
+115
+PRINT
+•'+++
+MOSQUITOES
+-M-+"
+125
+PRINT
+lf
+(
+(
+BUTTERFLIES
+)
+)
+"
+135
+PRINT
+"
+*#
+GNATS
+*#"
+140
+PRINT
+145
+PRINT
+RUN
+The RARE MAMMAL COLLECTION occupies another huge
+suite. On the day of the auction
+it contains: a pair of miniature
+spotted
+elephants, two rainbow-striped dogs,
+one green-toothed
+whale,
+a
+pair
+of
+tailless
+tigers,
+two
+curly-feathered
+ducks, two
+whiskerless cars, and a pair of long-necked rats.
+The Tipton mansion is closed for a few days after the funeral.
+The employees
+take
+turns and come
+in
+to
+supervise
+while
+the
+auctioneers come in to make notes.
+The mansion reopens on the day of the auction. The atmosphere
+is
+tense as you and
+the
+outside collectors
+wait for the favored
+employees to make their choices.
+Not
+one
+of the
+employees
+wants
+an
+oddity from
+the
+Insect
+Collection.
+Now everyone looks at the RARE MAMMAL CASE.
+Gloria wants the pair of whiskerless cats, because she was with
+Tipton on the expedition that located them. She also knows that if
+ever she should decide to sell, there are several other collectors who
+would pay a high price for the strange twosome.
+Kathleen, the groundskeeper, wants the green-toothed whale for
+her students to study more carefully. The university has promised
+her a huge glass tank, well protected, in which to display the whale.
+It is a very valuable whale. Kathleen figures that it's the only one of
+its kind ever found on this planet.
+Lisa,
+the
+cook,
+wants
+only
+one
+of
+the
+spotted
+miniature
+elephants. She jokes that the pair became spotted from eating too
+many polka-dotted leaves.
+Susan,
+Tipton's
+cousin, wants the two curly-feathered
+ducks.
+
+=== Step 97: Page 119 ===
+Page 119
+
+THE AUCTION
+•
+105
+Although she spent much time with Tipton as
+his secretary, she
+never became really knowledgeable about the oddities. However,
+she explains to the others, the ducks would blend in beautifully
+with the decor of her stone fireplace.
+Beatrice, the butler, wants one of the long-necked rats. She says
+that it reminds her of Stanley Tipton.
+Now all of the five employees have made their choices. They are
+free to leave.
+Which
+of
+the
+five
+employees
+is
+about
+to
+walk
+out
+with
+the
+diamonds?
+Type in the program to see if you guessed correctly.
+NEW
+10
+20
+30
+35
+37
+40
+50
+70
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+245
+247
+250
+PRINT
+"YOU
+TELL
+THE
+POLICE"
+PRINT
+"TO
+WAIT
+AT
+THE"
+PRINT
+"AUCTION
+DOOR."
+DIM
+A*(20)
+DIM
+B*(20)
+PRINT
+"WHO
+SHOULD
+THEY"
+PRINT
+"ARREST?"
+INPUT
+A*
+LET
+B*
+=
+"SUSAN"
+IF
+A*
+=
+B*
+THEN
+GOTO
+150
+PRINT
+"YOU
+ARE
+ARRESTING"
+PRINT
+"THE
+WRONG
+PERSON."
+PRINT
+"TRY
+AGAIN."
+GOTO
+40
+PRINT
+"YOU
+FIGURED
+OUT
+WHO"
+PRINT
+"DID
+IT.
+SINCE
+NOTHING"
+PRINT
+"COULD
+LEAVE
+THE"
+PRINT
+"HOUSE
+WITHOUT"
+PRINT
+"SETTING
+OFF
+ALARMS."
+PRINT
+"THE
+THIEF
+MUST
+HAVE"
+PRINT
+"BROUGHT
+SOMETHING"
+PRINT
+"INSIDE.
+THEN
+SHE"
+PRINT
+"STUFFED
+IT
+WITH"
+PRINT
+"DIAMONDS.
+"
+DIM
+C*(20)
+DIM
+D*(20)
+PRINT
+"WHAT
+DID
+THE
+THIEF"
+
+=== Step 98: Page 120 ===
+Page 120
+
+MYSTERY AND AD VENTURE
+260
+PRINT
+"INTEND
+TO
+BUY
+AT"
+270
+PRINT
+"THE
+AUCTION?"
+290
+INPUT
+C*
+310
+LET
+D*
+=
+"DUCKS"
+320
+IF
+C*
+=
+D*
+THEN
+GOTO
+340
+330
+PRINT
+"TRY
+AGAIN.
+LOOK
+BACK"
+335
+PRINT
+"IN
+THE
+STORY."
+337
+GOTO
+250
+340
+PRINT
+"ALL
+THE
+TIME
+YOU"
+350
+PRINT
+"KNEW
+THAT
+IT
+HAD
+TO"
+360
+PRINT
+"BE
+HER.
+SHE
+WAS
+THE"
+370
+PRINT
+"ONLY
+ONE
+WHO
+KNEW"
+380
+PRINT
+"SO
+LITTLE
+ABOUT"
+390
+PRINT
+"ANIMALS."
+395
+DIM
+E*(20>
+397
+DIM
+F*(20)
+400
+PRINT
+"DUCKS
+COULD
+NOT
+HAVE"
+410
+PRINT
+"BEEN
+A
+PART
+OF
+THAT"
+420
+PRINT
+"EXHIBIT
+BECAUSE"
+430
+PRINT
+"BIRDS
+ARE
+NOT
+"
+440
+INPUT
+E*
+470
+LET
+F*
+»
+"MAMMALS"
+480
+IF
+E*
+=
+F*
+THEN
+GOTO
+560
+490
+PRINT
+"TRY
+AGAIN"
+500
+PRINT
+"THINK
+OF
+THE
+NAME
+OF"
+510
+PRINT
+"THE
+EXHIBIT
+THAT
+ALL"
+520
+PRINT
+"OF
+THE
+ANIMALS
+WERE"
+530
+PRINT
+"PART
+OF.
+DUCKS
+OR"
+540
+PRINT
+"BIRDS
+DO
+NOT
+FIT"
+555
+PRINT
+"BECAUSE"
+557
+GOTO
+430
+560
+PRINT
+"MR.
+TIPTON
+WOULD
+HAVE"
+570
+PRINT
+"BEEN
+PROUD
+OF
+YOUR"
+580
+PRINT
+"PERFECT
+THINKING."
+590
+PRINT
+"YOU
+KNEW
+SHE
+MUST"
+600
+PRINT
+"HAVE
+PUT
+THEM
+IN"
+610
+PRINT
+"THE
+EXHIBIT
+AFTER"
+620
+PRINT
+"THE
+MANSION
+CLOSED."
+RUN
+
+=== Step 99: Page 121 ===
+Page 121
+
+Who Did It?
+For the third time this month, the Tribeca Square Apartments have
+been robbed. Each time the security guard has been fired for not
+preventing the robbery.
+You are the new security guard. Another robbery has just taken
+place. You will lose your job unless you find the thief.
+This time a stereo and tape deck were stolen, along with a gold
+ring and a watch. You were the sole person near the only open door
+to
+the
+building.
+You
+are
+certain
+that
+no
+stranger
+entered
+the
+building on the day of the robbery. You believe that the burglar is
+one of the tenants in the building.
+First you go to the apartment that was robbed. You learn that
+Marsha
+Cross
+left
+her apartment
+only
+once
+that day
+to do
+her
+laundry. She insists that the only people who could know that fact
+are her neighbors and the people who live near the laundry room.
+Type in the map to learn who could have seen Marsha.
+
+=== Step 100: Page 122 ===
+Page 122
+
+MYSTERY AND AD VENTURE
+NEW
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+ISO
+190
+200
+210
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+PRINT
+PRINT
+"I
+PRINT
+PRINT
+PRINT
+PRINT
+"|
+PRINT
+"RETURN
+TO
+THE
+BOOK"
+Michael Griffin is a teenager. He lives with his aunt.
+Michael
+goes to school and also has a part-time job at a grocery store. On
+the day of the robbery Michael is at home with an upset stomach.
+When you visit him, he
+is wearing a gold ring, with the initials,
+M.G., on his right hand.
+Michael invites you
+in. The air condi
+tioning feels wonderful on this hot, sticky, summer afternoon. "I've
+been resting here
+all day," says
+Michael. "The
+air conditioning
+makes so much noise I can't hear a thing!"
+You leave Michael and knock on Jeri Fint's apartment door. Jeri
+lives alone.
+She
+is slow to answer the door.
+She apologizes for
+taking so long.
+"Your knocking just woke me up. I've been napping for the last
+two hours." she says. "It's so hot!"
+Jeri Fint says she knows nothing about the robbery.
+You start to leave. You accidentally knock over a glass of iced tea
+on the kitchen table. The tea spills onto the floor. The big ice cubes
+roll over the floor. To make matters worse, you slip on the ice cubes
+
+=== Step 101: Page 124 ===
+Page 124
+
+•
+MYSTERY AND ADVENTURE
+and fall. As you help to clean up the mess, you apologize. You feel
+embarrassed—who wouldn't?
+When
+Charles
+Chase
+answers
+the
+door
+he
+says,
+"Yes,
+I
+saw
+Marsha Cross—she stopped in to return some laundry detergent."
+Charles
+Chase
+doesn't
+seem
+surprised
+when
+you
+tell
+of
+the
+robbery. "The same thing happened
+last week when one
+of her
+friends went to
+the laundry room.
+It was the lady
+in 3B,
+Mary
+Astor," recalls Charles.
+Pat Lee says she knows nothing about the robbery, but she did
+notice Charles Chase talking to Marsha around two o'clock that
+day.
+One of these people is not telling the truth. Type in the program
+to find out, "Who Did It?"
+NEW
+5
+6
+7
+10
+20
+40
+60
+70
+SO
+90
+100
+110
+120
+130
+140
+142
+144
+146
+150
+170
+180
+190
+200
+210
+230
+DIM
+F*(20)
+DIM
+6*(20)
+DIM
+C*(20)
+PRINT
+PRINT
+INPUT
+LET
+C*
+LET
+G*
+IF
+F*
+PRINT
+PRINT
+PRINT
+GOTO
+PRINT
+PRINT
+"WHO
+DID
+NOT
+TELL
+THE"
+"TRUTH?"
+F*
+=
+"CHARLES
+CHASE"
+=
+"JERI
+FINTS"
+=
+G*
+THEN
+GOTO
+130
+"THAT
+WAS
+THE
+TRUTH,"
+"THE
+WHOLE
+TRUTH
+AND"
+"NOTHING
+BUT
+THE
+TRUTH."
+10
+"YOU
+GUESSED
+RIGHT"
+"THAT
+JERI
+FINTS
+LIED"
+DIM
+A*(20)
+DIM
+B*(20)
+DIM
+D*(20)
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+INPUT
+"WHAT
+WAS
+THE
+CLUE?"
+"TWO
+HOURS"
+"ICED
+TEA"
+"GOLD
+RING"
+"FLOOR"
+"COMPUTER"
+A*
+
+=== Step 102: Page 125 ===
+Page 125
+
+WHO DID IT?
+•
+111
+250
+LET
+D*
+=
+"TWO
+HOURS"
+260
+LET
+B*
+=
+"ICED
+TEA"
+270
+IF
+A*
+=
+B*
+THEN
+GOTO
+300
+280
+PRINT
+"GIVE
+IT
+ANOTHER
+TRY"
+290
+GOTO
+150
+300
+PRINT
+"YOU
+GOT
+IT
+.
+IF
+JERI"
+310
+PRINT
+"FINTS
+WAS
+REALLY"
+320
+PRINT
+"NAPPING
+FOR
+TWO"
+330
+PRINT
+"HOURS
+ON
+A
+HOT"
+340
+PRINT
+"SUMMER
+AFTERNOON,"
+350
+PRINT
+"HOW
+COULD
+THE"
+360
+PRINT
+"ICE
+CUBES
+STILL"
+370
+PRINT
+"BE
+IN
+THE
+GLASS?"
+375
+PRINT
+"THEY
+WOULD
+HAVE
+MELTED.
+380
+PRINT
+"YOU
+ARE
+A"
+390
+PRINT
+"GOOD
+DETECTIVE."
+RUN
+
+=== Step 103: Page 126 ===
+Page 126
+
+The Missing
+Camp Counselor
+You are a private eye. You receive a call from the director of Camp
+Chambers.
+One
+of
+the
+camp
+counselors,
+Mark
+Ericson,
+has
+disappeared.
+"There's a reward for you if you can find him," says the camp
+director. He meets you at the gate. "We run a fine camp here. We
+specialize in swimming and in acting. We have a great Olympic-size
+pool and a very good stage."
+The director leads you toward Mark Ericson's bunk.
+"Mark's group of kids is very upset about his disappearance. So
+are we all.
+I hope you can find him," says the director.
+You check through Mark's belongings but there are no clues.
+You decide to question the youngsters in his group.
+David
+cries because he
+misses Mark
+so much. "Mark would
+never
+miss
+the
+Sports
+Meet.
+Something
+terrible
+must
+have
+
+=== Step 104: Page 128 ===
+Page 128
+
+•
+MYSTERY AND ADVENTURE
+happened to him!"
+"When did you last see him?" you ask the group.
+"He was on his way to the pool last night, to practice for the swim
+event,** said
+Donna.
+"He
+never
+returned—not
+even
+to
+get
+dry
+clothes."
+The group's other counseler, Mary, said, "Mark was the fastest
+swimmer at the camp. His group always won the swimming event
+at the Sports Meet. If he doesn't show up to compete on Monday, a
+rival team, the Bugles, will take the trophy."
+"Maybe the Bugles got someone to take Mark for a long drive—
+at least until the Sports Meet is over," said Donna.
+You head toward the olympic-size pool looking for clues. There
+are no signs of Mark around the pool. This is all you see. Type in
+the program.
+NEW
+10
+20
+30
+40
+45
+50
+60
+70
+80
+90
+100
+120
+130
+140
+150
+160
+170
+180
+190
+RUN
+PRINT
+PRINT
+"+"
+PRINT
+"+"
+PRINT
+"+
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"+
+PRINT
+"+
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+PRINT
+"
+++++++++++++++++++++»
+PICCADILLY11
+TRAIL11
+OLYMPIC
+POOL
+4.4.4.4.4.4.4.
+4.4.4.4.4.4.4.4.4.4."
+BROADWAY11
+4.4.4.4.4.4.4.4.4.4.1
++++++
+4.4.4.4.4.4.
+4.
++n
++
++11
++
+STAGE
++'■
+PRINT
+"++++++++++"
+PRINT
+PRINT
+"RETURN
+TO
+THE
+BOOK11
+
+=== Step 105: Page 129 ===
+Page 129
+
+THE MISSING CAMP COUNSELOR
+•
+115
+You follow the paths around the pool, but there's no trace of
+Mark.
+You see the camp director waving to you.
+"Look at this!" he shouts.
+He reads you this note.
+To Karl
+1. Denarp, Camp Director
+1
+decided
+to
+leave
+the grounds
+for a
+week.
+Tuesday
+morning
+I
+will drive to the Resting Hill
+Post. Have my
+campers meet me there at 9:00.
+I guess
+I really needed a
+rest. Do not try to find me.
+Mark
+"I'm very disappointed with Mark's behavior," says Mr. Denarp.
+"I apologize for bringing you here.
+It's too bad.
+By Tuesday the
+Sports Meet will be over. That's bad news for the kids."
+"Where did the note come from?" you ask.
+"One of the Bugles brought it to my office."
+"H 'm," you say. "I wonder why the rival team would be carrying
+a message from Mark?"
+"The Bugles aren't bad kids. Sometimes they get carried away by
+their acting. I wish I knew what they were up to this time," said Mr.
+Denarp.
+You examine the note carefully.
+Mark took the time to decorate the note with stars.
+Look at the stars very closely. Could Mark be trying to tell you
+something? Type in the program and see for yourself.
+NEW
+10
+20
+30
+40
+60
+70
+80
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+II
+II
+II
+II
+11
+11
+II
+I
+*
+*
+*
+**
+*
+TO
+KARL
+I.
+DENARP
+*
+#"
+CAMP
+DIRECTOR"
+#
+*"
+DECIDED
+TO
+LEAVE
+*
+*"
+
+=== Step 106: Page 130 ===
+Page 130
+
+•
+MYSTERY AND ADVENTURE
+90
+100
+110
+120
+130
+140
+150
+160
+170
+ISO
+190
+200
+210
+214
+215
+216
+220
+230
+240
+250
+260
+270
+280
+290
+295
+300
+305
+310
+320
+330
+335
+340
+RUN
+PRINT
+"THE
+GROUNDS
+FOR
+A"
+PRINT
+"
+*
+*
+*"
+PRINT
+"WEEK.TUESDAY
+MORNING1
+PRINT
+"
+*
+*"
+PRINT
+"I
+WILL
+DRIVE
+TO
+THE"
+PRINT
+"*
+*
+*"
+PRINT
+"RESTING
+HILL
+POST."
+PRINT
+"
+*
+*"
+PRINT
+"HAVE
+MY
+CAMPERS"
+PRINT
+"
+*
+*"
+PRINT
+"MEET
+ME
+THERE
+AT"
+PRINT
+"
+*
+*"
+PRINT
+"
+9S00.
+I
+GUESS
+I"
+PRINT
+"PLEASE
+WAIT"
+FOR
+X
+=
+1
+TO
+2000
+NEXT
+X
+PRINT
+PRINT
+"REALLY
+NEEDED
+A"
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+"REST.DO
+NOT
+TRY
+TO1
+"FIND
+ME"
+MARK
+ERICSON"
+Here's a clue: Look at the screen carefully. On a piece of paper,
+write the letter you see under each star. Keep the letters in order.
+Now you can figure out Mark's real message and get your reward
+a free admission to the Sports Meet!
+HOVJLS HH1
+—dHddVNCIDI
+
+=== Step 107: Page 132 ===
+Page 132
+
+STORKS AND COMPUTCR PROGRRMS
+THflT UJORK TOG€TH€R —
+IT'S BRSIC
+UIITH
+1H€ MVSTCRV AND RDV€NTUR€
+COMPUTER STORVOOOK
+It's
+challenging,
+exciting,
+and
+educational!
+This
+book
+contains
+20
+stories and over 50 programs that can be used on Apple, Atari, Timex,
+Commodore or other home computers. So simple to understand, even
+an eight-year-old can program the computer—and become absorbed
+in an exciting story at the same time. THE MYSTERY AND ADVEN
+TURE COMPUTER STORYBOOK is loaded with clues that the child
+programs
+into the computer.
+He
+is rewarded
+with
+exciting graphics
+(maps,
+mazes,
+coded messages)
+that will unravel the sequence of
+mysterious
+events.
+These
+stories combine
+text and
+computer pro
+grams to create a variety of fun,
+interesting plots. Programs that are
+simple enough for an eight-year-old, stories challenging enough for a
+twelve-year-old — that's
+how
+the
+MYSTERY
+AND
+ADVENTURE
+COMPUTER STORYBOOK introduces your child to the wonders of
+the computer and keeps him interested in reading.
+The authors,
+Stuart
+and
+Donna
+Paltrowitz,
+are
+the
+creators
+of the
+Mystery Maze and Close Escapes series of computer software.
+Illustration and Cover Design by Peggy Walker
+$4.95
+28723 00495
+ISBN
+0-

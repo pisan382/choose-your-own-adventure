@@ -1,0 +1,102 @@
+Page 19
+
+NEEDLE AND HAYSTACK CLUB
+•
+5
+NEW
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+HO
+RUN
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+1NNNNNNNNNNNNNNNNNN"
+N
+N"
+N
+EVAN
+N"
+N
+HOPKIN
+N"
+N
+N"
+N
+RED
+N"
+N
+HEAD
+N"
+1 NNNNNNNNNNNNNNNNNN"
+BO
+BACK
+TO
+THE
+BOOK
+11
+TO
+SEE
+IF
+YOU
+KNOW
+"HOW
+TO
+CONTACT
+EVAN
+"RED HEAD,"you say. "Evan has black hair. Why has he written
+RED HEAD, and where is his telephone number?" You hurry to the
+next stop, Alice's house.
+"I am looking for Sarelle," you say.
+"Oh, I can help you," says Alice. "The other day, we both wore our
+matching blue coats and red gloves to school. By mistake, we got
+them mixed up."
+"The next day, when I put on a glove, I found this note squashed
+inside it. It's so tiny and creased I can't read it!"
+Alice gives you the note.
+"H'm, very interesting," you say. "I can read this note all right."
+Type in this program to find out what the note said. The paper is
+exactly the same size as you see on the screen. The paper has no
+wrinkles.
+NEW
+10
+15
+20
+25
+30
+35
+PRINT
+"NNNNNNNNNNNNNNNN"
+PRINT
+"YOUR
+TIME
+IS"
+PRINT
+"RUNNING
+OUT"
+PRINT
+"FIND
+ME
+SOON"
+PRINT
+"OR
+YOU
+CANNOT"
+PRINT
+"JOIN"

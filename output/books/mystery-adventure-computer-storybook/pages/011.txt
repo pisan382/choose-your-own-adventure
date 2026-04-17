@@ -1,0 +1,30 @@
+Page 11
+
+Instructions
+THE MYSTERY AND ADVENTURE COMPUTER STORY
+BOOK contains over 50 programs to play on your computer. They
+are written in BASIC language for the Timex Sinclair 1000, ZX 81,
+Apple, Commodore, Atari, TRS-80 and all other microcomputers.
+Although the programs are all written in BASIC language, each
+company's microcomputer has features or differences in its BASIC
+language, which makes programming different from the
+others.
+The computer programs have been created to work on all popular
+microcomputers.
+When you type
+1.
+Type the lines exactly as they appear in the program.
+2.
+At the end of each line press RETURN or ENTER.
+3.
+After you type in the complete program, type RUN.
+4.
+If
+something
+does
+not
+seem
+right,
+check
+your
+computer manual.

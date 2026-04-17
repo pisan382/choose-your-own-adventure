@@ -1,0 +1,38 @@
+Page 106
+
+SETH McEVOY AND LAURE SMITH
+gram choices, carefully mark these on the Option Sheet
+on page 115. Type in the programs as you go along
+or read the story straight through and type them in later.
+In either case, be sure to type in only one of two choices
+for each of the seven pieces of the program.
+There are seven major parts to the program, each of
+which has an A, B, C segment to type in. You always
+choose between the A and B segment listings and you
+always add the C segment listing to A or B.
+For example, if you want your Scannervision vehicle to
+have more ammo (and less fuel), then you will want to
+type in the segment 7B listing. You will not type in the
+segment 7 A listing, but you will type in the segment 7C
+listing.
+Use the correct listing for your brand of computer.
+The program segments for the Commodore 64 (C64),
+Apple 11 + family (Apple), and Radio Shack Color Com-
+puter are given on separate pages-be sure to follow
+the directions that will take you to the correct pages
+to type.
+If you aren't using a computer, mark your choices on
+the Option Sheet on page 115. See the result of your
+choices by reading the video game simulation on page 93.
+If you have any trouble getting your program to run,
+proofread your listings carefully. If there is one mistake,
+your program will not run. The best way to do this is to
+have a friend read what is in the book aloud while you
+compare it to a printout or screen listing of what you
+have typed. Or read the printed listing into a tape re-
+corder and play it back while you examine your own
+typing.
+Whether you have a tape recorder or disk drive, save
+your work every few minutes and keep track of what
+program lines are saved where. One power failure that
+lasts a microsecond can wipe out an evening's work!

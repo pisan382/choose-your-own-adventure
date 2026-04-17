@@ -1,0 +1,25 @@
+Page 73
+
+PROGRAM 2
+If you have a VIC-20, add these lines to
+Program 2. (Line 910 must be typed as
+one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE 7 8 2 ,  H T -1:PO K E 7 8 1 : V T - 1 :
+POKE 7 8 3 , 0 : SYS 6 5 5 2 0 :RETURN
+9 3 0  R D = IN T ( RX*RND( 1 ) + 1 ) : RETURN
+9 6 0  SW = 20:SH =22:R E T U R N
+9 7 0  R D=RND (-TI) : RETURN
+About the program:
+The way to make the stars come out is
+by knowing your math. The Magic Micro
+will give you a series of sums to add up.
+Each time you get an answer right, you will
+get as many stars as the answer. For ex­
+ample, if you answer 11 when the Magic
+Micro asks you to add 6 and 5, you will be
+right and 11 stars will come out. If you say
+12, you will be wrong and you will lose.
+The Magic Micro will let you know when
+you’ve got enough stars to strengthen the
+force field.

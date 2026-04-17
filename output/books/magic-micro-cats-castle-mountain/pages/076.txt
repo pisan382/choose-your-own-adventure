@@ -1,0 +1,28 @@
+Page 76
+
+PROGRAM 3
+If you have a VIC-20, add these lines to
+Program 3. (Line 910 must be typed as
+one line.)
+9 0 0  PRINT C H R $( 1 4 7 ) ; : RETURN
+9 1 0  POKE 7 8 2  ,H T -1 :P O K E  7 8 1 : V T - 1 :
+POKE 7 8 3 , 0 : SYS 6 5 5 2 0 : RETURN
+9 3 0  R D = IN T (R X *R N D ( 1 ) + 1 ) :RETURN
+9 6 0  S W = 2 0 :S H = 2 2 :G O S U B  970:RETURN
+9 6 0  R D =R N D (-TI) : RETURN
+About the program:
+Wicked Queen Cerise has added
+chemicals to the cats’ drinking water. Un­
+less you can adjust the filtering system to
+neutralize the chemical, the cats will grow
+weak and they will have to surrender when
+Cerise attacks. To adjust the filter, type in
+a number between 1 and 100 to set the fil­
+ter’s dial. Your Magic Micro will tell you if
+you are too high or too low. Keep re­
+adjusting the dial until you have exactly the
+right setting to make the water drinkable.
+The Magic Micro will tell you when it is
+right. Choose your settings carefully. The
+filtering system is very old, and if you ad­
+just it more than seven times, it will break.

@@ -1,0 +1,46 @@
+Page 46
+
+The Tapper
+After three hours of arcade games, your eyes are tired. You leave
+the arcade. It's dark and late at night as you pass by the downtown
+stores. You stop by a store window as you see new television sets
+glowing at you. One set is showing a special late-night bulletin.
+Type in the program to read the message.
+NEW
+BULLETIN
+100
+PRINT
+200
+GOTO
+400
+300
+PRINT
+"LADY
+USES
+COFFEE"
+350
+PRINT
+"FOR
+MOUTHWASH"
+400
+PRINT
+"MAN
+WITH
+CANE"
+500
+GOTO
+700
+600
+PRINT
+"TO
+STRIKE
+MATCH"
+650
+PRINT
+"TO
+PAINT
+TOENAILS.
+700
+PRINT
+"STRIKES
+AGAIN"

@@ -1,0 +1,28 @@
+Page 54
+
+“What’s that supposed to mean?”
+You hate to admit it, but you’re not sure.
+And your men are beginning to look an­
+noyed. You remember what happened to
+the last captain when he let them down.
+Suddenly the Magic Micro starts to
+flash.
+I think I can help, says the message on
+the screen.
+Carefully type the following program into
+your computer. When you have typed these
+lines, turn to pages 77-79 and type in the lines
+listed for your computer. (Line 180 must be typed
+as one line.) When you have finished typing, run
+the program.
+Only one number will make the bird fly. You
+can try all 14 numbers, one at a time. Or maybe,
+if you study the program, you can figure out
+which number is the right one. If you need help,
+check the Magic Scroll on page 79.
+PROGRAM 6
+1 0  GOSUB 9 0 0
+2 0  LD$= " < "
+3 0  RD$=" > "
+4 0  LU$="="
+Continued on the next page.

@@ -1,0 +1,14 @@
+{
+  "slug": "magic-micro-cats-castle-mountain",
+  "title": "A Magic Micro Adventure: The Cats of Castle Mountain",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/AMagicMicroAdventure-TheCatsOfCastleMountain.pdf",
+  "format": "linear",
+  "reference_style": "none",
+  "layout": "single",
+  "pdf_start_page": 1,
+  "pdf_end_page": null,
+  "story_start_page": 1,
+  "pages_written": 75,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}

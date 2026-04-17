@@ -1,0 +1,22 @@
+Page 72
+
+PROGRAM 3
+If you have an Atari, add these lines to
+Program 1.
+9 0 0  PRINT C H R $( 1 2 5 ) : RETURN
+9 1 0  PO SITIO N VT-1,H T+1:R ETU R N
+9 6 0  SW =38: SH=24 sRETURN
+About the program:
+Captain Robb never taught anyone else
+on board how to navigate. Now that he’s
+jumped ship, the crew is in real trouble.
+But you and your Magic Micro come to
+their aid with a navigation program that
+makes the ship move north, south, east,
+or west, depending on whether you press
+the N, S, E, or W keys. You’re trying to
+steer the ship to Parrot Island, which is at
+the bottom of the screen. But beware —
+there are sea monsters out there that will
+get you if you try to take the most direct
+route.

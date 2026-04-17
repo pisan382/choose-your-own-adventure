@@ -1,0 +1,22 @@
+Page 67
+
+Magic Scroll
+The Magic Scroll is here to help you.
+Flip through the next few pages. Find the
+heading for the kind of computer you are
+using. The Magic Scroll will tell you what
+lines to add and what lines to take out to
+make each program run on your com­
+puter. The Magic Scroll will also tell you a
+little bit about each computer.
+PROGRAM 1
+Changes:
+If you have an IBM PC or PCjr, add
+these lines to Program 1. (Line 960 must
+be typed as one line.)
+9 0 0  CLS:RETURN
+9 1 0  LOCATE V T f HT:RETURN
+9 3 0  R D =IN T (R N D *R X )+1:R ET U R N
+9 6 0  S H = 2 4 :S W = 7 8 :A C = 3 9 :A S = 1 7 4 :
+M U=1900:RETURN
+9 8 0  SOUND R D+50 , 6 : RETURN

@@ -1,0 +1,14 @@
+{
+  "slug": "under-a-killing-moon",
+  "title": "Under a Killing Moon: A Tex Murphy Novel (1996)",
+  "source_pdf": "/home/claude/work/choose-your-own-adventure/samples/Under a Killing Moon - A Tex Murphy Novel (1996).pdf",
+  "format": "linear",
+  "reference_style": "none",
+  "layout": "single",
+  "pdf_start_page": 1,
+  "pdf_end_page": null,
+  "story_start_page": 1,
+  "pages_written": 163,
+  "pages_dir": "pages",
+  "extractor": "text-layer"
+}
